@@ -1,0 +1,40 @@
+name: 'Main'
+
+on:
+  push:
+    branches: ['*']
+  pull_request:
+    branches: ['*']
+  schedule:
+    - cron: '45 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+
+  update:
+    name: 'Update'
+    runs-on: 'ubuntu-latest'
+    permissions:
+      contents: 'write'
+    container: 'docker.io/ubuntu:latest'
+    steps:
+      - name: 'Install dependencies'
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends ca-certificates curl git jq
+      - name: 'Checkout project'
+        uses: 'actions/checkout@v4'
+      - name: 'Update lists'
+        run: |
+          sh ./update.sh
+      - name: 'Push lists'
+        if: >-
+          github.event_name == 'schedule' ||
+          github.event_name == 'workflow_dispatch'
+        run: |
+          git config --global --add safe.directory "${PWD:?}"
+          git config --global user.name 'Skiddle-Git'
+          git config --global user.email '160487326+Skiddle-Git@users.noreply.github.com'
+          sh ./push.sh
