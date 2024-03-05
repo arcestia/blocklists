@@ -26,6 +26,9 @@ jobs:
           apt-get install -y --no-install-recommends ca-certificates curl git jq
       - name: 'Checkout project'
         uses: 'actions/checkout@v4'
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.BOT_GITHUB_TOKEN || github.token }}
       - name: 'Update lists'
         run: |
           sh ./update.sh
