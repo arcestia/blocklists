@@ -69,5 +69,10 @@
   {"name": "winhelp2002.mvps.org",                  "enabled": true,  "format": "hosts",        "args": [],              "url": "https://winhelp2002.mvps.org/hosts.txt"},
   {"name": "zerodot1-coinblockerlists",             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts"},
   {"name": "zerodot1-coinblockerlists-browser",     "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser"},
-  {"name": "zerodot1-coinblockerlists-optional",    "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional"}
+  {"name": "zerodot1-coinblockerlists-optional",    "enabled": true,  "format": "hosts",        "args": [],              "url": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_optional"},
+  {"name": "HaGeZi-Light-Blocklist",                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/light.txt"},
+  {"name": "HaGeZi-Normal-Blocklist",               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt"},
+  {"name": "HaGeZi-Pro-Blocklist",                  "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt"},
+  {"name": "HaGeZi-Pro++-Blocklist",                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt"},
+  {"name": "HaGeZi-Ultimate-Blocklist",             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt"}
 ]}
