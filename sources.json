@@ -74,5 +74,11 @@
   {"name": "HaGeZi-Normal-Blocklist",               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/multi.txt"},
   {"name": "HaGeZi-Pro-Blocklist",                  "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt"},
   {"name": "HaGeZi-Pro++-Blocklist",                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/pro.plus.txt"},
-  {"name": "HaGeZi-Ultimate-Blocklist",             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt"}
+  {"name": "HaGeZi-Ultimate-Blocklist",             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt"},
+  {"name": "GoodbyeAds-Hosts",                      "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"},
+  {"name": "GoodbyeAds-adblock",                    "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt"},
+  {"name": "1Hosts-Lite",                           "enabled": true,  "format": "domains",      "args": [],              "url": "https://o0.pages.dev/Lite/domains.wildcards"},
+  {"name": "1Hosts-Mini",                           "enabled": true,  "format": "domains",      "args": [],              "url": "https://o0.pages.dev/mini/domains.wildcards"},
+  {"name": "1Hosts-Pro",                            "enabled": true,  "format": "domains",      "args": [],              "url": "https://o0.pages.dev/Pro/domains.wildcards"},
+  {"name": "1Hosts-Xtra",                           "enabled": true,  "format": "domains",      "args": [],              "url": "https://o0.pages.dev/Xtra/domains.wildcards"}
 ]}
