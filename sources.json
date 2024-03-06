@@ -76,10 +76,11 @@
   {"name": "HaGeZi-Ultimate-Blocklist",             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/hosts/ultimate.txt"},
   {"name": "GoodbyeAds-Hosts",                      "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt"},
   {"name": "GoodbyeAds-adblock",                    "enabled": true,  "format": "adblock",      "args": [],              "url": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt"},
-  {"name": "1Hosts-Lite",                           "enabled": true,  "format": "hosts",      "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt"},
-  {"name": "1Hosts-Mini",                           "enabled": true,  "format": "hosts",      "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt"},
-  {"name": "1Hosts-Pro",                            "enabled": true,  "format": "hosts",      "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt"},
-  {"name": "1Hosts-Xtra",                           "enabled": true,  "format": "hosts",      "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt"},
-  {"name": "OISD-Big",                              "enabled": true,  "format": "hosts",      "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt"},
-  {"name": "OISD-NSFW",                             "enabled": true,  "format": "hosts",      "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_nsfw.txt"}
+  {"name": "1Hosts-Lite",                           "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.txt"},
+  {"name": "1Hosts-Mini",                           "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/mini/hosts.txt"},
+  {"name": "1Hosts-Pro",                            "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt"},
+  {"name": "1Hosts-Xtra",                           "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/domains.txt"},
+  {"name": "OISD-Big",                              "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_big.txt"},
+  {"name": "OISD-NSFW",                             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_nsfw.txt"},
+  {"name": "OISD-Small",                            "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_small.txt"}
 ]}
