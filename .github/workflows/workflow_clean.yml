@@ -9,8 +9,10 @@ jobs:
   del_runs:
     runs-on: ubuntu-latest
     steps:
-      - name: Cleanup workflow runs
-        uses: GitRML/delete-workflow-runs@main
+      - name: Delete workflow runs
+        uses: ActionsRML/delete-workflow-runs@main
         with:
-          retain_days: 1
+          token: ${{ github.token }}
+          repository: ${{ github.repository }}
           keep_minimum_runs: 1
+          retain_days: 1
