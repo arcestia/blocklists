@@ -22,7 +22,7 @@ toLowercase() { tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' 'abcdefghijklmnopqrstuvwxyz'; }
 hostsToDomains() {
 	leadingScript='s/^[[:blank:]]*//'
 	trailingScript='s/[[:blank:]]*\(#.*\)\{0,1\}$//'
-	ipv4Script='s/^\(0\)\{0,1\}\(127\)\{0,1\}\(\.[0-9]\{1,3\}\)\{3\}[[:blank:]]\{1,\}//'
+	ipv4Script='s/^[0-9]\{1,3\}\(\.[0-9]\{1,3\}\)\{3\}[[:blank:]]\{1,\}//'
 	ipv6Script='s/^\(0\{0,4\}:\)\{2,7\}0\{0,3\}[01]\{0,1\}[[:blank:]]\{1,\}//'
 	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.?'
 
