@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# Author:     Héctor Molinero Fernández <hector@molinero.dev>
+# Author:     Laurensius Jeffrey Chandra <jeff@skiddle.id>
 # License:    MIT, https://opensource.org/licenses/MIT
-# Repository: https://github.com/hectorm/hmirror
+# Repository: https://github.com/arcestia/blocklists
 
 set -eu
 export LC_ALL='C'
@@ -24,7 +24,7 @@ hostsToDomains() {
 	trailingScript='s/[[:blank:]]*\(#.*\)\{0,1\}$//'
 	ipv4Script='s/^\(0\)\{0,1\}\(127\)\{0,1\}\(\.[0-9]\{1,3\}\)\{3\}[[:blank:]]\{1,\}//'
 	ipv6Script='s/^\(0\{0,4\}:\)\{2,7\}0\{0,3\}[01]\{0,1\}[[:blank:]]\{1,\}//'
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.?'
 
 	removeCR | toLowercase \
 		| sed -e "${leadingScript:?};${ipv4Script:?};${ipv6Script:?};${trailingScript:?}" \
@@ -33,7 +33,7 @@ hostsToDomains() {
 }
 
 adblockToDomains() {
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.?'
 	adblockScript='s/^||\('"${domainRegex:?}"'\)\^\(\$\(all\|doc\|document\)\)\{0,1\}$/\1/p'
 	adblockExceptionScript='s/^@@||\('"${domainRegex:?}"'\).*/\1/p'
 
@@ -52,13 +52,45 @@ adblockToDomains() {
 
 disconnectmeToDomains() {
 	category="${1:?}"
-	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.\{0,1\}'
+	domainRegex='\([0-9a-z_-]\{1,63\}\.\)\{1,\}[a-z][0-9a-z-]\{0,61\}[0-9a-z]\.?'
 	# shellcheck disable=SC2016
 	disconnectmeFilter='.categories[$c][][][] | if type == "array" then .[] else empty end'
 
 	jq -r --arg c "${category:?}" "${disconnectmeFilter:?}" \
 		| { grep -e "^${domainRegex:?}$" ||:; } \
 		| sort | uniq
+}
+
+createAdditionalFormats() {
+	domainsFile="${1:?}"
+	headersFile="${2:?}"
+
+	printInfo "Creating additional blocklist formats for ${domainsFile##*/}..."
+
+	# Generate hosts file format
+	printInfo "Generating hosts file..."
+	hostsFile="${headersFile}/hosts.txt"
+	awk '{ print "0.0.0.0 " $1 }' "${domainsFile}" > "${hostsFile}"
+
+	# Generate Adblock format
+	printInfo "Generating Adblock format..."
+	adblockFile="${headersFile}/adblock.txt"
+	sed 's/^/||/;s/$/^/' "${domainsFile}" > "${adblockFile}"
+
+	printInfo "Formats generated: Hosts file at ${hostsFile}, Adblock format at ${adblockFile}"
+}
+
+combineLists() {
+	combinedFile="${SCRIPT_DIR:?}/data/all-list/list.txt"
+	headersFile="${SCRIPT_DIR:?}/data/all-list"
+	mkdir -p "${headersFile}"
+	printInfo "Combining all domain lists into ${combinedFile}..."
+
+	find "${SCRIPT_DIR:?}/data" -name 'list.txt' -exec cat {} + | sort | uniq > "${combinedFile}"
+	printInfo "Combined list created at ${combinedFile}"
+
+	# Create additional blocklist formats for combined list
+	createAdditionalFormats "${combinedFile}" "${headersFile}"
 }
 
 main() {
@@ -100,12 +132,18 @@ main() {
 
 			checksum="$(sha256sum "${outFile:?}" | cut -c 1-64)"
 			printf '%s  %s\n' "${checksum:?}" "${outFile##*/}" > "${outFile:?}.sha256"
+
+			# Create additional blocklist formats
+			createAdditionalFormats "${outFile:?}" "${SCRIPT_DIR:?}/data/${name:?}"
 		else
 			printError 'Download failed'
 		fi
 
 		sourcesIndex="$((sourcesIndex+1))"
 	done
+
+	# Combine all lists into a single file
+	combineLists
 }
 
 main "${@-}"
