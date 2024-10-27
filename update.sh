@@ -68,14 +68,22 @@ createAdditionalFormats() {
 	printInfo "Creating additional blocklist formats for ${domainsFile##*/}..."
 
 	# Generate hosts file format
-	printInfo "Generating hosts file..."
-	hostsFile="${headersFile}/hosts.txt"
-	awk '{ print "0.0.0.0 " $1 }' "${domainsFile}" > "${hostsFile}"
+	if [ -s "${domainsFile}" ]; then
+		printInfo "Generating hosts file..."
+		hostsFile="${headersFile}/hosts.txt"
+		awk '{ print "0.0.0.0 " $1 }' "${domainsFile}" > "${hostsFile}"
+	else
+		printWarn "No domains found in ${domainsFile}, skipping hosts file generation."
+	fi
 
 	# Generate Adblock format
-	printInfo "Generating Adblock format..."
-	adblockFile="${headersFile}/adblock.txt"
-	sed 's/^/||/;s/$/^/' "${domainsFile}" > "${adblockFile}"
+	if [ -s "${domainsFile}" ]; then
+		printInfo "Generating Adblock format..."
+		adblockFile="${headersFile}/adblock.txt"
+		sed 's/^/||/;s/$/^/' "${domainsFile}" > "${adblockFile}"
+	else
+		printWarn "No domains found in ${domainsFile}, skipping Adblock file generation."
+	fi
 
 	printInfo "Formats generated: Hosts file at ${hostsFile}, Adblock format at ${adblockFile}"
 }
@@ -87,10 +95,14 @@ combineLists() {
 	printInfo "Combining all domain lists into ${combinedFile}..."
 
 	find "${SCRIPT_DIR:?}/data" -name 'list.txt' -exec cat {} + | sort | uniq > "${combinedFile}"
-	printInfo "Combined list created at ${combinedFile}"
 
-	# Create additional blocklist formats for combined list
-	createAdditionalFormats "${combinedFile}" "${headersFile}"
+	if [ -s "${combinedFile}" ]; then
+		printInfo "Combined list created at ${combinedFile}"
+		# Create additional blocklist formats for combined list
+		createAdditionalFormats "${combinedFile}" "${headersFile}"
+	else
+		printWarn "Combined list is empty, skipping additional format generation."
+	fi
 }
 
 main() {
@@ -130,11 +142,15 @@ main() {
 			fi
 			IFS="${_IFS?}"
 
-			checksum="$(sha256sum "${outFile:?}" | cut -c 1-64)"
-			printf '%s  %s\n' "${checksum:?}" "${outFile##*/}" > "${outFile:?}.sha256"
+			if [ -s "${outFile}" ]; then
+				checksum="$(sha256sum "${outFile:?}" | cut -c 1-64)"
+				printf '%s  %s\n' "${checksum:?}" "${outFile##*/}" > "${outFile:?}.sha256"
 
-			# Create additional blocklist formats
-			createAdditionalFormats "${outFile:?}" "${SCRIPT_DIR:?}/data/${name:?}"
+				# Create additional blocklist formats
+				createAdditionalFormats "${outFile:?}" "${SCRIPT_DIR:?}/data/${name:?}"
+			else
+				printWarn "No domains found in ${outFile}, skipping additional format generation."
+			fi
 		else
 			printError 'Download failed'
 		fi
