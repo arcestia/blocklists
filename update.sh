@@ -152,7 +152,7 @@ main() {
 				printWarn "No domains found in ${outFile}, skipping additional format generation."
 			fi
 		else
-			printError 'Download failed'
+			printError "Download failed for ${name:?} from ${url:?}"
 		fi
 
 		sourcesIndex="$((sourcesIndex+1))"
