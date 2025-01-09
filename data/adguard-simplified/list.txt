@@ -5390,6 +5390,7 @@ analytics-events.inshorts.com
 analytics-fe.digital-cloud.medallia.eu
 analytics-gateway.delta.dp.lightricks.com
 analytics-ingestion-production.tubitv.com
+analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 analytics-ingestion.pbpms.de
 analytics-ingestion.production-public.tubi.io
 analytics-ingress-global.bitmovin.com
@@ -7448,7 +7449,6 @@ b.bedop.com
 b.ddestiny.ru
 b.dotbrataev.ru
 b.kakoysegodnyaprazdnik.ru
-b.karte.io
 b.kouke5.com
 b.nude-moon.xyz
 b.povarenok.ru
@@ -12267,6 +12267,7 @@ collector.shorte.st
 collector.sspinc.io
 collector.superwall.me
 collector.szlcsc.com
+collector.t-idr.com
 collector.taoxh.life
 collector.tescocompare.com
 collector.trendmd.com
@@ -17187,6 +17188,7 @@ dynamicoxygen.com
 dynamitedata.com
 dynamosbakongo.shop
 dynatrace-managed.com
+dynatrace.att.com
 dynpaa.com
 dynspt.com
 dynsrvbaa.com
@@ -18212,6 +18214,7 @@ eravesofefinegoldf.com
 eravprvvqqc.xyz
 erbiscusysexbu.info
 ercoeteasacom.com
+ercoils.com
 erdeallyighab.com
 erdecisesgeorg.info
 erebor.douban.com
@@ -38210,6 +38213,7 @@ publicidad.net
 publicidees.com
 publicityclerks.com
 publiclyphasecategory.com
+publictelemetry.tophat.com
 publicunloadbags.com
 publift.com
 publipagos.com
@@ -44848,7 +44852,6 @@ static.herr.io
 static.hyprmx.com
 static.ichehome.com
 static.jampp.com
-static.karte.io
 static.masoffer.net
 static.matchads.net
 static.meijiacun.com
@@ -49855,6 +49858,7 @@ twistedhorriblybrainless.com
 twistyscash.com
 twitob.com
 twittad.com
+twitter.sx
 twitterfollowers.site
 twlcyc.cn
 twnrydt.com
