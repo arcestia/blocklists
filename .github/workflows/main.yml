@@ -56,7 +56,7 @@ jobs:
             "embeds": [{
               "title": "✅ Update Job Successful",
               "description": "The update job has completed and pushed successfully.",
-              "color": 3066993,
+              "color": 2123412,
               "fields": [
                 {"name": "Repository", "value": $repo, "inline": true},
                 {"name": "Event", "value": $event, "inline": true},
