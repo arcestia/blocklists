@@ -1,4 +1,82 @@
-data: "zendictees.fr A 127.0.0.1"
+cal-data: "zendesk.abm.6sense.com A 127.0.0.1"
+local-zone: "zendesk.agyletime.io" static
+local-data: "zendesk.agyletime.io A 127.0.0.1"
+local-zone: "zendesk.bidvertiser.com" static
+local-data: "zendesk.bidvertiser.com A 127.0.0.1"
+local-zone: "zendesk.com" static
+local-data: "zendesk.com A 127.0.0.1"
+local-zone: "zendesk.com.dob.sibl.support-intelligence.net" static
+local-data: "zendesk.com.dob.sibl.support-intelligence.net A 127.0.0.1"
+local-zone: "zendesk.datadoghq.com" static
+local-data: "zendesk.datadoghq.com A 127.0.0.1"
+local-zone: "zendesk.de" static
+local-data: "zendesk.de A 127.0.0.1"
+local-zone: "zendesk.dynatrace.com" static
+local-data: "zendesk.dynatrace.com A 127.0.0.1"
+local-zone: "zendesk.enfusionsystems.com" static
+local-data: "zendesk.enfusionsystems.com A 127.0.0.1"
+local-zone: "zendesk.exactag.com" static
+local-data: "zendesk.exactag.com A 127.0.0.1"
+local-zone: "zendesk.iperceptions.com" static
+local-data: "zendesk.iperceptions.com A 127.0.0.1"
+local-zone: "zendesk.myplaylist.io" static
+local-data: "zendesk.myplaylist.io A 127.0.0.1"
+local-zone: "zendesk.univerge.blue" static
+local-data: "zendesk.univerge.blue A 127.0.0.1"
+local-zone: "zendesk1.appsflyer.com" static
+local-data: "zendesk1.appsflyer.com A 127.0.0.1"
+local-zone: "zendesk1.aweber.com" static
+local-data: "zendesk1.aweber.com A 127.0.0.1"
+local-zone: "zendesk1.demandbase.com" static
+local-data: "zendesk1.demandbase.com A 127.0.0.1"
+local-zone: "zendesk1.leanplum.com" static
+local-data: "zendesk1.leanplum.com A 127.0.0.1"
+local-zone: "zendesk1.mparticle.com" static
+local-data: "zendesk1.mparticle.com A 127.0.0.1"
+local-zone: "zendesk1.salesloft.com" static
+local-data: "zendesk1.salesloft.com A 127.0.0.1"
+local-zone: "zendesk2.appsflyer.com" static
+local-data: "zendesk2.appsflyer.com A 127.0.0.1"
+local-zone: "zendesk2.aweber.com" static
+local-data: "zendesk2.aweber.com A 127.0.0.1"
+local-zone: "zendesk2.demandbase.com" static
+local-data: "zendesk2.demandbase.com A 127.0.0.1"
+local-zone: "zendesk2.leanplum.com" static
+local-data: "zendesk2.leanplum.com A 127.0.0.1"
+local-zone: "zendesk2.mparticle.com" static
+local-data: "zendesk2.mparticle.com A 127.0.0.1"
+local-zone: "zendesk2.sizmek.com" static
+local-data: "zendesk2.sizmek.com A 127.0.0.1"
+local-zone: "zendesk3-client-sanopizza-analytics.order.deliveroo.ie" static
+local-data: "zendesk3-client-sanopizza-analytics.order.deliveroo.ie A 127.0.0.1"
+local-zone: "zendesk3.appsflyer.com" static
+local-data: "zendesk3.appsflyer.com A 127.0.0.1"
+local-zone: "zendesk3.aweber.com" static
+local-data: "zendesk3.aweber.com A 127.0.0.1"
+local-zone: "zendesk3.demandbase.com" static
+local-data: "zendesk3.demandbase.com A 127.0.0.1"
+local-zone: "zendesk3.leanplum.com" static
+local-data: "zendesk3.leanplum.com A 127.0.0.1"
+local-zone: "zendesk4.appsflyer.com" static
+local-data: "zendesk4.appsflyer.com A 127.0.0.1"
+local-zone: "zendesk4.aweber.com" static
+local-data: "zendesk4.aweber.com A 127.0.0.1"
+local-zone: "zendesk4.leanplum.com" static
+local-data: "zendesk4.leanplum.com A 127.0.0.1"
+local-zone: "zendeskbi.cloud.looker.com" static
+local-data: "zendeskbi.cloud.looker.com A 127.0.0.1"
+local-zone: "zendeskexplore.com" static
+local-data: "zendeskexplore.com A 127.0.0.1"
+local-zone: "zendeskforteams.com" static
+local-data: "zendeskforteams.com A 127.0.0.1"
+local-zone: "zendeskit.com" static
+local-data: "zendeskit.com A 127.0.0.1"
+local-zone: "zendeskjira-backend.eu-west-3.tooling.datadome.co" static
+local-data: "zendeskjira-backend.eu-west-3.tooling.datadome.co A 127.0.0.1"
+local-zone: "zendeskporn31.zendesk.com" static
+local-data: "zendeskporn31.zendesk.com A 127.0.0.1"
+local-zone: "zendictees.fr" static
+local-data: "zendictees.fr A 127.0.0.1"
 local-zone: "zendiosa.com" static
 local-data: "zendiosa.com A 127.0.0.1"
 local-zone: "zendire.com" static
@@ -22209,6 +22287,8 @@ local-zone: "zomerbabes.nl" static
 local-data: "zomerbabes.nl A 127.0.0.1"
 local-zone: "zomersexdating.be" static
 local-data: "zomersexdating.be A 127.0.0.1"
+local-zone: "zomersexdating.nl" static
+local-data: "zomersexdating.nl A 127.0.0.1"
 local-zone: "zomerteens.nl" static
 local-data: "zomerteens.nl A 127.0.0.1"
 local-zone: "zomet.zheye.org" static
