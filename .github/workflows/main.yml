@@ -1,0 +1,94 @@
+name: 'Main'
+
+on:
+  pull_request:
+    branches: ['main']
+  schedule:
+    - cron: '45 * * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  update:
+    name: 'Update'
+    runs-on: 'ubuntu-latest'
+    permissions:
+      contents: 'write'
+    container: 'docker.io/ubuntu:latest'
+
+    steps:
+      - name: 'Install dependencies'
+        run: |
+          apt-get update
+          apt-get install -y --no-install-recommends ca-certificates curl git jq
+
+      - name: 'Checkout project'
+        uses: 'actions/checkout@v4'
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.BOT_GITHUB_TOKEN || github.token }}
+
+      - name: 'Update lists'
+        run: |
+          sh ./update.sh
+
+      - name: 'Push lists'
+        if: >-
+          github.event_name == 'schedule' ||
+          github.event_name == 'workflow_dispatch'
+        run: |
+          git config --global --add safe.directory "${PWD:?}"
+          git config --global user.name 'skiddle-bot'
+          git config --global user.email '165562787+skiddle-bot@users.noreply.github.com'
+          sh ./push.sh
+
+      - name: Notify via Discord (Success)
+        if: success()
+        run: |
+          TIME=$(date +"%Y-%m-%d %H:%M:%S")
+          curl -H "Content-Type: application/json" \
+          -X POST -d "$(jq -n --arg repo "${{ github.repository }}" \
+                             --arg workflow "${{ github.workflow }}" \
+                             --arg event "${{ github.event_name }}" \
+                             --arg time "$TIME" \
+                             '{
+            "embeds": [{
+              "title": "✅ Update Job Successful",
+              "description": "The update job has completed and pushed successfully.",
+              "color": 2123412,
+              "fields": [
+                {"name": "Repository", "value": $repo, "inline": true},
+                {"name": "Event", "value": $event, "inline": true},
+                {"name": "Workflow", "value": $workflow, "inline": true},
+                {"name": "Time", "value": $time}
+              ],
+              "footer": {"text": "Skiddle Bot | GitHub Actions"}
+            }]
+          }')" ${{ secrets.DISCORD_WEBHOOK }}
+        shell: bash
+
+      - name: Notify via Discord (Failure)
+        if: failure()
+        run: |
+          TIME=$(date +"%Y-%m-%d %H:%M:%S")
+          curl -H "Content-Type: application/json" \
+          -X POST -d "$(jq -n --arg repo "${{ github.repository }}" \
+                             --arg workflow "${{ github.workflow }}" \
+                             --arg event "${{ github.event_name }}" \
+                             --arg time "$TIME" \
+                             '{
+            "embeds": [{
+              "title": "❌ Update Job Failed",
+              "description": "An error occurred during the update job.",
+              "color": 15158332,
+              "fields": [
+                {"name": "Repository", "value": $repo, "inline": true},
+                {"name": "Event", "value": $event, "inline": true},
+                {"name": "Workflow", "value": $workflow, "inline": true},
+                {"name": "Time", "value": $time}
+              ],
+              "footer": {"text": "Skiddle Bot | GitHub Actions"}
+            }]
+          }')" ${{ secrets.DISCORD_WEBHOOK }}
+        shell: bash
