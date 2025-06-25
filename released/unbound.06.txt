@@ -1,4 +1,468 @@
-cal-data: "zendesk.abm.6sense.com A 127.0.0.1"
+ata: "zellesigninbboa.webcindario.com A 127.0.0.1"
+local-zone: "zelleverifybq.webcindario.com" static
+local-data: "zelleverifybq.webcindario.com A 127.0.0.1"
+local-zone: "zelleverifyrz.webcindario.com" static
+local-data: "zelleverifyrz.webcindario.com A 127.0.0.1"
+local-zone: "zelleverifyzk.webcindario.com" static
+local-data: "zelleverifyzk.webcindario.com A 127.0.0.1"
+local-zone: "zelleveryfienow.webcindario.com" static
+local-data: "zelleveryfienow.webcindario.com A 127.0.0.1"
+local-zone: "zelleveryfinown.webcindario.com" static
+local-data: "zelleveryfinown.webcindario.com A 127.0.0.1"
+local-zone: "zelleveryyffinow.webcindario.com" static
+local-data: "zelleveryyffinow.webcindario.com A 127.0.0.1"
+local-zone: "zellies.com" static
+local-data: "zellies.com A 127.0.0.1"
+local-zone: "zellig.ca" static
+local-data: "zellig.ca A 127.0.0.1"
+local-zone: "zellingtonco.com" static
+local-data: "zellingtonco.com A 127.0.0.1"
+local-zone: "zellis.com" static
+local-data: "zellis.com A 127.0.0.1"
+local-zone: "zelllwrite.com" static
+local-data: "zelllwrite.com A 127.0.0.1"
+local-zone: "zellous.matomo.cloud" static
+local-data: "zellous.matomo.cloud A 127.0.0.1"
+local-zone: "zellsouth.northamerica.net.daraz.com" static
+local-data: "zellsouth.northamerica.net.daraz.com A 127.0.0.1"
+local-zone: "zelltek.co.jp" static
+local-data: "zelltek.co.jp A 127.0.0.1"
+local-zone: "zellviews.com" static
+local-data: "zellviews.com A 127.0.0.1"
+local-zone: "zelman.pro" static
+local-data: "zelman.pro A 127.0.0.1"
+local-zone: "zelmanassociates.actonservice.com" static
+local-data: "zelmanassociates.actonservice.com A 127.0.0.1"
+local-zone: "zelmanassociates.com" static
+local-data: "zelmanassociates.com A 127.0.0.1"
+local-zone: "zelmintrax.net" static
+local-data: "zelmintrax.net A 127.0.0.1"
+local-zone: "zelnrsaf.gigazu.net" static
+local-data: "zelnrsaf.gigazu.net A 127.0.0.1"
+local-zone: "zelomeli.ru" static
+local-data: "zelomeli.ru A 127.0.0.1"
+local-zone: "zeloporn.com" static
+local-data: "zeloporn.com A 127.0.0.1"
+local-zone: "zelos.iad-03.braze.com" static
+local-data: "zelos.iad-03.braze.com A 127.0.0.1"
+local-zone: "zelotalk.com" static
+local-data: "zelotalk.com A 127.0.0.1"
+local-zone: "zelpomi.com" static
+local-data: "zelpomi.com A 127.0.0.1"
+local-zone: "zelquivara.com" static
+local-data: "zelquivara.com A 127.0.0.1"
+local-zone: "zelquivona.sbs" static
+local-data: "zelquivona.sbs A 127.0.0.1"
+local-zone: "zelras.ru" static
+local-data: "zelras.ru A 127.0.0.1"
+local-zone: "zelrasty.net" static
+local-data: "zelrasty.net A 127.0.0.1"
+local-zone: "zelt.app" static
+local-data: "zelt.app A 127.0.0.1"
+local-zone: "zeltatrials.com" static
+local-data: "zeltatrials.com A 127.0.0.1"
+local-zone: "zelten-fritz-berger-de-cddc.at-o.net" static
+local-data: "zelten-fritz-berger-de-cddc.at-o.net A 127.0.0.1"
+local-zone: "zelten.fritz-berger.de" static
+local-data: "zelten.fritz-berger.de A 127.0.0.1"
+local-zone: "zelterabatt.com" static
+local-data: "zelterabatt.com A 127.0.0.1"
+local-zone: "zeltharivothy.com" static
+local-data: "zeltharivothy.com A 127.0.0.1"
+local-zone: "zeltrixser.com" static
+local-data: "zeltrixser.com A 127.0.0.1"
+local-zone: "zeltverleih-fehleisen.de" static
+local-data: "zeltverleih-fehleisen.de A 127.0.0.1"
+local-zone: "zelunaku.xyz" static
+local-data: "zelunaku.xyz A 127.0.0.1"
+local-zone: "zelupa-vetaye.pics" static
+local-data: "zelupa-vetaye.pics A 127.0.0.1"
+local-zone: "zelus.io" static
+local-data: "zelus.io A 127.0.0.1"
+local-zone: "zelva-sparkai.net" static
+local-data: "zelva-sparkai.net A 127.0.0.1"
+local-zone: "zelvi.top" static
+local-data: "zelvi.top A 127.0.0.1"
+local-zone: "zelvio.top" static
+local-data: "zelvio.top A 127.0.0.1"
+local-zone: "zelvionx.com" static
+local-data: "zelvionx.com A 127.0.0.1"
+local-zone: "zelvok-peak-app.net" static
+local-data: "zelvok-peak-app.net A 127.0.0.1"
+local-zone: "zely.io" static
+local-data: "zely.io A 127.0.0.1"
+local-zone: "zelz.net" static
+local-data: "zelz.net A 127.0.0.1"
+local-zone: "zelziu.com" static
+local-data: "zelziu.com A 127.0.0.1"
+local-zone: "zem-com-pk.clickfunnels.com" static
+local-data: "zem-com-pk.clickfunnels.com A 127.0.0.1"
+local-zone: "zem-us-west.outbrain.com" static
+local-data: "zem-us-west.outbrain.com A 127.0.0.1"
+local-zone: "zem.outbrainimg.com" static
+local-data: "zem.outbrainimg.com A 127.0.0.1"
+local-zone: "zema.global" static
+local-data: "zema.global A 127.0.0.1"
+local-zone: "zemacys.com" static
+local-data: "zemacys.com A 127.0.0.1"
+local-zone: "zemaill.000webhostapp.com" static
+local-data: "zemaill.000webhostapp.com A 127.0.0.1"
+local-zone: "zemanihunter.com" static
+local-data: "zemanihunter.com A 127.0.0.1"
+local-zone: "zemanresort.com" static
+local-data: "zemanresort.com A 127.0.0.1"
+local-zone: "zemansignatureresort.com" static
+local-data: "zemansignatureresort.com A 127.0.0.1"
+local-zone: "zemansr.com" static
+local-data: "zemansr.com A 127.0.0.1"
+local-zone: "zemanta-ny.outbrain.org" static
+local-data: "zemanta-ny.outbrain.org A 127.0.0.1"
+local-zone: "zemanta-nychi.zemanta.com" static
+local-data: "zemanta-nychi.zemanta.com A 127.0.0.1"
+local-zone: "zemanta-nychi2.outbrain.org" static
+local-data: "zemanta-nychi2.outbrain.org A 127.0.0.1"
+local-zone: "zemanta-sa.outbrain.org" static
+local-data: "zemanta-sa.outbrain.org A 127.0.0.1"
+local-zone: "zemanta.com" static
+local-data: "zemanta.com A 127.0.0.1"
+local-zone: "zemanta.imgix.net" static
+local-data: "zemanta.imgix.net A 127.0.0.1"
+local-zone: "zemasia.com" static
+local-data: "zemasia.com A 127.0.0.1"
+local-zone: "zemax.com" static
+local-data: "zemax.com A 127.0.0.1"
+local-zone: "zembillas.com" static
+local-data: "zembillas.com A 127.0.0.1"
+local-zone: "zembraservice.000webhostapp.com" static
+local-data: "zembraservice.000webhostapp.com A 127.0.0.1"
+local-zone: "zemedia.site" static
+local-data: "zemedia.site A 127.0.0.1"
+local-zone: "zemeho.adswizz.com" static
+local-data: "zemeho.adswizz.com A 127.0.0.1"
+local-zone: "zemeho.deliveryengine.adswizz.com" static
+local-data: "zemeho.deliveryengine.adswizz.com A 127.0.0.1"
+local-zone: "zemetal.com" static
+local-data: "zemetal.com A 127.0.0.1"
+local-zone: "zemetoraf.com" static
+local-data: "zemetoraf.com A 127.0.0.1"
+local-zone: "zemgo.com" static
+local-data: "zemgo.com A 127.0.0.1"
+local-zone: "zemic.com" static
+local-data: "zemic.com A 127.0.0.1"
+local-zone: "zemidaluitre.firebaseapp.com" static
+local-data: "zemidaluitre.firebaseapp.com A 127.0.0.1"
+local-zone: "zemidaluitre.web.app" static
+local-data: "zemidaluitre.web.app A 127.0.0.1"
+local-zone: "zemimages.outbrain.com" static
+local-data: "zemimages.outbrain.com A 127.0.0.1"
+local-zone: "zemingrudg.pro" static
+local-data: "zemingrudg.pro A 127.0.0.1"
+local-zone: "zemiosp.com" static
+local-data: "zemiosp.com A 127.0.0.1"
+local-zone: "zemliaki.com" static
+local-data: "zemliaki.com A 127.0.0.1"
+local-zone: "zemlyanin.art" static
+local-data: "zemlyanin.art A 127.0.0.1"
+local-zone: "zemlyanovaovel.blogspot.com" static
+local-data: "zemlyanovaovel.blogspot.com A 127.0.0.1"
+local-zone: "zemmatraca.blogspot.com" static
+local-data: "zemmatraca.blogspot.com A 127.0.0.1"
+local-zone: "zemocigs.refersion.com" static
+local-data: "zemocigs.refersion.com A 127.0.0.1"
+local-zone: "zemosolabs-dot-yamm-track.appspot.com" static
+local-data: "zemosolabs-dot-yamm-track.appspot.com A 127.0.0.1"
+local-zone: "zempirecamping.com" static
+local-data: "zempirecamping.com A 127.0.0.1"
+local-zone: "zemrlvpq.com" static
+local-data: "zemrlvpq.com A 127.0.0.1"
+local-zone: "zemstvenom.pro" static
+local-data: "zemstvenom.pro A 127.0.0.1"
+local-zone: "zemtibne.icu" static
+local-data: "zemtibne.icu A 127.0.0.1"
+local-zone: "zemtravex.com" static
+local-data: "zemtravex.com A 127.0.0.1"
+local-zone: "zemtravexapp.com" static
+local-data: "zemtravexapp.com A 127.0.0.1"
+local-zone: "zemum.com" static
+local-data: "zemum.com A 127.0.0.1"
+local-zone: "zemuro.ru" static
+local-data: "zemuro.ru A 127.0.0.1"
+local-zone: "zemvideos.outbrain.com" static
+local-data: "zemvideos.outbrain.com A 127.0.0.1"
+local-zone: "zemwa.com" static
+local-data: "zemwa.com A 127.0.0.1"
+local-zone: "zemydreamsa.info" static
+local-data: "zemydreamsa.info A 127.0.0.1"
+local-zone: "zemydreamsauk.com" static
+local-data: "zemydreamsauk.com A 127.0.0.1"
+local-zone: "zemyra.shop" static
+local-data: "zemyra.shop A 127.0.0.1"
+local-zone: "zemywwm.com" static
+local-data: "zemywwm.com A 127.0.0.1"
+local-zone: "zen-api.suprnova.cc" static
+local-data: "zen-api.suprnova.cc A 127.0.0.1"
+local-zone: "zen-clock.xyz" static
+local-data: "zen-clock.xyz A 127.0.0.1"
+local-zone: "zen-core-fr.allawnos.com" static
+local-data: "zen-core-fr.allawnos.com A 127.0.0.1"
+local-zone: "zen-core-in.allawnos.com" static
+local-data: "zen-core-in.allawnos.com A 127.0.0.1"
+local-zone: "zen-core-sg.allawnos.com" static
+local-data: "zen-core-sg.allawnos.com A 127.0.0.1"
+local-zone: "zen-core-us.allawnos.com" static
+local-data: "zen-core-us.allawnos.com A 127.0.0.1"
+local-zone: "zen-diamond.de" static
+local-data: "zen-diamond.de A 127.0.0.1"
+local-zone: "zen-escort.com" static
+local-data: "zen-escort.com A 127.0.0.1"
+local-zone: "zen-hellman.cell.us.nr-data.net" static
+local-data: "zen-hellman.cell.us.nr-data.net A 127.0.0.1"
+local-zone: "zen-iot.com" static
+local-data: "zen-iot.com A 127.0.0.1"
+local-zone: "zen-leaf-cbd-gummies-price.company.site" static
+local-data: "zen-leaf-cbd-gummies-price.company.site A 127.0.0.1"
+local-zone: "zen-live.com" static
+local-data: "zen-live.com A 127.0.0.1"
+local-zone: "zen-live.info" static
+local-data: "zen-live.info A 127.0.0.1"
+local-zone: "zen-live.org" static
+local-data: "zen-live.org A 127.0.0.1"
+local-zone: "zen-makemytrip.com" static
+local-data: "zen-makemytrip.com A 127.0.0.1"
+local-zone: "zen-sex2015.blogspot.com" static
+local-data: "zen-sex2015.blogspot.com A 127.0.0.1"
+local-zone: "zen-tava.com" static
+local-data: "zen-tava.com A 127.0.0.1"
+local-zone: "zen-test.yandex.ru" static
+local-data: "zen-test.yandex.ru A 127.0.0.1"
+local-zone: "zen-web-browser.apponic.com" static
+local-data: "zen-web-browser.apponic.com A 127.0.0.1"
+local-zone: "zen.adiant.com" static
+local-data: "zen.adiant.com A 127.0.0.1"
+local-zone: "zen.agency" static
+local-data: "zen.agency A 127.0.0.1"
+local-zone: "zen.ai" static
+local-data: "zen.ai A 127.0.0.1"
+local-zone: "zen.auto" static
+local-data: "zen.auto A 127.0.0.1"
+local-zone: "zen.burdahome.de" static
+local-data: "zen.burdahome.de A 127.0.0.1"
+local-zone: "zen.catholic.co.il" static
+local-data: "zen.catholic.co.il A 127.0.0.1"
+local-zone: "zen.com" static
+local-data: "zen.com A 127.0.0.1"
+local-zone: "zen.getpool.network" static
+local-data: "zen.getpool.network A 127.0.0.1"
+local-zone: "zen.itrsgroup.com" static
+local-data: "zen.itrsgroup.com A 127.0.0.1"
+local-zone: "zen.manhwa-raw.com" static
+local-data: "zen.manhwa-raw.com A 127.0.0.1"
+local-zone: "zen.mc.yandex.ru" static
+local-data: "zen.mc.yandex.ru A 127.0.0.1"
+local-zone: "zen.miningspeed.com" static
+local-data: "zen.miningspeed.com A 127.0.0.1"
+local-zone: "zen.mozillaupdates.us" static
+local-data: "zen.mozillaupdates.us A 127.0.0.1"
+local-zone: "zen.suprnova.cc" static
+local-data: "zen.suprnova.cc A 127.0.0.1"
+local-zone: "zen.via-conex.net" static
+local-data: "zen.via-conex.net A 127.0.0.1"
+local-zone: "zen.voshi.com" static
+local-data: "zen.voshi.com A 127.0.0.1"
+local-zone: "zen0935.com" static
+local-data: "zen0935.com A 127.0.0.1"
+local-zone: "zen0r.com" static
+local-data: "zen0r.com A 127.0.0.1"
+local-zone: "zen2garden.com" static
+local-data: "zen2garden.com A 127.0.0.1"
+local-zone: "zen43.com.pl" static
+local-data: "zen43.com.pl A 127.0.0.1"
+local-zone: "zen74.com.pl" static
+local-data: "zen74.com.pl A 127.0.0.1"
+local-zone: "zena.5m6x.com" static
+local-data: "zena.5m6x.com A 127.0.0.1"
+local-zone: "zenabidata.com" static
+local-data: "zenabidata.com A 127.0.0.1"
+local-zone: "zenadflow.com" static
+local-data: "zenadflow.com A 127.0.0.1"
+local-zone: "zenadservices.net" static
+local-data: "zenadservices.net A 127.0.0.1"
+local-zone: "zenaidapier.click" static
+local-data: "zenaidapier.click A 127.0.0.1"
+local-zone: "zenain.com" static
+local-data: "zenain.com A 127.0.0.1"
+local-zone: "zenaking.xyz" static
+local-data: "zenaking.xyz A 127.0.0.1"
+local-zone: "zenal.xyz" static
+local-data: "zenal.xyz A 127.0.0.1"
+local-zone: "zenam.xyz" static
+local-data: "zenam.xyz A 127.0.0.1"
+local-zone: "zenana.diaryhub.com" static
+local-data: "zenana.diaryhub.com A 127.0.0.1"
+local-zone: "zenandfe.com" static
+local-data: "zenandfe.com A 127.0.0.1"
+local-zone: "zenandhoney.com" static
+local-data: "zenandhoney.com A 127.0.0.1"
+local-zone: "zenaot.xyz" static
+local-data: "zenaot.xyz A 127.0.0.1"
+local-zone: "zenappay.com" static
+local-data: "zenappay.com A 127.0.0.1"
+local-zone: "zenaps.com" static
+local-data: "zenaps.com A 127.0.0.1"
+local-zone: "zenarate.com" static
+local-data: "zenarate.com A 127.0.0.1"
+local-zone: "zenarbitrage.clickfunnels.com" static
+local-data: "zenarbitrage.clickfunnels.com A 127.0.0.1"
+local-zone: "zenarbitrage.tapfiliate.com" static
+local-data: "zenarbitrage.tapfiliate.com A 127.0.0.1"
+local-zone: "zenarmor.com" static
+local-data: "zenarmor.com A 127.0.0.1"
+local-zone: "zenarmor.net" static
+local-data: "zenarmor.net A 127.0.0.1"
+local-zone: "zenartsex.com" static
+local-data: "zenartsex.com A 127.0.0.1"
+local-zone: "zenaxis.cfd" static
+local-data: "zenaxis.cfd A 127.0.0.1"
+local-zone: "zenback.jp" static
+local-data: "zenback.jp A 127.0.0.1"
+local-zone: "zenbada.com" static
+local-data: "zenbada.com A 127.0.0.1"
+local-zone: "zenbakingcompany.com" static
+local-data: "zenbakingcompany.com A 127.0.0.1"
+local-zone: "zenbarefoot.com" static
+local-data: "zenbarefoot.com A 127.0.0.1"
+local-zone: "zenbet.matomo.cloud" static
+local-data: "zenbet.matomo.cloud A 127.0.0.1"
+local-zone: "zenbit.online" static
+local-data: "zenbit.online A 127.0.0.1"
+local-zone: "zenbiuro927.blob.core.windows.net" static
+local-data: "zenbiuro927.blob.core.windows.net A 127.0.0.1"
+local-zone: "zenbivy.com" static
+local-data: "zenbivy.com A 127.0.0.1"
+local-zone: "zenbloomlife.com" static
+local-data: "zenbloomlife.com A 127.0.0.1"
+local-zone: "zenbo.ga" static
+local-data: "zenbo.ga A 127.0.0.1"
+local-zone: "zenbooker.com" static
+local-data: "zenbooker.com A 127.0.0.1"
+local-zone: "zenbox-poczta.serwer-p89.space" static
+local-data: "zenbox-poczta.serwer-p89.space A 127.0.0.1"
+local-zone: "zenbox-ssl.poczta-p941.space" static
+local-data: "zenbox-ssl.poczta-p941.space A 127.0.0.1"
+local-zone: "zenbox.pl" static
+local-data: "zenbox.pl A 127.0.0.1"
+local-zone: "zenbox.poczta-p945.online" static
+local-data: "zenbox.poczta-p945.online A 127.0.0.1"
+local-zone: "zenbox03nvu66zqgw4a0.blob.core.windows.net" static
+local-data: "zenbox03nvu66zqgw4a0.blob.core.windows.net A 127.0.0.1"
+local-zone: "zenboxpl.blob.core.windows.net" static
+local-data: "zenboxpl.blob.core.windows.net A 127.0.0.1"
+local-zone: "zenbuild.com" static
+local-data: "zenbuild.com A 127.0.0.1"
+local-zone: "zenbusiness.extole.io" static
+local-data: "zenbusiness.extole.io A 127.0.0.1"
+local-zone: "zenbyul.com" static
+local-data: "zenbyul.com A 127.0.0.1"
+local-zone: "zencab.com" static
+local-data: "zencab.com A 127.0.0.1"
+local-zone: "zencamcloud.com" static
+local-data: "zencamcloud.com A 127.0.0.1"
+local-zone: "zencare.co" static
+local-data: "zencare.co A 127.0.0.1"
+local-zone: "zencargo.com" static
+local-data: "zencargo.com A 127.0.0.1"
+local-zone: "zencartfree.com.db-ip.com" static
+local-data: "zencartfree.com.db-ip.com A 127.0.0.1"
+local-zone: "zencartisland.com" static
+local-data: "zencartisland.com A 127.0.0.1"
+local-zone: "zencash.7eer.net" static
+local-data: "zencash.7eer.net A 127.0.0.1"
+local-zone: "zencast.net" static
+local-data: "zencast.net A 127.0.0.1"
+local-zone: "zencastr.baremetrics.com" static
+local-data: "zencastr.baremetrics.com A 127.0.0.1"
+local-zone: "zencha.finance" static
+local-data: "zencha.finance A 127.0.0.1"
+local-zone: "zenchef.com" static
+local-data: "zenchef.com A 127.0.0.1"
+local-zone: "zenchefrestaurants.com" static
+local-data: "zenchefrestaurants.com A 127.0.0.1"
+local-zone: "zenchic.leadpages.co" static
+local-data: "zenchic.leadpages.co A 127.0.0.1"
+local-zone: "zenchores.com" static
+local-data: "zenchores.com A 127.0.0.1"
+local-zone: "zenci.com" static
+local-data: "zenci.com A 127.0.0.1"
+local-zone: "zenciporno.org" static
+local-data: "zenciporno.org A 127.0.0.1"
+local-zone: "zencipornom.blogspot.com" static
+local-data: "zencipornom.blogspot.com A 127.0.0.1"
+local-zone: "zencity.io" static
+local-data: "zencity.io A 127.0.0.1"
+local-zone: "zencleansereview.com" static
+local-data: "zencleansereview.com A 127.0.0.1"
+local-zone: "zenclerk.com" static
+local-data: "zenclerk.com A 127.0.0.1"
+local-zone: "zencloud.life" static
+local-data: "zencloud.life A 127.0.0.1"
+local-zone: "zencluster.site" static
+local-data: "zencluster.site A 127.0.0.1"
+local-zone: "zencodeo.live" static
+local-data: "zencodeo.live A 127.0.0.1"
+local-zone: "zencoder.ai" static
+local-data: "zencoder.ai A 127.0.0.1"
+local-zone: "zencomp.com" static
+local-data: "zencomp.com A 127.0.0.1"
+local-zone: "zencon.tech" static
+local-data: "zencon.tech A 127.0.0.1"
+local-zone: "zencoreapparels.com" static
+local-data: "zencoreapparels.com A 127.0.0.1"
+local-zone: "zencrafted.pro" static
+local-data: "zencrafted.pro A 127.0.0.1"
+local-zone: "zencudo.co.uk" static
+local-data: "zencudo.co.uk A 127.0.0.1"
+local-zone: "zend-apps.com" static
+local-data: "zend-apps.com A 127.0.0.1"
+local-zone: "zendaesp.com" static
+local-data: "zendaesp.com A 127.0.0.1"
+local-zone: "zendalibros.com.ssl.sc.omtrdc.net" static
+local-data: "zendalibros.com.ssl.sc.omtrdc.net A 127.0.0.1"
+local-zone: "zendanbaft.ir" static
+local-data: "zendanbaft.ir A 127.0.0.1"
+local-zone: "zende.sk" static
+local-data: "zende.sk A 127.0.0.1"
+local-zone: "zendeck.nl" static
+local-data: "zendeck.nl A 127.0.0.1"
+local-zone: "zendegieziba.com" static
+local-data: "zendegieziba.com A 127.0.0.1"
+local-zone: "zenden.ru" static
+local-data: "zenden.ru A 127.0.0.1"
+local-zone: "zendendance.com" static
+local-data: "zendendance.com A 127.0.0.1"
+local-zone: "zendesignfirm.com" static
+local-data: "zendesignfirm.com A 127.0.0.1"
+local-zone: "zendesk-dev.com" static
+local-data: "zendesk-dev.com A 127.0.0.1"
+local-zone: "zendesk-eu.my.sentry.io" static
+local-data: "zendesk-eu.my.sentry.io A 127.0.0.1"
+local-zone: "zendesk-integrations.com" static
+local-data: "zendesk-integrations.com A 127.0.0.1"
+local-zone: "zendesk-jwt-service.scaffold.clipboardstaffing.com" static
+local-data: "zendesk-jwt-service.scaffold.clipboardstaffing.com A 127.0.0.1"
+local-zone: "zendesk-sandbox.callrail.com" static
+local-data: "zendesk-sandbox.callrail.com A 127.0.0.1"
+local-zone: "zendesk-sidebar.segment.com" static
+local-data: "zendesk-sidebar.segment.com A 127.0.0.1"
+local-zone: "zendesk-staging.com" static
+local-data: "zendesk-staging.com A 127.0.0.1"
+local-zone: "zendesk-staging.optimizely.com" static
+local-data: "zendesk-staging.optimizely.com A 127.0.0.1"
+local-zone: "zendesk-zoom-meetings-app.flarecx.com" static
+local-data: "zendesk-zoom-meetings-app.flarecx.com A 127.0.0.1"
+local-zone: "zendesk.6sense.com" static
+local-data: "zendesk.6sense.com A 127.0.0.1"
+local-zone: "zendesk.abm.6sense.com" static
+local-data: "zendesk.abm.6sense.com A 127.0.0.1"
 local-zone: "zendesk.agyletime.io" static
 local-data: "zendesk.agyletime.io A 127.0.0.1"
 local-zone: "zendesk.bidvertiser.com" static
