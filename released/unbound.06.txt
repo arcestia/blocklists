@@ -1,4 +1,57 @@
-.0.0.1"
+" static
+local-data: "zenglobalenerji.com A 127.0.0.1"
+local-zone: "zenglows.pro" static
+local-data: "zenglows.pro A 127.0.0.1"
+local-zone: "zengm.com" static
+local-data: "zengm.com A 127.0.0.1"
+local-zone: "zengo-kaynomvekars.blogspot.com" static
+local-data: "zengo-kaynomvekars.blogspot.com A 127.0.0.1"
+local-zone: "zengo.affise.com" static
+local-data: "zengo.affise.com A 127.0.0.1"
+local-zone: "zengoken.blogspot.com" static
+local-data: "zengoken.blogspot.com A 127.0.0.1"
+local-zone: "zengoongoanu.com" static
+local-data: "zengoongoanu.com A 127.0.0.1"
+local-zone: "zengshike.com" static
+local-data: "zengshike.com A 127.0.0.1"
+local-zone: "zengslb.com" static
+local-data: "zengslb.com A 127.0.0.1"
+local-zone: "zenguarda.com" static
+local-data: "zenguarda.com A 127.0.0.1"
+local-zone: "zengzhangkexue.com" static
+local-data: "zengzhangkexue.com A 127.0.0.1"
+local-zone: "zenhabits.memberful.com" static
+local-data: "zenhabits.memberful.com A 127.0.0.1"
+local-zone: "zenhatch.online" static
+local-data: "zenhatch.online A 127.0.0.1"
+local-zone: "zenhavenhotel.com" static
+local-data: "zenhavenhotel.com A 127.0.0.1"
+local-zone: "zenhealthstore.com" static
+local-data: "zenhealthstore.com A 127.0.0.1"
+local-zone: "zenheart.tw" static
+local-data: "zenheart.tw A 127.0.0.1"
+local-zone: "zenhr.com" static
+local-data: "zenhr.com A 127.0.0.1"
+local-zone: "zenhub.mboxedge37-alb.tt.omtrdc.net" static
+local-data: "zenhub.mboxedge37-alb.tt.omtrdc.net A 127.0.0.1"
+local-zone: "zeniamar8.es" static
+local-data: "zeniamar8.es A 127.0.0.1"
+local-zone: "zenifun.com" static
+local-data: "zenifun.com A 127.0.0.1"
+local-zone: "zenigameblinger.org" static
+local-data: "zenigameblinger.org A 127.0.0.1"
+local-zone: "zenimax.online" static
+local-data: "zenimax.online A 127.0.0.1"
+local-zone: "zenimaxmedia.d1.sc.omtrdc.net" static
+local-data: "zenimaxmedia.d1.sc.omtrdc.net A 127.0.0.1"
+local-zone: "zenimpact.io" static
+local-data: "zenimpact.io A 127.0.0.1"
+local-zone: "zenine228.000webhostapp.com" static
+local-data: "zenine228.000webhostapp.com A 127.0.0.1"
+local-zone: "zeninfo.in" static
+local-data: "zeninfo.in A 127.0.0.1"
+local-zone: "zeninfotechs.com" static
+local-data: "zeninfotechs.com A 127.0.0.1"
 local-zone: "zeninoganecu.com" static
 local-data: "zeninoganecu.com A 127.0.0.1"
 local-zone: "zenintcg.com" static
