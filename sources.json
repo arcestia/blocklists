@@ -80,5 +80,12 @@
   {"name": "OISD-NSFW",                             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_nsfw.txt"},
   {"name": "OISD-Small",                            "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_small.txt"},
   {"name": "Trust+Gambling",                        "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/alsyundawy/TrustPositif/main/gambling_indonesia.txt"},
-  {"name": "HostsVN",                               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"}
-]}
+  {"name": "HostsVN",                               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"},
+  {"name": "AdWars",                                "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"},
+  {"name": "Tiuxo",                                 "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/tiuxo/hosts/master/ads"},
+  {"name": "NSABlocklist",                          "enabled": true,  "format": "hosts",        "args": [],              "url": "https://storage.googleapis.com/nsablocklist/hosts"},
+  {"name": "Sinfonietta",                           "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts"},
+  {"name": "StevenBlack-Porn",                      "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn/hosts"},
+  {"name": "ph00lt0-Blocklist",                     "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt"}
+  ]
+}
