@@ -1,4 +1,27 @@
-ata: "zellesigninbboa.webcindario.com A 127.0.0.1"
+c
+local-data: "zellecheckbann.webcindario.com A 127.0.0.1"
+local-zone: "zellecheckbbof.webcindario.com" static
+local-data: "zellecheckbbof.webcindario.com A 127.0.0.1"
+local-zone: "zellecheckbonl.webcindario.com" static
+local-data: "zellecheckbonl.webcindario.com A 127.0.0.1"
+local-zone: "zellecheckofam.webcindario.com" static
+local-data: "zellecheckofam.webcindario.com A 127.0.0.1"
+local-zone: "zellecheckofba.webcindario.com" static
+local-data: "zellecheckofba.webcindario.com A 127.0.0.1"
+local-zone: "zellecheckofbk.webcindario.com" static
+local-data: "zellecheckofbk.webcindario.com A 127.0.0.1"
+local-zone: "zellecheeckban.webcindario.com" static
+local-data: "zellecheeckban.webcindario.com A 127.0.0.1"
+local-zone: "zelleecheckbff.webcindario.com" static
+local-data: "zelleecheckbff.webcindario.com A 127.0.0.1"
+local-zone: "zelleecheckric.webcindario.com" static
+local-data: "zelleecheckric.webcindario.com A 127.0.0.1"
+local-zone: "zellefraudreac.webcindario.com" static
+local-data: "zellefraudreac.webcindario.com A 127.0.0.1"
+local-zone: "zellereactivenw2.webcindario.com" static
+local-data: "zellereactivenw2.webcindario.com A 127.0.0.1"
+local-zone: "zellesigninbboa.webcindario.com" static
+local-data: "zellesigninbboa.webcindario.com A 127.0.0.1"
 local-zone: "zelleverifybq.webcindario.com" static
 local-data: "zelleverifybq.webcindario.com A 127.0.0.1"
 local-zone: "zelleverifyrz.webcindario.com" static
@@ -30715,6 +30738,8 @@ local-zone: "zvzi03e0wn.kameleoon.eu" static
 local-data: "zvzi03e0wn.kameleoon.eu A 127.0.0.1"
 local-zone: "zvzjvx.shophorne.com" static
 local-data: "zvzjvx.shophorne.com A 127.0.0.1"
+local-zone: "zvzmzrawlvrww.top" static
+local-data: "zvzmzrawlvrww.top A 127.0.0.1"
 local-zone: "zvzmzrawlvryj.top" static
 local-data: "zvzmzrawlvryj.top A 127.0.0.1"
 local-zone: "zvzoo.com" static
@@ -34453,8 +34478,6 @@ local-zone: "zzzgy276da67s.shop" static
 local-data: "zzzgy276da67s.shop A 127.0.0.1"
 local-zone: "zzzha.com" static
 local-data: "zzzha.com A 127.0.0.1"
-local-zone: "zzzjizz.com" static
-local-data: "zzzjizz.com A 127.0.0.1"
 local-zone: "zzzjkf.com" static
 local-data: "zzzjkf.com A 127.0.0.1"
 local-zone: "zzzjvqzkmqllb.top" static
