@@ -18,16 +18,20 @@ for file in $HOSTS_FILES; do
   awk 'NF && $1 !~ /^#/ {if ($2 ~ /[a-zA-Z0-9.-]+/) {print $2} else {print $1}}' "$file"
 done | sort | uniq > "$SCRIPT_DIR/all_domains.tmp"
 
-# Use massdns for efficient DNS checking
-# Requires: massdns (https://github.com/blechschmidt/massdns) and a resolvers.txt file in the script directory
-# If you do not have resolvers.txt, you can get one from the massdns repo or generate your own list of public DNS resolvers.
+#!/bin/bash
+# Efficient dead domain check using massdns
+# Usage: bash check_all_hosts_dead.sh [resolvers.txt]
+# If [resolvers.txt] is not given, defaults to $SCRIPT_DIR/resolvers.txt
+# Requires: massdns (https://github.com/blechschmidt/massdns)
+
+RESOLVERS_FILE="${1:-$SCRIPT_DIR/resolvers.txt}"
 
 if ! command -v massdns >/dev/null 2>&1; then
   echo "massdns not found. Please install massdns: https://github.com/blechschmidt/massdns" >&2
   exit 1
 fi
-if [ ! -f "$SCRIPT_DIR/resolvers.txt" ]; then
-  echo "resolvers.txt not found in $SCRIPT_DIR. Please provide a list of DNS resolvers." >&2
+if [ ! -f "$RESOLVERS_FILE" ]; then
+  echo "resolvers.txt not found at $RESOLVERS_FILE. Please provide a list of DNS resolvers." >&2
   exit 1
 fi
 
@@ -35,7 +39,7 @@ fi
 mv "$SCRIPT_DIR/all_domains.tmp" "$SCRIPT_DIR/all_domains.massdns"
 
 # Run massdns (A record lookup, simple output)
-massdns -r "$SCRIPT_DIR/resolvers.txt" -t A -o S "$SCRIPT_DIR/all_domains.massdns" > "$SCRIPT_DIR/massdns_output.txt"
+massdns -r "$RESOLVERS_FILE" -t A -o S "$SCRIPT_DIR/all_domains.massdns" > "$SCRIPT_DIR/massdns_output.txt"
 
 # Domains resolved are in massdns_output.txt (format: domain. A ...)
 # Domains not resolved will not appear in output, so we diff the input and output to get dead domains

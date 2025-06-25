@@ -21,10 +21,10 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y git build-essential curl
+          sudo apt-get install -y git build-essential curl make gcc
           git clone https://github.com/blechschmidt/massdns.git
           cd massdns && make && sudo cp bin/massdns /usr/local/bin && cd ..
-          curl -sSL https://public-dns.info/nameservers.txt -o blocklists/resolvers.txt
+          curl -sSL https://public-dns.info/nameservers.txt -o resolvers.txt
 
       - name: Compile all domains into one temp list
         run: |
