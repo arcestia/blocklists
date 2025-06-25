@@ -1,0 +1,7 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+share.baidu.com CNAME .

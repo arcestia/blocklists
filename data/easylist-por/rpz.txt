@@ -1,0 +1,30 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+ad.clicrbs.com.br CNAME .
+ads-query.luizalabs.com CNAME .
+adsmaster.dev CNAME .
+adspublicidades.agency CNAME .
+adv.r7.com CNAME .
+dopub.site CNAME .
+igoal-ads.com.br CNAME .
+lzrikate.com CNAME .
+n10.xyz CNAME .
+nsmedia-advertising.com CNAME .
+nsn-azert.xyz CNAME .
+nsn-server.xyz CNAME .
+plx.boafoda.com CNAME .
+plx.mrvideosdesexo.xxx CNAME .
+publyads.jstag.space CNAME .
+pubs.xl.pt CNAME .
+revive.portosenavios.com.br CNAME .
+s.mangalivre.net CNAME .
+solution-solutions.com CNAME .
+tech-solution-blog.com CNAME .
+tradertimerz.media CNAME .
+webpsts.com CNAME .
+xad.dnoticias.pt CNAME .
+zcp.zwame.pt CNAME .

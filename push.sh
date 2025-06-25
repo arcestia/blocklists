@@ -1,9 +1,4 @@
 #!/bin/sh
-
-# Author:     Héctor Molinero Fernández <hector@molinero.dev>
-# License:    MIT, https://opensource.org/licenses/MIT
-# Repository: https://github.com/hectorm/hmirror
-
 set -eu
 export LC_ALL='C'
 

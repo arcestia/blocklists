@@ -1,0 +1,27 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+0-02.net CNAME .
+adzonestatic.com CNAME .
+bannersweb.s3.amazonaws.com CNAME .
+cdnpublicidad.milenio.com CNAME .
+do67etikr7pwz.cloudfront.net CNAME .
+embi-media.com CNAME .
+ic7.co CNAME .
+minube.click CNAME .
+news.grm.cl CNAME .
+palibzh.tech CNAME .
+plx.pornes.xxx CNAME .
+positive-ads.com CNAME .
+pub.tappx.com CNAME .
+publinker.com CNAME .
+publyads.jstag.space CNAME .
+ra.poringa.net CNAME .
+revenuemakerdata.com CNAME .
+ssp.emol.com CNAME .
+sspnm.emol.com CNAME .
+trafico.prensaiberica.es CNAME .
+triggy-banners.web.app CNAME .

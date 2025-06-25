@@ -1,0 +1,33 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+a.walla.co.il CNAME .
+ads.one.co.il CNAME .
+adserv.mako.co.il CNAME .
+atardrushim.com CNAME .
+avoda-mehabait.co.il CNAME .
+banners.news1.co.il CNAME .
+exposeboxwallashops.blob.core.windows.net CNAME .
+hasdarot.club CNAME .
+hasdarot.com CNAME .
+hasdarot.info CNAME .
+hasdarot.life CNAME .
+hasdarot.live CNAME .
+hasdarot.net CNAME .
+hasdarot.tv CNAME .
+hasdarot.vip CNAME .
+hasdarot.xyz CNAME .
+isdarot.com CNAME .
+losittooday.info CNAME .
+pinukim.net CNAME .
+sdarot-il.org CNAME .
+sdarot-tv.org CNAME .
+sdarot.cc CNAME .
+sdc.mako.co.il CNAME .
+seret.live CNAME .
+totalmedia2.ynet.co.il CNAME .
+tvfeel.cc CNAME .
+wrtm.walla.co.il CNAME .

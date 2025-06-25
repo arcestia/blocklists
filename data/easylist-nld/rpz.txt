@@ -1,0 +1,28 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+aa.tweakers.nl CNAME .
+advertising-cdn.dpgmedia.cloud CNAME .
+content1.pcmweb.nl CNAME .
+content1.pu.nl CNAME .
+content1.wasmachines.nl CNAME .
+content1.zoom.nl CNAME .
+content2.besteproduct.nl CNAME .
+content2.kieskeurig.nl CNAME .
+content2.pu.nl CNAME .
+content2.wasmachines.nl CNAME .
+content2.zoom.nl CNAME .
+crnsgngrpj.nl CNAME .
+dntblckmpls.nl CNAME .
+go2.go2cloud.org CNAME .
+kjdsfjisdfjr23.azurewebsites.net CNAME .
+mt67.net CNAME .
+nextdaymedia-ads.s3.amazonaws.com CNAME .
+nojazz.eu CNAME .
+publize.net CNAME .
+traffic.12flirt.com CNAME .
+trickyrock.com CNAME .
+viadata.store CNAME .

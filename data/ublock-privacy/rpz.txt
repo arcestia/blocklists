@@ -1,0 +1,59 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+adnotbad.com CNAME .
+adonsonlyd.xyz CNAME .
+analytics.strapi.io CNAME .
+analytics.tiendaenoferta.com CNAME .
+b90.yahoo.co.jp CNAME .
+chpok.site CNAME .
+cj.dotomi.com CNAME .
+cjewz.com CNAME .
+cl.t3n.de CNAME .
+client-telemetry.roblox.com CNAME .
+copyhomework.com CNAME .
+coursecopy.com CNAME .
+data-saver-cindi.herokuapp.com CNAME .
+data.cheatography.com CNAME .
+e-stat.huya.com CNAME .
+freetrckr.com CNAME .
+gigachadlitics.b-cdn.net CNAME .
+icontent.us CNAME .
+lnkr.us CNAME .
+metrics.surinenglish.com CNAME .
+mtm.bondagevalley.cc CNAME .
+nakedanalytics.net CNAME .
+new-twinks.com CNAME .
+news-pewuce.com CNAME .
+qa-events-schema.viacom.tech CNAME .
+qip.ru CNAME .
+quizlookup.com CNAME .
+quiztoolbox.com CNAME .
+ratexchange.net CNAME .
+s.pie.org CNAME .
+serverads.net CNAME .
+simonzody.com CNAME .
+smartaccess.biz CNAME .
+spexjs.com CNAME .
+stats.webgames.io CNAME .
+studyeffect.com CNAME .
+t.pie.org CNAME .
+t.simply-hentai.com CNAME .
+terperbelomo.info CNAME .
+testbooksolutions.com CNAME .
+thebestoffers4you.net CNAME .
+tr.jianshu.com CNAME .
+track.link-tds.com CNAME .
+track.opt-tds.com CNAME .
+track.vtcnews.vn CNAME .
+tradeadsexchange.com CNAME .
+trck.eczyl.com CNAME .
+trcp.gamefantech.com CNAME .
+turbotrck.art CNAME .
+udc.yahoo.com CNAME .
+va.huya.com CNAME .
+washpost.nile.works CNAME .
+yandexmetrica.com CNAME .

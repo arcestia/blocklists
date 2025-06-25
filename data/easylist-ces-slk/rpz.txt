@@ -1,0 +1,28 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+0af2a962b0102942d9a7df351b20be55.com CNAME .
+a.blesk.cz CNAME .
+a.centrum.cz CNAME .
+a.csfd.cz CNAME .
+a.denik.cz CNAME .
+adb.azet.sk CNAME .
+api-exponea.o2.cz CNAME .
+api-exponea.o2.sk CNAME .
+bannersector.sector.sk CNAME .
+bannery.ccb.cz CNAME .
+bannery.navratdoreality.cz CNAME .
+c.seznam.cz CNAME .
+cdn.cpex.cz CNAME .
+image.sector.sk CNAME .
+liveagent.mobilbonus.cz CNAME .
+report.seznamzpravy.cz CNAME .
+report.sport.cz CNAME .
+ssp.seznam.cz CNAME .
+stat.novinky.cz CNAME .
+stat.super.cz CNAME .
+tracker.cncenter.cz CNAME .
+videoad.cz CNAME .

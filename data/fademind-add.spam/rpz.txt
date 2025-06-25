@@ -1,0 +1,63 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+100.1qingdao.com CNAME .
+7minuteworkout.com CNAME .
+addshoppers.com CNAME .
+arklighting.co CNAME .
+brandedleadgeneration.com CNAME .
+clicktshirtprinting.co.uk CNAME .
+divisioncore.com CNAME .
+fitnesshealthreporter.com CNAME .
+freeforums.org CNAME .
+gtradersoft.com CNAME .
+heartrevitalized.com CNAME .
+janeaustenjoy.com CNAME .
+medtecchina.com CNAME .
+motoren.ru CNAME .
+mydreamdegree.com CNAME .
+novastarled.com CNAME .
+onlineloan-personal.net CNAME .
+otherinbox.com CNAME .
+pcbutts1-therealtruth.blogspot.com CNAME .
+playlott.com CNAME .
+profitsitesbiz.com CNAME .
+securesignupoffers.org CNAME .
+stsoftware.biz CNAME .
+tekindustri.upnjatim.ac.id CNAME .
+thedatingconference.com CNAME .
+tinaborg.com CNAME .
+unionleisurewear.com CNAME .
+vntanktransport.com CNAME .
+vydoxtrial.com CNAME .
+www.7minuteworkout.com CNAME .
+www.addshoppers.com CNAME .
+www.arklighting.co CNAME .
+www.brandedleadgeneration.com CNAME .
+www.clicktshirtprinting.co.uk CNAME .
+www.divisioncore.com CNAME .
+www.fitnesshealthreporter.com CNAME .
+www.freeforums.org CNAME .
+www.gtradersoft.com CNAME .
+www.heartrevitalized.com CNAME .
+www.janeaustenjoy.com CNAME .
+www.medtecchina.com CNAME .
+www.motoren.ru CNAME .
+www.mydreamdegree.com CNAME .
+www.novastarled.com CNAME .
+www.onlineloan-personal.net CNAME .
+www.otherinbox.com CNAME .
+www.oz-offers.com CNAME .
+www.playlott.com CNAME .
+www.profitsitesbiz.com CNAME .
+www.securesignupoffers.org CNAME .
+www.stsoftware.biz CNAME .
+www.thedatingconference.com CNAME .
+www.tinaborg.com CNAME .
+www.tkdami.net CNAME .
+www.unionleisurewear.com CNAME .
+www.vntanktransport.com CNAME .
+www.vydoxtrial.com CNAME .

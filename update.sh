@@ -98,51 +98,55 @@ main() {
 			fi
 			IFS="${_IFS?}"
 
-			checksum="$(sha256sum "${outFile:?}" | cut -c 1-64)"
-			printf '%s  %s\n' "${checksum:?}" "${outFile##*/}" > "${outFile:?}.sha256"
 
-			# Additional: Generate adblock.txt, unbound.conf and rpz.txt for hosts lists
-			if [ "${format:?}" = 'hosts' ]; then
-				hostsFile="${outFile:?}"
-				adblockFile="${SCRIPT_DIR:?}/data/${name:?}/adblock.txt"
-				unboundFile="${SCRIPT_DIR:?}/data/${name:?}/unbound.conf"
-				rpzFile="${SCRIPT_DIR:?}/data/${name:?}/rpz.txt"
+			hostsFile="${outFile:?}"
+			adblockFile="${SCRIPT_DIR:?}/data/${name:?}/adblock.txt"
+			unboundFile="${SCRIPT_DIR:?}/data/${name:?}/unbound.conf"
+			rpzFile="${SCRIPT_DIR:?}/data/${name:?}/rpz.txt"
 
-				# Generate adblock.txt (||domain^ format)
-				awk '
-					NF && $1 !~ /^#/ {
-						if ($2 ~ /[a-zA-Z0-9.-]+/) {
-							printf "||%s^\n", $2
-						} else {
-							printf "||%s^\n", $1
-						}
+			# Generate adblock.txt (||domain^ format)
+			awk '
+				NF && $1 !~ /^#/ {
+					if ($2 ~ /[a-zA-Z0-9.-]+/) {
+						printf "||%s^\n", $2
+					} else {
+						printf "||%s^\n", $1
 					}
-				' "$hostsFile" | sort | uniq > "$adblockFile"
+				}
+			' "$hostsFile" | sort | uniq > "$adblockFile"
 
-				echo "# Unbound format generated from hosts.txt" > "$unboundFile"
-				echo "; RPZ format generated from hosts.txt" > "$rpzFile"
-				awk '
-					NF && $1 !~ /^#/ {
-						if ($2 ~ /[a-zA-Z0-9.-]+/) {
-							domain = $2
-						} else {
-							domain = $1
-						}
-						printf "local-zone: \"%s\" static\nlocal-data: \"%s A 127.0.0.1\"\n", domain, domain
+			echo "# Unbound format generated from hosts.txt" > "$unboundFile"
+			echo "; RPZ format generated from hosts.txt" > "$rpzFile"
+			awk '
+				NF && $1 !~ /^#/ {
+					if ($2 ~ /[a-zA-Z0-9.-]+/) {
+						domain = $2
+					} else {
+						domain = $1
 					}
-				' "$hostsFile" >> "$unboundFile"
-				awk '
-					BEGIN{print "; $TTL 2h\n@       IN      SOA     localhost. root.localhost. (\n                        2024062501 1h 15m 30d 2h )\n        IN      NS      localhost.\n; domain list below"}
-					NF && $1 !~ /^#/ {
-						if ($2 ~ /[a-zA-Z0-9.-]+/) {
-							domain = $2
-						} else {
-							domain = $1
-						}
-						printf "%s CNAME .\n", domain
+					printf "local-zone: \"%s\" static\nlocal-data: \"%s A 127.0.0.1\"\n", domain, domain
+				}
+			' "$hostsFile" >> "$unboundFile"
+			awk '
+				BEGIN{print "; $TTL 2h\n@       IN      SOA     localhost. root.localhost. (\n                        2024062501 1h 15m 30d 2h )\n        IN      NS      localhost.\n; domain list below"}
+				NF && $1 !~ /^#/ {
+					if ($2 ~ /[a-zA-Z0-9.-]+/) {
+						domain = $2
+					} else {
+						domain = $1
 					}
-				' "$hostsFile" >> "$rpzFile"
-			fi
+					printf "%s CNAME .\n", domain
+				}
+			' "$hostsFile" >> "$rpzFile"
+
+			# Split files if they exceed 40MB (adblock, unbound, rpz, hosts)
+			for file in "$adblockFile" "$unboundFile" "$rpzFile" "$hostsFile"; do
+				if [ -f "$file" ] && [ $(stat -c%s "$file") -gt 41943040 ]; then
+					base="${file%.*}"
+					split -b 40m -d -a 2 --additional-suffix=.txt "$file" "${base}."
+					rm "$file"
+				fi
+			done
 		else
 			printError 'Download failed'
 		fi

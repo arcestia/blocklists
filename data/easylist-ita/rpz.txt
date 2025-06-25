@@ -1,0 +1,28 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+ad.citynews.it CNAME .
+adserver.ilgazzettinovesuviano.com CNAME .
+adtech.vivimedia.it CNAME .
+adv-img.edilportale.com CNAME .
+advx.esprimo.com CNAME .
+affiliatetxt.nextmediaweb.com CNAME .
+banner.moscarossa.biz CNAME .
+bannerpress.bps.plap.it CNAME .
+bn.radiogold.it CNAME .
+d1yhzddoi8ev99.cloudfront.net CNAME .
+d2moz0h55szev9.cloudfront.net CNAME .
+digitaladv.despar.it CNAME .
+limone.iltrovatore.it CNAME .
+middycdn-a.akamaihd.net CNAME .
+plx.mrpornogratis.it CNAME .
+plx.pornototale.com CNAME .
+roi.ediscom.it CNAME .
+rtbuzz.net CNAME .
+shoppydoo.com CNAME .
+unifiedads.magellanotech.it CNAME .
+vzbl.eu CNAME .
+widgets.shop.moda.it CNAME .

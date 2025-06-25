@@ -1,0 +1,46 @@
+; RPZ format generated from hosts.txt
+; $TTL 2h
+@       IN      SOA     localhost. root.localhost. (
+                        2024062501 1h 15m 30d 2h )
+        IN      NS      localhost.
+; domain list below
+1winpb.com CNAME .
+ads.the.tube CNAME .
+annotationsincereexistence.com CNAME .
+arabs.alarbda.com CNAME .
+asjjlh.cfd CNAME .
+buyvisblog.com CNAME .
+bzzxq.com CNAME .
+comfortablepossibilitycarlos.com CNAME .
+donasi.lk21.de CNAME .
+enigmaswhereas.com CNAME .
+eyewondermedia.com CNAME .
+fastfilehost.link CNAME .
+festivalcasketfrench.com CNAME .
+generating.link CNAME .
+gxh1yqz2v.xyz CNAME .
+havenclick.com CNAME .
+highmanapts.com CNAME .
+j-mxponyz.love CNAME .
+loadingfreerar.top CNAME .
+nanai-clw.com CNAME .
+paradizeconstruction.com CNAME .
+rapidsend.cfd CNAME .
+remaininghopefully.com CNAME .
+reminderasking.com CNAME .
+rencontres-coquines.jacquieetmichel.net CNAME .
+sgeiruehou.cfd CNAME .
+shareease.link CNAME .
+skyscrapertowel.com CNAME .
+slorpeyes.top CNAME .
+smartpc.click CNAME .
+soonpubplatform.online CNAME .
+tbd.infinityscans.net CNAME .
+toughvariation.com CNAME .
+track.torarymor.world CNAME .
+u5lddcsi.xyz CNAME .
+usingageghoaft.net CNAME .
+video-ads-module.ad-tech.nbcuni.com CNAME .
+vizierspavan.com CNAME .
+zoroalteedrich.net CNAME .
+zqvee2re50mr.com CNAME .

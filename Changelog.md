@@ -12,3 +12,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automated unbound.conf and rpz.txt output for all blocklists with hosts format in the release process (update.sh).
 - All blocklist outputs are now named hosts.txt (list.txt removed/deprecated).
 - adblock.txt is now generated for each blocklist from hosts.txt in the release process.
+- Output files adblock.txt, unbound.conf, and rpz.txt are now automatically split into 40MB parts if they exceed 40MB, using part naming (e.g., adblock.part01.txt).
