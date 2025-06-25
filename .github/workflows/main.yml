@@ -4,7 +4,7 @@ on:
   pull_request:
     branches: ['main']
   schedule:
-    - cron: '45 * * * *'
+    - cron: '0 * * * *'  # every hour
   workflow_dispatch:
 
 permissions: {}
@@ -15,19 +15,17 @@ jobs:
     runs-on: 'ubuntu-latest'
     permissions:
       contents: 'write'
-    container: 'docker.io/ubuntu:latest'
 
     steps:
+      - name: 'Checkout repo'
+        uses: 'actions/checkout@v3'
+
       - name: 'Install dependencies'
         run: |
-          apt-get update
-          apt-get install -y --no-install-recommends ca-certificates curl git jq
+          sudo apt-get update
+          sudo apt-get install -y git curl jq
 
-      - name: 'Checkout project'
-        uses: 'actions/checkout@v4'
-        with:
-          ref: ${{ github.head_ref }}
-          token: ${{ secrets.BOT_GITHUB_TOKEN || github.token }}
+      - name: 'Update all sources'
 
       - name: 'Update lists'
         run: |

@@ -18,16 +18,23 @@ MERGED_ADBLOCK="$RELEASED_DIR/adblock.txt"
 MERGED_UNBOUND="$RELEASED_DIR/unbound.conf"
 MERGED_RPZ="$RELEASED_DIR/rpz.txt"
 
-# Merge, normalize, deduplicate, and whitelist filtering
+# Merge, normalize, deduplicate, and filter whitelist + dead domains
 WHITE_LIST="$SCRIPT_DIR/white.list"
+DEAD_LIST="$SCRIPT_DIR/../dead-domains.txt"
+FILTER_TMP="$RELEASED_DIR/.filter_regex.tmp"
+> "$FILTER_TMP"
 if [ -f "$WHITE_LIST" ]; then
-  # Prepare whitelist as regex pattern
-  awk 'NF && $1 !~ /^#/' "$WHITE_LIST" | sed 's/[\.^$*+?()[{\\|]/\\&/g' | awk '{print "^"$1"$"}' > "$RELEASED_DIR/.white_regex.tmp"
-  grep -hv '^#' $HOSTS_FILES | awk 'NF {print $0}' | sed 's/\r$//' | sort | uniq | grep -v -f "$RELEASED_DIR/.white_regex.tmp" > "$MERGED_HOSTS"
-  rm -f "$RELEASED_DIR/.white_regex.tmp"
+  awk 'NF && $1 !~ /^#/' "$WHITE_LIST" | sed 's/[\.^$*+?()[{\\|]/\\&/g' | awk '{print "^"$1"$"}' >> "$FILTER_TMP"
+fi
+if [ -f "$DEAD_LIST" ]; then
+  awk 'NF && $1 !~ /^#/' "$DEAD_LIST" | sed 's/[\.^$*+?()[{\\|]/\\&/g' | awk '{print "^"$1"$"}' >> "$FILTER_TMP"
+fi
+if [ -s "$FILTER_TMP" ]; then
+  grep -hv '^#' $HOSTS_FILES | awk 'NF {print $0}' | sed 's/\r$//' | sort | uniq | grep -v -f "$FILTER_TMP" > "$MERGED_HOSTS"
 else
   grep -hv '^#' $HOSTS_FILES | awk 'NF {print $0}' | sed 's/\r$//' | sort | uniq > "$MERGED_HOSTS"
 fi
+rm -f "$FILTER_TMP"
 
 # Generate adblock.txt (||domain^ format)
 awk 'NF && $1 !~ /^#/ {if ($2 ~ /[a-zA-Z0-9.-]+/) {printf "||%s^\n", $2} else {printf "||%s^\n", $1}}' "$MERGED_HOSTS" | sort | uniq > "$MERGED_ADBLOCK"

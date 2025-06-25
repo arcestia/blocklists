@@ -1,0 +1,43 @@
+name: Dead Domains Update
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/**/hosts.txt'
+      - 'data/**/hosts.*.txt'
+      - 'released/**/hosts.txt'
+      - 'released/**/hosts.*.txt'
+      - 'blocklists/check_all_hosts_dead.sh'
+      - 'blocklists/.github/workflows/dead-domains.yml'
+
+jobs:
+  dead-domains:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git build-essential curl
+          git clone https://github.com/blechschmidt/massdns.git
+          cd massdns && make && sudo cp bin/massdns /usr/local/bin && cd ..
+          curl -sSL https://public-dns.info/nameservers.txt -o blocklists/resolvers.txt
+
+      - name: Compile all domains into one temp list
+        run: |
+          cd blocklists
+          bash check_all_hosts_dead.sh
+
+      - name: Commit and push updated dead-domains.txt
+        run: |
+          cd ..
+          git config --global user.name 'skiddle-bot'
+          git config --global user.email '165562787+skiddle-bot@users.noreply.github.com'
+          if [ -f dead-domains.txt ] && [ "$(git status --porcelain dead-domains.txt)" != "" ]; then
+            git add dead-domains.txt
+            git commit -m "Update dead-domains.txt [CI]"
+            git push
+          fi

@@ -9,21 +9,44 @@ SCRIPT_DIR="$(CDPATH='' cd -- "$(dirname -- "${0:?}")" && pwd -P)"
 RELEASED_DIR="$SCRIPT_DIR/released"
 mkdir -p "$RELEASED_DIR"
 
-# Find all hosts.txt and hosts.*.txt files in released/ and data/
-HOSTS_FILES=$(find "$SCRIPT_DIR/released" -type f \( -name 'hosts.txt' -o -name 'hosts.*.txt' \))
+# Usage: ./dead_domains_filter.sh [input_file] [output_file]
+INPUT_FILE="${1:-$SCRIPT_DIR/../dead-domains.txt}"
+OUTPUT_FILE="${2:-$SCRIPT_DIR/../confirmed-dead-domains.txt}"
 
-# Run dead-domains-linter in export mode for all found hosts files
-for file in $HOSTS_FILES; do
-  base=$(basename "$file" .txt)
-  deadfile="$RELEASED_DIR/dead-domains.$base.txt"
-  dead-domains-linter -i "$file" --dnscheck=false --export="$deadfile"
-done
+# Confirm truly dead by DNS check
+> "$OUTPUT_FILE"
+while IFS= read -r domain; do
+  [ -z "$domain" ] && continue
+  [ "${domain#\#}" != "$domain" ] && continue
+  if command -v dig >/dev/null 2>&1; then
+    dig +short "$domain" | grep -q '[a-zA-Z0-9]' || echo "$domain" >> "$OUTPUT_FILE"
+  elif command -v nslookup >/dev/null 2>&1; then
+    nslookup "$domain" >/dev/null 2>&1 || echo "$domain" >> "$OUTPUT_FILE"
+  else
+    echo "Neither dig nor nslookup found. Please install one." >&2
+    exit 1
+  fi
+done < "$INPUT_FILE"
 
-# Optionally, combine all dead domains into one file
-echo "" > "$RELEASED_DIR/dead-domains.txt"
-cat "$RELEASED_DIR"/dead-domains.*.txt | grep -v '^$' | sort | uniq > "$RELEASED_DIR/dead-domains.txt"
+echo "Confirmed dead domains exported to $OUTPUT_FILE"
+
+# Now confirm truly dead by DNS check
+echo "" > "$SCRIPT_DIR/../dead-domains.txt"
+while IFS= read -r domain; do
+  [ -z "$domain" ] && continue
+  [ "${domain#\#}" != "$domain" ] && continue
+  if command -v dig >/dev/null 2>&1; then
+    dig +short "$domain" | grep -q '[a-zA-Z0-9]' || echo "$domain" >> "$SCRIPT_DIR/../dead-domains.txt"
+  elif command -v nslookup >/dev/null 2>&1; then
+    nslookup "$domain" >/dev/null 2>&1 || echo "$domain" >> "$SCRIPT_DIR/../dead-domains.txt"
+  else
+    echo "Neither dig nor nslookup found. Please install one." >&2
+    exit 1
+  fi
+done < "$SCRIPT_DIR/../dead-domains.txt.tmp"
+rm -f "$SCRIPT_DIR/../dead-domains.txt.tmp"
 
 # Clean up per-file dead lists
 rm -f "$RELEASED_DIR"/dead-domains.*.txt
 
-echo "Dead domains exported to $RELEASED_DIR/dead-domains.txt"
+echo "Confirmed dead domains exported to $SCRIPT_DIR/../dead-domains.txt"
