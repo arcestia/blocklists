@@ -1,4 +1,259 @@
-1"
+atic
+local-data: "zmail.ftarelease.com A 127.0.0.1"
+local-zone: "zmail.futurelectronics.com" static
+local-data: "zmail.futurelectronics.com A 127.0.0.1"
+local-zone: "zmail.gavfw.org" static
+local-data: "zmail.gavfw.org A 127.0.0.1"
+local-zone: "zmail.geovisite.com" static
+local-data: "zmail.geovisite.com A 127.0.0.1"
+local-zone: "zmail.gerileblanc.com" static
+local-data: "zmail.gerileblanc.com A 127.0.0.1"
+local-zone: "zmail.gettop.info" static
+local-data: "zmail.gettop.info A 127.0.0.1"
+local-zone: "zmail.gmailf.com" static
+local-data: "zmail.gmailf.com A 127.0.0.1"
+local-zone: "zmail.goadservices.com" static
+local-data: "zmail.goadservices.com A 127.0.0.1"
+local-zone: "zmail.goodeyeonline.com" static
+local-data: "zmail.goodeyeonline.com A 127.0.0.1"
+local-zone: "zmail.googeal.com" static
+local-data: "zmail.googeal.com A 127.0.0.1"
+local-zone: "zmail.googlemaail.com" static
+local-data: "zmail.googlemaail.com A 127.0.0.1"
+local-zone: "zmail.goowill.org" static
+local-data: "zmail.goowill.org A 127.0.0.1"
+local-zone: "zmail.greenwashball.com" static
+local-data: "zmail.greenwashball.com A 127.0.0.1"
+local-zone: "zmail.greyhoundconnection.com" static
+local-data: "zmail.greyhoundconnection.com A 127.0.0.1"
+local-zone: "zmail.grtbasin.com" static
+local-data: "zmail.grtbasin.com A 127.0.0.1"
+local-zone: "zmail.gsi-one.org" static
+local-data: "zmail.gsi-one.org A 127.0.0.1"
+local-zone: "zmail.gwinnetttech.org" static
+local-data: "zmail.gwinnetttech.org A 127.0.0.1"
+local-zone: "zmail.gymnopedie-juridique.net" static
+local-data: "zmail.gymnopedie-juridique.net A 127.0.0.1"
+local-zone: "zmail.haag.info" static
+local-data: "zmail.haag.info A 127.0.0.1"
+local-zone: "zmail.hackersclub.com" static
+local-data: "zmail.hackersclub.com A 127.0.0.1"
+local-zone: "zmail.haking.org" static
+local-data: "zmail.haking.org A 127.0.0.1"
+local-zone: "zmail.harbourhousehotel.com" static
+local-data: "zmail.harbourhousehotel.com A 127.0.0.1"
+local-zone: "zmail.hellobar.com" static
+local-data: "zmail.hellobar.com A 127.0.0.1"
+local-zone: "zmail.hobbylandinc.com" static
+local-data: "zmail.hobbylandinc.com A 127.0.0.1"
+local-zone: "zmail.holmescountyflorida.com" static
+local-data: "zmail.holmescountyflorida.com A 127.0.0.1"
+local-zone: "zmail.homeusawarehouse.com" static
+local-data: "zmail.homeusawarehouse.com A 127.0.0.1"
+local-zone: "zmail.hostghetto.com" static
+local-data: "zmail.hostghetto.com A 127.0.0.1"
+local-zone: "zmail.hotgirlxx.org" static
+local-data: "zmail.hotgirlxx.org A 127.0.0.1"
+local-zone: "zmail.hotmaaail.com" static
+local-data: "zmail.hotmaaail.com A 127.0.0.1"
+local-zone: "zmail.hotmey.com" static
+local-data: "zmail.hotmey.com A 127.0.0.1"
+local-zone: "zmail.huntignton.com" static
+local-data: "zmail.huntignton.com A 127.0.0.1"
+local-zone: "zmail.hurra.com" static
+local-data: "zmail.hurra.com A 127.0.0.1"
+local-zone: "zmail.idscopes.com" static
+local-data: "zmail.idscopes.com A 127.0.0.1"
+local-zone: "zmail.ilz.nationaltimber.com" static
+local-data: "zmail.ilz.nationaltimber.com A 127.0.0.1"
+local-zone: "zmail.imagesoftcorp.com" static
+local-data: "zmail.imagesoftcorp.com A 127.0.0.1"
+local-zone: "zmail.imaginegoldcard.com" static
+local-data: "zmail.imaginegoldcard.com A 127.0.0.1"
+local-zone: "zmail.imesha.com" static
+local-data: "zmail.imesha.com A 127.0.0.1"
+local-zone: "zmail.invictawatches.com" static
+local-data: "zmail.invictawatches.com A 127.0.0.1"
+local-zone: "zmail.italianinha.com" static
+local-data: "zmail.italianinha.com A 127.0.0.1"
+local-zone: "zmail.itsdogbreeds.info" static
+local-data: "zmail.itsdogbreeds.info A 127.0.0.1"
+local-zone: "zmail.itthartford.com" static
+local-data: "zmail.itthartford.com A 127.0.0.1"
+local-zone: "zmail.jaketm.org" static
+local-data: "zmail.jaketm.org A 127.0.0.1"
+local-zone: "zmail.jcacrafts.com" static
+local-data: "zmail.jcacrafts.com A 127.0.0.1"
+local-zone: "zmail.jeevandayee.org" static
+local-data: "zmail.jeevandayee.org A 127.0.0.1"
+local-zone: "zmail.jminstitute.com" static
+local-data: "zmail.jminstitute.com A 127.0.0.1"
+local-zone: "zmail.jobsmnc.com" static
+local-data: "zmail.jobsmnc.com A 127.0.0.1"
+local-zone: "zmail.jpcooler.com" static
+local-data: "zmail.jpcooler.com A 127.0.0.1"
+local-zone: "zmail.jrc.org" static
+local-data: "zmail.jrc.org A 127.0.0.1"
+local-zone: "zmail.juamv.com" static
+local-data: "zmail.juamv.com A 127.0.0.1"
+local-zone: "zmail.kanakala.com" static
+local-data: "zmail.kanakala.com A 127.0.0.1"
+local-zone: "zmail.kaplatoys.com" static
+local-data: "zmail.kaplatoys.com A 127.0.0.1"
+local-zone: "zmail.kbxcatalog.com" static
+local-data: "zmail.kbxcatalog.com A 127.0.0.1"
+local-zone: "zmail.keeco.com" static
+local-data: "zmail.keeco.com A 127.0.0.1"
+local-zone: "zmail.kellemarie.com" static
+local-data: "zmail.kellemarie.com A 127.0.0.1"
+local-zone: "zmail.kentstateuniversity.com" static
+local-data: "zmail.kentstateuniversity.com A 127.0.0.1"
+local-zone: "zmail.kenya-aiways.com" static
+local-data: "zmail.kenya-aiways.com A 127.0.0.1"
+local-zone: "zmail.kylyria.net" static
+local-data: "zmail.kylyria.net A 127.0.0.1"
+local-zone: "zmail.lacar.org" static
+local-data: "zmail.lacar.org A 127.0.0.1"
+local-zone: "zmail.lakecuyamacarestaurant.com" static
+local-data: "zmail.lakecuyamacarestaurant.com A 127.0.0.1"
+local-zone: "zmail.landrovermalaysia.com" static
+local-data: "zmail.landrovermalaysia.com A 127.0.0.1"
+local-zone: "zmail.leadlander.com" static
+local-data: "zmail.leadlander.com A 127.0.0.1"
+local-zone: "zmail.libraries.co.il" static
+local-data: "zmail.libraries.co.il A 127.0.0.1"
+local-zone: "zmail.likeriteok.info" static
+local-data: "zmail.likeriteok.info A 127.0.0.1"
+local-zone: "zmail.lincolnland.com" static
+local-data: "zmail.lincolnland.com A 127.0.0.1"
+local-zone: "zmail.linconcenter.org" static
+local-data: "zmail.linconcenter.org A 127.0.0.1"
+local-zone: "zmail.localphotoads.com" static
+local-data: "zmail.localphotoads.com A 127.0.0.1"
+local-zone: "zmail.lookout2000.com" static
+local-data: "zmail.lookout2000.com A 127.0.0.1"
+local-zone: "zmail.lspeed.info" static
+local-data: "zmail.lspeed.info A 127.0.0.1"
+local-zone: "zmail.lycero.com" static
+local-data: "zmail.lycero.com A 127.0.0.1"
+local-zone: "zmail.lynnsauto.com" static
+local-data: "zmail.lynnsauto.com A 127.0.0.1"
+local-zone: "zmail.lysxtreme.com" static
+local-data: "zmail.lysxtreme.com A 127.0.0.1"
+local-zone: "zmail.maccomestics.com" static
+local-data: "zmail.maccomestics.com A 127.0.0.1"
+local-zone: "zmail.maillotspro.com" static
+local-data: "zmail.maillotspro.com A 127.0.0.1"
+local-zone: "zmail.marisada.com" static
+local-data: "zmail.marisada.com A 127.0.0.1"
+local-zone: "zmail.masscryp.info" static
+local-data: "zmail.masscryp.info A 127.0.0.1"
+local-zone: "zmail.mayinxamal.com" static
+local-data: "zmail.mayinxamal.com A 127.0.0.1"
+local-zone: "zmail.maytrics.com" static
+local-data: "zmail.maytrics.com A 127.0.0.1"
+local-zone: "zmail.mclearn.org" static
+local-data: "zmail.mclearn.org A 127.0.0.1"
+local-zone: "zmail.mdes.org" static
+local-data: "zmail.mdes.org A 127.0.0.1"
+local-zone: "zmail.mfsa.info" static
+local-data: "zmail.mfsa.info A 127.0.0.1"
+local-zone: "zmail.mheeducation.com" static
+local-data: "zmail.mheeducation.com A 127.0.0.1"
+local-zone: "zmail.miksport.pl" static
+local-data: "zmail.miksport.pl A 127.0.0.1"
+local-zone: "zmail.milfplatz.com" static
+local-data: "zmail.milfplatz.com A 127.0.0.1"
+local-zone: "zmail.modelismo-naval.info" static
+local-data: "zmail.modelismo-naval.info A 127.0.0.1"
+local-zone: "zmail.moseintl.org" static
+local-data: "zmail.moseintl.org A 127.0.0.1"
+local-zone: "zmail.mpnrs.com" static
+local-data: "zmail.mpnrs.com A 127.0.0.1"
+local-zone: "zmail.msi-computer.com" static
+local-data: "zmail.msi-computer.com A 127.0.0.1"
+local-zone: "zmail.myaccountboostmobile.com" static
+local-data: "zmail.myaccountboostmobile.com A 127.0.0.1"
+local-zone: "zmail.myfavoritethingsfl.com" static
+local-data: "zmail.myfavoritethingsfl.com A 127.0.0.1"
+local-zone: "zmail.mygeoweb.info" static
+local-data: "zmail.mygeoweb.info A 127.0.0.1"
+local-zone: "zmail.najwa.info" static
+local-data: "zmail.najwa.info A 127.0.0.1"
+local-zone: "zmail.nancysfabrics.com" static
+local-data: "zmail.nancysfabrics.com A 127.0.0.1"
+local-zone: "zmail.nationaltimber.com" static
+local-data: "zmail.nationaltimber.com A 127.0.0.1"
+local-zone: "zmail.natta.org" static
+local-data: "zmail.natta.org A 127.0.0.1"
+local-zone: "zmail.newyoutube.com" static
+local-data: "zmail.newyoutube.com A 127.0.0.1"
+local-zone: "zmail.nextadvisor.com" static
+local-data: "zmail.nextadvisor.com A 127.0.0.1"
+local-zone: "zmail.nissian.com" static
+local-data: "zmail.nissian.com A 127.0.0.1"
+local-zone: "zmail.nnetflix.com" static
+local-data: "zmail.nnetflix.com A 127.0.0.1"
+local-zone: "zmail.noaknafo.com" static
+local-data: "zmail.noaknafo.com A 127.0.0.1"
+local-zone: "zmail.nycer.org" static
+local-data: "zmail.nycer.org A 127.0.0.1"
+local-zone: "zmail.oakhillbanks.com" static
+local-data: "zmail.oakhillbanks.com A 127.0.0.1"
+local-zone: "zmail.offertedilavoro.info" static
+local-data: "zmail.offertedilavoro.info A 127.0.0.1"
+local-zone: "zmail.okke-france.com" static
+local-data: "zmail.okke-france.com A 127.0.0.1"
+local-zone: "zmail.openlive.org" static
+local-data: "zmail.openlive.org A 127.0.0.1"
+local-zone: "zmail.or-tec.net" static
+local-data: "zmail.or-tec.net A 127.0.0.1"
+local-zone: "zmail.orsm.org" static
+local-data: "zmail.orsm.org A 127.0.0.1"
+local-zone: "zmail.overstockspas.com" static
+local-data: "zmail.overstockspas.com A 127.0.0.1"
+local-zone: "zmail.pacbadges.com" static
+local-data: "zmail.pacbadges.com A 127.0.0.1"
+local-zone: "zmail.pacsweb.org" static
+local-data: "zmail.pacsweb.org A 127.0.0.1"
+local-zone: "zmail.padssup.com" static
+local-data: "zmail.padssup.com A 127.0.0.1"
+local-zone: "zmail.paranormaldownunder.net" static
+local-data: "zmail.paranormaldownunder.net A 127.0.0.1"
+local-zone: "zmail.partnershealth.org" static
+local-data: "zmail.partnershealth.org A 127.0.0.1"
+local-zone: "zmail.pcsvision.com" static
+local-data: "zmail.pcsvision.com A 127.0.0.1"
+local-zone: "zmail.peoplestrust.org" static
+local-data: "zmail.peoplestrust.org A 127.0.0.1"
+local-zone: "zmail.photozella.com" static
+local-data: "zmail.photozella.com A 127.0.0.1"
+local-zone: "zmail.phpstore.info" static
+local-data: "zmail.phpstore.info A 127.0.0.1"
+local-zone: "zmail.pl.hurra.com" static
+local-data: "zmail.pl.hurra.com A 127.0.0.1"
+local-zone: "zmail.polishmigration.org" static
+local-data: "zmail.polishmigration.org A 127.0.0.1"
+local-zone: "zmail.primarysourcelearning.org" static
+local-data: "zmail.primarysourcelearning.org A 127.0.0.1"
+local-zone: "zmail.ps54ladybugs.org" static
+local-data: "zmail.ps54ladybugs.org A 127.0.0.1"
+local-zone: "zmail.psylocke.info" static
+local-data: "zmail.psylocke.info A 127.0.0.1"
+local-zone: "zmail.puraorganic.org" static
+local-data: "zmail.puraorganic.org A 127.0.0.1"
+local-zone: "zmail.quieresligar.com" static
+local-data: "zmail.quieresligar.com A 127.0.0.1"
+local-zone: "zmail.randyorton.net" static
+local-data: "zmail.randyorton.net A 127.0.0.1"
+local-zone: "zmail.rauris.info" static
+local-data: "zmail.rauris.info A 127.0.0.1"
+local-zone: "zmail.rediffmaul.com" static
+local-data: "zmail.rediffmaul.com A 127.0.0.1"
+local-zone: "zmail.registerservicedomains.com" static
+local-data: "zmail.registerservicedomains.com A 127.0.0.1"
+local-zone: "zmail.resortseastchicago.com" static
+local-data: "zmail.resortseastchicago.com A 127.0.0.1"
 local-zone: "zmail.retargeter.com" static
 local-data: "zmail.retargeter.com A 127.0.0.1"
 local-zone: "zmail.revealmobile.com" static
