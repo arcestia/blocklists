@@ -41,12 +41,8 @@ mv "$SCRIPT_DIR/all_domains.tmp" "$SCRIPT_DIR/all_domains.massdns"
 # Run massdns (A record lookup, simple output)
 massdns -r "$RESOLVERS_FILE" -t A -o S "$SCRIPT_DIR/all_domains.massdns" > "$SCRIPT_DIR/massdns_output.txt"
 
-# Domains resolved are in massdns_output.txt (format: domain. A ...)
-# Domains not resolved will not appear in output, so we diff the input and output to get dead domains
-awk '{print $1}' "$SCRIPT_DIR/massdns_output.txt" | sed 's/\.$//' | sort | uniq > "$SCRIPT_DIR/massdns_alive.txt"
-
-sort "$SCRIPT_DIR/all_domains.massdns" | uniq > "$SCRIPT_DIR/all_domains.sorted.txt"
-comm -23 "$SCRIPT_DIR/all_domains.sorted.txt" "$SCRIPT_DIR/massdns_alive.txt" > "$OUTPUT_FILE"
+# Only output domains with NXDOMAIN or SERVFAIL status from massdns output
+awk '/ NXDOMAIN$| SERVFAIL$/ {gsub(/\.$/,"",$1); print $1}' "$SCRIPT_DIR/massdns_output.txt" | sort | uniq > "$OUTPUT_FILE"
 
 rm -f "$SCRIPT_DIR/all_domains.massdns" "$SCRIPT_DIR/all_domains.sorted.txt" "$SCRIPT_DIR/massdns_output.txt" "$SCRIPT_DIR/massdns_alive.txt"
-echo "Truly dead domains exported to $OUTPUT_FILE (checked with massdns)"
+echo "Truly dead domains exported to $OUTPUT_FILE (NXDOMAIN/SERVFAIL only, checked with massdns)"
