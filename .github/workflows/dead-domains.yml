@@ -28,12 +28,10 @@ jobs:
 
       - name: Compile all domains into one temp list
         run: |
-          cd blocklists
           bash check_all_hosts_dead.sh
 
       - name: Commit and push updated dead-domains.txt
         run: |
-          cd ..
           git config --global user.name 'skiddle-bot'
           git config --global user.email '165562787+skiddle-bot@users.noreply.github.com'
           if [ -f dead-domains.txt ] && [ "$(git status --porcelain dead-domains.txt)" != "" ]; then

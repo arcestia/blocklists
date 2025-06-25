@@ -25,11 +25,13 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y git curl jq
 
-      - name: 'Update all sources'
-
       - name: 'Update lists'
         run: |
           sh ./update.sh
+
+      - name: 'Merge, filter, and release'
+        run: |
+          sh ./merge_and_release.sh
 
       - name: 'Push lists'
         if: >-
