@@ -79,5 +79,6 @@
   {"name": "OISD-Big",                              "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_big.txt"},
   {"name": "OISD-NSFW",                             "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_nsfw.txt"},
   {"name": "OISD-Small",                            "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild2_small.txt"},
-  {"name": "Trust+Gambling",                        "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/alsyundawy/TrustPositif/main/gambling_indonesia.txt"}
+  {"name": "Trust+Gambling",                        "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/alsyundawy/TrustPositif/main/gambling_indonesia.txt"},
+  {"name": "HostsVN",                               "enabled": true,  "format": "hosts",        "args": [],              "url": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts"}
 ]}
