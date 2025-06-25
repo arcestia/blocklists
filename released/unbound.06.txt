@@ -1,4 +1,111 @@
-" static
+data: "zendictees.fr A 127.0.0.1"
+local-zone: "zendiosa.com" static
+local-data: "zendiosa.com A 127.0.0.1"
+local-zone: "zendire.com" static
+local-data: "zendire.com A 127.0.0.1"
+local-zone: "zendmin.com" static
+local-data: "zendmin.com A 127.0.0.1"
+local-zone: "zendomain.rpxnow.com" static
+local-data: "zendomain.rpxnow.com A 127.0.0.1"
+local-zone: "zendoo.de" static
+local-data: "zendoo.de A 127.0.0.1"
+local-zone: "zendplace.pro" static
+local-data: "zendplace.pro A 127.0.0.1"
+local-zone: "zendrive.com" static
+local-data: "zendrive.com A 127.0.0.1"
+local-zone: "zendrop.com" static
+local-data: "zendrop.com A 127.0.0.1"
+local-zone: "zenduit.com" static
+local-data: "zenduit.com A 127.0.0.1"
+local-zone: "zendure.tech" static
+local-data: "zendure.tech A 127.0.0.1"
+local-zone: "zenduty.com" static
+local-data: "zenduty.com A 127.0.0.1"
+local-zone: "zeneara-hearing-support.company.site" static
+local-data: "zeneara-hearing-support.company.site A 127.0.0.1"
+local-zone: "zenecn.net" static
+local-data: "zenecn.net A 127.0.0.1"
+local-zone: "zenedacademy.clickfunnels.com" static
+local-data: "zenedacademy.clickfunnels.com A 127.0.0.1"
+local-zone: "zenedge.actonservice.com" static
+local-data: "zenedge.actonservice.com A 127.0.0.1"
+local-zone: "zeneducate.com" static
+local-data: "zeneducate.com A 127.0.0.1"
+local-zone: "zenefels.de" static
+local-data: "zenefels.de A 127.0.0.1"
+local-zone: "zenefits.sjv.io" static
+local-data: "zenefits.sjv.io A 127.0.0.1"
+local-zone: "zenefo.com" static
+local-data: "zenefo.com A 127.0.0.1"
+local-zone: "zenefti.com" static
+local-data: "zenefti.com A 127.0.0.1"
+local-zone: "zenegal.store" static
+local-data: "zenegal.store A 127.0.0.1"
+local-zone: "zenehaza.hu" static
+local-data: "zenehaza.hu A 127.0.0.1"
+local-zone: "zenek-caly-film.kazeo.com" static
+local-data: "zenek-caly-film.kazeo.com A 127.0.0.1"
+local-zone: "zenek-poczta.com.pl" static
+local-data: "zenek-poczta.com.pl A 127.0.0.1"
+local-zone: "zeneka.de" static
+local-data: "zeneka.de A 127.0.0.1"
+local-zone: "zenenv.com" static
+local-data: "zenenv.com A 127.0.0.1"
+local-zone: "zeneroticmassage.com" static
+local-data: "zeneroticmassage.com A 127.0.0.1"
+local-zone: "zenescope.com" static
+local-data: "zenescope.com A 127.0.0.1"
+local-zone: "zenethic.online" static
+local-data: "zenethic.online A 127.0.0.1"
+local-zone: "zenexplorer.site" static
+local-data: "zenexplorer.site A 127.0.0.1"
+local-zone: "zenfable-trades-ai.com" static
+local-data: "zenfable-trades-ai.com A 127.0.0.1"
+local-zone: "zenfablerise.net" static
+local-data: "zenfablerise.net A 127.0.0.1"
+local-zone: "zenfetish.com" static
+local-data: "zenfetish.com A 127.0.0.1"
+local-zone: "zenfield.pro" static
+local-data: "zenfield.pro A 127.0.0.1"
+local-zone: "zenfinds.site" static
+local-data: "zenfinds.site A 127.0.0.1"
+local-zone: "zenflo.ai" static
+local-data: "zenflo.ai A 127.0.0.1"
+local-zone: "zenfloatco.tapfiliate.com" static
+local-data: "zenfloatco.tapfiliate.com A 127.0.0.1"
+local-zone: "zenfolia.com" static
+local-data: "zenfolia.com A 127.0.0.1"
+local-zone: "zenfolio.7eer.net" static
+local-data: "zenfolio.7eer.net A 127.0.0.1"
+local-zone: "zenfolio.creatorcdn.com" static
+local-data: "zenfolio.creatorcdn.com A 127.0.0.1"
+local-zone: "zenfoliosite.com" static
+local-data: "zenfoliosite.com A 127.0.0.1"
+local-zone: "zenfuse.cfd" static
+local-data: "zenfuse.cfd A 127.0.0.1"
+local-zone: "zenga.hu" static
+local-data: "zenga.hu A 127.0.0.1"
+local-zone: "zenga.zapr.in" static
+local-data: "zenga.zapr.in A 127.0.0.1"
+local-zone: "zengage.cfd" static
+local-data: "zengage.cfd A 127.0.0.1"
+local-zone: "zengbindn.cn" static
+local-data: "zengbindn.cn A 127.0.0.1"
+local-zone: "zengcheng.kochava.com" static
+local-data: "zengcheng.kochava.com A 127.0.0.1"
+local-zone: "zengemini.net" static
+local-data: "zengemini.net A 127.0.0.1"
+local-zone: "zengerfolkman.com" static
+local-data: "zengerfolkman.com A 127.0.0.1"
+local-zone: "zengfamilyoffice.com" static
+local-data: "zengfamilyoffice.com A 127.0.0.1"
+local-zone: "zenggi.com" static
+local-data: "zenggi.com A 127.0.0.1"
+local-zone: "zenginehq.com" static
+local-data: "zenginehq.com A 127.0.0.1"
+local-zone: "zenglindressing.com" static
+local-data: "zenglindressing.com A 127.0.0.1"
+local-zone: "zenglobalenerji.com" static
 local-data: "zenglobalenerji.com A 127.0.0.1"
 local-zone: "zenglows.pro" static
 local-data: "zenglows.pro A 127.0.0.1"
