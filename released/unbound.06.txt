@@ -1,4 +1,28 @@
-atic
+srabbitmq.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docsrabbitmq.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docszl5hi8pf3v9p3gkx.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docszl5hi8pf3v9p3gkx.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.emailvision.authenticate.zhgneo8d5vrfayus.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.emailvision.authenticate.zhgneo8d5vrfayus.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.emailvision.authenticatestrapi.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.emailvision.authenticatestrapi.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.emailvision.zg9b4cjg2fb8gn74.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.emailvision.zg9b4cjg2fb8gn74.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.emailvision.zm8cvtztwkzqsbe2.authenticate.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.emailvision.zm8cvtztwkzqsbe2.authenticate.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.emrestricted-r-ht-2ilvision.restricted-r-ht-2uthenticrestricted-r-ht-2te.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.emrestricted-r-ht-2ilvision.restricted-r-ht-2uthenticrestricted-r-ht-2te.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.id.docs.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.id.docs.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.pre-xspace.docs.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.pre-xspace.docs.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.pull-pk-alt1-drzlive.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.pull-pk-alt1-drzlive.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.www.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.www.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.zkgp4cak3fd61b94-emailvision.authenticate.net.daraz.com" static
 local-data: "zetc6lsssuoo5pr8.zkgp4cak3fd61b94-emailvision.authenticate.net.daraz.com A 127.0.0.1"
 local-zone: "zetc6lsssuoo5pr8.zongemailvision.authenticate.net.daraz.com" static
 local-data: "zetc6lsssuoo5pr8.zongemailvision.authenticate.net.daraz.com A 127.0.0.1"
@@ -2412,8 +2436,6 @@ local-zone: "zhi1616.com" static
 local-data: "zhi1616.com A 127.0.0.1"
 local-zone: "zhi58.com" static
 local-data: "zhi58.com A 127.0.0.1"
-local-zone: "zhiad.com" static
-local-data: "zhiad.com A 127.0.0.1"
 local-zone: "zhiaichong.com" static
 local-data: "zhiaichong.com A 127.0.0.1"
 local-zone: "zhiawl.com" static

@@ -283,14 +283,19 @@ addatamarket.net CNAME .
 addresseepaper.com CNAME .
 adexp.liftoff.io CNAME .
 adf.ero-advertising.com CNAME .
+adfox.yandex.ru CNAME .
 adfpaces.ero-advertising.com CNAME .
+adfstat.yandex.ru CNAME .
+adm.hotjar.com CNAME .
 admobclick.com CNAME .
 adn-collector.voodoo-tech.io CNAME .
 adn.insight.ucweb.com CNAME .
 adorebeauty.org CNAME .
 adroitpmps.com CNAME .
+ads-api.tiktok.com CNAME .
 ads-api.twitter.com CNAME .
 ads-bi.zenkube.com CNAME .
+ads-sg.tiktok.com CNAME .
 ads-static.phonepe.com CNAME .
 ads-tm-glb.click CNAME .
 ads.adviad.com CNAME .
@@ -330,6 +335,7 @@ adspcces.ero-advertising.com CNAME .
 adsspaces.ero-advertising.com CNAME .
 adstaces.ero-advertising.com CNAME .
 adstax-cdn.adrtx.net CNAME .
+adtech.yahooinc.com CNAME .
 adtekmedia.com CNAME .
 adtrack.voicestar.com CNAME .
 adtracker.mkjigsaw.com CNAME .
@@ -363,6 +369,7 @@ ae.gsecondscreen.com CNAME .
 ae.iads.unity3d.com CNAME .
 aeventlog.beacon.qq.com CNAME .
 afs.ero-advertising.com CNAME .
+afs.googlesyndication.com CNAME .
 agl-intl.hotstar.com CNAME .
 ahf4ycvea439tt9rq.site CNAME .
 ahoravideo-blog.com CNAME .
@@ -405,6 +412,7 @@ amynx.com CNAME .
 an.batmobi.net CNAME .
 analysis.polarisoffice.com CNAME .
 analytics-digit-in.cdn.ampproject.org CNAME .
+analytics-sg.tiktok.com CNAME .
 analytics.archive.org CNAME .
 analytics.binaryfortress.com CNAME .
 analytics.ero-advertising.com CNAME .
@@ -417,10 +425,12 @@ analytics.logsss.com CNAME .
 analytics.modul.ac.at CNAME .
 analytics.mopub.com CNAME .
 analytics.pokki.com CNAME .
+analytics.s3.amazonaws.com CNAME .
 analytics.shein.co.uk CNAME .
 analytics.shein.com CNAME .
 analytics.xl.pt CNAME .
 analyticsapi.bsbportal.com CNAME .
+analyticsengine.s3.amazonaws.com CNAME .
 analyticsnew.overwolf.com CNAME .
 androidads23.adcolony.com CNAME .
 anmooq.deiicatedate.net CNAME .
@@ -555,9 +565,11 @@ banquetunarmedgrater.com CNAME .
 batchlogging4.truecaller.com CNAME .
 bavners2.ero-advertising.com CNAME .
 bb3u9.com CNAME .
+bdapi-ads.realmemobile.com CNAME .
 bdapi-id.ads.heytapmobi.com CNAME .
 bdapi-id.ads.heytapmobile.com CNAME .
 bdapi-id.ads.oppomobile.com CNAME .
+bdapi-in-ads.realmemobile.com CNAME .
 bdapi-in.ads.heytapmobi.com CNAME .
 bdapi-in.ads.heytapmobile.com CNAME .
 bdapi-in.ads.oppomobile.com CNAME .
@@ -1457,6 +1469,7 @@ media.complex.com CNAME .
 media.rtk.io CNAME .
 mediadirectx.com CNAME .
 mediasama.com CNAME .
+mediavisor.doubleclick.net CNAME .
 medsource.top CNAME .
 megasena1.duckdns.org CNAME .
 merchandise.opera-api.com CNAME .
