@@ -1,4 +1,26 @@
-ca.com" static
+atic
+local-data: "zetc6lsssuoo5pr8.zkgp4cak3fd61b94-emailvision.authenticate.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.zongemailvision.authenticate.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.zongemailvision.authenticate.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8engineapplication.docs.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8engineapplication.docs.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8zong-intns1.twtelecom.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8zong-intns1.twtelecom.net.daraz.com A 127.0.0.1"
+local-zone: "zetcasino.fr" static
+local-data: "zetcasino.fr A 127.0.0.1"
+local-zone: "zeteo.com" static
+local-data: "zeteo.com A 127.0.0.1"
+local-zone: "zetfans.com" static
+local-data: "zetfans.com A 127.0.0.1"
+local-zone: "zetflix-online.art" static
+local-data: "zetflix-online.art A 127.0.0.1"
+local-zone: "zetflix.world" static
+local-data: "zetflix.world A 127.0.0.1"
+local-zone: "zetgets.com" static
+local-data: "zetgets.com A 127.0.0.1"
+local-zone: "zetheesug.com" static
+local-data: "zetheesug.com A 127.0.0.1"
+local-zone: "zetherotica.com" static
 local-data: "zetherotica.com A 127.0.0.1"
 local-zone: "zethla.com" static
 local-data: "zethla.com A 127.0.0.1"
