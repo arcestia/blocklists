@@ -1,4 +1,31 @@
-srabbitmq.net.daraz.com" static
+cal-data: "zetapool.cloud A 127.0.0.1"
+local-zone: "zetaporn.com" static
+local-data: "zetaporn.com A 127.0.0.1"
+local-zone: "zetaprofitronai.com" static
+local-data: "zetaprofitronai.com A 127.0.0.1"
+local-zone: "zetaquebec.wollomail.top" static
+local-data: "zetaquebec.wollomail.top A 127.0.0.1"
+local-zone: "zetarnoria.xyz" static
+local-data: "zetarnoria.xyz A 127.0.0.1"
+local-zone: "zetasafe.net" static
+local-data: "zetasafe.net A 127.0.0.1"
+local-zone: "zetawiki.com" static
+local-data: "zetawiki.com A 127.0.0.1"
+local-zone: "zetazync.com" static
+local-data: "zetazync.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docs.apac.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docs.apac.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docs.api-xspace.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docs.api-xspace.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docs.dmetric.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docs.dmetric.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docs.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docs.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docs.vpn.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docs.vpn.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docsbellsouth.net.daraz.com" static
+local-data: "zetc6lsssuoo5pr8.docsbellsouth.net.daraz.com A 127.0.0.1"
+local-zone: "zetc6lsssuoo5pr8.docsrabbitmq.net.daraz.com" static
 local-data: "zetc6lsssuoo5pr8.docsrabbitmq.net.daraz.com A 127.0.0.1"
 local-zone: "zetc6lsssuoo5pr8.docszl5hi8pf3v9p3gkx.net.daraz.com" static
 local-data: "zetc6lsssuoo5pr8.docszl5hi8pf3v9p3gkx.net.daraz.com A 127.0.0.1"
