@@ -1,4 +1,43 @@
- "zestybubble.pro A 127.0.0.1"
+ipot.pl" static
+local-data: "zestipot.pl A 127.0.0.1"
+local-zone: "zestjoy.pro" static
+local-data: "zestjoy.pro A 127.0.0.1"
+local-zone: "zestmedo.top" static
+local-data: "zestmedo.top A 127.0.0.1"
+local-zone: "zestniche.com" static
+local-data: "zestniche.com A 127.0.0.1"
+local-zone: "zestoranslow.xyz" static
+local-data: "zestoranslow.xyz A 127.0.0.1"
+local-zone: "zestoretica.online" static
+local-data: "zestoretica.online A 127.0.0.1"
+local-zone: "zestpocosin.com" static
+local-data: "zestpocosin.com A 127.0.0.1"
+local-zone: "zestpond.com" static
+local-data: "zestpond.com A 127.0.0.1"
+local-zone: "zestpush.com" static
+local-data: "zestpush.com A 127.0.0.1"
+local-zone: "zeststack.com" static
+local-data: "zeststack.com A 127.0.0.1"
+local-zone: "zesttwirl.pro" static
+local-data: "zesttwirl.pro A 127.0.0.1"
+local-zone: "zestwebb.com" static
+local-data: "zestwebb.com A 127.0.0.1"
+local-zone: "zesty.ai" static
+local-data: "zesty.ai A 127.0.0.1"
+local-zone: "zesty.dev" static
+local-data: "zesty.dev A 127.0.0.1"
+local-zone: "zesty.market" static
+local-data: "zesty.market A 127.0.0.1"
+local-zone: "zestyapi.frontdoorhome.com" static
+local-data: "zestyapi.frontdoorhome.com A 127.0.0.1"
+local-zone: "zestyasd.run" static
+local-data: "zestyasd.run A 127.0.0.1"
+local-zone: "zestybloom.pro" static
+local-data: "zestybloom.pro A 127.0.0.1"
+local-zone: "zestybreeze.pro" static
+local-data: "zestybreeze.pro A 127.0.0.1"
+local-zone: "zestybubble.pro" static
+local-data: "zestybubble.pro A 127.0.0.1"
 local-zone: "zestyc4.us" static
 local-data: "zestyc4.us A 127.0.0.1"
 local-zone: "zestycrime.com" static
