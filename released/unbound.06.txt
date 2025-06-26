@@ -1,4 +1,26 @@
-cal-data: "zetapool.cloud A 127.0.0.1"
+"
+local-zone: "zetainteractivecorpo.tt.omtrdc.net" static
+local-data: "zetainteractivecorpo.tt.omtrdc.net A 127.0.0.1"
+local-zone: "zetajonessex.info" static
+local-data: "zetajonessex.info A 127.0.0.1"
+local-zone: "zetalarmsystems.com" static
+local-data: "zetalarmsystems.com A 127.0.0.1"
+local-zone: "zetality.com" static
+local-data: "zetality.com A 127.0.0.1"
+local-zone: "zetalogs.com" static
+local-data: "zetalogs.com A 127.0.0.1"
+local-zone: "zetalube.co.kr" static
+local-data: "zetalube.co.kr A 127.0.0.1"
+local-zone: "zetaminor.com" static
+local-data: "zetaminor.com A 127.0.0.1"
+local-zone: "zetamm.com" static
+local-data: "zetamm.com A 127.0.0.1"
+local-zone: "zetamotoricambi.com" static
+local-data: "zetamotoricambi.com A 127.0.0.1"
+local-zone: "zetapay.us" static
+local-data: "zetapay.us A 127.0.0.1"
+local-zone: "zetapool.cloud" static
+local-data: "zetapool.cloud A 127.0.0.1"
 local-zone: "zetaporn.com" static
 local-data: "zetaporn.com A 127.0.0.1"
 local-zone: "zetaprofitronai.com" static
