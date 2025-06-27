@@ -5,12 +5,14 @@
         IN      NS      localhost.
 ; domain list below
 123.ywxww.net CNAME .
+1717.1000uc.com CNAME .
 1win-game7.pro CNAME .
 24x7support.top CNAME .
 29sbt.ru CNAME .
 2fa-v.site CNAME .
 52mj.susuwei.cn CNAME .
 abissnet.net CNAME .
+acc.jiangsujiaxue.com CNAME .
 acc.nmphelp.top CNAME .
 acc.trjsp41.top CNAME .
 acc.wtshelp.top CNAME .
@@ -29,6 +31,7 @@ alert.costariga.de CNAME .
 alert.joumizni.de CNAME .
 alien-training.com CNAME .
 allendostmen.com CNAME .
+allister.ee CNAME .
 allstarstriping.com CNAME .
 amuletweb.com CNAME .
 anapa-zarya.ru CNAME .
@@ -38,6 +41,7 @@ api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 api.trumdvfb.com CNAME .
 ar-bn.costariga.de CNAME .
+armanayegh.com CNAME .
 artacom.com.br CNAME .
 artscreenstudio.ru CNAME .
 asq.r77vh0.pw CNAME .
@@ -87,6 +91,7 @@ cptchvrff.com CNAME .
 crimefreesoftware.com CNAME .
 crolim.com CNAME .
 crow.costariga.de CNAME .
+crystalpvp.ru CNAME .
 cs.go.kg CNAME .
 csg-app.com CNAME .
 csis.costariga.de CNAME .
@@ -108,6 +113,7 @@ disk.accord1key.cn CNAME .
 divametalart.com CNAME .
 dl.1003b.56a.com CNAME .
 dl.aginjector.com CNAME .
+dl.asis.io CNAME .
 dl.dzqzd.com CNAME .
 dl.natgo.cn CNAME .
 dl.packetstormsecurity.net CNAME .
@@ -208,7 +214,6 @@ kramersmarionnettes.com CNAME .
 kristalzemin.com CNAME .
 kusal.com CNAME .
 liddar.ca CNAME .
-lindenappliances.co.za CNAME .
 lindnerelektroanlagen.de CNAME .
 linkvilleplayers.org CNAME .
 livetrack.in CNAME .
@@ -269,7 +274,6 @@ onyxcyberedge.de CNAME .
 onyxfortifypro.de CNAME .
 onyxfortitech.de CNAME .
 onyxguardify.de CNAME .
-onyxguardshift.de CNAME .
 onyxguardwave.de CNAME .
 onyxironvault.de CNAME .
 onyxleo.de CNAME .
@@ -285,7 +289,6 @@ onyxshieldcore.de CNAME .
 onyxstealthnet.de CNAME .
 openaigrok.com CNAME .
 p3.zbjimg.com CNAME .
-p4man.com.br CNAME .
 p5.zbjimg.com CNAME .
 p6.zbjimg.com CNAME .
 palharesinformatica.com.br CNAME .
@@ -411,7 +414,6 @@ update.volamthientu.cc CNAME .
 upgradegc.com CNAME .
 utorrent-servers.xyz CNAME .
 vbccorretoradeseguros.com.br CNAME .
-verific-processing.com CNAME .
 verlfication-process.com CNAME .
 veryboys.com CNAME .
 vgd.vg CNAME .
@@ -438,6 +440,7 @@ windatem.com CNAME .
 windomstatetheater.com CNAME .
 wpbkw.com CNAME .
 writerartist.com CNAME .
+www-telegram.ing CNAME .
 www.ardguisser.com CNAME .
 www.automobile-bk.de CNAME .
 www.axhelp.top CNAME .
@@ -490,12 +493,11 @@ www.tf2eternity.com CNAME .
 www.tf2euphoria.com CNAME .
 www.tf2everlasting.com CNAME .
 www.tf2leader.com CNAME .
-www.thesignaturemag.salviatech.com CNAME .
 www.tirtasentosa.com CNAME .
 www.usaayurveda.com CNAME .
 www.vuelaviajero.com CNAME .
-www.website.mypetapp.co.za CNAME .
 www.xn--on3b15m2lco2u.com CNAME .
+www.xyffqh.com CNAME .
 www.ysbaojia.com CNAME .
 www.zhikey.com CNAME .
 wz.3911.com CNAME .
@@ -519,9 +521,11 @@ z-sercem.pl CNAME .
 za-business.com CNAME .
 zacto.cl CNAME .
 zammler.com.kz CNAME .
+zaydacortez.com CNAME .
 zenglobalenerji.com CNAME .
 zenithprojectsnsw.com.au CNAME .
 zennahopson.com CNAME .
+zhaolearning.com CNAME .
 zhigalovanatasha.ru CNAME .
 zion-wealth.com CNAME .
 zonalatina103.net CNAME .
