@@ -1,4 +1,44 @@
-0.0.1"
+oomee.love A 127.0.0.1"
+local-zone: "yoomoney.svc.rockbitegames.com" static
+local-data: "yoomoney.svc.rockbitegames.com A 127.0.0.1"
+local-zone: "yooneed.com" static
+local-data: "yooneed.com A 127.0.0.1"
+local-zone: "yoongconie.ddns.net" static
+local-data: "yoongconie.ddns.net A 127.0.0.1"
+local-zone: "yoonudes.com" static
+local-data: "yoonudes.com A 127.0.0.1"
+local-zone: "yoooo.app" static
+local-data: "yoooo.app A 127.0.0.1"
+local-zone: "yoopayment.com" static
+local-data: "yoopayment.com A 127.0.0.1"
+local-zone: "yoopies.com" static
+local-data: "yoopies.com A 127.0.0.1"
+local-zone: "yooporn.de" static
+local-data: "yooporn.de A 127.0.0.1"
+local-zone: "yoorika.xyz" static
+local-data: "yoorika.xyz A 127.0.0.1"
+local-zone: "yoorjlleqtquez.bid" static
+local-data: "yoorjlleqtquez.bid A 127.0.0.1"
+local-zone: "yoose.com" static
+local-data: "yoose.com A 127.0.0.1"
+local-zone: "yoosex.top" static
+local-data: "yoosex.top A 127.0.0.1"
+local-zone: "yoosexe.com" static
+local-data: "yoosexe.com A 127.0.0.1"
+local-zone: "yoosfuhl.com" static
+local-data: "yoosfuhl.com A 127.0.0.1"
+local-zone: "yoospeed.com" static
+local-data: "yoospeed.com A 127.0.0.1"
+local-zone: "yoostart.clickfunnels.com" static
+local-data: "yoostart.clickfunnels.com A 127.0.0.1"
+local-zone: "yootalk.net" static
+local-data: "yootalk.net A 127.0.0.1"
+local-zone: "yootilampkpkv.site" static
+local-data: "yootilampkpkv.site A 127.0.0.1"
+local-zone: "yootoons.com" static
+local-data: "yootoons.com A 127.0.0.1"
+local-zone: "yootrack.com" static
+local-data: "yootrack.com A 127.0.0.1"
 local-zone: "yootube.com" static
 local-data: "yootube.com A 127.0.0.1"
 local-zone: "yooujizz.com" static
@@ -55507,8 +55547,6 @@ local-zone: "zudym.laloo.info" static
 local-data: "zudym.laloo.info A 127.0.0.1"
 local-zone: "zueastergq.com" static
 local-data: "zueastergq.com A 127.0.0.1"
-local-zone: "zuebao.com" static
-local-data: "zuebao.com A 127.0.0.1"
 local-zone: "zuedy.de" static
 local-data: "zuedy.de A 127.0.0.1"
 local-zone: "zueeqgr3.emltrk.com" static
