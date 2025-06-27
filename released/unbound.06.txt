@@ -1,4 +1,5 @@
- "yijia2009.com A 127.0.0.1"
+"yijia2009.com" static
+local-data: "yijia2009.com A 127.0.0.1"
 local-zone: "yijiafangzhi.cn" static
 local-data: "yijiafangzhi.cn A 127.0.0.1"
 local-zone: "yijiahyvip.com" static
@@ -62139,8 +62140,6 @@ local-zone: "zwinger-club-suche-geile-fotze.pages.dev" static
 local-data: "zwinger-club-suche-geile-fotze.pages.dev A 127.0.0.1"
 local-zone: "zwingerclub-stuttgart-glory-hol-porno.pages.dev" static
 local-data: "zwingerclub-stuttgart-glory-hol-porno.pages.dev A 127.0.0.1"
-local-zone: "zwingerzz-bar.nl" static
-local-data: "zwingerzz-bar.nl A 127.0.0.1"
 local-zone: "zwinkr.de" static
 local-data: "zwinkr.de A 127.0.0.1"
 local-zone: "zwinky.apponic.com" static
