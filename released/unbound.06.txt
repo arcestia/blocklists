@@ -1,1991 +1,4 @@
-mltrk.com" static
-local-data: "yexr6dmc.emltrk.com A 127.0.0.1"
-local-zone: "yext-cdn.com" static
-local-data: "yext-cdn.com A 127.0.0.1"
-local-zone: "yext-dev.com" static
-local-data: "yext-dev.com A 127.0.0.1"
-local-zone: "yext-inc.com" static
-local-data: "yext-inc.com A 127.0.0.1"
-local-zone: "yext-mail.com" static
-local-data: "yext-mail.com A 127.0.0.1"
-local-zone: "yext-numbers.com" static
-local-data: "yext-numbers.com A 127.0.0.1"
-local-zone: "yext-pixel.com" static
-local-data: "yext-pixel.com A 127.0.0.1"
-local-zone: "yext-static.com" static
-local-data: "yext-static.com A 127.0.0.1"
-local-zone: "yext-wrap.com" static
-local-data: "yext-wrap.com A 127.0.0.1"
-local-zone: "yext-wraps.com" static
-local-data: "yext-wraps.com A 127.0.0.1"
-local-zone: "yext.com" static
-local-data: "yext.com A 127.0.0.1"
-local-zone: "yext.site" static
-local-data: "yext.site A 127.0.0.1"
-local-zone: "yextbook.com" static
-local-data: "yextbook.com A 127.0.0.1"
-local-zone: "yextbook.yext.com" static
-local-data: "yextbook.yext.com A 127.0.0.1"
-local-zone: "yextbookanswers.yext.com" static
-local-data: "yextbookanswers.yext.com A 127.0.0.1"
-local-zone: "yextbuilding.com" static
-local-data: "yextbuilding.com A 127.0.0.1"
-local-zone: "yextcampaigns.net" static
-local-data: "yextcampaigns.net A 127.0.0.1"
-local-zone: "yextcloud.com" static
-local-data: "yextcloud.com A 127.0.0.1"
-local-zone: "yextcorp.com" static
-local-data: "yextcorp.com A 127.0.0.1"
-local-zone: "yextcreative.com" static
-local-data: "yextcreative.com A 127.0.0.1"
-local-zone: "yextdirect.com" static
-local-data: "yextdirect.com A 127.0.0.1"
-local-zone: "yextemails.com" static
-local-data: "yextemails.com A 127.0.0.1"
-local-zone: "yextevents.com" static
-local-data: "yextevents.com A 127.0.0.1"
-local-zone: "yexteventsdemo.com" static
-local-data: "yexteventsdemo.com A 127.0.0.1"
-local-zone: "yextinc.com" static
-local-data: "yextinc.com A 127.0.0.1"
-local-zone: "yextinc.mktoweb.com" static
-local-data: "yextinc.mktoweb.com A 127.0.0.1"
-local-zone: "yextmailings.com" static
-local-data: "yextmailings.com A 127.0.0.1"
-local-zone: "yextoffers.com" static
-local-data: "yextoffers.com A 127.0.0.1"
-local-zone: "yextontour.com" static
-local-data: "yextontour.com A 127.0.0.1"
-local-zone: "yextpages.net" static
-local-data: "yextpages.net A 127.0.0.1"
-local-zone: "yextplaces.com" static
-local-data: "yextplaces.com A 127.0.0.1"
-local-zone: "yextstatic.com" static
-local-data: "yextstatic.com A 127.0.0.1"
-local-zone: "yextstreams.app" static
-local-data: "yextstreams.app A 127.0.0.1"
-local-zone: "yextstudio.com" static
-local-data: "yextstudio.com A 127.0.0.1"
-local-zone: "yextsucks.com" static
-local-data: "yextsucks.com A 127.0.0.1"
-local-zone: "yextt.com" static
-local-data: "yextt.com A 127.0.0.1"
-local-zone: "yexttags.com" static
-local-data: "yexttags.com A 127.0.0.1"
-local-zone: "yexttags.yext.com" static
-local-data: "yexttags.yext.com A 127.0.0.1"
-local-zone: "yexttrust.com" static
-local-data: "yexttrust.com A 127.0.0.1"
-local-zone: "yexvebhb.emltrk.com" static
-local-data: "yexvebhb.emltrk.com A 127.0.0.1"
-local-zone: "yeya.gateway.demand-tools.advertising.a2z.com" static
-local-data: "yeya.gateway.demand-tools.advertising.a2z.com A 127.0.0.1"
-local-zone: "yeyabengweixiu.net" static
-local-data: "yeyabengweixiu.net A 127.0.0.1"
-local-zone: "yeyaeo.com" static
-local-data: "yeyaeo.com A 127.0.0.1"
-local-zone: "yeyan.xyz" static
-local-data: "yeyan.xyz A 127.0.0.1"
-local-zone: "yeyaomai.cd" static
-local-data: "yeyaomai.cd A 127.0.0.1"
-local-zone: "yeyddbqhanc.000webhostapp.com" static
-local-data: "yeyddbqhanc.000webhostapp.com A 127.0.0.1"
-local-zone: "yeyddgjqpwya.com" static
-local-data: "yeyddgjqpwya.com A 127.0.0.1"
-local-zone: "yeydrvyw.xyz" static
-local-data: "yeydrvyw.xyz A 127.0.0.1"
-local-zone: "yeye.ink" static
-local-data: "yeye.ink A 127.0.0.1"
-local-zone: "yeye360.com" static
-local-data: "yeye360.com A 127.0.0.1"
-local-zone: "yeyeav.com" static
-local-data: "yeyeav.com A 127.0.0.1"
-local-zone: "yeyehai7.vip" static
-local-data: "yeyehai7.vip A 127.0.0.1"
-local-zone: "yeyehai8.vip" static
-local-data: "yeyehai8.vip A 127.0.0.1"
-local-zone: "yeyemm8.com" static
-local-data: "yeyemm8.com A 127.0.0.1"
-local-zone: "yeyemo4.com" static
-local-data: "yeyemo4.com A 127.0.0.1"
-local-zone: "yeyenlidya.art" static
-local-data: "yeyenlidya.art A 127.0.0.1"
-local-zone: "yeyep.com" static
-local-data: "yeyep.com A 127.0.0.1"
-local-zone: "yeyeyun.com" static
-local-data: "yeyeyun.com A 127.0.0.1"
-local-zone: "yeyian.onesignal.com" static
-local-data: "yeyian.onesignal.com A 127.0.0.1"
-local-zone: "yeym6baprj.eoapxl.com" static
-local-data: "yeym6baprj.eoapxl.com A 127.0.0.1"
-local-zone: "yeyoinjsanb1235.000webhostapp.com" static
-local-data: "yeyoinjsanb1235.000webhostapp.com A 127.0.0.1"
-local-zone: "yeyou.3dmgame.com" static
-local-data: "yeyou.3dmgame.com A 127.0.0.1"
-local-zone: "yeypjnoe.com" static
-local-data: "yeypjnoe.com A 127.0.0.1"
-local-zone: "yeyuw2940637fafa.com" static
-local-data: "yeyuw2940637fafa.com A 127.0.0.1"
-local-zone: "yeywktvk.com" static
-local-data: "yeywktvk.com A 127.0.0.1"
-local-zone: "yez4yfi8.emltrk.com" static
-local-data: "yez4yfi8.emltrk.com A 127.0.0.1"
-local-zone: "yezdlpm.moonfish.eu" static
-local-data: "yezdlpm.moonfish.eu A 127.0.0.1"
-local-zone: "yezeniamanka.blogspot.com" static
-local-data: "yezeniamanka.blogspot.com A 127.0.0.1"
-local-zone: "yezilm.com" static
-local-data: "yezilm.com A 127.0.0.1"
-local-zone: "yezizim.co.il" static
-local-data: "yezizim.co.il A 127.0.0.1"
-local-zone: "yezminthomas.com" static
-local-data: "yezminthomas.com A 127.0.0.1"
-local-zone: "yeztugohcp.com" static
-local-data: "yeztugohcp.com A 127.0.0.1"
-local-zone: "yezzclips.com" static
-local-data: "yezzclips.com A 127.0.0.1"
-local-zone: "yezzclips.de" static
-local-data: "yezzclips.de A 127.0.0.1"
-local-zone: "yezzclips.org" static
-local-data: "yezzclips.org A 127.0.0.1"
-local-zone: "yezztf.pinkelephant.co.kr" static
-local-data: "yezztf.pinkelephant.co.kr A 127.0.0.1"
-local-zone: "yf-cashier-log.cn-shenzhen.log.aliyuncs.com" static
-local-data: "yf-cashier-log.cn-shenzhen.log.aliyuncs.com A 127.0.0.1"
-local-zone: "yf.atelierdoor.shop" static
-local-data: "yf.atelierdoor.shop A 127.0.0.1"
-local-zone: "yf.catoniclukemia.top" static
-local-data: "yf.catoniclukemia.top A 127.0.0.1"
-local-zone: "yf.clingeroutsat.com" static
-local-data: "yf.clingeroutsat.com A 127.0.0.1"
-local-zone: "yf.hayesborers.com" static
-local-data: "yf.hayesborers.com A 127.0.0.1"
-local-zone: "yf.puntingdeg.com" static
-local-data: "yf.puntingdeg.com A 127.0.0.1"
-local-zone: "yf.tophtitled.com" static
-local-data: "yf.tophtitled.com A 127.0.0.1"
-local-zone: "yf149.infusionsoft.app" static
-local-data: "yf149.infusionsoft.app A 127.0.0.1"
-local-zone: "yf154.infusionsoft.com" static
-local-data: "yf154.infusionsoft.com A 127.0.0.1"
-local-zone: "yf195.infusionsoft.com" static
-local-data: "yf195.infusionsoft.com A 127.0.0.1"
-local-zone: "yf241.infusionsoft.com" static
-local-data: "yf241.infusionsoft.com A 127.0.0.1"
-local-zone: "yf2tbf.lat" static
-local-data: "yf2tbf.lat A 127.0.0.1"
-local-zone: "yf351.infusionsoft.app" static
-local-data: "yf351.infusionsoft.app A 127.0.0.1"
-local-zone: "yf351.infusionsoft.com" static
-local-data: "yf351.infusionsoft.com A 127.0.0.1"
-local-zone: "yf5.voyage-prive.at" static
-local-data: "yf5.voyage-prive.at A 127.0.0.1"
-local-zone: "yf5cx8tri8r05n7r.net.daraz.com" static
-local-data: "yf5cx8tri8r05n7r.net.daraz.com A 127.0.0.1"
-local-zone: "yf7v0u-launches.appsflyersdk.com" static
-local-data: "yf7v0u-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yf898.com" static
-local-data: "yf898.com A 127.0.0.1"
-local-zone: "yf9jul1hidqyn8c7.net.daraz.com" static
-local-data: "yf9jul1hidqyn8c7.net.daraz.com A 127.0.0.1"
-local-zone: "yf9pkk1q.com" static
-local-data: "yf9pkk1q.com A 127.0.0.1"
-local-zone: "yfai.com" static
-local-data: "yfai.com A 127.0.0.1"
-local-zone: "yfanads.cn" static
-local-data: "yfanads.cn A 127.0.0.1"
-local-zone: "yfanads.com" static
-local-data: "yfanads.com A 127.0.0.1"
-local-zone: "yfap.yapage.info" static
-local-data: "yfap.yapage.info A 127.0.0.1"
-local-zone: "yfaqgk.xyz" static
-local-data: "yfaqgk.xyz A 127.0.0.1"
-local-zone: "yfasjfk.icu" static
-local-data: "yfasjfk.icu A 127.0.0.1"
-local-zone: "yfaygn.natureetdecouvertes.com" static
-local-data: "yfaygn.natureetdecouvertes.com A 127.0.0.1"
-local-zone: "yfbde.com" static
-local-data: "yfbde.com A 127.0.0.1"
-local-zone: "yfbeknavbk.duckdns.org" static
-local-data: "yfbeknavbk.duckdns.org A 127.0.0.1"
-local-zone: "yfbgbklm.atspace.com" static
-local-data: "yfbgbklm.atspace.com A 127.0.0.1"
-local-zone: "yfbm.org" static
-local-data: "yfbm.org A 127.0.0.1"
-local-zone: "yfbzb.com" static
-local-data: "yfbzb.com A 127.0.0.1"
-local-zone: "yfc933b22.app-ads-txt.com" static
-local-data: "yfc933b22.app-ads-txt.com A 127.0.0.1"
-local-zone: "yfceuufo.micpn.com" static
-local-data: "yfceuufo.micpn.com A 127.0.0.1"
-local-zone: "yfcjaijr.emltrk.com" static
-local-data: "yfcjaijr.emltrk.com A 127.0.0.1"
-local-zone: "yfclaf.dsw.ca" static
-local-data: "yfclaf.dsw.ca A 127.0.0.1"
-local-zone: "yfclfx.ifriko.pl" static
-local-data: "yfclfx.ifriko.pl A 127.0.0.1"
-local-zone: "yfcode.m.gxwztv.com" static
-local-data: "yfcode.m.gxwztv.com A 127.0.0.1"
-local-zone: "yfdiet.com" static
-local-data: "yfdiet.com A 127.0.0.1"
-local-zone: "yfdyf.biz" static
-local-data: "yfdyf.biz A 127.0.0.1"
-local-zone: "yfdyf.cn" static
-local-data: "yfdyf.cn A 127.0.0.1"
-local-zone: "yfdyf.com" static
-local-data: "yfdyf.com A 127.0.0.1"
-local-zone: "yfe52rbm.emltrk.com" static
-local-data: "yfe52rbm.emltrk.com A 127.0.0.1"
-local-zone: "yfedxj.dangelicoguitars.com" static
-local-data: "yfedxj.dangelicoguitars.com A 127.0.0.1"
-local-zone: "yfefdlv.com" static
-local-data: "yfefdlv.com A 127.0.0.1"
-local-zone: "yfeglobalworldwide.com" static
-local-data: "yfeglobalworldwide.com A 127.0.0.1"
-local-zone: "yfelp.com" static
-local-data: "yfelp.com A 127.0.0.1"
-local-zone: "yfelryfa.moonfish.eu" static
-local-data: "yfelryfa.moonfish.eu A 127.0.0.1"
-local-zone: "yfenys.prenatal.com" static
-local-data: "yfenys.prenatal.com A 127.0.0.1"
-local-zone: "yfepff.raymourflanigan.com" static
-local-data: "yfepff.raymourflanigan.com A 127.0.0.1"
-local-zone: "yfesadfiwdspf.com" static
-local-data: "yfesadfiwdspf.com A 127.0.0.1"
-local-zone: "yfest.ru" static
-local-data: "yfest.ru A 127.0.0.1"
-local-zone: "yfetyg.com" static
-local-data: "yfetyg.com A 127.0.0.1"
-local-zone: "yfeyotlpohzkpr.com" static
-local-data: "yfeyotlpohzkpr.com A 127.0.0.1"
-local-zone: "yfezqijah.bid" static
-local-data: "yfezqijah.bid A 127.0.0.1"
-local-zone: "yff.fr" static
-local-data: "yff.fr A 127.0.0.1"
-local-zone: "yffek489u.com" static
-local-data: "yffek489u.com A 127.0.0.1"
-local-zone: "yffuk.yt" static
-local-data: "yffuk.yt A 127.0.0.1"
-local-zone: "yfgietsfti.com" static
-local-data: "yfgietsfti.com A 127.0.0.1"
-local-zone: "yfgrxkz.com" static
-local-data: "yfgrxkz.com A 127.0.0.1"
-local-zone: "yfgujhjkjokpk-kube-partner.net.daraz.com" static
-local-data: "yfgujhjkjokpk-kube-partner.net.daraz.com A 127.0.0.1"
-local-zone: "yfgujhjkjokpk-staging.dssl.ns.emailvision.authenticate.net.daraz.com" static
-local-data: "yfgujhjkjokpk-staging.dssl.ns.emailvision.authenticate.net.daraz.com A 127.0.0.1"
-local-zone: "yfhei.rdtk.io" static
-local-data: "yfhei.rdtk.io A 127.0.0.1"
-local-zone: "yfhelp.top" static
-local-data: "yfhelp.top A 127.0.0.1"
-local-zone: "yfhfbbfhjrj45hdjjxhf29.000webhostapp.com" static
-local-data: "yfhfbbfhjrj45hdjjxhf29.000webhostapp.com A 127.0.0.1"
-local-zone: "yfhukhqqhkjp.com" static
-local-data: "yfhukhqqhkjp.com A 127.0.0.1"
-local-zone: "yfifr1urxkt7p9j2jx5200ygvkumm1704738257.uaid.imrworldwide.com" static
-local-data: "yfifr1urxkt7p9j2jx5200ygvkumm1704738257.uaid.imrworldwide.com A 127.0.0.1"
-local-zone: "yfinwemk.com" static
-local-data: "yfinwemk.com A 127.0.0.1"
-local-zone: "yfiriki.ru" static
-local-data: "yfiriki.ru A 127.0.0.1"
-local-zone: "yfisher.com" static
-local-data: "yfisher.com A 127.0.0.1"
-local-zone: "yfjfmx.scahealth.com" static
-local-data: "yfjfmx.scahealth.com A 127.0.0.1"
-local-zone: "yfkclv.asianetnews.com" static
-local-data: "yfkclv.asianetnews.com A 127.0.0.1"
-local-zone: "yfkflfa.com" static
-local-data: "yfkflfa.com A 127.0.0.1"
-local-zone: "yfkjoxdrrm.top" static
-local-data: "yfkjoxdrrm.top A 127.0.0.1"
-local-zone: "yfkryktq.100free.com" static
-local-data: "yfkryktq.100free.com A 127.0.0.1"
-local-zone: "yflexibilitukydt.com" static
-local-data: "yflexibilitukydt.com A 127.0.0.1"
-local-zone: "yflkl7j9b4knryiep2ikh6df.blob.core.windows.net" static
-local-data: "yflkl7j9b4knryiep2ikh6df.blob.core.windows.net A 127.0.0.1"
-local-zone: "yfly0f-attr.appsflyersdk.com" static
-local-data: "yfly0f-attr.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-cdn-settings.appsflyersdk.com" static
-local-data: "yfly0f-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-conversions.appsflyersdk.com" static
-local-data: "yfly0f-conversions.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-dynamic-config-api.appsflyersdk.com" static
-local-data: "yfly0f-dynamic-config-api.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-dynamic-report-api.appsflyersdk.com" static
-local-data: "yfly0f-dynamic-report-api.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-gcdsdk.appsflyersdk.com" static
-local-data: "yfly0f-gcdsdk.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-inapps.appsflyersdk.com" static
-local-data: "yfly0f-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-launches.appsflyersdk.com" static
-local-data: "yfly0f-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-skadsdk.appsflyersdk.com" static
-local-data: "yfly0f-skadsdk.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfly0f-skadsdkless.appsflyersdk.com" static
-local-data: "yfly0f-skadsdkless.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfminw.cn" static
-local-data: "yfminw.cn A 127.0.0.1"
-local-zone: "yfnlf.com" static
-local-data: "yfnlf.com A 127.0.0.1"
-local-zone: "yfnyaww.cn" static
-local-data: "yfnyaww.cn A 127.0.0.1"
-local-zone: "yfoega.xyz" static
-local-data: "yfoega.xyz A 127.0.0.1"
-local-zone: "yfomalt.ru" static
-local-data: "yfomalt.ru A 127.0.0.1"
-local-zone: "yfonifodafyza.blogspot.com" static
-local-data: "yfonifodafyza.blogspot.com A 127.0.0.1"
-local-zone: "yfooaaj.icu" static
-local-data: "yfooaaj.icu A 127.0.0.1"
-local-zone: "yfood.com" static
-local-data: "yfood.com A 127.0.0.1"
-local-zone: "yfopreasyonelkiralama.totalh.net" static
-local-data: "yfopreasyonelkiralama.totalh.net A 127.0.0.1"
-local-zone: "yfopurasyonelkiralama.totalh.net" static
-local-data: "yfopurasyonelkiralama.totalh.net A 127.0.0.1"
-local-zone: "yfopyrasyonelkiralama.totalh.net" static
-local-data: "yfopyrasyonelkiralama.totalh.net A 127.0.0.1"
-local-zone: "yfoqerasyonelkiralama.totalh.net" static
-local-data: "yfoqerasyonelkiralama.totalh.net A 127.0.0.1"
-local-zone: "yfoybsz.com" static
-local-data: "yfoybsz.com A 127.0.0.1"
-local-zone: "yfoymaiiab.club" static
-local-data: "yfoymaiiab.club A 127.0.0.1"
-local-zone: "yfp-office.com" static
-local-data: "yfp-office.com A 127.0.0.1"
-local-zone: "yfp2p.net" static
-local-data: "yfp2p.net A 127.0.0.1"
-local-zone: "yfperasyonelkiralama.totalh.net" static
-local-data: "yfperasyonelkiralama.totalh.net A 127.0.0.1"
-local-zone: "yfpouqn.ru" static
-local-data: "yfpouqn.ru A 127.0.0.1"
-local-zone: "yfpvmd.reed.co.uk" static
-local-data: "yfpvmd.reed.co.uk A 127.0.0.1"
-local-zone: "yfqianbao.com" static
-local-data: "yfqianbao.com A 127.0.0.1"
-local-zone: "yfqkwvzkl.gq" static
-local-data: "yfqkwvzkl.gq A 127.0.0.1"
-local-zone: "yfqlqjpdsckc.com" static
-local-data: "yfqlqjpdsckc.com A 127.0.0.1"
-local-zone: "yfqqmfh499wusz49.dcsportal.0-astrologie.net.daraz.com" static
-local-data: "yfqqmfh499wusz49.dcsportal.0-astrologie.net.daraz.com A 127.0.0.1"
-local-zone: "yfqqmfh499wusz49.net.daraz.com" static
-local-data: "yfqqmfh499wusz49.net.daraz.com A 127.0.0.1"
-local-zone: "yfqqmfh499wusz49.webappr-oa-2.net.daraz.com" static
-local-data: "yfqqmfh499wusz49.webappr-oa-2.net.daraz.com A 127.0.0.1"
-local-zone: "yfqqmfh499wusz49.wikipartnerdashboard.net.daraz.com" static
-local-data: "yfqqmfh499wusz49.wikipartnerdashboard.net.daraz.com A 127.0.0.1"
-local-zone: "yfquojkptgpoai.com" static
-local-data: "yfquojkptgpoai.com A 127.0.0.1"
-local-zone: "yfqvtpz.info" static
-local-data: "yfqvtpz.info A 127.0.0.1"
-local-zone: "yfqyvg.com" static
-local-data: "yfqyvg.com A 127.0.0.1"
-local-zone: "yfr2ff-inapps.appsflyersdk.com" static
-local-data: "yfr2ff-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfr2ff-launches.appsflyersdk.com" static
-local-data: "yfr2ff-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfrauvz.cyou" static
-local-data: "yfrauvz.cyou A 127.0.0.1"
-local-zone: "yfrey.com" static
-local-data: "yfrey.com A 127.0.0.1"
-local-zone: "yfrfyhf.youdontcare.com" static
-local-data: "yfrfyhf.youdontcare.com A 127.0.0.1"
-local-zone: "yfrglar.ru" static
-local-data: "yfrglar.ru A 127.0.0.1"
-local-zone: "yfrmpdp.cn" static
-local-data: "yfrmpdp.cn A 127.0.0.1"
-local-zone: "yfrnkmcdeurmk.top" static
-local-data: "yfrnkmcdeurmk.top A 127.0.0.1"
-local-zone: "yfrrdufhso.duckdns.org" static
-local-data: "yfrrdufhso.duckdns.org A 127.0.0.1"
-local-zone: "yfrsukbbfzyf.com" static
-local-data: "yfrsukbbfzyf.com A 127.0.0.1"
-local-zone: "yfrwstor.cn" static
-local-data: "yfrwstor.cn A 127.0.0.1"
-local-zone: "yfs.quifelenergy.com" static
-local-data: "yfs.quifelenergy.com A 127.0.0.1"
-local-zone: "yfsp.tv" static
-local-data: "yfsp.tv A 127.0.0.1"
-local-zone: "yfspornplease.com" static
-local-data: "yfspornplease.com A 127.0.0.1"
-local-zone: "yfsstec96.xyz" static
-local-data: "yfsstec96.xyz A 127.0.0.1"
-local-zone: "yfswebstatic.com" static
-local-data: "yfswebstatic.com A 127.0.0.1"
-local-zone: "yfsyxh.com" static
-local-data: "yfsyxh.com A 127.0.0.1"
-local-zone: "yftkzg.footballtransfertavern.com" static
-local-data: "yftkzg.footballtransfertavern.com A 127.0.0.1"
-local-zone: "yftkzg.thisisfutbol.com" static
-local-data: "yftkzg.thisisfutbol.com A 127.0.0.1"
-local-zone: "yftokwetfintrotexchnoldtyutfsnqxstplxw.glitch.me" static
-local-data: "yftokwetfintrotexchnoldtyutfsnqxstplxw.glitch.me A 127.0.0.1"
-local-zone: "yftpnol.com" static
-local-data: "yftpnol.com A 127.0.0.1"
-local-zone: "yftva.rdtk.io" static
-local-data: "yftva.rdtk.io A 127.0.0.1"
-local-zone: "yftydcuqnar.cc" static
-local-data: "yftydcuqnar.cc A 127.0.0.1"
-local-zone: "yftyrw623weuscswstury-tqadfk723we98ugjws.teemill.com" static
-local-data: "yftyrw623weuscswstury-tqadfk723we98ugjws.teemill.com A 127.0.0.1"
-local-zone: "yfuckbook.com" static
-local-data: "yfuckbook.com A 127.0.0.1"
-local-zone: "yfueuktureukwo.org" static
-local-data: "yfueuktureukwo.org A 127.0.0.1"
-local-zone: "yfuydszrvbpmq.site" static
-local-data: "yfuydszrvbpmq.site A 127.0.0.1"
-local-zone: "yfuzzb-cdn-settings.appsflyersdk.com" static
-local-data: "yfuzzb-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfuzzb-launches.appsflyersdk.com" static
-local-data: "yfuzzb-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yfveranuqguoc.love" static
-local-data: "yfveranuqguoc.love A 127.0.0.1"
-local-zone: "yfvva.voluumtrk.com" static
-local-data: "yfvva.voluumtrk.com A 127.0.0.1"
-local-zone: "yfwlfxuu.top" static
-local-data: "yfwlfxuu.top A 127.0.0.1"
-local-zone: "yfwnsy.infraredsauna.com" static
-local-data: "yfwnsy.infraredsauna.com A 127.0.0.1"
-local-zone: "yfwqlnlq.tiznmktqel.com" static
-local-data: "yfwqlnlq.tiznmktqel.com A 127.0.0.1"
-local-zone: "yfxlf.com" static
-local-data: "yfxlf.com A 127.0.0.1"
-local-zone: "yfxpcode.m.gxwztv.com" static
-local-data: "yfxpcode.m.gxwztv.com A 127.0.0.1"
-local-zone: "yfxql.com" static
-local-data: "yfxql.com A 127.0.0.1"
-local-zone: "yfy7pk2ecangwj4.www.board.adx1.com" static
-local-data: "yfy7pk2ecangwj4.www.board.adx1.com A 127.0.0.1"
-local-zone: "yfycy.com" static
-local-data: "yfycy.com A 127.0.0.1"
-local-zone: "yfydsns.net" static
-local-data: "yfydsns.net A 127.0.0.1"
-local-zone: "yfyljg.com" static
-local-data: "yfyljg.com A 127.0.0.1"
-local-zone: "yfypfpfmcfvmi.top" static
-local-data: "yfypfpfmcfvmi.top A 127.0.0.1"
-local-zone: "yfz3.com" static
-local-data: "yfz3.com A 127.0.0.1"
-local-zone: "yfzbhuljo.net" static
-local-data: "yfzbhuljo.net A 127.0.0.1"
-local-zone: "yfzcentral.com" static
-local-data: "yfzcentral.com A 127.0.0.1"
-local-zone: "yfzcjqpxunsn.com" static
-local-data: "yfzcjqpxunsn.com A 127.0.0.1"
-local-zone: "yfzohuuguor.bid" static
-local-data: "yfzohuuguor.bid A 127.0.0.1"
-local-zone: "yfzpxnb.xyz" static
-local-data: "yfzpxnb.xyz A 127.0.0.1"
-local-zone: "yfzrotbxdbz.com" static
-local-data: "yfzrotbxdbz.com A 127.0.0.1"
-local-zone: "yg-p.alcmpn.com" static
-local-data: "yg-p.alcmpn.com A 127.0.0.1"
-local-zone: "yg.adac.de" static
-local-data: "yg.adac.de A 127.0.0.1"
-local-zone: "yg.coehornjobbet.com" static
-local-data: "yg.coehornjobbet.com A 127.0.0.1"
-local-zone: "yg.dawutmurrah.com" static
-local-data: "yg.dawutmurrah.com A 127.0.0.1"
-local-zone: "yg.hyzoneshilpit.com" static
-local-data: "yg.hyzoneshilpit.com A 127.0.0.1"
-local-zone: "yg.jivinggrazers.com" static
-local-data: "yg.jivinggrazers.com A 127.0.0.1"
-local-zone: "yg.jutkadolor.com" static
-local-data: "yg.jutkadolor.com A 127.0.0.1"
-local-zone: "yg.mini.games" static
-local-data: "yg.mini.games A 127.0.0.1"
-local-zone: "yg.sirenwaicuri.com" static
-local-data: "yg.sirenwaicuri.com A 127.0.0.1"
-local-zone: "yg.srs.doubleverify.com" static
-local-data: "yg.srs.doubleverify.com A 127.0.0.1"
-local-zone: "yg.stereosfeet.com" static
-local-data: "yg.stereosfeet.com A 127.0.0.1"
-local-zone: "yg02sl.us" static
-local-data: "yg02sl.us A 127.0.0.1"
-local-zone: "yg104.infusionsoft.com" static
-local-data: "yg104.infusionsoft.com A 127.0.0.1"
-local-zone: "yg17rfokgpb9.top" static
-local-data: "yg17rfokgpb9.top A 127.0.0.1"
-local-zone: "yg309.infusionsoft.app" static
-local-data: "yg309.infusionsoft.app A 127.0.0.1"
-local-zone: "yg309.infusionsoft.com" static
-local-data: "yg309.infusionsoft.com A 127.0.0.1"
-local-zone: "yg352.infusionsoft.com" static
-local-data: "yg352.infusionsoft.com A 127.0.0.1"
-local-zone: "yg383.infusionsoft.com" static
-local-data: "yg383.infusionsoft.com A 127.0.0.1"
-local-zone: "yg3yl-afz9n.ads.tremorhub.com" static
-local-data: "yg3yl-afz9n.ads.tremorhub.com A 127.0.0.1"
-local-zone: "yg3yl-id4ek.ads.tremorhub.com" static
-local-data: "yg3yl-id4ek.ads.tremorhub.com A 127.0.0.1"
-local-zone: "yg409.infusionsoft.com" static
-local-data: "yg409.infusionsoft.com A 127.0.0.1"
-local-zone: "yg414.infusionsoft.app" static
-local-data: "yg414.infusionsoft.app A 127.0.0.1"
-local-zone: "yg414.infusionsoft.com" static
-local-data: "yg414.infusionsoft.com A 127.0.0.1"
-local-zone: "yg5sjx5kzy.com" static
-local-data: "yg5sjx5kzy.com A 127.0.0.1"
-local-zone: "yg6deou8.emltrk.com" static
-local-data: "yg6deou8.emltrk.com A 127.0.0.1"
-local-zone: "yg704.infusionsoft.app" static
-local-data: "yg704.infusionsoft.app A 127.0.0.1"
-local-zone: "yg704.infusionsoft.com" static
-local-data: "yg704.infusionsoft.com A 127.0.0.1"
-local-zone: "yg777.org" static
-local-data: "yg777.org A 127.0.0.1"
-local-zone: "yg7j.mjt.lu" static
-local-data: "yg7j.mjt.lu A 127.0.0.1"
-local-zone: "yg7u.mjt.lu" static
-local-data: "yg7u.mjt.lu A 127.0.0.1"
-local-zone: "yg80i.com" static
-local-data: "yg80i.com A 127.0.0.1"
-local-zone: "yg8e8mnyhwitw4tf.kcdn.cdn.gr.com" static
-local-data: "yg8e8mnyhwitw4tf.kcdn.cdn.gr.com A 127.0.0.1"
-local-zone: "yg9c.adj.st" static
-local-data: "yg9c.adj.st A 127.0.0.1"
-local-zone: "ygacity.com" static
-local-data: "ygacity.com A 127.0.0.1"
-local-zone: "ygadaika.ru" static
-local-data: "ygadaika.ru A 127.0.0.1"
-local-zone: "ygamag.com" static
-local-data: "ygamag.com A 127.0.0.1"
-local-zone: "ygametime.com" static
-local-data: "ygametime.com A 127.0.0.1"
-local-zone: "ygamey.com" static
-local-data: "ygamey.com A 127.0.0.1"
-local-zone: "yganesnifl.net" static
-local-data: "yganesnifl.net A 127.0.0.1"
-local-zone: "ygbarujauhlebihenak-fsef3.rf.gd" static
-local-data: "ygbarujauhlebihenak-fsef3.rf.gd A 127.0.0.1"
-local-zone: "ygblpbvojzq.com" static
-local-data: "ygblpbvojzq.com A 127.0.0.1"
-local-zone: "ygbokgipe.bid" static
-local-data: "ygbokgipe.bid A 127.0.0.1"
-local-zone: "ygc007.cloudcsp.com" static
-local-data: "ygc007.cloudcsp.com A 127.0.0.1"
-local-zone: "ygcrt6d56cgy.weebly.com" static
-local-data: "ygcrt6d56cgy.weebly.com A 127.0.0.1"
-local-zone: "ygcwork.cn" static
-local-data: "ygcwork.cn A 127.0.0.1"
-local-zone: "ygcworki.cn" static
-local-data: "ygcworki.cn A 127.0.0.1"
-local-zone: "ygd65cggh.com" static
-local-data: "ygd65cggh.com A 127.0.0.1"
-local-zone: "ygd6tcjh5k.chasef.com" static
-local-data: "ygd6tcjh5k.chasef.com A 127.0.0.1"
-local-zone: "ygde.de" static
-local-data: "ygde.de A 127.0.0.1"
-local-zone: "ygdgryq.ru" static
-local-data: "ygdgryq.ru A 127.0.0.1"
-local-zone: "ygdhmgjly.xyz" static
-local-data: "ygdhmgjly.xyz A 127.0.0.1"
-local-zone: "ygdigital-d.openx.net" static
-local-data: "ygdigital-d.openx.net A 127.0.0.1"
-local-zone: "ygdogx.hearstmagazines.co.uk" static
-local-data: "ygdogx.hearstmagazines.co.uk A 127.0.0.1"
-local-zone: "ygdygw.com" static
-local-data: "ygdygw.com A 127.0.0.1"
-local-zone: "ygdyukttmz.ga" static
-local-data: "ygdyukttmz.ga A 127.0.0.1"
-local-zone: "ygebe.com" static
-local-data: "ygebe.com A 127.0.0.1"
-local-zone: "ygebzkorfi7.alphonso.tv" static
-local-data: "ygebzkorfi7.alphonso.tv A 127.0.0.1"
-local-zone: "ygecho.wenz.de" static
-local-data: "ygecho.wenz.de A 127.0.0.1"
-local-zone: "ygefokk0.emltrk.com" static
-local-data: "ygefokk0.emltrk.com A 127.0.0.1"
-local-zone: "ygeiamou.gr" static
-local-data: "ygeiamou.gr A 127.0.0.1"
-local-zone: "ygelp.com" static
-local-data: "ygelp.com A 127.0.0.1"
-local-zone: "ygelzbmyc.org" static
-local-data: "ygelzbmyc.org A 127.0.0.1"
-local-zone: "ygeosqsomusu.xyz" static
-local-data: "ygeosqsomusu.xyz A 127.0.0.1"
-local-zone: "ygeqiky.com" static
-local-data: "ygeqiky.com A 127.0.0.1"
-local-zone: "ygf.484s54253ay4o0z.m62n546y6mt5zx9n69h.com" static
-local-data: "ygf.484s54253ay4o0z.m62n546y6mt5zx9n69h.com A 127.0.0.1"
-local-zone: "ygf.705re8e5pgdszdu.333fbcyp4f59n47mr4.com" static
-local-data: "ygf.705re8e5pgdszdu.333fbcyp4f59n47mr4.com A 127.0.0.1"
-local-zone: "ygfdby.palladiumboots.eu" static
-local-data: "ygfdby.palladiumboots.eu A 127.0.0.1"
-local-zone: "ygfgzmzo.xyz" static
-local-data: "ygfgzmzo.xyz A 127.0.0.1"
-local-zone: "ygfh9k-launches.appsflyersdk.com" static
-local-data: "ygfh9k-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygfueiavs1kkzvg-p.adktrack30.xyz" static
-local-data: "ygfueiavs1kkzvg-p.adktrack30.xyz A 127.0.0.1"
-local-zone: "ygfycf.cpa.mynavi.jp" static
-local-data: "ygfycf.cpa.mynavi.jp A 127.0.0.1"
-local-zone: "yggdrasil.appier.net" static
-local-data: "yggdrasil.appier.net A 127.0.0.1"
-local-zone: "yggdrasil.inforcloudservices.com" static
-local-data: "yggdrasil.inforcloudservices.com A 127.0.0.1"
-local-zone: "yggdrasilgaming.com" static
-local-data: "yggdrasilgaming.com A 127.0.0.1"
-local-zone: "yggrp.com" static
-local-data: "yggrp.com A 127.0.0.1"
-local-zone: "yggtorrent.com" static
-local-data: "yggtorrent.com A 127.0.0.1"
-local-zone: "yggtorrent.top" static
-local-data: "yggtorrent.top A 127.0.0.1"
-local-zone: "yggtorrents.re" static
-local-data: "yggtorrents.re A 127.0.0.1"
-local-zone: "yggv8.icu.domain.name" static
-local-data: "yggv8.icu.domain.name A 127.0.0.1"
-local-zone: "yggy0f-cdn-settings.appsflyersdk.com" static
-local-data: "yggy0f-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yggy0f-gcdsdk.appsflyersdk.com" static
-local-data: "yggy0f-gcdsdk.appsflyersdk.com A 127.0.0.1"
-local-zone: "yggy0f-launches.appsflyersdk.com" static
-local-data: "yggy0f-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yggy0f-skadsdkless.appsflyersdk.com" static
-local-data: "yggy0f-skadsdkless.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygh5.cn" static
-local-data: "ygh5.cn A 127.0.0.1"
-local-zone: "yghalathio.com" static
-local-data: "yghalathio.com A 127.0.0.1"
-local-zone: "yghcoahve.com" static
-local-data: "yghcoahve.com A 127.0.0.1"
-local-zone: "yghh.adj.st" static
-local-data: "yghh.adj.st A 127.0.0.1"
-local-zone: "yghrhc.agasus.com.br" static
-local-data: "yghrhc.agasus.com.br A 127.0.0.1"
-local-zone: "ygilvn.fietsenopfietsen.nl" static
-local-data: "ygilvn.fietsenopfietsen.nl A 127.0.0.1"
-local-zone: "ygim.or.id" static
-local-data: "ygim.or.id A 127.0.0.1"
-local-zone: "ygimedov.xyz" static
-local-data: "ygimedov.xyz A 127.0.0.1"
-local-zone: "ygimeqcpvbtci.rocks" static
-local-data: "ygimeqcpvbtci.rocks A 127.0.0.1"
-local-zone: "ygipjqf.icu" static
-local-data: "ygipjqf.icu A 127.0.0.1"
-local-zone: "ygirls.com.ng" static
-local-data: "ygirls.com.ng A 127.0.0.1"
-local-zone: "ygj3z30c5so8rzlm.assets.net.daraz.com" static
-local-data: "ygj3z30c5so8rzlm.assets.net.daraz.com A 127.0.0.1"
-local-zone: "ygj3z30c5so8rzlm.bellsouth.net.daraz.com" static
-local-data: "ygj3z30c5so8rzlm.bellsouth.net.daraz.com A 127.0.0.1"
-local-zone: "ygj3z30c5so8rzlm.net.daraz.com" static
-local-data: "ygj3z30c5so8rzlm.net.daraz.com A 127.0.0.1"
-local-zone: "ygj3z30c5so8rzlm.partner-pay.net.daraz.com" static
-local-data: "ygj3z30c5so8rzlm.partner-pay.net.daraz.com A 127.0.0.1"
-local-zone: "ygj3z30c5so8rzlm.partner.net.daraz.com" static
-local-data: "ygj3z30c5so8rzlm.partner.net.daraz.com A 127.0.0.1"
-local-zone: "ygjbhg.com" static
-local-data: "ygjbhg.com A 127.0.0.1"
-local-zone: "ygjj.com" static
-local-data: "ygjj.com A 127.0.0.1"
-local-zone: "ygjxol.hometogo.com.mx" static
-local-data: "ygjxol.hometogo.com.mx A 127.0.0.1"
-local-zone: "ygk53n43w4mz.ddns.dataunlocker.com" static
-local-data: "ygk53n43w4mz.ddns.dataunlocker.com A 127.0.0.1"
-local-zone: "ygkibjr6.alphonso.tv" static
-local-data: "ygkibjr6.alphonso.tv A 127.0.0.1"
-local-zone: "ygkqjensf.bid" static
-local-data: "ygkqjensf.bid A 127.0.0.1"
-local-zone: "ygkw9x53vm45.shop" static
-local-data: "ygkw9x53vm45.shop A 127.0.0.1"
-local-zone: "ygkwjd.xyz" static
-local-data: "ygkwjd.xyz A 127.0.0.1"
-local-zone: "ygkwkljdyi.net" static
-local-data: "ygkwkljdyi.net A 127.0.0.1"
-local-zone: "ygl64.com" static
-local-data: "ygl64.com A 127.0.0.1"
-local-zone: "ygla.com" static
-local-data: "ygla.com A 127.0.0.1"
-local-zone: "ygles.com" static
-local-data: "ygles.com A 127.0.0.1"
-local-zone: "yglhqwfi756kcu.dis-tv.fun" static
-local-data: "yglhqwfi756kcu.dis-tv.fun A 127.0.0.1"
-local-zone: "yglm.net" static
-local-data: "yglm.net A 127.0.0.1"
-local-zone: "yglnpiux9gwgmo8f.net.daraz.com" static
-local-data: "yglnpiux9gwgmo8f.net.daraz.com A 127.0.0.1"
-local-zone: "yglsearch.com" static
-local-data: "yglsearch.com A 127.0.0.1"
-local-zone: "ygmkcuj3v.com" static
-local-data: "ygmkcuj3v.com A 127.0.0.1"
-local-zone: "ygmkvi-inapps.appsflyersdk.com" static
-local-data: "ygmkvi-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygmkvi-launches.appsflyersdk.com" static
-local-data: "ygmkvi-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygmpia.worten.pt" static
-local-data: "ygmpia.worten.pt A 127.0.0.1"
-local-zone: "ygmrgwj5t7lv6t8y.be.net.daraz.com" static
-local-data: "ygmrgwj5t7lv6t8y.be.net.daraz.com A 127.0.0.1"
-local-zone: "ygmrgwj5t7lv6t8y.net.daraz.com" static
-local-data: "ygmrgwj5t7lv6t8y.net.daraz.com A 127.0.0.1"
-local-zone: "ygmrgwj5t7lv6t8y.partner.net.daraz.com" static
-local-data: "ygmrgwj5t7lv6t8y.partner.net.daraz.com A 127.0.0.1"
-local-zone: "ygmrgwj5t7lv6t8y.production-documentsns.partner-pay.net.daraz.com" static
-local-data: "ygmrgwj5t7lv6t8y.production-documentsns.partner-pay.net.daraz.com A 127.0.0.1"
-local-zone: "ygmrgwj5t7lv6t8y.summer.net.daraz.com" static
-local-data: "ygmrgwj5t7lv6t8y.summer.net.daraz.com A 127.0.0.1"
-local-zone: "ygn-forms.trafficfactory.biz" static
-local-data: "ygn-forms.trafficfactory.biz A 127.0.0.1"
-local-zone: "ygnbukywx.com" static
-local-data: "ygnbukywx.com A 127.0.0.1"
-local-zone: "ygnhdmuyljopbla.sotreq.net" static
-local-data: "ygnhdmuyljopbla.sotreq.net A 127.0.0.1"
-local-zone: "ygo-assets-entities-emea.yougov.net" static
-local-data: "ygo-assets-entities-emea.yougov.net A 127.0.0.1"
-local-zone: "ygo-assets-entities-us.yougov.net" static
-local-data: "ygo-assets-entities-us.yougov.net A 127.0.0.1"
-local-zone: "ygo-assets-websites-editorial-emea.yougov.net" static
-local-data: "ygo-assets-websites-editorial-emea.yougov.net A 127.0.0.1"
-local-zone: "ygo-assets-websites-general.yougov.net" static
-local-data: "ygo-assets-websites-general.yougov.net A 127.0.0.1"
-local-zone: "ygo-assets-websites-legacy.yougov.net" static
-local-data: "ygo-assets-websites-legacy.yougov.net A 127.0.0.1"
-local-zone: "ygo.no-ip.info" static
-local-data: "ygo.no-ip.info A 127.0.0.1"
-local-zone: "ygoibya.icu" static
-local-data: "ygoibya.icu A 127.0.0.1"
-local-zone: "ygoogle.fr" static
-local-data: "ygoogle.fr A 127.0.0.1"
-local-zone: "ygop.com" static
-local-data: "ygop.com A 127.0.0.1"
-local-zone: "ygopro.online" static
-local-data: "ygopro.online A 127.0.0.1"
-local-zone: "ygoprog.com" static
-local-data: "ygoprog.com A 127.0.0.1"
-local-zone: "ygopvz.windsorstore.com" static
-local-data: "ygopvz.windsorstore.com A 127.0.0.1"
-local-zone: "ygospel.com" static
-local-data: "ygospel.com A 127.0.0.1"
-local-zone: "ygov.com" static
-local-data: "ygov.com A 127.0.0.1"
-local-zone: "ygqbtf-cdn-settings.appsflyersdk.com" static
-local-data: "ygqbtf-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqbtf-inapps.appsflyersdk.com" static
-local-data: "ygqbtf-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqbtf-launches.appsflyersdk.com" static
-local-data: "ygqbtf-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-cdn-settings.appsflyersdk.com" static
-local-data: "ygqik8-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-conversions.appsflyersdk.com" static
-local-data: "ygqik8-conversions.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-dlsdk.appsflyersdk.com" static
-local-data: "ygqik8-dlsdk.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-gcdsdk.appsflyersdk.com" static
-local-data: "ygqik8-gcdsdk.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-inapps.appsflyersdk.com" static
-local-data: "ygqik8-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-launches.appsflyersdk.com" static
-local-data: "ygqik8-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqik8-register.appsflyersdk.com" static
-local-data: "ygqik8-register.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygqqaluei.com" static
-local-data: "ygqqaluei.com A 127.0.0.1"
-local-zone: "ygqvv.rdtk.io" static
-local-data: "ygqvv.rdtk.io A 127.0.0.1"
-local-zone: "ygrgaif.ru" static
-local-data: "ygrgaif.ru A 127.0.0.1"
-local-zone: "ygridcore.net" static
-local-data: "ygridcore.net A 127.0.0.1"
-local-zone: "ygrowthortigyq.dataplane.rudderstack.com" static
-local-data: "ygrowthortigyq.dataplane.rudderstack.com A 127.0.0.1"
-local-zone: "ygs44.com" static
-local-data: "ygs44.com A 127.0.0.1"
-local-zone: "ygsgfzydhdgd.com" static
-local-data: "ygsgfzydhdgd.com A 127.0.0.1"
-local-zone: "ygsite.cn" static
-local-data: "ygsite.cn A 127.0.0.1"
-local-zone: "ygsm.com" static
-local-data: "ygsm.com A 127.0.0.1"
-local-zone: "ygsoeu.size.co.uk" static
-local-data: "ygsoeu.size.co.uk A 127.0.0.1"
-local-zone: "ygspqq-adrevenue.appsflyersdk.com" static
-local-data: "ygspqq-adrevenue.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygspqq-cdn-settings.appsflyersdk.com" static
-local-data: "ygspqq-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygspqq-conversions.appsflyersdk.com" static
-local-data: "ygspqq-conversions.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygspqq-inapps.appsflyersdk.com" static
-local-data: "ygspqq-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygspqq-launches.appsflyersdk.com" static
-local-data: "ygspqq-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygsqqlm.ru" static
-local-data: "ygsqqlm.ru A 127.0.0.1"
-local-zone: "ygterewa.duckdns.org" static
-local-data: "ygterewa.duckdns.org A 127.0.0.1"
-local-zone: "ygtfgu.casamundo.nl" static
-local-data: "ygtfgu.casamundo.nl A 127.0.0.1"
-local-zone: "ygtfrdjxwcf6shgxfs0kcjhm1b-j6uwysgcfjxokhbnvfgehj.teemill.com" static
-local-data: "ygtfrdjxwcf6shgxfs0kcjhm1b-j6uwysgcfjxokhbnvfgehj.teemill.com A 127.0.0.1"
-local-zone: "ygto.com" static
-local-data: "ygto.com A 127.0.0.1"
-local-zone: "ygtrus.chilli.no" static
-local-data: "ygtrus.chilli.no A 127.0.0.1"
-local-zone: "ygtu188.com" static
-local-data: "ygtu188.com A 127.0.0.1"
-local-zone: "ygtube.xyz" static
-local-data: "ygtube.xyz A 127.0.0.1"
-local-zone: "ygtumakmgp.duckdns.org" static
-local-data: "ygtumakmgp.duckdns.org A 127.0.0.1"
-local-zone: "ygtwwuk.silveregg.net" static
-local-data: "ygtwwuk.silveregg.net A 127.0.0.1"
-local-zone: "ygucjvjbiv.000webhostapp.com" static
-local-data: "ygucjvjbiv.000webhostapp.com A 127.0.0.1"
-local-zone: "ygunoiunommiurynfuup.com" static
-local-data: "ygunoiunommiurynfuup.com A 127.0.0.1"
-local-zone: "ygup4202009.blogspot.com" static
-local-data: "ygup4202009.blogspot.com A 127.0.0.1"
-local-zone: "ygutus.campuspoint.de" static
-local-data: "ygutus.campuspoint.de A 127.0.0.1"
-local-zone: "ygvbgf.tech" static
-local-data: "ygvbgf.tech A 127.0.0.1"
-local-zone: "ygvqkxri.100free.com" static
-local-data: "ygvqkxri.100free.com A 127.0.0.1"
-local-zone: "ygvqkxri.atspace.com" static
-local-data: "ygvqkxri.atspace.com A 127.0.0.1"
-local-zone: "ygvqughn.com" static
-local-data: "ygvqughn.com A 127.0.0.1"
-local-zone: "ygvyp.com" static
-local-data: "ygvyp.com A 127.0.0.1"
-local-zone: "ygw-software.trafficfactory.biz" static
-local-data: "ygw-software.trafficfactory.biz A 127.0.0.1"
-local-zone: "ygwdai.cn" static
-local-data: "ygwdai.cn A 127.0.0.1"
-local-zone: "ygwigs.com" static
-local-data: "ygwigs.com A 127.0.0.1"
-local-zone: "ygwk.net" static
-local-data: "ygwk.net A 127.0.0.1"
-local-zone: "ygx93r-adrevenue.appsflyersdk.com" static
-local-data: "ygx93r-adrevenue.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygx93r-impression.appsflyersdk.com" static
-local-data: "ygx93r-impression.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygx93r-inapps.appsflyersdk.com" static
-local-data: "ygx93r-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygx93r-launches.appsflyersdk.com" static
-local-data: "ygx93r-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "ygxgk.cn" static
-local-data: "ygxgk.cn A 127.0.0.1"
-local-zone: "ygxiewp.angelfire.com" static
-local-data: "ygxiewp.angelfire.com A 127.0.0.1"
-local-zone: "ygxqjz.intersport.fi" static
-local-data: "ygxqjz.intersport.fi A 127.0.0.1"
-local-zone: "ygxz.in" static
-local-data: "ygxz.in A 127.0.0.1"
-local-zone: "ygy.coolinc.info" static
-local-data: "ygy.coolinc.info A 127.0.0.1"
-local-zone: "ygy.luk2.com" static
-local-data: "ygy.luk2.com A 127.0.0.1"
-local-zone: "ygymninabh.biz" static
-local-data: "ygymninabh.biz A 127.0.0.1"
-local-zone: "ygytagwykabfst.com" static
-local-data: "ygytagwykabfst.com A 127.0.0.1"
-local-zone: "ygyymhfstzuen.com" static
-local-data: "ygyymhfstzuen.com A 127.0.0.1"
-local-zone: "ygyynkw.com" static
-local-data: "ygyynkw.com A 127.0.0.1"
-local-zone: "ygz-wildcardsan.trafficfactory.biz" static
-local-data: "ygz-wildcardsan.trafficfactory.biz A 127.0.0.1"
-local-zone: "ygz1pd7.online" static
-local-data: "ygz1pd7.online A 127.0.0.1"
-local-zone: "ygzkedoxwhqlzp.com" static
-local-data: "ygzkedoxwhqlzp.com A 127.0.0.1"
-local-zone: "ygzqlnt.cn" static
-local-data: "ygzqlnt.cn A 127.0.0.1"
-local-zone: "yh-07-vinted.pages.dev" static
-local-data: "yh-07-vinted.pages.dev A 127.0.0.1"
-local-zone: "yh-coating.com" static
-local-data: "yh-coating.com A 127.0.0.1"
-local-zone: "yh-mail.totalh.net" static
-local-data: "yh-mail.totalh.net A 127.0.0.1"
-local-zone: "yh-metals.com" static
-local-data: "yh-metals.com A 127.0.0.1"
-local-zone: "yh-tech.com" static
-local-data: "yh-tech.com A 127.0.0.1"
-local-zone: "yh.91store.xyz" static
-local-data: "yh.91store.xyz A 127.0.0.1"
-local-zone: "yh.adx1.com" static
-local-data: "yh.adx1.com A 127.0.0.1"
-local-zone: "yh.awal122182.000webhostapp.com" static
-local-data: "yh.awal122182.000webhostapp.com A 127.0.0.1"
-local-zone: "yh.gbc.criteo.com" static
-local-data: "yh.gbc.criteo.com A 127.0.0.1"
-local-zone: "yh.lol" static
-local-data: "yh.lol A 127.0.0.1"
-local-zone: "yh.musthopanewbie.000webhostapp.com" static
-local-data: "yh.musthopanewbie.000webhostapp.com A 127.0.0.1"
-local-zone: "yh.new1s.my.id" static
-local-data: "yh.new1s.my.id A 127.0.0.1"
-local-zone: "yh.racingturtlesg07.000webhostapp.com" static
-local-data: "yh.racingturtlesg07.000webhostapp.com A 127.0.0.1"
-local-zone: "yh.unrulethebaic.com" static
-local-data: "yh.unrulethebaic.com A 127.0.0.1"
-local-zone: "yh.witesamomal.top" static
-local-data: "yh.witesamomal.top A 127.0.0.1"
-local-zone: "yh.yardiaspire.com" static
-local-data: "yh.yardiaspire.com A 127.0.0.1"
-local-zone: "yh.yardielearning.com" static
-local-data: "yh.yardielearning.com A 127.0.0.1"
-local-zone: "yh.zg-zxzx.net" static
-local-data: "yh.zg-zxzx.net A 127.0.0.1"
-local-zone: "yh0v.mjt.lu" static
-local-data: "yh0v.mjt.lu A 127.0.0.1"
-local-zone: "yh1.baidukongjian.com" static
-local-data: "yh1.baidukongjian.com A 127.0.0.1"
-local-zone: "yh125.infusionsoft.app" static
-local-data: "yh125.infusionsoft.app A 127.0.0.1"
-local-zone: "yh125.infusionsoft.com" static
-local-data: "yh125.infusionsoft.com A 127.0.0.1"
-local-zone: "yh148.infusionsoft.com" static
-local-data: "yh148.infusionsoft.com A 127.0.0.1"
-local-zone: "yh151.infusionsoft.app" static
-local-data: "yh151.infusionsoft.app A 127.0.0.1"
-local-zone: "yh151.infusionsoft.com" static
-local-data: "yh151.infusionsoft.com A 127.0.0.1"
-local-zone: "yh1g.mjt.lu" static
-local-data: "yh1g.mjt.lu A 127.0.0.1"
-local-zone: "yh2333.com" static
-local-data: "yh2333.com A 127.0.0.1"
-local-zone: "yh423.infusionsoft.app" static
-local-data: "yh423.infusionsoft.app A 127.0.0.1"
-local-zone: "yh423.infusionsoft.com" static
-local-data: "yh423.infusionsoft.com A 127.0.0.1"
-local-zone: "yh43.mjt.lu" static
-local-data: "yh43.mjt.lu A 127.0.0.1"
-local-zone: "yh4x0620pw1ap.life" static
-local-data: "yh4x0620pw1ap.life A 127.0.0.1"
-local-zone: "yh5pecrt1xdq2dgs.doclogin.net.daraz.com" static
-local-data: "yh5pecrt1xdq2dgs.doclogin.net.daraz.com A 127.0.0.1"
-local-zone: "yh676.infusionsoft.app" static
-local-data: "yh676.infusionsoft.app A 127.0.0.1"
-local-zone: "yh6r.mjt.lu" static
-local-data: "yh6r.mjt.lu A 127.0.0.1"
-local-zone: "yh6u.dealeusedevoyages.com" static
-local-data: "yh6u.dealeusedevoyages.com A 127.0.0.1"
-local-zone: "yh727.infusionsoft.app" static
-local-data: "yh727.infusionsoft.app A 127.0.0.1"
-local-zone: "yh727.infusionsoft.com" static
-local-data: "yh727.infusionsoft.com A 127.0.0.1"
-local-zone: "yh757.infusionsoft.com" static
-local-data: "yh757.infusionsoft.com A 127.0.0.1"
-local-zone: "yh922.infusionsoft.com" static
-local-data: "yh922.infusionsoft.com A 127.0.0.1"
-local-zone: "yh955.infusionsoft.com" static
-local-data: "yh955.infusionsoft.com A 127.0.0.1"
-local-zone: "yha67.com" static
-local-data: "yha67.com A 127.0.0.1"
-local-zone: "yhagk.com" static
-local-data: "yhagk.com A 127.0.0.1"
-local-zone: "yhaiupczub.duckdns.org" static
-local-data: "yhaiupczub.duckdns.org A 127.0.0.1"
-local-zone: "yham222.com" static
-local-data: "yham222.com A 127.0.0.1"
-local-zone: "yhaoo.co.uk" static
-local-data: "yhaoo.co.uk A 127.0.0.1"
-local-zone: "yhaoo.com.ar" static
-local-data: "yhaoo.com.ar A 127.0.0.1"
-local-zone: "yharux-cdn-settings.appsflyersdk.com" static
-local-data: "yharux-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhatwlkdbeewdd.bid" static
-local-data: "yhatwlkdbeewdd.bid A 127.0.0.1"
-local-zone: "yhazcicy.bid" static
-local-data: "yhazcicy.bid A 127.0.0.1"
-local-zone: "yhb.p.otm-r.com" static
-local-data: "yhb.p.otm-r.com A 127.0.0.1"
-local-zone: "yhbcii.com" static
-local-data: "yhbcii.com A 127.0.0.1"
-local-zone: "yhbdzh.farmasiint.com" static
-local-data: "yhbdzh.farmasiint.com A 127.0.0.1"
-local-zone: "yhbheroq.xyz" static
-local-data: "yhbheroq.xyz A 127.0.0.1"
-local-zone: "yhbrlpgo.100free.com" static
-local-data: "yhbrlpgo.100free.com A 127.0.0.1"
-local-zone: "yhbrlpgo.atspace.com" static
-local-data: "yhbrlpgo.atspace.com A 127.0.0.1"
-local-zone: "yhbsk.cn" static
-local-data: "yhbsk.cn A 127.0.0.1"
-local-zone: "yhbt.net" static
-local-data: "yhbt.net A 127.0.0.1"
-local-zone: "yhc-wunsch.com" static
-local-data: "yhc-wunsch.com A 127.0.0.1"
-local-zone: "yhc2yg.com" static
-local-data: "yhc2yg.com A 127.0.0.1"
-local-zone: "yhc5h4sjt6yy.ddns.dataunlocker.com" static
-local-data: "yhc5h4sjt6yy.ddns.dataunlocker.com A 127.0.0.1"
-local-zone: "yhcbhjw.ru" static
-local-data: "yhcbhjw.ru A 127.0.0.1"
-local-zone: "yhccetl.com" static
-local-data: "yhccetl.com A 127.0.0.1"
-local-zone: "yhccibeuto.com" static
-local-data: "yhccibeuto.com A 127.0.0.1"
-local-zone: "yhcdn-yd.com" static
-local-data: "yhcdn-yd.com A 127.0.0.1"
-local-zone: "yhcdn88.com" static
-local-data: "yhcdn88.com A 127.0.0.1"
-local-zone: "yhcjwkdvciye732ewsdvkvhc-qcdikdg8723ewvskjvhc.teemill.com" static
-local-data: "yhcjwkdvciye732ewsdvkvhc-qcdikdg8723ewvskjvhc.teemill.com A 127.0.0.1"
-local-zone: "yhct.top" static
-local-data: "yhct.top A 127.0.0.1"
-local-zone: "yhctv.000webhostapp.com" static
-local-data: "yhctv.000webhostapp.com A 127.0.0.1"
-local-zone: "yhcxzccnlvm.bid" static
-local-data: "yhcxzccnlvm.bid A 127.0.0.1"
-local-zone: "yhd.com" static
-local-data: "yhd.com A 127.0.0.1"
-local-zone: "yhdc1155.com" static
-local-data: "yhdc1155.com A 127.0.0.1"
-local-zone: "yhdcdo.crazy-factory.com" static
-local-data: "yhdcdo.crazy-factory.com A 127.0.0.1"
-local-zone: "yhdd1.com" static
-local-data: "yhdd1.com A 127.0.0.1"
-local-zone: "yhdemu368.shop" static
-local-data: "yhdemu368.shop A 127.0.0.1"
-local-zone: "yhderd69.shop" static
-local-data: "yhderd69.shop A 127.0.0.1"
-local-zone: "yhdfa.com" static
-local-data: "yhdfa.com A 127.0.0.1"
-local-zone: "yhdg5.lat" static
-local-data: "yhdg5.lat A 127.0.0.1"
-local-zone: "yhdhdggd979.square.site" static
-local-data: "yhdhdggd979.square.site A 127.0.0.1"
-local-zone: "yhdhut-cdn-settings.appsflyersdk.com" static
-local-data: "yhdhut-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhdichan.com" static
-local-data: "yhdichan.com A 127.0.0.1"
-local-zone: "yhdm21.com" static
-local-data: "yhdm21.com A 127.0.0.1"
-local-zone: "yhdm9.cc" static
-local-data: "yhdm9.cc A 127.0.0.1"
-local-zone: "yhdm99.com" static
-local-data: "yhdm99.com A 127.0.0.1"
-local-zone: "yhdmapp.com" static
-local-data: "yhdmapp.com A 127.0.0.1"
-local-zone: "yhdmdm.com" static
-local-data: "yhdmdm.com A 127.0.0.1"
-local-zone: "yhdmim.com" static
-local-data: "yhdmim.com A 127.0.0.1"
-local-zone: "yhdmw.tv" static
-local-data: "yhdmw.tv A 127.0.0.1"
-local-zone: "yhdmzj.com" static
-local-data: "yhdmzj.com A 127.0.0.1"
-local-zone: "yhdncj.biz" static
-local-data: "yhdncj.biz A 127.0.0.1"
-local-zone: "yhdnrjncdndswnrj.nl" static
-local-data: "yhdnrjncdndswnrj.nl A 127.0.0.1"
-local-zone: "yhe9.adj.st" static
-local-data: "yhe9.adj.st A 127.0.0.1"
-local-zone: "yhealing.top" static
-local-data: "yhealing.top A 127.0.0.1"
-local-zone: "yhefswc14up.cmaxsrv.com" static
-local-data: "yhefswc14up.cmaxsrv.com A 127.0.0.1"
-local-zone: "yhegivxw.net" static
-local-data: "yhegivxw.net A 127.0.0.1"
-local-zone: "yhelper.net" static
-local-data: "yhelper.net A 127.0.0.1"
-local-zone: "yheywotbfbajj.com" static
-local-data: "yheywotbfbajj.com A 127.0.0.1"
-local-zone: "yhfgy.com" static
-local-data: "yhfgy.com A 127.0.0.1"
-local-zone: "yhg4wg6ghythrstgg.000webhostapp.com" static
-local-data: "yhg4wg6ghythrstgg.000webhostapp.com A 127.0.0.1"
-local-zone: "yhgames.com" static
-local-data: "yhgames.com A 127.0.0.1"
-local-zone: "yhgej.com" static
-local-data: "yhgej.com A 127.0.0.1"
-local-zone: "yhgfb-cn-static.com" static
-local-data: "yhgfb-cn-static.com A 127.0.0.1"
-local-zone: "yhgfoe.xyz" static
-local-data: "yhgfoe.xyz A 127.0.0.1"
-local-zone: "yhgfsdad.top" static
-local-data: "yhgfsdad.top A 127.0.0.1"
-local-zone: "yhgg6.com" static
-local-data: "yhgg6.com A 127.0.0.1"
-local-zone: "yhghg.ydns.eu" static
-local-data: "yhghg.ydns.eu A 127.0.0.1"
-local-zone: "yhghghtbhjfbfn2bfbf8ngbbgg0hgbgb3ngfbgny7f4yj.000webhostapp.com" static
-local-data: "yhghghtbhjfbfn2bfbf8ngbbgg0hgbgb3ngfbgny7f4yj.000webhostapp.com A 127.0.0.1"
-local-zone: "yhgio.com" static
-local-data: "yhgio.com A 127.0.0.1"
-local-zone: "yhgjnhvbh.weebly.com" static
-local-data: "yhgjnhvbh.weebly.com A 127.0.0.1"
-local-zone: "yhglrmvdxmxm.com" static
-local-data: "yhglrmvdxmxm.com A 127.0.0.1"
-local-zone: "yhgpuxim.xyz" static
-local-data: "yhgpuxim.xyz A 127.0.0.1"
-local-zone: "yhgyog.elephantstock.com" static
-local-data: "yhgyog.elephantstock.com A 127.0.0.1"
-local-zone: "yhh0.mjt.lu" static
-local-data: "yhh0.mjt.lu A 127.0.0.1"
-local-zone: "yhhb543n4b.jumronews.com" static
-local-data: "yhhb543n4b.jumronews.com A 127.0.0.1"
-local-zone: "yhhf9ayu.emltrk.com" static
-local-data: "yhhf9ayu.emltrk.com A 127.0.0.1"
-local-zone: "yhhhh111-28295.portmap.io" static
-local-data: "yhhhh111-28295.portmap.io A 127.0.0.1"
-local-zone: "yhhtgggg.000webhostapp.com" static
-local-data: "yhhtgggg.000webhostapp.com A 127.0.0.1"
-local-zone: "yhhtourney.com" static
-local-data: "yhhtourney.com A 127.0.0.1"
-local-zone: "yhhus.com" static
-local-data: "yhhus.com A 127.0.0.1"
-local-zone: "yhhuzt.gintarine.lt" static
-local-data: "yhhuzt.gintarine.lt A 127.0.0.1"
-local-zone: "yhigae.junyu-fuku.com" static
-local-data: "yhigae.junyu-fuku.com A 127.0.0.1"
-local-zone: "yhigrmnzd.life" static
-local-data: "yhigrmnzd.life A 127.0.0.1"
-local-zone: "yhimpnr.icu" static
-local-data: "yhimpnr.icu A 127.0.0.1"
-local-zone: "yhirurga.ru" static
-local-data: "yhirurga.ru A 127.0.0.1"
-local-zone: "yhiskdn.sbs" static
-local-data: "yhiskdn.sbs A 127.0.0.1"
-local-zone: "yhjccj.cn" static
-local-data: "yhjccj.cn A 127.0.0.1"
-local-zone: "yhjdyjtf.blogspot.com" static
-local-data: "yhjdyjtf.blogspot.com A 127.0.0.1"
-local-zone: "yhjg8aa.com" static
-local-data: "yhjg8aa.com A 127.0.0.1"
-local-zone: "yhjgjk.wemakeup.it" static
-local-data: "yhjgjk.wemakeup.it A 127.0.0.1"
-local-zone: "yhjhjwy.com" static
-local-data: "yhjhjwy.com A 127.0.0.1"
-local-zone: "yhjkm-sg.fr" static
-local-data: "yhjkm-sg.fr A 127.0.0.1"
-local-zone: "yhjmta.whampl.top" static
-local-data: "yhjmta.whampl.top A 127.0.0.1"
-local-zone: "yhl-dealers.trafficfactory.biz" static
-local-data: "yhl-dealers.trafficfactory.biz A 127.0.0.1"
-local-zone: "yhl455-adrevenue.appsflyersdk.com" static
-local-data: "yhl455-adrevenue.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhl455-launches.appsflyersdk.com" static
-local-data: "yhl455-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhl9.mjt.lu" static
-local-data: "yhl9.mjt.lu A 127.0.0.1"
-local-zone: "yhlpshi.xyz" static
-local-data: "yhlpshi.xyz A 127.0.0.1"
-local-zone: "yhlvlivs.org" static
-local-data: "yhlvlivs.org A 127.0.0.1"
-local-zone: "yhlzadr.xyz" static
-local-data: "yhlzadr.xyz A 127.0.0.1"
-local-zone: "yhmabmrbvu.duckdns.org" static
-local-data: "yhmabmrbvu.duckdns.org A 127.0.0.1"
-local-zone: "yhmcc517pkvrlxt1.viviotech.net.daraz.com" static
-local-data: "yhmcc517pkvrlxt1.viviotech.net.daraz.com A 127.0.0.1"
-local-zone: "yhmfmugyq.com" static
-local-data: "yhmfmugyq.com A 127.0.0.1"
-local-zone: "yhmg.com" static
-local-data: "yhmg.com A 127.0.0.1"
-local-zone: "yhmgbtyiidqwp.today" static
-local-data: "yhmgbtyiidqwp.today A 127.0.0.1"
-local-zone: "yhmhbnzz.com" static
-local-data: "yhmhbnzz.com A 127.0.0.1"
-local-zone: "yhmnt.com" static
-local-data: "yhmnt.com A 127.0.0.1"
-local-zone: "yhmnw.com" static
-local-data: "yhmnw.com A 127.0.0.1"
-local-zone: "yhmuampxmldla.website" static
-local-data: "yhmuampxmldla.website A 127.0.0.1"
-local-zone: "yhmugtdyhziys.space" static
-local-data: "yhmugtdyhziys.space A 127.0.0.1"
-local-zone: "yhmvc.com" static
-local-data: "yhmvc.com A 127.0.0.1"
-local-zone: "yhmyf.info" static
-local-data: "yhmyf.info A 127.0.0.1"
-local-zone: "yhn.libraries.co.il" static
-local-data: "yhn.libraries.co.il A 127.0.0.1"
-local-zone: "yhn8523.com" static
-local-data: "yhn8523.com A 127.0.0.1"
-local-zone: "yhnebqz.com" static
-local-data: "yhnebqz.com A 127.0.0.1"
-local-zone: "yhnewsb.zhuifengzhe.top" static
-local-data: "yhnewsb.zhuifengzhe.top A 127.0.0.1"
-local-zone: "yhnhnnt.000webhostapp.com" static
-local-data: "yhnhnnt.000webhostapp.com A 127.0.0.1"
-local-zone: "yhnomx.com" static
-local-data: "yhnomx.com A 127.0.0.1"
-local-zone: "yhnuiku.xyz" static
-local-data: "yhnuiku.xyz A 127.0.0.1"
-local-zone: "yhnvgdkw.xyz" static
-local-data: "yhnvgdkw.xyz A 127.0.0.1"
-local-zone: "yhnwofsz.bid" static
-local-data: "yhnwofsz.bid A 127.0.0.1"
-local-zone: "yhnwux.cartacapital.com.br" static
-local-data: "yhnwux.cartacapital.com.br A 127.0.0.1"
-local-zone: "yhnwux.infomoney.com.br" static
-local-data: "yhnwux.infomoney.com.br A 127.0.0.1"
-local-zone: "yhone.com" static
-local-data: "yhone.com A 127.0.0.1"
-local-zone: "yhoo.co" static
-local-data: "yhoo.co A 127.0.0.1"
-local-zone: "yhoo.com.ar" static
-local-data: "yhoo.com.ar A 127.0.0.1"
-local-zone: "yhoo.in" static
-local-data: "yhoo.in A 127.0.0.1"
-local-zone: "yhortk.org" static
-local-data: "yhortk.org A 127.0.0.1"
-local-zone: "yhorw.rocks" static
-local-data: "yhorw.rocks A 127.0.0.1"
-local-zone: "yhouporn.com" static
-local-data: "yhouporn.com A 127.0.0.1"
-local-zone: "yhp.mxptint.net" static
-local-data: "yhp.mxptint.net A 127.0.0.1"
-local-zone: "yhpay5566.com" static
-local-data: "yhpay5566.com A 127.0.0.1"
-local-zone: "yhporn.com" static
-local-data: "yhporn.com A 127.0.0.1"
-local-zone: "yhprn.com" static
-local-data: "yhprn.com A 127.0.0.1"
-local-zone: "yhqebnyrxckhp.online" static
-local-data: "yhqebnyrxckhp.online A 127.0.0.1"
-local-zone: "yhqelx.sneakers.pl" static
-local-data: "yhqelx.sneakers.pl A 127.0.0.1"
-local-zone: "yhqj.mjt.lu" static
-local-data: "yhqj.mjt.lu A 127.0.0.1"
-local-zone: "yhqojrhfgfsh.com" static
-local-data: "yhqojrhfgfsh.com A 127.0.0.1"
-local-zone: "yhqqc.biz" static
-local-data: "yhqqc.biz A 127.0.0.1"
-local-zone: "yhqukg.xyz" static
-local-data: "yhqukg.xyz A 127.0.0.1"
-local-zone: "yhqyb.rdtk.io" static
-local-data: "yhqyb.rdtk.io A 127.0.0.1"
-local-zone: "yhrdgcr3h24o2q64.net.daraz.com" static
-local-data: "yhrdgcr3h24o2q64.net.daraz.com A 127.0.0.1"
-local-zone: "yhrileteranre.ga" static
-local-data: "yhrileteranre.ga A 127.0.0.1"
-local-zone: "yhrryu.w3spaces.com" static
-local-data: "yhrryu.w3spaces.com A 127.0.0.1"
-local-zone: "yhs-gthjhxltud.cn-zhangjiakou.fcapp.run" static
-local-data: "yhs-gthjhxltud.cn-zhangjiakou.fcapp.run A 127.0.0.1"
-local-zone: "yhs058.infusionsoft.app" static
-local-data: "yhs058.infusionsoft.app A 127.0.0.1"
-local-zone: "yhsbgm.icu" static
-local-data: "yhsbgm.icu A 127.0.0.1"
-local-zone: "yhsdwjes.xyz" static
-local-data: "yhsdwjes.xyz A 127.0.0.1"
-local-zone: "yhskfe.klipsch.com" static
-local-data: "yhskfe.klipsch.com A 127.0.0.1"
-local-zone: "yhsmk.com" static
-local-data: "yhsmk.com A 127.0.0.1"
-local-zone: "yhsxsjzyqfoq.com" static
-local-data: "yhsxsjzyqfoq.com A 127.0.0.1"
-local-zone: "yhtaefcjiocjikkocisc.com" static
-local-data: "yhtaefcjiocjikkocisc.com A 127.0.0.1"
-local-zone: "yhtarm.footway.be" static
-local-data: "yhtarm.footway.be A 127.0.0.1"
-local-zone: "yhtcd.com" static
-local-data: "yhtcd.com A 127.0.0.1"
-local-zone: "yhtechdlsips0.net" static
-local-data: "yhtechdlsips0.net A 127.0.0.1"
-local-zone: "yhtechdlsips1.net" static
-local-data: "yhtechdlsips1.net A 127.0.0.1"
-local-zone: "yhtf.net" static
-local-data: "yhtf.net A 127.0.0.1"
-local-zone: "yhti.net" static
-local-data: "yhti.net A 127.0.0.1"
-local-zone: "yhtohtbql.com" static
-local-data: "yhtohtbql.com A 127.0.0.1"
-local-zone: "yhtpsy8888.cc" static
-local-data: "yhtpsy8888.cc A 127.0.0.1"
-local-zone: "yhtrack.com" static
-local-data: "yhtrack.com A 127.0.0.1"
-local-zone: "yhtrytgr.buzz" static
-local-data: "yhtrytgr.buzz A 127.0.0.1"
-local-zone: "yhtytxeskrqgpl.bid" static
-local-data: "yhtytxeskrqgpl.bid A 127.0.0.1"
-local-zone: "yhuamf.ktronix.com" static
-local-data: "yhuamf.ktronix.com A 127.0.0.1"
-local-zone: "yhubsxmg.xyz" static
-local-data: "yhubsxmg.xyz A 127.0.0.1"
-local-zone: "yhugawlgxf.ga" static
-local-data: "yhugawlgxf.ga A 127.0.0.1"
-local-zone: "yhump-sg.fr" static
-local-data: "yhump-sg.fr A 127.0.0.1"
-local-zone: "yhura.com" static
-local-data: "yhura.com A 127.0.0.1"
-local-zone: "yhuspstan.com" static
-local-data: "yhuspstan.com A 127.0.0.1"
-local-zone: "yhuspstbn.com" static
-local-data: "yhuspstbn.com A 127.0.0.1"
-local-zone: "yhuspstcn.com" static
-local-data: "yhuspstcn.com A 127.0.0.1"
-local-zone: "yhutou.xyz" static
-local-data: "yhutou.xyz A 127.0.0.1"
-local-zone: "yhv6z1sd88rfttse.administrators.net.daraz.com" static
-local-data: "yhv6z1sd88rfttse.administrators.net.daraz.com A 127.0.0.1"
-local-zone: "yhv6z1sd88rfttse.bellsouth.net.daraz.com" static
-local-data: "yhv6z1sd88rfttse.bellsouth.net.daraz.com A 127.0.0.1"
-local-zone: "yhv6z1sd88rfttse.net.daraz.com" static
-local-data: "yhv6z1sd88rfttse.net.daraz.com A 127.0.0.1"
-local-zone: "yhv6z1sd88rfttse.partner.net.daraz.com" static
-local-data: "yhv6z1sd88rfttse.partner.net.daraz.com A 127.0.0.1"
-local-zone: "yhvdstg.hd10.com" static
-local-data: "yhvdstg.hd10.com A 127.0.0.1"
-local-zone: "yhvewh.aboutyou.ro" static
-local-data: "yhvewh.aboutyou.ro A 127.0.0.1"
-local-zone: "yhvueij.asia" static
-local-data: "yhvueij.asia A 127.0.0.1"
-local-zone: "yhw-roost.trafficfactory.biz" static
-local-data: "yhw-roost.trafficfactory.biz A 127.0.0.1"
-local-zone: "yhw.temporary.site" static
-local-data: "yhw.temporary.site A 127.0.0.1"
-local-zone: "yhwhassemblies.com" static
-local-data: "yhwhassemblies.com A 127.0.0.1"
-local-zone: "yhwt.cn" static
-local-data: "yhwt.cn A 127.0.0.1"
-local-zone: "yhx5qm-adrevenue.appsflyersdk.com" static
-local-data: "yhx5qm-adrevenue.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhx5qm-cdn-settings.appsflyersdk.com" static
-local-data: "yhx5qm-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhx5qm-inapps.appsflyersdk.com" static
-local-data: "yhx5qm-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhx5qm-launches.appsflyersdk.com" static
-local-data: "yhx5qm-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhx7.mjt.lu" static
-local-data: "yhx7.mjt.lu A 127.0.0.1"
-local-zone: "yhxinlian.com.db-ip.com" static
-local-data: "yhxinlian.com.db-ip.com A 127.0.0.1"
-local-zone: "yhxjbtgp.live" static
-local-data: "yhxjbtgp.live A 127.0.0.1"
-local-zone: "yhydf0-cdn-settings.appsflyersdk.com" static
-local-data: "yhydf0-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhydf0-inapps.appsflyersdk.com" static
-local-data: "yhydf0-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhydf0-launches.appsflyersdk.com" static
-local-data: "yhydf0-launches.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhyhtech.com" static
-local-data: "yhyhtech.com A 127.0.0.1"
-local-zone: "yhyl.uk" static
-local-data: "yhyl.uk A 127.0.0.1"
-local-zone: "yhysx.com" static
-local-data: "yhysx.com A 127.0.0.1"
-local-zone: "yhz.moonfish.eu" static
-local-data: "yhz.moonfish.eu A 127.0.0.1"
-local-zone: "yhz18.com" static
-local-data: "yhz18.com A 127.0.0.1"
-local-zone: "yhz64b-inapps.appsflyersdk.com" static
-local-data: "yhz64b-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "yhzdm.net" static
-local-data: "yhzdm.net A 127.0.0.1"
-local-zone: "yhzdp.com" static
-local-data: "yhzdp.com A 127.0.0.1"
-local-zone: "yhzeiw8x4k2cu3p.nutfxs.pl" static
-local-data: "yhzeiw8x4k2cu3p.nutfxs.pl A 127.0.0.1"
-local-zone: "yhzjidgc.xyz" static
-local-data: "yhzjidgc.xyz A 127.0.0.1"
-local-zone: "yhzm.cc" static
-local-data: "yhzm.cc A 127.0.0.1"
-local-zone: "yhznde.materiel-aventure.fr" static
-local-data: "yhznde.materiel-aventure.fr A 127.0.0.1"
-local-zone: "yhzobwqqecaa.com" static
-local-data: "yhzobwqqecaa.com A 127.0.0.1"
-local-zone: "yhzqxgmhehm.com" static
-local-data: "yhzqxgmhehm.com A 127.0.0.1"
-local-zone: "yhzt-525a9.firebaseapp.com" static
-local-data: "yhzt-525a9.firebaseapp.com A 127.0.0.1"
-local-zone: "yhzt-525a9.web.app" static
-local-data: "yhzt-525a9.web.app A 127.0.0.1"
-local-zone: "yhzu.cn" static
-local-data: "yhzu.cn A 127.0.0.1"
-local-zone: "yhzuche.com" static
-local-data: "yhzuche.com A 127.0.0.1"
-local-zone: "yhzvfknxrx.ws" static
-local-data: "yhzvfknxrx.ws A 127.0.0.1"
-local-zone: "yhzxxx.net" static
-local-data: "yhzxxx.net A 127.0.0.1"
-local-zone: "yi-a.p.adnxs.com" static
-local-data: "yi-a.p.adnxs.com A 127.0.0.1"
-local-zone: "yi-hall.com" static
-local-data: "yi-hall.com A 127.0.0.1"
-local-zone: "yi.gekkoforehew.shop" static
-local-data: "yi.gekkoforehew.shop A 127.0.0.1"
-local-zone: "yi.net.daraz.com" static
-local-data: "yi.net.daraz.com A 127.0.0.1"
-local-zone: "yi.oleggio2.org" static
-local-data: "yi.oleggio2.org A 127.0.0.1"
-local-zone: "yi.pretenddyker.com" static
-local-data: "yi.pretenddyker.com A 127.0.0.1"
-local-zone: "yi.randeriridium.com" static
-local-data: "yi.randeriridium.com A 127.0.0.1"
-local-zone: "yi.ximizi.com" static
-local-data: "yi.ximizi.com A 127.0.0.1"
-local-zone: "yi0zz.ouasflpydty21tf.bapb.gdn" static
-local-data: "yi0zz.ouasflpydty21tf.bapb.gdn A 127.0.0.1"
-local-zone: "yi1sayumwju9lod.about2.adx1.com" static
-local-data: "yi1sayumwju9lod.about2.adx1.com A 127.0.0.1"
-local-zone: "yi363.infusionsoft.app" static
-local-data: "yi363.infusionsoft.app A 127.0.0.1"
-local-zone: "yi39iydo.emltrk.com" static
-local-data: "yi39iydo.emltrk.com A 127.0.0.1"
-local-zone: "yi4qf66w.emltrk.com" static
-local-data: "yi4qf66w.emltrk.com A 127.0.0.1"
-local-zone: "yi680.infusionsoft.app" static
-local-data: "yi680.infusionsoft.app A 127.0.0.1"
-local-zone: "yi680.infusionsoft.com" static
-local-data: "yi680.infusionsoft.com A 127.0.0.1"
-local-zone: "yi6as.voluumtrk.com" static
-local-data: "yi6as.voluumtrk.com A 127.0.0.1"
-local-zone: "yi6ohwfc.emltrk.com" static
-local-data: "yi6ohwfc.emltrk.com A 127.0.0.1"
-local-zone: "yi7rwt2e.emltrk.com" static
-local-data: "yi7rwt2e.emltrk.com A 127.0.0.1"
-local-zone: "yi7uy7tgj9am1lhr.assets.net.daraz.com" static
-local-data: "yi7uy7tgj9am1lhr.assets.net.daraz.com A 127.0.0.1"
-local-zone: "yi7uy7tgj9am1lhr.net.daraz.com" static
-local-data: "yi7uy7tgj9am1lhr.net.daraz.com A 127.0.0.1"
-local-zone: "yi7uy7tgj9am1lhr.partner-bamboo.net.daraz.com" static
-local-data: "yi7uy7tgj9am1lhr.partner-bamboo.net.daraz.com A 127.0.0.1"
-local-zone: "yi7uy7tgj9am1lhr.summer.net.daraz.com" static
-local-data: "yi7uy7tgj9am1lhr.summer.net.daraz.com A 127.0.0.1"
-local-zone: "yi845.infusionsoft.app" static
-local-data: "yi845.infusionsoft.app A 127.0.0.1"
-local-zone: "yi845.infusionsoft.com" static
-local-data: "yi845.infusionsoft.com A 127.0.0.1"
-local-zone: "yi9pzxosadz.appspot.com" static
-local-data: "yi9pzxosadz.appspot.com A 127.0.0.1"
-local-zone: "yi9yv67.duckdns.org" static
-local-data: "yi9yv67.duckdns.org A 127.0.0.1"
-local-zone: "yianpopo.sbs" static
-local-data: "yianpopo.sbs A 127.0.0.1"
-local-zone: "yianstarts.sbs" static
-local-data: "yianstarts.sbs A 127.0.0.1"
-local-zone: "yib5iihvsksfauni.aassetsministrators.net.daraz.com" static
-local-data: "yib5iihvsksfauni.aassetsministrators.net.daraz.com A 127.0.0.1"
-local-zone: "yibada-d.openx.net" static
-local-data: "yibada-d.openx.net A 127.0.0.1"
-local-zone: "yibaibei.net" static
-local-data: "yibaibei.net A 127.0.0.1"
-local-zone: "yiban.io" static
-local-data: "yiban.io A 127.0.0.1"
-local-zone: "yibanzhu.org" static
-local-data: "yibanzhu.org A 127.0.0.1"
-local-zone: "yibao.yt" static
-local-data: "yibao.yt A 127.0.0.1"
-local-zone: "yibcxe.payneglasses.com" static
-local-data: "yibcxe.payneglasses.com A 127.0.0.1"
-local-zone: "yibige.com" static
-local-data: "yibige.com A 127.0.0.1"
-local-zone: "yibis.com" static
-local-data: "yibis.com A 127.0.0.1"
-local-zone: "yibivacaji.com" static
-local-data: "yibivacaji.com A 127.0.0.1"
-local-zone: "yibiwi-kehavu.pics" static
-local-data: "yibiwi-kehavu.pics A 127.0.0.1"
-local-zone: "yibizi.com" static
-local-data: "yibizi.com A 127.0.0.1"
-local-zone: "yibkbzf.ru" static
-local-data: "yibkbzf.ru A 127.0.0.1"
-local-zone: "yibo-memory.com" static
-local-data: "yibo-memory.com A 127.0.0.1"
-local-zone: "yibo99.com" static
-local-data: "yibo99.com A 127.0.0.1"
-local-zone: "yibofushi.cn" static
-local-data: "yibofushi.cn A 127.0.0.1"
-local-zone: "yibojiaoyu2.com" static
-local-data: "yibojiaoyu2.com A 127.0.0.1"
-local-zone: "yiboshangmao3.com" static
-local-data: "yiboshangmao3.com A 127.0.0.1"
-local-zone: "yibrvxydm.bid" static
-local-data: "yibrvxydm.bid A 127.0.0.1"
-local-zone: "yibufuwu.com" static
-local-data: "yibufuwu.com A 127.0.0.1"
-local-zone: "yibuyou.com" static
-local-data: "yibuyou.com A 127.0.0.1"
-local-zone: "yibuyy.com" static
-local-data: "yibuyy.com A 127.0.0.1"
-local-zone: "yibzk.yt" static
-local-data: "yibzk.yt A 127.0.0.1"
-local-zone: "yicai.adsame.com" static
-local-data: "yicai.adsame.com A 127.0.0.1"
-local-zone: "yicai.cc" static
-local-data: "yicai.cc A 127.0.0.1"
-local-zone: "yicaiglobal.com" static
-local-data: "yicaiglobal.com A 127.0.0.1"
-local-zone: "yicang8.com" static
-local-data: "yicang8.com A 127.0.0.1"
-local-zone: "yicha.cn" static
-local-data: "yicha.cn A 127.0.0.1"
-local-zone: "yicha.jp" static
-local-data: "yicha.jp A 127.0.0.1"
-local-zone: "yichang.adx1.com" static
-local-data: "yichang.adx1.com A 127.0.0.1"
-local-zone: "yichehuoban.cn" static
-local-data: "yichehuoban.cn A 127.0.0.1"
-local-zone: "yichengift.com" static
-local-data: "yichengift.com A 127.0.0.1"
-local-zone: "yichengjiajupt.com" static
-local-data: "yichengjiajupt.com A 127.0.0.1"
-local-zone: "yichun178.com" static
-local-data: "yichun178.com A 127.0.0.1"
-local-zone: "yichunit.com" static
-local-data: "yichunit.com A 127.0.0.1"
-local-zone: "yicicu-rerile.pro" static
-local-data: "yicicu-rerile.pro A 127.0.0.1"
-local-zone: "yicixvmgmhpvbcl.xyz" static
-local-data: "yicixvmgmhpvbcl.xyz A 127.0.0.1"
-local-zone: "yicldnest.finance" static
-local-data: "yicldnest.finance A 127.0.0.1"
-local-zone: "yicmdjmij.org" static
-local-data: "yicmdjmij.org A 127.0.0.1"
-local-zone: "yicollection.com" static
-local-data: "yicollection.com A 127.0.0.1"
-local-zone: "yicongesac.com" static
-local-data: "yicongesac.com A 127.0.0.1"
-local-zone: "yicp.fun" static
-local-data: "yicp.fun A 127.0.0.1"
-local-zone: "yicr.com" static
-local-data: "yicr.com A 127.0.0.1"
-local-zone: "yicrdo.amsterdamprinting.com" static
-local-data: "yicrdo.amsterdamprinting.com A 127.0.0.1"
-local-zone: "yicv.net" static
-local-data: "yicv.net A 127.0.0.1"
-local-zone: "yicwmy.lopido.com" static
-local-data: "yicwmy.lopido.com A 127.0.0.1"
-local-zone: "yida.co.uk" static
-local-data: "yida.co.uk A 127.0.0.1"
-local-zone: "yidada.net" static
-local-data: "yidada.net A 127.0.0.1"
-local-zone: "yidaiyiluclub.com" static
-local-data: "yidaiyiluclub.com A 127.0.0.1"
-local-zone: "yidanmh.com" static
-local-data: "yidanmh.com A 127.0.0.1"
-local-zone: "yidantoy.com" static
-local-data: "yidantoy.com A 127.0.0.1"
-local-zone: "yidaweb.com" static
-local-data: "yidaweb.com A 127.0.0.1"
-local-zone: "yidayqdthsqt.sotreq.net" static
-local-data: "yidayqdthsqt.sotreq.net A 127.0.0.1"
-local-zone: "yidbyhersle.xyz" static
-local-data: "yidbyhersle.xyz A 127.0.0.1"
-local-zone: "yiddiaccap.pro" static
-local-data: "yiddiaccap.pro A 127.0.0.1"
-local-zone: "yiddiquitejuk.com" static
-local-data: "yiddiquitejuk.com A 127.0.0.1"
-local-zone: "yiddish24.com" static
-local-data: "yiddish24.com A 127.0.0.1"
-local-zone: "yiddishbookcenter.org" static
-local-data: "yiddishbookcenter.org A 127.0.0.1"
-local-zone: "yidejewelry.com" static
-local-data: "yidejewelry.com A 127.0.0.1"
-local-zone: "yidghhb.ru" static
-local-data: "yidghhb.ru A 127.0.0.1"
-local-zone: "yidianzhidao.com" static
-local-data: "yidianzhidao.com A 127.0.0.1"
-local-zone: "yidingwang.com" static
-local-data: "yidingwang.com A 127.0.0.1"
-local-zone: "yidingyou.com" static
-local-data: "yidingyou.com A 127.0.0.1"
-local-zone: "yidio.ipromote.com" static
-local-data: "yidio.ipromote.com A 127.0.0.1"
-local-zone: "yidiomovies.com" static
-local-data: "yidiomovies.com A 127.0.0.1"
-local-zone: "yidohe-tucoda.pics" static
-local-data: "yidohe-tucoda.pics A 127.0.0.1"
-local-zone: "yidongbb.net" static
-local-data: "yidongbb.net A 127.0.0.1"
-local-zone: "yidongnewtest.adsame.com" static
-local-data: "yidongnewtest.adsame.com A 127.0.0.1"
-local-zone: "yidop.com" static
-local-data: "yidop.com A 127.0.0.1"
-local-zone: "yidoti-moyofi.pics" static
-local-data: "yidoti-moyofi.pics A 127.0.0.1"
-local-zone: "yidoutang.com" static
-local-data: "yidoutang.com A 127.0.0.1"
-local-zone: "yidpsdu.ru" static
-local-data: "yidpsdu.ru A 127.0.0.1"
-local-zone: "yidu.cc" static
-local-data: "yidu.cc A 127.0.0.1"
-local-zone: "yiduaner.cn" static
-local-data: "yiduaner.cn A 127.0.0.1"
-local-zone: "yidulive.net" static
-local-data: "yidulive.net A 127.0.0.1"
-local-zone: "yidun.zt-express.com" static
-local-data: "yidun.zt-express.com A 127.0.0.1"
-local-zone: "yiduncdn.cn" static
-local-data: "yiduncdn.cn A 127.0.0.1"
-local-zone: "yie-cpj.pages.dev" static
-local-data: "yie-cpj.pages.dev A 127.0.0.1"
-local-zone: "yiefp.chfpgcbe.com" static
-local-data: "yiefp.chfpgcbe.com A 127.0.0.1"
-local-zone: "yiejvik.com" static
-local-data: "yiejvik.com A 127.0.0.1"
-local-zone: "yield-manager.browsiprod.com" static
-local-data: "yield-manager.browsiprod.com A 127.0.0.1"
-local-zone: "yield-op-idsync.live.streamtheworld.com" static
-local-data: "yield-op-idsync.live.streamtheworld.com A 127.0.0.1"
-local-zone: "yield-op-tracker.api.tritondigital.com" static
-local-data: "yield-op-tracker.api.tritondigital.com A 127.0.0.1"
-local-zone: "yield-optimizer.thirdpresence.com" static
-local-data: "yield-optimizer.thirdpresence.com A 127.0.0.1"
-local-zone: "yield-torvian-ai.com" static
-local-data: "yield-torvian-ai.com A 127.0.0.1"
-local-zone: "yield.app" static
-local-data: "yield.app A 127.0.0.1"
-local-zone: "yield.cbsi.com" static
-local-data: "yield.cbsi.com A 127.0.0.1"
-local-zone: "yield.h5v.eu" static
-local-data: "yield.h5v.eu A 127.0.0.1"
-local-zone: "yield.setupad.com" static
-local-data: "yield.setupad.com A 127.0.0.1"
-local-zone: "yieldads.com" static
-local-data: "yieldads.com A 127.0.0.1"
-local-zone: "yieldads.net" static
-local-data: "yieldads.net A 127.0.0.1"
-local-zone: "yieldaris-group-app.com" static
-local-data: "yieldaris-group-app.com A 127.0.0.1"
-local-zone: "yieldaris-group.net" static
-local-data: "yieldaris-group.net A 127.0.0.1"
-local-zone: "yieldbi.cbsi.com" static
-local-data: "yieldbi.cbsi.com A 127.0.0.1"
-local-zone: "yieldbird-d.openx.net" static
-local-data: "yieldbird-d.openx.net A 127.0.0.1"
-local-zone: "yieldbird.com" static
-local-data: "yieldbird.com A 127.0.0.1"
-local-zone: "yieldbook.com" static
-local-data: "yieldbook.com A 127.0.0.1"
-local-zone: "yieldbooster.io" static
-local-data: "yieldbooster.io A 127.0.0.1"
-local-zone: "yieldbot.com" static
-local-data: "yieldbot.com A 127.0.0.1"
-local-zone: "yieldbuild.com" static
-local-data: "yieldbuild.com A 127.0.0.1"
-local-zone: "yieldclip.adspirit.de" static
-local-data: "yieldclip.adspirit.de A 127.0.0.1"
-local-zone: "yielder.com" static
-local-data: "yielder.com A 127.0.0.1"
-local-zone: "yieldgs.com" static
-local-data: "yieldgs.com A 127.0.0.1"
-local-zone: "yieldh5.com" static
-local-data: "yieldh5.com A 127.0.0.1"
-local-zone: "yieldify-production.com" static
-local-data: "yieldify-production.com A 127.0.0.1"
-local-zone: "yieldify-static-files.s3.amazonaws.com" static
-local-data: "yieldify-static-files.s3.amazonaws.com A 127.0.0.1"
-local-zone: "yieldify.com" static
-local-data: "yieldify.com A 127.0.0.1"
-local-zone: "yieldify.eu.looker.com" static
-local-data: "yieldify.eu.looker.com A 127.0.0.1"
-local-zone: "yieldifydev.eu.looker.com" static
-local-data: "yieldifydev.eu.looker.com A 127.0.0.1"
-local-zone: "yielding-transit.000webhostapp.com" static
-local-data: "yielding-transit.000webhostapp.com A 127.0.0.1"
-local-zone: "yieldingevents.com" static
-local-data: "yieldingevents.com A 127.0.0.1"
-local-zone: "yieldingfurnish.com" static
-local-data: "yieldingfurnish.com A 127.0.0.1"
-local-zone: "yieldinginvincible.com" static
-local-data: "yieldinginvincible.com A 127.0.0.1"
-local-zone: "yieldingwoman.com" static
-local-data: "yieldingwoman.com A 127.0.0.1"
-local-zone: "yieldiwogk.space" static
-local-data: "yieldiwogk.space A 127.0.0.1"
-local-zone: "yieldkit.com" static
-local-data: "yieldkit.com A 127.0.0.1"
-local-zone: "yieldkit1.adspirit.de" static
-local-data: "yieldkit1.adspirit.de A 127.0.0.1"
-local-zone: "yieldlab-eu.bidagent.xad.com" static
-local-data: "yieldlab-eu.bidagent.xad.com A 127.0.0.1"
-local-zone: "yieldlab.adformdsp.net" static
-local-data: "yieldlab.adformdsp.net A 127.0.0.1"
-local-zone: "yieldlab.com" static
-local-data: "yieldlab.com A 127.0.0.1"
-local-zone: "yieldlab.de" static
-local-data: "yieldlab.de A 127.0.0.1"
-local-zone: "yieldlab.net" static
-local-data: "yieldlab.net A 127.0.0.1"
-local-zone: "yieldlab.net.edgekey.net" static
-local-data: "yieldlab.net.edgekey.net A 127.0.0.1"
-local-zone: "yieldlift.com" static
-local-data: "yieldlift.com A 127.0.0.1"
-local-zone: "yieldlift.io" static
-local-data: "yieldlift.io A 127.0.0.1"
-local-zone: "yieldlove-ad-serving.net" static
-local-data: "yieldlove-ad-serving.net A 127.0.0.1"
-local-zone: "yieldlove-d.openx.net" static
-local-data: "yieldlove-d.openx.net A 127.0.0.1"
-local-zone: "yieldlove.com" static
-local-data: "yieldlove.com A 127.0.0.1"
-local-zone: "yieldmanager.com" static
-local-data: "yieldmanager.com A 127.0.0.1"
-local-zone: "yieldmanager.edgesuite.net" static
-local-data: "yieldmanager.edgesuite.net A 127.0.0.1"
-local-zone: "yieldmanager.net" static
-local-data: "yieldmanager.net A 127.0.0.1"
-local-zone: "yieldmaxetfs.com" static
-local-data: "yieldmaxetfs.com A 127.0.0.1"
-local-zone: "yieldmedia.adk2.co" static
-local-data: "yieldmedia.adk2.co A 127.0.0.1"
-local-zone: "yieldmedia.adk2x.com" static
-local-data: "yieldmedia.adk2x.com A 127.0.0.1"
-local-zone: "yieldmgr.com" static
-local-data: "yieldmgr.com A 127.0.0.1"
-local-zone: "yieldmo-builds.s3.amazonaws.com" static
-local-data: "yieldmo-builds.s3.amazonaws.com A 127.0.0.1"
-local-zone: "yieldmo-d.openx.net" static
-local-data: "yieldmo-d.openx.net A 127.0.0.1"
-local-zone: "yieldmo-match.dotomi.com" static
-local-data: "yieldmo-match.dotomi.com A 127.0.0.1"
-local-zone: "yieldmo-usonly.cdn-eb-n.media.net" static
-local-data: "yieldmo-usonly.cdn-eb-n.media.net A 127.0.0.1"
-local-zone: "yieldmo.com" static
-local-data: "yieldmo.com A 127.0.0.1"
-local-zone: "yieldmo.com.edgekey.net" static
-local-data: "yieldmo.com.edgekey.net A 127.0.0.1"
-local-zone: "yieldmo.media.net" static
-local-data: "yieldmo.media.net A 127.0.0.1"
-local-zone: "yieldmonitor.com" static
-local-data: "yieldmonitor.com A 127.0.0.1"
-local-zone: "yieldmrm.com" static
-local-data: "yieldmrm.com A 127.0.0.1"
-local-zone: "yieldnest-fi.com" static
-local-data: "yieldnest-fi.com A 127.0.0.1"
-local-zone: "yieldnest-finance.world" static
-local-data: "yieldnest-finance.world A 127.0.0.1"
-local-zone: "yieldnest.bond" static
-local-data: "yieldnest.bond A 127.0.0.1"
-local-zone: "yieldnestrewards.xyz" static
-local-data: "yieldnestrewards.xyz A 127.0.0.1"
-local-zone: "yieldnexus.com" static
-local-data: "yieldnexus.com A 127.0.0.1"
-local-zone: "yieldone-tagan.adlightning.com" static
-local-data: "yieldone-tagan.adlightning.com A 127.0.0.1"
-local-zone: "yieldone.socdm.com" static
-local-data: "yieldone.socdm.com A 127.0.0.1"
-local-zone: "yieldopt.spreaker.com" static
-local-data: "yieldopt.spreaker.com A 127.0.0.1"
-local-zone: "yieldoptimizer.com" static
-local-data: "yieldoptimizer.com A 127.0.0.1"
-local-zone: "yieldpartners.com" static
-local-data: "yieldpartners.com A 127.0.0.1"
-local-zone: "yieldpass.com" static
-local-data: "yieldpass.com A 127.0.0.1"
-local-zone: "yieldpro.com" static
-local-data: "yieldpro.com A 127.0.0.1"
-local-zone: "yieldr.com" static
-local-data: "yieldr.com A 127.0.0.1"
-local-zone: "yieldrealistic.com" static
-local-data: "yieldrealistic.com A 127.0.0.1"
-local-zone: "yieldrest.financial" static
-local-data: "yieldrest.financial A 127.0.0.1"
-local-zone: "yields.site" static
-local-data: "yields.site A 127.0.0.1"
-local-zone: "yieldscale.com" static
-local-data: "yieldscale.com A 127.0.0.1"
-local-zone: "yieldselect.com" static
-local-data: "yieldselect.com A 127.0.0.1"
-local-zone: "yieldsoftware.com" static
-local-data: "yieldsoftware.com A 127.0.0.1"
-local-zone: "yieldstone-register.quest" static
-local-data: "yieldstone-register.quest A 127.0.0.1"
-local-zone: "yieldstone.info" static
-local-data: "yieldstone.info A 127.0.0.1"
-local-zone: "yieldstreet.net" static
-local-data: "yieldstreet.net A 127.0.0.1"
-local-zone: "yieldstreet.pxf.io" static
-local-data: "yieldstreet.pxf.io A 127.0.0.1"
-local-zone: "yieldtraffic.com" static
-local-data: "yieldtraffic.com A 127.0.0.1"
-local-zone: "yieldtrk.com" static
-local-data: "yieldtrk.com A 127.0.0.1"
-local-zone: "yieldwrapper.com" static
-local-data: "yieldwrapper.com A 127.0.0.1"
-local-zone: "yieldx.com" static
-local-data: "yieldx.com A 127.0.0.1"
-local-zone: "yieldxl.cdn.adglare.net" static
-local-data: "yieldxl.cdn.adglare.net A 127.0.0.1"
-local-zone: "yieldxl.engine.adglare.net" static
-local-data: "yieldxl.engine.adglare.net A 127.0.0.1"
-local-zone: "yieldxyvor.net" static
-local-data: "yieldxyvor.net A 127.0.0.1"
-local-zone: "yieldxyvorai.com" static
-local-data: "yieldxyvorai.com A 127.0.0.1"
-local-zone: "yiemojieycbu.com" static
-local-data: "yiemojieycbu.com A 127.0.0.1"
-local-zone: "yiensw.com" static
-local-data: "yiensw.com A 127.0.0.1"
-local-zone: "yiersan.info" static
-local-data: "yiersan.info A 127.0.0.1"
-local-zone: "yierun.com" static
-local-data: "yierun.com A 127.0.0.1"
-local-zone: "yies.com" static
-local-data: "yies.com A 127.0.0.1"
-local-zone: "yiesbl-cdn-settings.appsflyersdk.com" static
-local-data: "yiesbl-cdn-settings.appsflyersdk.com A 127.0.0.1"
-local-zone: "yiesbl-inapps.appsflyersdk.com" static
-local-data: "yiesbl-inapps.appsflyersdk.com A 127.0.0.1"
-local-zone: "yifaguojiyulechengbocaitouzhupingtai.ishici.com" static
-local-data: "yifaguojiyulechengbocaitouzhupingtai.ishici.com A 127.0.0.1"
-local-zone: "yifangcapital.com" static
-local-data: "yifangcapital.com A 127.0.0.1"
-local-zone: "yifangjiaju.com" static
-local-data: "yifangjiaju.com A 127.0.0.1"
-local-zone: "yifants.cn" static
-local-data: "yifants.cn A 127.0.0.1"
-local-zone: "yifata178.info" static
-local-data: "yifata178.info A 127.0.0.1"
-local-zone: "yifengx.com" static
-local-data: "yifengx.com A 127.0.0.1"
-local-zone: "yiff-ai.com" static
-local-data: "yiff-ai.com A 127.0.0.1"
-local-zone: "yiff-comics.com" static
-local-data: "yiff-comics.com A 127.0.0.1"
-local-zone: "yiff-hub.com" static
-local-data: "yiff-hub.com A 127.0.0.1"
-local-zone: "yiff-party.com" static
-local-data: "yiff-party.com A 127.0.0.1"
-local-zone: "yiff-pegging-sexy.com" static
-local-data: "yiff-pegging-sexy.com A 127.0.0.1"
-local-zone: "yiff.ru" static
-local-data: "yiff.ru A 127.0.0.1"
-local-zone: "yiff.xxx" static
-local-data: "yiff.xxx A 127.0.0.1"
-local-zone: "yiffalicious.com" static
-local-data: "yiffalicious.com A 127.0.0.1"
-local-zone: "yiffalleylounge.blogspot.com" static
-local-data: "yiffalleylounge.blogspot.com A 127.0.0.1"
-local-zone: "yiffany.com" static
-local-data: "yiffany.com A 127.0.0.1"
-local-zone: "yiffcorp.com" static
-local-data: "yiffcorp.com A 127.0.0.1"
-local-zone: "yiffer.xyz" static
-local-data: "yiffer.xyz A 127.0.0.1"
-local-zone: "yiffhaven.com" static
-local-data: "yiffhaven.com A 127.0.0.1"
-local-zone: "yiffing.in" static
-local-data: "yiffing.in A 127.0.0.1"
-local-zone: "yiffspot.com" static
-local-data: "yiffspot.com A 127.0.0.1"
-local-zone: "yiffstash.com" static
-local-data: "yiffstash.com A 127.0.0.1"
-local-zone: "yiffverse.com" static
-local-data: "yiffverse.com A 127.0.0.1"
-local-zone: "yiffy.party" static
-local-data: "yiffy.party A 127.0.0.1"
-local-zone: "yiffy.tips" static
-local-data: "yiffy.tips A 127.0.0.1"
-local-zone: "yiffy.toys" static
-local-data: "yiffy.toys A 127.0.0.1"
-local-zone: "yiffy.zone" static
-local-data: "yiffy.zone A 127.0.0.1"
-local-zone: "yifika-rosewa.site" static
-local-data: "yifika-rosewa.site A 127.0.0.1"
-local-zone: "yifl.fr" static
-local-data: "yifl.fr A 127.0.0.1"
-local-zone: "yiflik.com" static
-local-data: "yiflik.com A 127.0.0.1"
-local-zone: "yiforcesecurity.totalh.net" static
-local-data: "yiforcesecurity.totalh.net A 127.0.0.1"
-local-zone: "yifoze-kesahu.site" static
-local-data: "yifoze-kesahu.site A 127.0.0.1"
-local-zone: "yifrec.lehrerwelt.de" static
-local-data: "yifrec.lehrerwelt.de A 127.0.0.1"
-local-zone: "yifujing.com" static
-local-data: "yifujing.com A 127.0.0.1"
-local-zone: "yify-torrent.ukbypass.info" static
-local-data: "yify-torrent.ukbypass.info A 127.0.0.1"
-local-zone: "yifymovie.org" static
-local-data: "yifymovie.org A 127.0.0.1"
-local-zone: "yigamechampions.com" static
-local-data: "yigamechampions.com A 127.0.0.1"
-local-zone: "yigao.com" static
-local-data: "yigao.com A 127.0.0.1"
-local-zone: "yigeban.com" static
-local-data: "yigeban.com A 127.0.0.1"
-local-zone: "yigeka.metaengisignal.com" static
-local-data: "yigeka.metaengisignal.com A 127.0.0.1"
-local-zone: "yigemi.com" static
-local-data: "yigemi.com A 127.0.0.1"
-local-zone: "yigitcafe.xyz" static
-local-data: "yigitcafe.xyz A 127.0.0.1"
-local-zone: "yigku.cn" static
-local-data: "yigku.cn A 127.0.0.1"
-local-zone: "yigo.source.h5.flylaida.com" static
-local-data: "yigo.source.h5.flylaida.com A 127.0.0.1"
-local-zone: "yigo.source.v2.h5.flylaida.com" static
-local-data: "yigo.source.v2.h5.flylaida.com A 127.0.0.1"
-local-zone: "yigos.000webhostapp.com" static
-local-data: "yigos.000webhostapp.com A 127.0.0.1"
-local-zone: "yigouw.com" static
-local-data: "yigouw.com A 127.0.0.1"
-local-zone: "yigt.fr" static
-local-data: "yigt.fr A 127.0.0.1"
-local-zone: "yiguannetwork.cn" static
-local-data: "yiguannetwork.cn A 127.0.0.1"
-local-zone: "yiguotech.com" static
-local-data: "yiguotech.com A 127.0.0.1"
-local-zone: "yigyx.com" static
-local-data: "yigyx.com A 127.0.0.1"
-local-zone: "yih1a.777932.com" static
-local-data: "yih1a.777932.com A 127.0.0.1"
-local-zone: "yih90.rdtk.io" static
-local-data: "yih90.rdtk.io A 127.0.0.1"
-local-zone: "yihafo.com" static
-local-data: "yihafo.com A 127.0.0.1"
-local-zone: "yihainiu.com" static
-local-data: "yihainiu.com A 127.0.0.1"
-local-zone: "yihaodianimg.com" static
-local-data: "yihaodianimg.com A 127.0.0.1"
-local-zone: "yihaoyinqing.com" static
-local-data: "yihaoyinqing.com A 127.0.0.1"
-local-zone: "yihaporn.com" static
-local-data: "yihaporn.com A 127.0.0.1"
-local-zone: "yihehe.xyz" static
-local-data: "yihehe.xyz A 127.0.0.1"
-local-zone: "yihfewhewgg.xyz" static
-local-data: "yihfewhewgg.xyz A 127.0.0.1"
-local-zone: "yihibfmdq.bid" static
-local-data: "yihibfmdq.bid A 127.0.0.1"
-local-zone: "yihjbiomb.com" static
-local-data: "yihjbiomb.com A 127.0.0.1"
-local-zone: "yihu.com" static
-local-data: "yihu.com A 127.0.0.1"
-local-zone: "yihubaiying.com" static
-local-data: "yihubaiying.com A 127.0.0.1"
-local-zone: "yihudong.net" static
-local-data: "yihudong.net A 127.0.0.1"
-local-zone: "yihui.org" static
-local-data: "yihui.org A 127.0.0.1"
-local-zone: "yihuifu.cn" static
-local-data: "yihuifu.cn A 127.0.0.1"
-local-zone: "yiichina.org" static
-local-data: "yiichina.org A 127.0.0.1"
-local-zone: "yiiep.com" static
-local-data: "yiiep.com A 127.0.0.1"
-local-zone: "yiigle.com" static
-local-data: "yiigle.com A 127.0.0.1"
-local-zone: "yiigmdsedbt.xyz" static
-local-data: "yiigmdsedbt.xyz A 127.0.0.1"
-local-zone: "yiijp.cn" static
-local-data: "yiijp.cn A 127.0.0.1"
-local-zone: "yiim1.shop" static
-local-data: "yiim1.shop A 127.0.0.1"
-local-zone: "yiinjlvw.usw.stape.io" static
-local-data: "yiinjlvw.usw.stape.io A 127.0.0.1"
-local-zone: "yiiov.com" static
-local-data: "yiiov.com A 127.0.0.1"
-local-zone: "yiiovx767k59bazb.aassetsministrators.net.daraz.com" static
-local-data: "yiiovx767k59bazb.aassetsministrators.net.daraz.com A 127.0.0.1"
-local-zone: "yiitest.onthe.io" static
-local-data: "yiitest.onthe.io A 127.0.0.1"
-local-zone: "yiiwaq.mms.com" static
-local-data: "yiiwaq.mms.com A 127.0.0.1"
-local-zone: "yiiwoo.com" static
-local-data: "yiiwoo.com A 127.0.0.1"
-local-zone: "yijaovuvbndx.xyz" static
-local-data: "yijaovuvbndx.xyz A 127.0.0.1"
-local-zone: "yijavj659v1nagwl.10.net.daraz.com" static
-local-data: "yijavj659v1nagwl.10.net.daraz.com A 127.0.0.1"
-local-zone: "yijavj659v1nagwl.docs.net.daraz.com" static
-local-data: "yijavj659v1nagwl.docs.net.daraz.com A 127.0.0.1"
-local-zone: "yijavj659v1nagwl.net.daraz.com" static
-local-data: "yijavj659v1nagwl.net.daraz.com A 127.0.0.1"
-local-zone: "yijfdsu.cn" static
-local-data: "yijfdsu.cn A 127.0.0.1"
-local-zone: "yijia2009.com" static
-local-data: "yijia2009.com A 127.0.0.1"
+ "yijia2009.com A 127.0.0.1"
 local-zone: "yijiafangzhi.cn" static
 local-data: "yijiafangzhi.cn A 127.0.0.1"
 local-zone: "yijiahyvip.com" static
@@ -2232,6 +245,8 @@ local-zone: "yingkelawyer.com" static
 local-data: "yingkelawyer.com A 127.0.0.1"
 local-zone: "yingliangads.com" static
 local-data: "yingliangads.com A 127.0.0.1"
+local-zone: "yingren.net" static
+local-data: "yingren.net A 127.0.0.1"
 local-zone: "yingrunshuzi.xyz" static
 local-data: "yingrunshuzi.xyz A 127.0.0.1"
 local-zone: "yingtan.webcam.net" static
@@ -3248,8 +1263,6 @@ local-zone: "ykjort.cjnshtrox.com" static
 local-data: "ykjort.cjnshtrox.com A 127.0.0.1"
 local-zone: "ykjr.mjt.lu" static
 local-data: "ykjr.mjt.lu A 127.0.0.1"
-local-zone: "ykjwvyp.guru" static
-local-data: "ykjwvyp.guru A 127.0.0.1"
 local-zone: "ykjyyy.com" static
 local-data: "ykjyyy.com A 127.0.0.1"
 local-zone: "ykkap.com" static
@@ -3650,8 +1663,6 @@ local-zone: "ylgvlvbc.xyz" static
 local-data: "ylgvlvbc.xyz A 127.0.0.1"
 local-zone: "ylgyk.adsbtrack.com" static
 local-data: "ylgyk.adsbtrack.com A 127.0.0.1"
-local-zone: "ylh1688.com" static
-local-data: "ylh1688.com A 127.0.0.1"
 local-zone: "ylhbn.nptech.cn" static
 local-data: "ylhbn.nptech.cn A 127.0.0.1"
 local-zone: "ylhglobal.com" static
@@ -3902,8 +1913,6 @@ local-zone: "ylzz.mjt.lu" static
 local-data: "ylzz.mjt.lu A 127.0.0.1"
 local-zone: "ym-a.cc" static
 local-data: "ym-a.cc A 127.0.0.1"
-local-zone: "ym-auth.help" static
-local-data: "ym-auth.help A 127.0.0.1"
 local-zone: "ym-dcs-sandbox.yieldmo.com" static
 local-data: "ym-dcs-sandbox.yieldmo.com A 127.0.0.1"
 local-zone: "ym-default.adnxs.com" static
@@ -4468,8 +2477,6 @@ local-zone: "ymwjwe.xyz" static
 local-data: "ymwjwe.xyz A 127.0.0.1"
 local-zone: "ymx33.com" static
 local-data: "ymx33.com A 127.0.0.1"
-local-zone: "ymxdh.sbs" static
-local-data: "ymxdh.sbs A 127.0.0.1"
 local-zone: "ymxdh6.icu" static
 local-data: "ymxdh6.icu A 127.0.0.1"
 local-zone: "ymxnimodwiqpf.com" static
@@ -6392,6 +4399,8 @@ local-zone: "yonkine.com" static
 local-data: "yonkine.com A 127.0.0.1"
 local-zone: "yonkis.tv" static
 local-data: "yonkis.tv A 127.0.0.1"
+local-zone: "yonlendirme-linki.xyz" static
+local-data: "yonlendirme-linki.xyz A 127.0.0.1"
 local-zone: "yonlendirmecifirsatcilarci.cfd" static
 local-data: "yonlendirmecifirsatcilarci.cfd A 127.0.0.1"
 local-zone: "yonlendirmecifirsatcilarci.club" static
@@ -7180,8 +5189,6 @@ local-zone: "yoterup.affise.com" static
 local-data: "yoterup.affise.com A 127.0.0.1"
 local-zone: "yoterup.g2afse.com" static
 local-data: "yoterup.g2afse.com A 127.0.0.1"
-local-zone: "yoteso.agency" static
-local-data: "yoteso.agency A 127.0.0.1"
 local-zone: "yotest.od.aws.freewheel.tv" static
 local-data: "yotest.od.aws.freewheel.tv A 127.0.0.1"
 local-zone: "yotgp.com" static
@@ -14984,8 +12991,6 @@ local-zone: "youtude.fr" static
 local-data: "youtude.fr A 127.0.0.1"
 local-zone: "youtuebe.fr" static
 local-data: "youtuebe.fr A 127.0.0.1"
-local-zone: "youtufx.com" static
-local-data: "youtufx.com A 127.0.0.1"
 local-zone: "youtuhe.biz" static
 local-data: "youtuhe.biz A 127.0.0.1"
 local-zone: "youtuhe.com" static
@@ -17930,6 +15935,8 @@ local-zone: "yttompthree.com" static
 local-data: "yttompthree.com A 127.0.0.1"
 local-zone: "yttriaremends.top" static
 local-data: "yttriaremends.top A 127.0.0.1"
+local-zone: "yttrichilt.top" static
+local-data: "yttrichilt.top A 127.0.0.1"
 local-zone: "yttxqh-inapps.appsflyersdk.com" static
 local-data: "yttxqh-inapps.appsflyersdk.com A 127.0.0.1"
 local-zone: "yttxqh-launches.appsflyersdk.com" static
@@ -18618,8 +16625,6 @@ local-zone: "yuhuads.com" static
 local-data: "yuhuads.com A 127.0.0.1"
 local-zone: "yuhuaidz.com" static
 local-data: "yuhuaidz.com A 127.0.0.1"
-local-zone: "yuhuan.cc" static
-local-data: "yuhuan.cc A 127.0.0.1"
 local-zone: "yuhuce-bevowu.pics" static
 local-data: "yuhuce-bevowu.pics A 127.0.0.1"
 local-zone: "yuhugifts.com" static
@@ -20900,6 +18905,8 @@ local-zone: "ywf.temporary.site" static
 local-data: "ywf.temporary.site A 127.0.0.1"
 local-zone: "ywfbjvmsw.com" static
 local-data: "ywfbjvmsw.com A 127.0.0.1"
+local-zone: "ywfetqcwgac-dqdqcwxtq-eqxqzzgwc.shop" static
+local-data: "ywfetqcwgac-dqdqcwxtq-eqxqzzgwc.shop A 127.0.0.1"
 local-zone: "ywffr.biz" static
 local-data: "ywffr.biz A 127.0.0.1"
 local-zone: "ywg-blue.trafficfactory.biz" static
@@ -21228,8 +19235,6 @@ local-zone: "ywtl-dc-001v.area52.afnoapps.usaf.mil" static
 local-data: "ywtl-dc-001v.area52.afnoapps.usaf.mil A 127.0.0.1"
 local-zone: "ywtpgnbp.org" static
 local-data: "ywtpgnbp.org A 127.0.0.1"
-local-zone: "ywtti.info" static
-local-data: "ywtti.info A 127.0.0.1"
 local-zone: "ywtuk.com" static
 local-data: "ywtuk.com A 127.0.0.1"
 local-zone: "ywtuwh.footway.at" static
@@ -21678,6 +19683,8 @@ local-zone: "yxse.adj.st" static
 local-data: "yxse.adj.st A 127.0.0.1"
 local-zone: "yxshengda.com" static
 local-data: "yxshengda.com A 127.0.0.1"
+local-zone: "yxshoe.com" static
+local-data: "yxshoe.com A 127.0.0.1"
 local-zone: "yxsu5ufd2m.kameleoon.eu" static
 local-data: "yxsu5ufd2m.kameleoon.eu A 127.0.0.1"
 local-zone: "yxswtummev.info" static
@@ -22268,8 +20275,6 @@ local-zone: "yyxtbg-cdn-settings.appsflyersdk.com" static
 local-data: "yyxtbg-cdn-settings.appsflyersdk.com A 127.0.0.1"
 local-zone: "yyxxgame.com" static
 local-data: "yyxxgame.com A 127.0.0.1"
-local-zone: "yyy-telegram.com" static
-local-data: "yyy-telegram.com A 127.0.0.1"
 local-zone: "yyy.cam" static
 local-data: "yyy.cam A 127.0.0.1"
 local-zone: "yyy01.com" static
@@ -25054,6 +23059,8 @@ local-zone: "za975.infusionsoft.com" static
 local-data: "za975.infusionsoft.com A 127.0.0.1"
 local-zone: "za98c.top" static
 local-data: "za98c.top A 127.0.0.1"
+local-zone: "za9ynb.top" static
+local-data: "za9ynb.top A 127.0.0.1"
 local-zone: "zaabum.blogspot.com" static
 local-data: "zaabum.blogspot.com A 127.0.0.1"
 local-zone: "zaacool.com" static
@@ -26882,8 +24889,6 @@ local-zone: "zakalwe.com" static
 local-data: "zakalwe.com A 127.0.0.1"
 local-zone: "zakan.ir" static
 local-data: "zakan.ir A 127.0.0.1"
-local-zone: "zakanchivai.com" static
-local-data: "zakanchivai.com A 127.0.0.1"
 local-zone: "zakanyszerszamhaz.hu" static
 local-data: "zakanyszerszamhaz.hu A 127.0.0.1"
 local-zone: "zakarberbulu.blogspot.com" static
@@ -27992,6 +25997,8 @@ local-zone: "zanyzests.pro" static
 local-data: "zanyzests.pro A 127.0.0.1"
 local-zone: "zanyzones.pro" static
 local-data: "zanyzones.pro A 127.0.0.1"
+local-zone: "zanzaribat.pro" static
+local-data: "zanzaribat.pro A 127.0.0.1"
 local-zone: "zanzathoraxlough.site" static
 local-data: "zanzathoraxlough.site A 127.0.0.1"
 local-zone: "zanzea.com" static
@@ -29634,8 +27641,6 @@ local-zone: "zbestxporn.com" static
 local-data: "zbestxporn.com A 127.0.0.1"
 local-zone: "zbet-vn.cfd" static
 local-data: "zbet-vn.cfd A 127.0.0.1"
-local-zone: "zbet-vn.sbs" static
-local-data: "zbet-vn.sbs A 127.0.0.1"
 local-zone: "zbet-vn.xyz" static
 local-data: "zbet-vn.xyz A 127.0.0.1"
 local-zone: "zbet.com" static
@@ -35518,8 +33523,6 @@ local-zone: "zeuscoin-eth.xyz" static
 local-data: "zeuscoin-eth.xyz A 127.0.0.1"
 local-zone: "zeuscoineth.com" static
 local-data: "zeuscoineth.com A 127.0.0.1"
-local-zone: "zeuscoins.info" static
-local-data: "zeuscoins.info A 127.0.0.1"
 local-zone: "zeuscpa.go2affise.com" static
 local-data: "zeuscpa.go2affise.com A 127.0.0.1"
 local-zone: "zeusedp.com" static
@@ -35650,8 +33653,6 @@ local-zone: "zewanker.blogspot.com" static
 local-data: "zewanker.blogspot.com A 127.0.0.1"
 local-zone: "zewar.net" static
 local-data: "zewar.net A 127.0.0.1"
-local-zone: "zewbioqn.info" static
-local-data: "zewbioqn.info A 127.0.0.1"
 local-zone: "zewhearth.eu.com" static
 local-data: "zewhearth.eu.com A 127.0.0.1"
 local-zone: "zewixu-sigazi.site" static
@@ -36008,6 +34009,8 @@ local-zone: "zficazdubxra.com" static
 local-data: "zficazdubxra.com A 127.0.0.1"
 local-zone: "zfile.us" static
 local-data: "zfile.us A 127.0.0.1"
+local-zone: "zfilm-hd-2341.online" static
+local-data: "zfilm-hd-2341.online A 127.0.0.1"
 local-zone: "zfilm-hd.pro" static
 local-data: "zfilm-hd.pro A 127.0.0.1"
 local-zone: "zfilm1.ru" static
@@ -36556,8 +34559,6 @@ local-zone: "zgjsxh.cn.rollbar.com" static
 local-data: "zgjsxh.cn.rollbar.com A 127.0.0.1"
 local-zone: "zgjsyw.com" static
 local-data: "zgjsyw.com A 127.0.0.1"
-local-zone: "zgjylh.com" static
-local-data: "zgjylh.com A 127.0.0.1"
 local-zone: "zgkjszxy.com" static
 local-data: "zgkjszxy.com A 127.0.0.1"
 local-zone: "zgksb.com" static
@@ -36572,16 +34573,12 @@ local-zone: "zgl-tosm4i7.blogspot.com" static
 local-data: "zgl-tosm4i7.blogspot.com A 127.0.0.1"
 local-zone: "zglabel.com" static
 local-data: "zglabel.com A 127.0.0.1"
-local-zone: "zgllkyyz.com" static
-local-data: "zgllkyyz.com A 127.0.0.1"
 local-zone: "zglnx.com" static
 local-data: "zglnx.com A 127.0.0.1"
 local-zone: "zgloszeniaiwypadki.pl" static
 local-data: "zgloszeniaiwypadki.pl A 127.0.0.1"
 local-zone: "zglqkct.ru" static
 local-data: "zglqkct.ru A 127.0.0.1"
-local-zone: "zgltk.info" static
-local-data: "zgltk.info A 127.0.0.1"
 local-zone: "zglvzzlpvoel14q4.authenticate.net.daraz.com" static
 local-data: "zglvzzlpvoel14q4.authenticate.net.daraz.com A 127.0.0.1"
 local-zone: "zglvzzlpvoel14q4.azure.net.daraz.com" static
@@ -36896,6 +34893,8 @@ local-zone: "zh-live-heibaisports.com" static
 local-data: "zh-live-heibaisports.com A 127.0.0.1"
 local-zone: "zh-live-hupusports.com" static
 local-data: "zh-live-hupusports.com A 127.0.0.1"
+local-zone: "zh-live-iqiyi.com" static
+local-data: "zh-live-iqiyi.com A 127.0.0.1"
 local-zone: "zh-live-jiuyousport.com" static
 local-data: "zh-live-jiuyousport.com A 127.0.0.1"
 local-zone: "zh-live-jiuyousports.com" static
@@ -37464,8 +35463,6 @@ local-zone: "zhaqby.com.a3443e11.cdnhwcgqa21.com" static
 local-data: "zhaqby.com.a3443e11.cdnhwcgqa21.com A 127.0.0.1"
 local-zone: "zhar-apps.com" static
 local-data: "zhar-apps.com A 127.0.0.1"
-local-zone: "zhar-pizza-delivery.ru" static
-local-data: "zhar-pizza-delivery.ru A 127.0.0.1"
 local-zone: "zhara-massage.ru" static
 local-data: "zhara-massage.ru A 127.0.0.1"
 local-zone: "zharckovyurij2015jarkov.getresponse.com" static
@@ -37864,8 +35861,6 @@ local-zone: "zhimob.com" static
 local-data: "zhimob.com A 127.0.0.1"
 local-zone: "zhinengvip.com" static
 local-data: "zhinengvip.com A 127.0.0.1"
-local-zone: "zhinogallery.com" static
-local-data: "zhinogallery.com A 127.0.0.1"
 local-zone: "zhinst.com" static
 local-data: "zhinst.com A 127.0.0.1"
 local-zone: "zhiong.net" static
@@ -38106,8 +36101,6 @@ local-zone: "zhongtaiint.com" static
 local-data: "zhongtaiint.com A 127.0.0.1"
 local-zone: "zhongtezc.com" static
 local-data: "zhongtezc.com A 127.0.0.1"
-local-zone: "zhongwai.sbs" static
-local-data: "zhongwai.sbs A 127.0.0.1"
 local-zone: "zhongwangcq.com" static
 local-data: "zhongwangcq.com A 127.0.0.1"
 local-zone: "zhongwangmy.cn" static
@@ -38240,8 +36233,6 @@ local-zone: "zhqzvo-launches.appsflyersdk.com" static
 local-data: "zhqzvo-launches.appsflyersdk.com A 127.0.0.1"
 local-zone: "zhqzvo-skadsdkless.appsflyersdk.com" static
 local-data: "zhqzvo-skadsdkless.appsflyersdk.com A 127.0.0.1"
-local-zone: "zhr-telegram.net" static
-local-data: "zhr-telegram.net A 127.0.0.1"
 local-zone: "zhrbwgylkeqmb.bid" static
 local-data: "zhrbwgylkeqmb.bid A 127.0.0.1"
 local-zone: "zhrebtov2.blogspot.com" static
@@ -41732,6 +39723,8 @@ local-zone: "zimplifyit.com" static
 local-data: "zimplifyit.com A 127.0.0.1"
 local-zone: "zimpolo.com" static
 local-data: "zimpolo.com A 127.0.0.1"
+local-zone: "zimqq.com" static
+local-data: "zimqq.com A 127.0.0.1"
 local-zone: "zimran.net" static
 local-data: "zimran.net A 127.0.0.1"
 local-zone: "zimres.com" static
@@ -41784,8 +39777,6 @@ local-zone: "zinamax.pl" static
 local-data: "zinamax.pl A 127.0.0.1"
 local-zone: "zinaps.com" static
 local-data: "zinaps.com A 127.0.0.1"
-local-zone: "zinas.art" static
-local-data: "zinas.art A 127.0.0.1"
 local-zone: "zinazenritual.com" static
 local-data: "zinazenritual.com A 127.0.0.1"
 local-zone: "zinblemedia.affise.com" static
@@ -43594,8 +41585,6 @@ local-zone: "zjaboefd.micpn.com" static
 local-data: "zjaboefd.micpn.com A 127.0.0.1"
 local-zone: "zjahjuc.ru" static
 local-data: "zjahjuc.ru A 127.0.0.1"
-local-zone: "zjapafgj.guru" static
-local-data: "zjapafgj.guru A 127.0.0.1"
 local-zone: "zjbdt.com" static
 local-data: "zjbdt.com A 127.0.0.1"
 local-zone: "zjbfke.centerparcs.be" static
@@ -43786,6 +41775,8 @@ local-zone: "zjk7xdjscpwlfti-p.adkplan.fr" static
 local-data: "zjk7xdjscpwlfti-p.adkplan.fr A 127.0.0.1"
 local-zone: "zjkg9gjnx.com" static
 local-data: "zjkg9gjnx.com A 127.0.0.1"
+local-zone: "zjkisp.com" static
+local-data: "zjkisp.com A 127.0.0.1"
 local-zone: "zjknx.cn" static
 local-data: "zjknx.cn A 127.0.0.1"
 local-zone: "zjkpxw.tesco.hu" static
@@ -44596,6 +42587,8 @@ local-zone: "zlajnpfqgsleo.com" static
 local-data: "zlajnpfqgsleo.com A 127.0.0.1"
 local-zone: "zlansa.site" static
 local-data: "zlansa.site A 127.0.0.1"
+local-zone: "zlappromke.click" static
+local-data: "zlappromke.click A 127.0.0.1"
 local-zone: "zlat-dd.com" static
 local-data: "zlat-dd.com A 127.0.0.1"
 local-zone: "zlata-atelier.ucoz.ru" static
@@ -44874,8 +42867,6 @@ local-zone: "zlodei.g2afse.com" static
 local-data: "zlodei.g2afse.com A 127.0.0.1"
 local-zone: "zlodei.space" static
 local-data: "zlodei.space A 127.0.0.1"
-local-zone: "zlodeyka-7-live-jut.su" static
-local-data: "zlodeyka-7-live-jut.su A 127.0.0.1"
 local-zone: "zloeradio.net" static
 local-data: "zloeradio.net A 127.0.0.1"
 local-zone: "zlog.coscousa.com" static
@@ -46296,6 +44287,8 @@ local-zone: "zmtq.cdnhwczoy106.cn" static
 local-data: "zmtq.cdnhwczoy106.cn A 127.0.0.1"
 local-zone: "zmtvip.com" static
 local-data: "zmtvip.com A 127.0.0.1"
+local-zone: "zmu62084.77119.cc" static
+local-data: "zmu62084.77119.cc A 127.0.0.1"
 local-zone: "zmupdati.weebly.com" static
 local-data: "zmupdati.weebly.com A 127.0.0.1"
 local-zone: "zmurk.com" static
@@ -46350,8 +44343,6 @@ local-zone: "zmyiqu.cn" static
 local-data: "zmyiqu.cn A 127.0.0.1"
 local-zone: "zmyopn.babadotop.com.br" static
 local-data: "zmyopn.babadotop.com.br A 127.0.0.1"
-local-zone: "zmyrongyi.asia" static
-local-data: "zmyrongyi.asia A 127.0.0.1"
 local-zone: "zmysashrep.com" static
 local-data: "zmysashrep.com A 127.0.0.1"
 local-zone: "zmyslowyklub.com" static
@@ -51856,8 +49847,6 @@ local-zone: "znajdzrabaty.click" static
 local-data: "znajdzrabaty.click A 127.0.0.1"
 local-zone: "znajdzswojfilm.pl" static
 local-data: "znajdzswojfilm.pl A 127.0.0.1"
-local-zone: "znajkh.xyz" static
-local-data: "znajkh.xyz A 127.0.0.1"
 local-zone: "znajua.top-js-metrics.top.my.ua" static
 local-data: "znajua.top-js-metrics.top.my.ua A 127.0.0.1"
 local-zone: "znakomiy.ru" static
@@ -56036,6 +54025,8 @@ local-zone: "zondervirus.nl" static
 local-data: "zondervirus.nl A 127.0.0.1"
 local-zone: "zonderzorgen.000webhostapp.com" static
 local-data: "zonderzorgen.000webhostapp.com A 127.0.0.1"
+local-zone: "zondos.net" static
+local-data: "zondos.net A 127.0.0.1"
 local-zone: "zondratex.com" static
 local-data: "zondratex.com A 127.0.0.1"
 local-zone: "zondratexapp.net" static
@@ -56366,6 +54357,8 @@ local-zone: "zonewebcams.com" static
 local-data: "zonewebcams.com A 127.0.0.1"
 local-zone: "zonewedgeshaft.com" static
 local-data: "zonewedgeshaft.com A 127.0.0.1"
+local-zone: "zonexa.lat" static
+local-data: "zonexa.lat A 127.0.0.1"
 local-zone: "zonfenntorlek.com" static
 local-data: "zonfenntorlek.com A 127.0.0.1"
 local-zone: "zong-00-bootstrap.net.daraz.com" static
@@ -57350,8 +55343,6 @@ local-zone: "zoolook.nl" static
 local-data: "zoolook.nl A 127.0.0.1"
 local-zone: "zooluck.org" static
 local-data: "zooluck.org A 127.0.0.1"
-local-zone: "zoom-1sa.com" static
-local-data: "zoom-1sa.com A 127.0.0.1"
 local-zone: "zoom-appointment.myftp.org" static
 local-data: "zoom-appointment.myftp.org A 127.0.0.1"
 local-zone: "zoom-autoconnectservice.com" static
@@ -57398,8 +55389,6 @@ local-zone: "zoom-meetinteraction.com" static
 local-data: "zoom-meetinteraction.com A 127.0.0.1"
 local-zone: "zoom-online.org" static
 local-data: "zoom-online.org A 127.0.0.1"
-local-zone: "zoom-opr.com" static
-local-data: "zoom-opr.com A 127.0.0.1"
 local-zone: "zoom-pcversion.com" static
 local-data: "zoom-pcversion.com A 127.0.0.1"
 local-zone: "zoom-phone.cfd" static
@@ -58900,6 +56889,8 @@ local-zone: "zovon.com" static
 local-data: "zovon.com A 127.0.0.1"
 local-zone: "zovs.mjt.lu" static
 local-data: "zovs.mjt.lu A 127.0.0.1"
+local-zone: "zovtivulax.sbs" static
+local-data: "zovtivulax.sbs A 127.0.0.1"
 local-zone: "zovucau6.pro" static
 local-data: "zovucau6.pro A 127.0.0.1"
 local-zone: "zovukale.uk" static
@@ -59116,8 +57107,6 @@ local-zone: "zp.fixatessoused.com" static
 local-data: "zp.fixatessoused.com A 127.0.0.1"
 local-zone: "zp.ignoresfahlerz.com" static
 local-data: "zp.ignoresfahlerz.com A 127.0.0.1"
-local-zone: "zp.rakeoffbale.com" static
-local-data: "zp.rakeoffbale.com A 127.0.0.1"
 local-zone: "zp.zeroredirect1.com" static
 local-data: "zp.zeroredirect1.com A 127.0.0.1"
 local-zone: "zp0573.cn" static
@@ -59710,8 +57699,6 @@ local-zone: "zpznbracwdai.com" static
 local-data: "zpznbracwdai.com A 127.0.0.1"
 local-zone: "zpzsdmpvqudhsz.com" static
 local-data: "zpzsdmpvqudhsz.com A 127.0.0.1"
-local-zone: "zpzw.cc" static
-local-data: "zpzw.cc A 127.0.0.1"
 local-zone: "zq.enheartsteamed.com" static
 local-data: "zq.enheartsteamed.com A 127.0.0.1"
 local-zone: "zq.grampermilwell.top" static
@@ -62030,8 +60017,6 @@ local-zone: "zubivu.com" static
 local-data: "zubivu.com A 127.0.0.1"
 local-zone: "zubmax.onesignal.com" static
 local-data: "zubmax.onesignal.com A 127.0.0.1"
-local-zone: "zubmcm.com" static
-local-data: "zubmcm.com A 127.0.0.1"
 local-zone: "zubnaklinika.com" static
 local-data: "zubnaklinika.com A 127.0.0.1"
 local-zone: "zuboba.com" static
@@ -62094,8 +60079,6 @@ local-zone: "zuckerporno.com" static
 local-data: "zuckerporno.com A 127.0.0.1"
 local-zone: "zuckersuess-erotikshop.de" static
 local-data: "zuckersuess-erotikshop.de A 127.0.0.1"
-local-zone: "zuckless.org" static
-local-data: "zuckless.org A 127.0.0.1"
 local-zone: "zucks.co.jp" static
 local-data: "zucks.co.jp A 127.0.0.1"
 local-zone: "zucks.net" static
@@ -62486,8 +60469,6 @@ local-zone: "zulli.evooli.com" static
 local-data: "zulli.evooli.com A 127.0.0.1"
 local-zone: "zulmie.cfd" static
 local-data: "zulmie.cfd A 127.0.0.1"
-local-zone: "zulmira.store" static
-local-data: "zulmira.store A 127.0.0.1"
 local-zone: "zulong.com" static
 local-data: "zulong.com A 127.0.0.1"
 local-zone: "zult.ru" static
@@ -62912,8 +60893,6 @@ local-zone: "zuramedia.clickfunnels.com" static
 local-data: "zuramedia.clickfunnels.com A 127.0.0.1"
 local-zone: "zuramo.de" static
 local-data: "zuramo.de A 127.0.0.1"
-local-zone: "zurat.store" static
-local-data: "zurat.store A 127.0.0.1"
 local-zone: "zurawiewynajem.pl" static
 local-data: "zurawiewynajem.pl A 127.0.0.1"
 local-zone: "zurbex.com" static
@@ -63098,6 +61077,8 @@ local-zone: "zusammenmasturbierensexgescle.blogspot.com" static
 local-data: "zusammenmasturbierensexgescle.blogspot.com A 127.0.0.1"
 local-zone: "zusammenmitthule.de" static
 local-data: "zusammenmitthule.de A 127.0.0.1"
+local-zone: "zusammenwachsene.com" static
+local-data: "zusammenwachsene.com A 127.0.0.1"
 local-zone: "zusatzleistungen01.wt-eu02.net" static
 local-data: "zusatzleistungen01.wt-eu02.net A 127.0.0.1"
 local-zone: "zusbzr.com" static
@@ -63434,6 +61415,8 @@ local-zone: "zv975.infusionsoft.com" static
 local-data: "zv975.infusionsoft.com A 127.0.0.1"
 local-zone: "zv9t.mjt.lu" static
 local-data: "zv9t.mjt.lu A 127.0.0.1"
+local-zone: "zva1ac.top" static
+local-data: "zva1ac.top A 127.0.0.1"
 local-zone: "zvaavn.horloge.nl" static
 local-data: "zvaavn.horloge.nl A 127.0.0.1"
 local-zone: "zvae2izi6a767krs4d.net.daraz.com" static
@@ -64838,8 +62821,6 @@ local-zone: "zxmail.weebly.com" static
 local-data: "zxmail.weebly.com A 127.0.0.1"
 local-zone: "zxmbc500.000webhostapp.com" static
 local-data: "zxmbc500.000webhostapp.com A 127.0.0.1"
-local-zone: "zxmenhmo.top" static
-local-data: "zxmenhmo.top A 127.0.0.1"
 local-zone: "zxmkvelyft.bid" static
 local-data: "zxmkvelyft.bid A 127.0.0.1"
 local-zone: "zxml.cn" static
@@ -65004,8 +62985,6 @@ local-zone: "zxxk.com" static
 local-data: "zxxk.com A 127.0.0.1"
 local-zone: "zxxmru.punkte-flensburg.de" static
 local-data: "zxxmru.punkte-flensburg.de A 127.0.0.1"
-local-zone: "zxxnk.info" static
-local-data: "zxxnk.info A 127.0.0.1"
 local-zone: "zxxvns.f64.ro" static
 local-data: "zxxvns.f64.ro A 127.0.0.1"
 local-zone: "zxxx.me" static
@@ -65486,6 +63465,8 @@ local-zone: "zymetro.info" static
 local-data: "zymetro.info A 127.0.0.1"
 local-zone: "zymewire.com" static
 local-data: "zymewire.com A 127.0.0.1"
+local-zone: "zymj.zmkevvbavowwz.top" static
+local-data: "zymj.zmkevvbavowwz.top A 127.0.0.1"
 local-zone: "zymjzwyyjyvb.top" static
 local-data: "zymjzwyyjyvb.top A 127.0.0.1"
 local-zone: "zymngxjmm.bid" static
@@ -65716,6 +63697,8 @@ local-zone: "zypta-flow.net" static
 local-data: "zypta-flow.net A 127.0.0.1"
 local-zone: "zyptaflow.com" static
 local-data: "zyptaflow.com A 127.0.0.1"
+local-zone: "zyptaflow.net" static
+local-data: "zyptaflow.net A 127.0.0.1"
 local-zone: "zyptorix-app-99.com" static
 local-data: "zyptorix-app-99.com A 127.0.0.1"
 local-zone: "zyptorix-app.com" static
@@ -65790,10 +63773,20 @@ local-zone: "zyscrz.massnoun.com" static
 local-data: "zyscrz.massnoun.com A 127.0.0.1"
 local-zone: "zysheptany.com" static
 local-data: "zysheptany.com A 127.0.0.1"
+local-zone: "zyskbalance.xyz" static
+local-data: "zyskbalance.xyz A 127.0.0.1"
+local-zone: "zyskcenter.xyz" static
+local-data: "zyskcenter.xyz A 127.0.0.1"
+local-zone: "zyskcontrol.top" static
+local-data: "zyskcontrol.top A 127.0.0.1"
+local-zone: "zyskfinder.top" static
+local-data: "zyskfinder.top A 127.0.0.1"
 local-zone: "zysknahoryzoncie.eu" static
 local-data: "zysknahoryzoncie.eu A 127.0.0.1"
 local-zone: "zysknaplus.sa.com" static
 local-data: "zysknaplus.sa.com A 127.0.0.1"
+local-zone: "zyskstart.top" static
+local-data: "zyskstart.top A 127.0.0.1"
 local-zone: "zysktrack.top" static
 local-data: "zysktrack.top A 127.0.0.1"
 local-zone: "zysktrader.top" static
