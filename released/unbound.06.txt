@@ -1,4 +1,17 @@
-rsdk.com A 127.0.0.1"
+ic
+local-data: "ymmiyun.com A 127.0.0.1"
+local-zone: "ymmmeui.cn" static
+local-data: "ymmmeui.cn A 127.0.0.1"
+local-zone: "ymmo4o-cdn-settings.appsflyersdk.com" static
+local-data: "ymmo4o-cdn-settings.appsflyersdk.com A 127.0.0.1"
+local-zone: "ymmo4o-inapps.appsflyersdk.com" static
+local-data: "ymmo4o-inapps.appsflyersdk.com A 127.0.0.1"
+local-zone: "ymmo4o-launches.appsflyersdk.com" static
+local-data: "ymmo4o-launches.appsflyersdk.com A 127.0.0.1"
+local-zone: "ymmobi.com" static
+local-data: "ymmobi.com A 127.0.0.1"
+local-zone: "ymn1da-launches.appsflyersdk.com" static
+local-data: "ymn1da-launches.appsflyersdk.com A 127.0.0.1"
 local-zone: "ymndiw.tesbihane.com" static
 local-data: "ymndiw.tesbihane.com A 127.0.0.1"
 local-zone: "ymniqh.icu" static
