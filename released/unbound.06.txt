@@ -1,4 +1,290 @@
-ocal-zone: "yomchai.com" static
+
+local-data: "yojnxl.com A 127.0.0.1"
+local-zone: "yojoyi.universescope.com" static
+local-data: "yojoyi.universescope.com A 127.0.0.1"
+local-zone: "yojqb.pettisrumseycpa.com" static
+local-data: "yojqb.pettisrumseycpa.com A 127.0.0.1"
+local-zone: "yojutube.fr" static
+local-data: "yojutube.fr A 127.0.0.1"
+local-zone: "yojwqtu.xyz" static
+local-data: "yojwqtu.xyz A 127.0.0.1"
+local-zone: "yojxoefvnyrc.com" static
+local-data: "yojxoefvnyrc.com A 127.0.0.1"
+local-zone: "yojy.mjt.lu" static
+local-data: "yojy.mjt.lu A 127.0.0.1"
+local-zone: "yok.com" static
+local-data: "yok.com A 127.0.0.1"
+local-zone: "yoka.com" static
+local-data: "yoka.com A 127.0.0.1"
+local-zone: "yokahupr.com" static
+local-data: "yokahupr.com A 127.0.0.1"
+local-zone: "yokan.sgnet.co.jp" static
+local-data: "yokan.sgnet.co.jp A 127.0.0.1"
+local-zone: "yokave-xoketi.pics" static
+local-data: "yokave-xoketi.pics A 127.0.0.1"
+local-zone: "yokee.de" static
+local-data: "yokee.de A 127.0.0.1"
+local-zone: "yokee.tv" static
+local-data: "yokee.tv A 127.0.0.1"
+local-zone: "yokeeroud.com" static
+local-data: "yokeeroud.com A 127.0.0.1"
+local-zone: "yokefellowspfp.org" static
+local-data: "yokefellowspfp.org A 127.0.0.1"
+local-zone: "yokemart.com" static
+local-data: "yokemart.com A 127.0.0.1"
+local-zone: "yokesdolmen.com" static
+local-data: "yokesdolmen.com A 127.0.0.1"
+local-zone: "yokesfreshmarkets.com" static
+local-data: "yokesfreshmarkets.com A 127.0.0.1"
+local-zone: "yokeso-yoxoya.pics" static
+local-data: "yokeso-yoxoya.pics A 127.0.0.1"
+local-zone: "yoki.games" static
+local-data: "yoki.games A 127.0.0.1"
+local-zone: "yokieroganar.com" static
+local-data: "yokieroganar.com A 127.0.0.1"
+local-zone: "yokkao.com" static
+local-data: "yokkao.com A 127.0.0.1"
+local-zone: "yoko-kaede.blogspot.com" static
+local-data: "yoko-kaede.blogspot.com A 127.0.0.1"
+local-zone: "yokochou.com" static
+local-data: "yokochou.com A 127.0.0.1"
+local-zone: "yokocms.com" static
+local-data: "yokocms.com A 127.0.0.1"
+local-zone: "yokofashionswitzerland.com" static
+local-data: "yokofashionswitzerland.com A 127.0.0.1"
+local-zone: "yokogawa.containers.piwik.pro" static
+local-data: "yokogawa.containers.piwik.pro A 127.0.0.1"
+local-zone: "yokogawa.piwik.pro" static
+local-data: "yokogawa.piwik.pro A 127.0.0.1"
+local-zone: "yokohama-1borino.eromatic.info" static
+local-data: "yokohama-1borino.eromatic.info A 127.0.0.1"
+local-zone: "yokohamajrc.xxxxxxxx.jp" static
+local-data: "yokohamajrc.xxxxxxxx.jp A 127.0.0.1"
+local-zone: "yokohamaru.solution.weborama.fr" static
+local-data: "yokohamaru.solution.weborama.fr A 127.0.0.1"
+local-zone: "yokokan-minami.com" static
+local-data: "yokokan-minami.com A 127.0.0.1"
+local-zone: "yokonofrance.fr" static
+local-data: "yokonofrance.fr A 127.0.0.1"
+local-zone: "yokoo.mobi" static
+local-data: "yokoo.mobi A 127.0.0.1"
+local-zone: "yokosuka-office.com" static
+local-data: "yokosuka-office.com A 127.0.0.1"
+local-zone: "yokosys.000webhostapp.com" static
+local-data: "yokosys.000webhostapp.com A 127.0.0.1"
+local-zone: "yokouchi-office.comaff.i-mobile.co.jp" static
+local-data: "yokouchi-office.comaff.i-mobile.co.jp A 127.0.0.1"
+local-zone: "yokovr.site" static
+local-data: "yokovr.site A 127.0.0.1"
+local-zone: "yokoy.ai" static
+local-data: "yokoy.ai A 127.0.0.1"
+local-zone: "yokoyama-naoya.gpu.cyberagent.io" static
+local-data: "yokoyama-naoya.gpu.cyberagent.io A 127.0.0.1"
+local-zone: "yokoyyo.com" static
+local-data: "yokoyyo.com A 127.0.0.1"
+local-zone: "yokporn.com" static
+local-data: "yokporn.com A 127.0.0.1"
+local-zone: "yoks-join-group-bokep-2020.000webhostapp.com" static
+local-data: "yoks-join-group-bokep-2020.000webhostapp.com A 127.0.0.1"
+local-zone: "yoksamhain.com" static
+local-data: "yoksamhain.com A 127.0.0.1"
+local-zone: "yoktogel-amp75.com" static
+local-data: "yoktogel-amp75.com A 127.0.0.1"
+local-zone: "yoktogel.com" static
+local-data: "yoktogel.com A 127.0.0.1"
+local-zone: "yokvstore.fr" static
+local-data: "yokvstore.fr A 127.0.0.1"
+local-zone: "yokx.com" static
+local-data: "yokx.com A 127.0.0.1"
+local-zone: "yol1tev.pics" static
+local-data: "yol1tev.pics A 127.0.0.1"
+local-zone: "yola.com.102.122.2o7.net" static
+local-data: "yola.com.102.122.2o7.net A 127.0.0.1"
+local-zone: "yola.nanorep.co" static
+local-data: "yola.nanorep.co A 127.0.0.1"
+local-zone: "yola.vn" static
+local-data: "yola.vn A 127.0.0.1"
+local-zone: "yolalala.com" static
+local-data: "yolalala.com A 127.0.0.1"
+local-zone: "yolana-bookgirlsex.pages.dev" static
+local-data: "yolana-bookgirlsex.pages.dev A 127.0.0.1"
+local-zone: "yolana-sexsroom.pages.dev" static
+local-data: "yolana-sexsroom.pages.dev A 127.0.0.1"
+local-zone: "yolanda.1amail.top" static
+local-data: "yolanda.1amail.top A 127.0.0.1"
+local-zone: "yolandaadamsshow.com" static
+local-data: "yolandaadamsshow.com A 127.0.0.1"
+local-zone: "yolandaaguiar.com" static
+local-data: "yolandaaguiar.com A 127.0.0.1"
+local-zone: "yolandaflame.com" static
+local-data: "yolandaflame.com A 127.0.0.1"
+local-zone: "yolandeessiembre.com" static
+local-data: "yolandeessiembre.com A 127.0.0.1"
+local-zone: "yolaw2a.onelink.me" static
+local-data: "yolaw2a.onelink.me A 127.0.0.1"
+local-zone: "yolbiletim.xyz" static
+local-data: "yolbiletim.xyz A 127.0.0.1"
+local-zone: "yolbs.helloyo.sg" static
+local-data: "yolbs.helloyo.sg A 127.0.0.1"
+local-zone: "yolbtskqi.cn" static
+local-data: "yolbtskqi.cn A 127.0.0.1"
+local-zone: "yolcu-360.com" static
+local-data: "yolcu-360.com A 127.0.0.1"
+local-zone: "yolcu-rezervasyon.com" static
+local-data: "yolcu-rezervasyon.com A 127.0.0.1"
+local-zone: "yolcu-turizm.com" static
+local-data: "yolcu-turizm.com A 127.0.0.1"
+local-zone: "yolcxyr.850e1.hz01.com" static
+local-data: "yolcxyr.850e1.hz01.com A 127.0.0.1"
+local-zone: "yoleda-xifuse.pics" static
+local-data: "yoleda-xifuse.pics A 127.0.0.1"
+local-zone: "yolegroup.com" static
+local-data: "yolegroup.com A 127.0.0.1"
+local-zone: "yolenis.com" static
+local-data: "yolenis.com A 127.0.0.1"
+local-zone: "yolfomq.net" static
+local-data: "yolfomq.net A 127.0.0.1"
+local-zone: "yolgdfflhgilud.com" static
+local-data: "yolgdfflhgilud.com A 127.0.0.1"
+local-zone: "yoli.com" static
+local-data: "yoli.com A 127.0.0.1"
+local-zone: "yolicart.com" static
+local-data: "yolicart.com A 127.0.0.1"
+local-zone: "yolili.top" static
+local-data: "yolili.top A 127.0.0.1"
+local-zone: "yolipoli.com" static
+local-data: "yolipoli.com A 127.0.0.1"
+local-zone: "yoliverpool.com" static
+local-data: "yoliverpool.com A 127.0.0.1"
+local-zone: "yolk.000webhostapp.com" static
+local-data: "yolk.000webhostapp.com A 127.0.0.1"
+local-zone: "yolkhandledwheels.com" static
+local-data: "yolkhandledwheels.com A 127.0.0.1"
+local-zone: "yolkkl.shop" static
+local-data: "yolkkl.shop A 127.0.0.1"
+local-zone: "yolkprospectcigarettes.com" static
+local-data: "yolkprospectcigarettes.com A 127.0.0.1"
+local-zone: "yoll.info" static
+local-data: "yoll.info A 127.0.0.1"
+local-zone: "yolla-cncd.com" static
+local-data: "yolla-cncd.com A 127.0.0.1"
+local-zone: "yolla-d.openx.net" static
+local-data: "yolla-d.openx.net A 127.0.0.1"
+local-zone: "yollacalls.com" static
+local-data: "yollacalls.com A 127.0.0.1"
+local-zone: "yollamedia.com" static
+local-data: "yollamedia.com A 127.0.0.1"
+local-zone: "yollo.ru" static
+local-data: "yollo.ru A 127.0.0.1"
+local-zone: "yollodeals.com" static
+local-data: "yollodeals.com A 127.0.0.1"
+local-zone: "yolo-media.g2afse.com" static
+local-data: "yolo-media.g2afse.com A 127.0.0.1"
+local-zone: "yolo.com.listcrawler.eu" static
+local-data: "yolo.com.listcrawler.eu A 127.0.0.1"
+local-zone: "yolo.dhgamesdownload.com" static
+local-data: "yolo.dhgamesdownload.com A 127.0.0.1"
+local-zone: "yolo.philipbjorge.com" static
+local-data: "yolo.philipbjorge.com A 127.0.0.1"
+local-zone: "yolo.sp.backtrace.io" static
+local-data: "yolo.sp.backtrace.io A 127.0.0.1"
+local-zone: "yolo2.sp.backtrace.io" static
+local-data: "yolo2.sp.backtrace.io A 127.0.0.1"
+local-zone: "yolo3.sp.backtrace.io" static
+local-data: "yolo3.sp.backtrace.io A 127.0.0.1"
+local-zone: "yolo4.sp.backtrace.io" static
+local-data: "yolo4.sp.backtrace.io A 127.0.0.1"
+local-zone: "yoloboard.com" static
+local-data: "yoloboard.com A 127.0.0.1"
+local-zone: "yoloff.pages.dev" static
+local-data: "yoloff.pages.dev A 127.0.0.1"
+local-zone: "yolofoods.sg" static
+local-data: "yolofoods.sg A 127.0.0.1"
+local-zone: "yologame.xyz" static
+local-data: "yologame.xyz A 127.0.0.1"
+local-zone: "yologravel.com" static
+local-data: "yologravel.com A 127.0.0.1"
+local-zone: "yolohomebuyers.com" static
+local-data: "yolohomebuyers.com A 127.0.0.1"
+local-zone: "yolokidsvn.com" static
+local-data: "yolokidsvn.com A 127.0.0.1"
+local-zone: "yololary-porn.com" static
+local-data: "yololary-porn.com A 127.0.0.1"
+local-zone: "yololiv.com" static
+local-data: "yololiv.com A 127.0.0.1"
+local-zone: "yolomail.in.ua" static
+local-data: "yolomail.in.ua A 127.0.0.1"
+local-zone: "yoloman1.000webhostapp.com" static
+local-data: "yoloman1.000webhostapp.com A 127.0.0.1"
+local-zone: "yolomanka.xyz" static
+local-data: "yolomanka.xyz A 127.0.0.1"
+local-zone: "yolomatches.matomo.cloud" static
+local-data: "yolomatches.matomo.cloud A 127.0.0.1"
+local-zone: "yolonailsandsparedlion.com" static
+local-data: "yolonailsandsparedlion.com A 127.0.0.1"
+local-zone: "yolonews.net" static
+local-data: "yolonews.net A 127.0.0.1"
+local-zone: "yolooo.top" static
+local-data: "yolooo.top A 127.0.0.1"
+local-zone: "yolopussy.com" static
+local-data: "yolopussy.com A 127.0.0.1"
+local-zone: "yoloray.com" static
+local-data: "yoloray.com A 127.0.0.1"
+local-zone: "yoloretro.000webhostapp.com" static
+local-data: "yoloretro.000webhostapp.com A 127.0.0.1"
+local-zone: "yolortagimcom.000webhostapp.com" static
+local-data: "yolortagimcom.000webhostapp.com A 127.0.0.1"
+local-zone: "yoloselfie.com" static
+local-data: "yoloselfie.com A 127.0.0.1"
+local-zone: "yolosextoys.com" static
+local-data: "yolosextoys.com A 127.0.0.1"
+local-zone: "yolosnitest.com" static
+local-data: "yolosnitest.com A 127.0.0.1"
+local-zone: "yoloswag420.aweber.com" static
+local-data: "yoloswag420.aweber.com A 127.0.0.1"
+local-zone: "yolotech.de" static
+local-data: "yolotech.de A 127.0.0.1"
+local-zone: "yolova.sjv.io" static
+local-data: "yolova.sjv.io A 127.0.0.1"
+local-zone: "yolove.vip" static
+local-data: "yolove.vip A 127.0.0.1"
+local-zone: "yolowebcams.com" static
+local-data: "yolowebcams.com A 127.0.0.1"
+local-zone: "yoloyony.onesignal.com" static
+local-data: "yoloyony.onesignal.com A 127.0.0.1"
+local-zone: "yols8t-cdn-settings.appsflyersdk.com" static
+local-data: "yols8t-cdn-settings.appsflyersdk.com A 127.0.0.1"
+local-zone: "yols8t-launches.appsflyersdk.com" static
+local-data: "yols8t-launches.appsflyersdk.com A 127.0.0.1"
+local-zone: "yoluporn.com" static
+local-data: "yoluporn.com A 127.0.0.1"
+local-zone: "yolusem-goiglecom.firebaseapp.com" static
+local-data: "yolusem-goiglecom.firebaseapp.com A 127.0.0.1"
+local-zone: "yolusem-goiglecom.web.app" static
+local-data: "yolusem-goiglecom.web.app A 127.0.0.1"
+local-zone: "yoluvuj.com" static
+local-data: "yoluvuj.com A 127.0.0.1"
+local-zone: "yolvera.site" static
+local-data: "yolvera.site A 127.0.0.1"
+local-zone: "yolvertt26.blogspot.com" static
+local-data: "yolvertt26.blogspot.com A 127.0.0.1"
+local-zone: "yoma-versand.de" static
+local-data: "yoma-versand.de A 127.0.0.1"
+local-zone: "yomail.com" static
+local-data: "yomail.com A 127.0.0.1"
+local-zone: "yomail.info" static
+local-data: "yomail.info A 127.0.0.1"
+local-zone: "yomama.gay" static
+local-data: "yomama.gay A 127.0.0.1"
+local-zone: "yomamasrestaurant.com" static
+local-data: "yomamasrestaurant.com A 127.0.0.1"
+local-zone: "yomandotuobedeces.blogspot.com" static
+local-data: "yomandotuobedeces.blogspot.com A 127.0.0.1"
+local-zone: "yomari.com" static
+local-data: "yomari.com A 127.0.0.1"
+local-zone: "yomaza.net" static
+local-data: "yomaza.net A 127.0.0.1"
+local-zone: "yomchai.com" static
 local-data: "yomchai.com A 127.0.0.1"
 local-zone: "yomdel.com" static
 local-data: "yomdel.com A 127.0.0.1"
@@ -50080,6 +50366,8 @@ local-zone: "zonelima.net" static
 local-data: "zonelima.net A 127.0.0.1"
 local-zone: "zoneliving.com" static
 local-data: "zoneliving.com A 127.0.0.1"
+local-zone: "zoneluxe.club" static
+local-data: "zoneluxe.club A 127.0.0.1"
 local-zone: "zonemail.info" static
 local-data: "zonemail.info A 127.0.0.1"
 local-zone: "zonemail.monster" static
@@ -50662,6 +50950,8 @@ local-zone: "zonia.ro" static
 local-data: "zonia.ro A 127.0.0.1"
 local-zone: "zonicdesign.com" static
 local-data: "zonicdesign.com A 127.0.0.1"
+local-zone: "zoniflux.store" static
+local-data: "zoniflux.store A 127.0.0.1"
 local-zone: "zonika.top" static
 local-data: "zonika.top A 127.0.0.1"
 local-zone: "zoniklab.click" static
