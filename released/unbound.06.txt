@@ -1,4 +1,9 @@
-.cf" static
+rsdk.com A 127.0.0.1"
+local-zone: "ymndiw.tesbihane.com" static
+local-data: "ymndiw.tesbihane.com A 127.0.0.1"
+local-zone: "ymniqh.icu" static
+local-data: "ymniqh.icu A 127.0.0.1"
+local-zone: "ymogof.cf" static
 local-data: "ymogof.cf A 127.0.0.1"
 local-zone: "ymokey1080.blogspot.com" static
 local-data: "ymokey1080.blogspot.com A 127.0.0.1"
