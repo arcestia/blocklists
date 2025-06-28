@@ -1,4 +1,94 @@
-.com" static
+its.com" static
+local-data: "youlikehits.com A 127.0.0.1"
+local-zone: "youlikeme.website" static
+local-data: "youlikeme.website A 127.0.0.1"
+local-zone: "youlikeporn.com" static
+local-data: "youlikeporn.com A 127.0.0.1"
+local-zone: "youlim.info" static
+local-data: "youlim.info A 127.0.0.1"
+local-zone: "youlinmagazine.com" static
+local-data: "youlinmagazine.com A 127.0.0.1"
+local-zone: "youlishipin.com" static
+local-data: "youlishipin.com A 127.0.0.1"
+local-zone: "youlive-app.com" static
+local-data: "youlive-app.com A 127.0.0.1"
+local-zone: "youlivesex.com" static
+local-data: "youlivesex.com A 127.0.0.1"
+local-zone: "youlocal.com" static
+local-data: "youlocal.com A 127.0.0.1"
+local-zone: "youlookfab.com" static
+local-data: "youlookfab.com A 127.0.0.1"
+local-zone: "youlouk.com" static
+local-data: "youlouk.com A 127.0.0.1"
+local-zone: "youlovebeauty.de" static
+local-data: "youlovebeauty.de A 127.0.0.1"
+local-zone: "youlovejack.com" static
+local-data: "youlovejack.com A 127.0.0.1"
+local-zone: "youlovejackcash.com" static
+local-data: "youlovejackcash.com A 127.0.0.1"
+local-zone: "youlush.com" static
+local-data: "youlush.com A 127.0.0.1"
+local-zone: "youlust.net" static
+local-data: "youlust.net A 127.0.0.1"
+local-zone: "youlustporn.com" static
+local-data: "youlustporn.com A 127.0.0.1"
+local-zone: "youlya.com" static
+local-data: "youlya.com A 127.0.0.1"
+local-zone: "youlynx.com" static
+local-data: "youlynx.com A 127.0.0.1"
+local-zone: "youmagivtube.com" static
+local-data: "youmagivtube.com A 127.0.0.1"
+local-zone: "youmails.online" static
+local-data: "youmails.online A 127.0.0.1"
+local-zone: "youmailsonline.matomo.cloud" static
+local-data: "youmailsonline.matomo.cloud A 127.0.0.1"
+local-zone: "youmakeashion.fr" static
+local-data: "youmakeashion.fr A 127.0.0.1"
+local-zone: "youmakeporn.com" static
+local-data: "youmakeporn.com A 127.0.0.1"
+local-zone: "youmakit.com" static
+local-data: "youmakit.com A 127.0.0.1"
+local-zone: "youmanagehr.com" static
+local-data: "youmanagehr.com A 127.0.0.1"
+local-zone: "youmanduo.com" static
+local-data: "youmanduo.com A 127.0.0.1"
+local-zone: "youmappy.com" static
+local-data: "youmappy.com A 127.0.0.1"
+local-zone: "youmasturbate.com" static
+local-data: "youmasturbate.com A 127.0.0.1"
+local-zone: "youmaturexxx.com" static
+local-data: "youmaturexxx.com A 127.0.0.1"
+local-zone: "youme.im" static
+local-data: "youme.im A 127.0.0.1"
+local-zone: "youme.im.domain.name" static
+local-data: "youme.im.domain.name A 127.0.0.1"
+local-zone: "youmebob.com" static
+local-data: "youmebob.com A 127.0.0.1"
+local-zone: "youmecloud.me" static
+local-data: "youmecloud.me A 127.0.0.1"
+local-zone: "youmedia.it" static
+local-data: "youmedia.it A 127.0.0.1"
+local-zone: "youmedo.org" static
+local-data: "youmedo.org A 127.0.0.1"
+local-zone: "youmeiya.net" static
+local-data: "youmeiya.net A 127.0.0.1"
+local-zone: "youmemarriage.com" static
+local-data: "youmemarriage.com A 127.0.0.1"
+local-zone: "youmeon.live" static
+local-data: "youmeon.live A 127.0.0.1"
+local-zone: "youmeto.org" static
+local-data: "youmeto.org A 127.0.0.1"
+local-zone: "youmi.net" static
+local-data: "youmi.net A 127.0.0.1"
+local-zone: "youmideer.com" static
+local-data: "youmideer.com A 127.0.0.1"
+local-zone: "youmilf.net" static
+local-data: "youmilf.net A 127.0.0.1"
+local-zone: "youmilfsex.com" static
+local-data: "youmilfsex.com A 127.0.0.1"
+local-zone: "youmint.net" static
+local-data: "youmint.net A 127.0.0.1"
+local-zone: "youmiuri.com" static
 local-data: "youmiuri.com A 127.0.0.1"
 local-zone: "yoummy.com" static
 local-data: "yoummy.com A 127.0.0.1"
@@ -4636,8 +4726,6 @@ local-zone: "yourmedicaresolutions.com" static
 local-data: "yourmedicaresolutions.com A 127.0.0.1"
 local-zone: "yourmedicinecenter.net" static
 local-data: "yourmedicinecenter.net A 127.0.0.1"
-local-zone: "yourmeetingg.com" static
-local-data: "yourmeetingg.com A 127.0.0.1"
 local-zone: "yourmeetinginvite.com" static
 local-data: "yourmeetinginvite.com A 127.0.0.1"
 local-zone: "yourmeliahotel.com" static
@@ -19792,8 +19880,6 @@ local-zone: "zapfolio.click" static
 local-data: "zapfolio.click A 127.0.0.1"
 local-zone: "zapfv.rdtk.io" static
 local-data: "zapfv.rdtk.io A 127.0.0.1"
-local-zone: "zapga.online" static
-local-data: "zapga.online A 127.0.0.1"
 local-zone: "zaph.ru" static
 local-data: "zaph.ru A 127.0.0.1"
 local-zone: "zaphakesleigh.com" static
@@ -20486,6 +20572,8 @@ local-zone: "zasestoshe.com" static
 local-data: "zasestoshe.com A 127.0.0.1"
 local-zone: "zashkvars.000webhostapp.com" static
 local-data: "zashkvars.000webhostapp.com A 127.0.0.1"
+local-zone: "zashop-more.cc" static
+local-data: "zashop-more.cc A 127.0.0.1"
 local-zone: "zasiaisp.v.bcdnx.com" static
 local-data: "zasiaisp.v.bcdnx.com A 127.0.0.1"
 local-zone: "zasianporn.com" static
@@ -26008,8 +26096,6 @@ local-zone: "zeqeque9.pro" static
 local-data: "zeqeque9.pro A 127.0.0.1"
 local-zone: "zeqim.online" static
 local-data: "zeqim.online A 127.0.0.1"
-local-zone: "zeqsz.cfd" static
-local-data: "zeqsz.cfd A 127.0.0.1"
 local-zone: "zequenze.com" static
 local-data: "zequenze.com A 127.0.0.1"
 local-zone: "zeqvqb.icu" static
@@ -30660,6 +30746,8 @@ local-zone: "ziggingantlid.com" static
 local-data: "ziggingantlid.com A 127.0.0.1"
 local-zone: "ziggit.dev" static
 local-data: "ziggit.dev A 127.0.0.1"
+local-zone: "ziggiziggicrew.com" static
+local-data: "ziggiziggicrew.com A 127.0.0.1"
 local-zone: "ziggo-main.aem.aws.ziggo.io" static
 local-data: "ziggo-main.aem.aws.ziggo.io A 127.0.0.1"
 local-zone: "ziggo.com" static
@@ -37730,6 +37818,8 @@ local-zone: "zmkzmzmzm.000webhostapp.com" static
 local-data: "zmkzmzmzm.000webhostapp.com A 127.0.0.1"
 local-zone: "zml-apm-prd.dbv4.noncd.db.de" static
 local-data: "zml-apm-prd.dbv4.noncd.db.de A 127.0.0.1"
+local-zone: "zmle.kzhhcpexah.cloud" static
+local-data: "zmle.kzhhcpexah.cloud A 127.0.0.1"
 local-zone: "zmlearn.com" static
 local-data: "zmlearn.com A 127.0.0.1"
 local-zone: "zmlee.com" static
@@ -52416,6 +52506,8 @@ local-zone: "zsdlyigktdly.bid" static
 local-data: "zsdlyigktdly.bid A 127.0.0.1"
 local-zone: "zsdocx.com" static
 local-data: "zsdocx.com A 127.0.0.1"
+local-zone: "zsdpgs.com" static
+local-data: "zsdpgs.com A 127.0.0.1"
 local-zone: "zsdsmc.com" static
 local-data: "zsdsmc.com A 127.0.0.1"
 local-zone: "zse-api.zego.im" static
@@ -54948,8 +55040,6 @@ local-zone: "zuxlowang.com" static
 local-data: "zuxlowang.com A 127.0.0.1"
 local-zone: "zuxmottdquito-securt1.000webhostapp.com" static
 local-data: "zuxmottdquito-securt1.000webhostapp.com A 127.0.0.1"
-local-zone: "zuxmzn.click" static
-local-data: "zuxmzn.click A 127.0.0.1"
 local-zone: "zuxuhanuvunu.pro" static
 local-data: "zuxuhanuvunu.pro A 127.0.0.1"
 local-zone: "zuy210amazon.com" static
