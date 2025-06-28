@@ -1,4 +1,358 @@
-
+ne.com" static
+local-data: "yogaposeonline.com A 127.0.0.1"
+local-zone: "yogaposetutorial.com" static
+local-data: "yogaposetutorial.com A 127.0.0.1"
+local-zone: "yogapractice.com" static
+local-data: "yogapractice.com A 127.0.0.1"
+local-zone: "yogaprimarilyformation.com" static
+local-data: "yogaprimarilyformation.com A 127.0.0.1"
+local-zone: "yogar2ti8nf09.com" static
+local-data: "yogar2ti8nf09.com A 127.0.0.1"
+local-zone: "yogarenewteachertraining.com" static
+local-data: "yogarenewteachertraining.com A 127.0.0.1"
+local-zone: "yogascapes.refersion.com" static
+local-data: "yogascapes.refersion.com A 127.0.0.1"
+local-zone: "yogaschoolnepal.com" static
+local-data: "yogaschoolnepal.com A 127.0.0.1"
+local-zone: "yogasex.net" static
+local-data: "yogasex.net A 127.0.0.1"
+local-zone: "yogasexporn.com" static
+local-data: "yogasexporn.com A 127.0.0.1"
+local-zone: "yogasexvideo.com" static
+local-data: "yogasexvideo.com A 127.0.0.1"
+local-zone: "yogasexvideos.wiki" static
+local-data: "yogasexvideos.wiki A 127.0.0.1"
+local-zone: "yogashalatomsk.ru" static
+local-data: "yogashalatomsk.ru A 127.0.0.1"
+local-zone: "yogasluts.com" static
+local-data: "yogasluts.com A 127.0.0.1"
+local-zone: "yogasnap.com" static
+local-data: "yogasnap.com A 127.0.0.1"
+local-zone: "yogaste.attn.tv" static
+local-data: "yogaste.attn.tv A 127.0.0.1"
+local-zone: "yogastudiostore.com" static
+local-data: "yogastudiostore.com A 127.0.0.1"
+local-zone: "yogasurge.com" static
+local-data: "yogasurge.com A 127.0.0.1"
+local-zone: "yogaswede.com" static
+local-data: "yogaswede.com A 127.0.0.1"
+local-zone: "yogateria.tapfiliate.com" static
+local-data: "yogateria.tapfiliate.com A 127.0.0.1"
+local-zone: "yogatokyoguide.org" static
+local-data: "yogatokyoguide.org A 127.0.0.1"
+local-zone: "yogatomato.com" static
+local-data: "yogatomato.com A 127.0.0.1"
+local-zone: "yogatoptanks.dhsmedia_yogaburn.filter.clickbank.net" static
+local-data: "yogatoptanks.dhsmedia_yogaburn.filter.clickbank.net A 127.0.0.1"
+local-zone: "yogatrail.com" static
+local-data: "yogatrail.com A 127.0.0.1"
+local-zone: "yogauebook.com" static
+local-data: "yogauebook.com A 127.0.0.1"
+local-zone: "yogaunionbaltimore.com" static
+local-data: "yogaunionbaltimore.com A 127.0.0.1"
+local-zone: "yogauonline.leadpages.co" static
+local-data: "yogauonline.leadpages.co A 127.0.0.1"
+local-zone: "yogavated.refersion.com" static
+local-data: "yogavated.refersion.com A 127.0.0.1"
+local-zone: "yogavibes.com" static
+local-data: "yogavibes.com A 127.0.0.1"
+local-zone: "yogawakeup.pxf.io" static
+local-data: "yogawakeup.pxf.io A 127.0.0.1"
+local-zone: "yogawalla.ck.page" static
+local-data: "yogawalla.ck.page A 127.0.0.1"
+local-zone: "yogawearfactory.com" static
+local-data: "yogawearfactory.com A 127.0.0.1"
+local-zone: "yogawithdrrach.com" static
+local-data: "yogawithdrrach.com A 127.0.0.1"
+local-zone: "yogayak.com" static
+local-data: "yogayak.com A 127.0.0.1"
+local-zone: "yogayamashop.zendesk.com" static
+local-data: "yogayamashop.zendesk.com A 127.0.0.1"
+local-zone: "yogayanara.nl" static
+local-data: "yogayanara.nl A 127.0.0.1"
+local-zone: "yogayard.nl" static
+local-data: "yogayard.nl A 127.0.0.1"
+local-zone: "yogayarte.es" static
+local-data: "yogayarte.es A 127.0.0.1"
+local-zone: "yogayatra.de" static
+local-data: "yogayatra.de A 127.0.0.1"
+local-zone: "yogayinyang.nl" static
+local-data: "yogayinyang.nl A 127.0.0.1"
+local-zone: "yogaymas.yoga" static
+local-data: "yogaymas.yoga A 127.0.0.1"
+local-zone: "yogayo.co.il" static
+local-data: "yogayo.co.il A 127.0.0.1"
+local-zone: "yogayogakola.com" static
+local-data: "yogayogakola.com A 127.0.0.1"
+local-zone: "yogayogi.hu" static
+local-data: "yogayogi.hu A 127.0.0.1"
+local-zone: "yogayou.life" static
+local-data: "yogayou.life A 127.0.0.1"
+local-zone: "yogayouhappy.com" static
+local-data: "yogayouhappy.com A 127.0.0.1"
+local-zone: "yogayourlife.com" static
+local-data: "yogayourlife.com A 127.0.0.1"
+local-zone: "yogayukti.com" static
+local-data: "yogayukti.com A 127.0.0.1"
+local-zone: "yogayuni.diginvit.com" static
+local-data: "yogayuni.diginvit.com A 127.0.0.1"
+local-zone: "yogayuppy.com" static
+local-data: "yogayuppy.com A 127.0.0.1"
+local-zone: "yogayurbliss.com" static
+local-data: "yogayurbliss.com A 127.0.0.1"
+local-zone: "yogayurlife.com" static
+local-data: "yogayurlife.com A 127.0.0.1"
+local-zone: "yogayxxx.com" static
+local-data: "yogayxxx.com A 127.0.0.1"
+local-zone: "yogchakra.com" static
+local-data: "yogchakra.com A 127.0.0.1"
+local-zone: "yogdn.orgazmika.com" static
+local-data: "yogdn.orgazmika.com A 127.0.0.1"
+local-zone: "yogepuvi.xyz" static
+local-data: "yogepuvi.xyz A 127.0.0.1"
+local-zone: "yogeqiout.blogspot.com" static
+local-data: "yogeqiout.blogspot.com A 127.0.0.1"
+local-zone: "yogeru-nenaru.site" static
+local-data: "yogeru-nenaru.site A 127.0.0.1"
+local-zone: "yogesh.pushengage.com" static
+local-data: "yogesh.pushengage.com A 127.0.0.1"
+local-zone: "yogesh7c1dc5.clickfunnels.com" static
+local-data: "yogesh7c1dc5.clickfunnels.com A 127.0.0.1"
+local-zone: "yogfw3mrrrjbzf9p.net.daraz.com" static
+local-data: "yogfw3mrrrjbzf9p.net.daraz.com A 127.0.0.1"
+local-zone: "yoggrt.com" static
+local-data: "yoggrt.com A 127.0.0.1"
+local-zone: "yoggspiration.com" static
+local-data: "yoggspiration.com A 127.0.0.1"
+local-zone: "yogh.eu" static
+local-data: "yogh.eu A 127.0.0.1"
+local-zone: "yogi-surprise.7eer.net" static
+local-data: "yogi-surprise.7eer.net A 127.0.0.1"
+local-zone: "yogi-tunes.com" static
+local-data: "yogi-tunes.com A 127.0.0.1"
+local-zone: "yogi.snuffland.de" static
+local-data: "yogi.snuffland.de A 127.0.0.1"
+local-zone: "yogiapk.000webhostapp.com" static
+local-data: "yogiapk.000webhostapp.com A 127.0.0.1"
+local-zone: "yogicams.com" static
+local-data: "yogicams.com A 127.0.0.1"
+local-zone: "yogicpa.com" static
+local-data: "yogicpa.com A 127.0.0.1"
+local-zone: "yogictravel.com" static
+local-data: "yogictravel.com A 127.0.0.1"
+local-zone: "yogienergetics.com" static
+local-data: "yogienergetics.com A 127.0.0.1"
+local-zone: "yogihotels.comcolourpop.sjv.io" static
+local-data: "yogihotels.comcolourpop.sjv.io A 127.0.0.1"
+local-zone: "yogikalempongmasam.000webhostapp.com" static
+local-data: "yogikalempongmasam.000webhostapp.com A 127.0.0.1"
+local-zone: "yogikarif.my.id" static
+local-data: "yogikarif.my.id A 127.0.0.1"
+local-zone: "yogirlsyo.com" static
+local-data: "yogirlsyo.com A 127.0.0.1"
+local-zone: "yogirt.com" static
+local-data: "yogirt.com A 127.0.0.1"
+local-zone: "yogis.ch" static
+local-data: "yogis.ch A 127.0.0.1"
+local-zone: "yogisbrahman.top" static
+local-data: "yogisbrahman.top A 127.0.0.1"
+local-zone: "yogiscabiai.com" static
+local-data: "yogiscabiai.com A 127.0.0.1"
+local-zone: "yogisclosetboutique.com" static
+local-data: "yogisclosetboutique.com A 127.0.0.1"
+local-zone: "yogisgrill.com" static
+local-data: "yogisgrill.com A 127.0.0.1"
+local-zone: "yogisinc.com" static
+local-data: "yogisinc.com A 127.0.0.1"
+local-zone: "yogitafun.com" static
+local-data: "yogitafun.com A 127.0.0.1"
+local-zone: "yogitel.com.au" static
+local-data: "yogitel.com.au A 127.0.0.1"
+local-zone: "yogkshigsy.com" static
+local-data: "yogkshigsy.com A 127.0.0.1"
+local-zone: "yogkunj.in" static
+local-data: "yogkunj.in A 127.0.0.1"
+local-zone: "yoglod.vip" static
+local-data: "yoglod.vip A 127.0.0.1"
+local-zone: "yogo.dk" static
+local-data: "yogo.dk A 127.0.0.1"
+local-zone: "yogode.ru" static
+local-data: "yogode.ru A 127.0.0.1"
+local-zone: "yogofactory.com" static
+local-data: "yogofactory.com A 127.0.0.1"
+local-zone: "yogoka.com" static
+local-data: "yogoka.com A 127.0.0.1"
+local-zone: "yogolp.beststl.com" static
+local-data: "yogolp.beststl.com A 127.0.0.1"
+local-zone: "yogoogle.com" static
+local-data: "yogoogle.com A 127.0.0.1"
+local-zone: "yogosha.com" static
+local-data: "yogosha.com A 127.0.0.1"
+local-zone: "yogotparclupdate.weebly.com" static
+local-data: "yogotparclupdate.weebly.com A 127.0.0.1"
+local-zone: "yogranny.com" static
+local-data: "yogranny.com A 127.0.0.1"
+local-zone: "yogsototh.bytecamp.net" static
+local-data: "yogsototh.bytecamp.net A 127.0.0.1"
+local-zone: "yoguilates.com" static
+local-data: "yoguilates.com A 127.0.0.1"
+local-zone: "yogupi-dudoga.pics" static
+local-data: "yogupi-dudoga.pics A 127.0.0.1"
+local-zone: "yoguporn.com" static
+local-data: "yoguporn.com A 127.0.0.1"
+local-zone: "yogurette.de" static
+local-data: "yogurette.de A 127.0.0.1"
+local-zone: "yogurt-land.com" static
+local-data: "yogurt-land.com A 127.0.0.1"
+local-zone: "yogurtdolapta.top" static
+local-data: "yogurtdolapta.top A 127.0.0.1"
+local-zone: "yogurtland.com" static
+local-data: "yogurtland.com A 127.0.0.1"
+local-zone: "yogurtlive.me" static
+local-data: "yogurtlive.me A 127.0.0.1"
+local-zone: "yogwf.com" static
+local-data: "yogwf.com A 127.0.0.1"
+local-zone: "yogyagroup.com" static
+local-data: "yogyagroup.com A 127.0.0.1"
+local-zone: "yogyaprov.spmb.id" static
+local-data: "yogyaprov.spmb.id A 127.0.0.1"
+local-zone: "yogyn.com" static
+local-data: "yogyn.com A 127.0.0.1"
+local-zone: "yohaku-office.com" static
+local-data: "yohaku-office.com A 127.0.0.1"
+local-zone: "yohamilfvideos.com" static
+local-data: "yohamilfvideos.com A 127.0.0.1"
+local-zone: "yohan002.kro.kr" static
+local-data: "yohan002.kro.kr A 127.0.0.1"
+local-zone: "yohana.us" static
+local-data: "yohana.us A 127.0.0.1"
+local-zone: "yohanesalfandi.com" static
+local-data: "yohanesalfandi.com A 127.0.0.1"
+local-zone: "yohansexyfit-leaked-video-and-images.pages.dev" static
+local-data: "yohansexyfit-leaked-video-and-images.pages.dev A 127.0.0.1"
+local-zone: "yohapornvideos.com" static
+local-data: "yohapornvideos.com A 127.0.0.1"
+local-zone: "yohavemix.live" static
+local-data: "yohavemix.live A 127.0.0.1"
+local-zone: "yohentai.net" static
+local-data: "yohentai.net A 127.0.0.1"
+local-zone: "yohho.com" static
+local-data: "yohho.com A 127.0.0.1"
+local-zone: "yohho.site" static
+local-data: "yohho.site A 127.0.0.1"
+local-zone: "yohhqh.eminza.es" static
+local-data: "yohhqh.eminza.es A 127.0.0.1"
+local-zone: "yohioo.com" static
+local-data: "yohioo.com A 127.0.0.1"
+local-zone: "yohiporn.com" static
+local-data: "yohiporn.com A 127.0.0.1"
+local-zone: "yohjiyamamoto.silveregg.net" static
+local-data: "yohjiyamamoto.silveregg.net A 127.0.0.1"
+local-zone: "yohjiycom.silveregg.net" static
+local-data: "yohjiycom.silveregg.net A 127.0.0.1"
+local-zone: "yohmepi9l0dqj4v.playuwa.pl" static
+local-data: "yohmepi9l0dqj4v.playuwa.pl A 127.0.0.1"
+local-zone: "yohnoirs.com" static
+local-data: "yohnoirs.com A 127.0.0.1"
+local-zone: "yoho.games" static
+local-data: "yoho.games A 127.0.0.1"
+local-zone: "yohoads.com" static
+local-data: "yohoads.com A 127.0.0.1"
+local-zone: "yohobed.com" static
+local-data: "yohobed.com A 127.0.0.1"
+local-zone: "yohoho-035420.top" static
+local-data: "yohoho-035420.top A 127.0.0.1"
+local-zone: "yohoho-682433.top" static
+local-data: "yohoho-682433.top A 127.0.0.1"
+local-zone: "yohoho-724114.top" static
+local-data: "yohoho-724114.top A 127.0.0.1"
+local-zone: "yohoho-735051.top" static
+local-data: "yohoho-735051.top A 127.0.0.1"
+local-zone: "yohoho.online" static
+local-data: "yohoho.online A 127.0.0.1"
+local-zone: "yohpic.com" static
+local-data: "yohpic.com A 127.0.0.1"
+local-zone: "yohporn.com" static
+local-data: "yohporn.com A 127.0.0.1"
+local-zone: "yohqtmeb.biz" static
+local-data: "yohqtmeb.biz A 127.0.0.1"
+local-zone: "yohtads.com" static
+local-data: "yohtads.com A 127.0.0.1"
+local-zone: "yohteen.com" static
+local-data: "yohteen.com A 127.0.0.1"
+local-zone: "yohuporn.com" static
+local-data: "yohuporn.com A 127.0.0.1"
+local-zone: "yohvshop.com" static
+local-data: "yohvshop.com A 127.0.0.1"
+local-zone: "yohwbqkhelclr.com" static
+local-data: "yohwbqkhelclr.com A 127.0.0.1"
+local-zone: "yoi.men" static
+local-data: "yoi.men A 127.0.0.1"
+local-zone: "yoi05.youthorganizing.net.jumia.ci" static
+local-data: "yoi05.youthorganizing.net.jumia.ci A 127.0.0.1"
+local-zone: "yoibbka.com" static
+local-data: "yoibbka.com A 127.0.0.1"
+local-zone: "yoicf.top" static
+local-data: "yoicf.top A 127.0.0.1"
+local-zone: "yoics.net" static
+local-data: "yoics.net A 127.0.0.1"
+local-zone: "yoics.org" static
+local-data: "yoics.org A 127.0.0.1"
+local-zone: "yoidkwhatsgoingon.000webhostapp.com" static
+local-data: "yoidkwhatsgoingon.000webhostapp.com A 127.0.0.1"
+local-zone: "yoifwi.levi.com.ph" static
+local-data: "yoifwi.levi.com.ph A 127.0.0.1"
+local-zone: "yoig.cn" static
+local-data: "yoig.cn A 127.0.0.1"
+local-zone: "yoiggi.com" static
+local-data: "yoiggi.com A 127.0.0.1"
+local-zone: "yoigo.solution.weborama.fr" static
+local-data: "yoigo.solution.weborama.fr A 127.0.0.1"
+local-zone: "yoigo.ydigitalmedia.com" static
+local-data: "yoigo.ydigitalmedia.com A 127.0.0.1"
+local-zone: "yoigoes.solution.weborama.fr" static
+local-data: "yoigoes.solution.weborama.fr A 127.0.0.1"
+local-zone: "yoiku-sub.yoiku.support" static
+local-data: "yoiku-sub.yoiku.support A 127.0.0.1"
+local-zone: "yoimen.000webhostapp.com" static
+local-data: "yoimen.000webhostapp.com A 127.0.0.1"
+local-zone: "yoindiansex.com" static
+local-data: "yoindiansex.com A 127.0.0.1"
+local-zone: "yoingco.com" static
+local-data: "yoingco.com A 127.0.0.1"
+local-zone: "yoinori.com" static
+local-data: "yoinori.com A 127.0.0.1"
+local-zone: "yoinsta.com" static
+local-data: "yoinsta.com A 127.0.0.1"
+local-zone: "yoiporn.com" static
+local-data: "yoiporn.com A 127.0.0.1"
+local-zone: "yoitoki.jp" static
+local-data: "yoitoki.jp A 127.0.0.1"
+local-zone: "yoitoko.jp" static
+local-data: "yoitoko.jp A 127.0.0.1"
+local-zone: "yoitube.com" static
+local-data: "yoitube.com A 127.0.0.1"
+local-zone: "yoiuporn.com" static
+local-data: "yoiuporn.com A 127.0.0.1"
+local-zone: "yoiur.com" static
+local-data: "yoiur.com A 127.0.0.1"
+local-zone: "yoixsnh.ru" static
+local-data: "yoixsnh.ru A 127.0.0.1"
+local-zone: "yojana-live.com" static
+local-data: "yojana-live.com A 127.0.0.1"
+local-zone: "yojbiagdemrac.buzz" static
+local-data: "yojbiagdemrac.buzz A 127.0.0.1"
+local-zone: "yojcpv.vivobarefoot.com" static
+local-data: "yojcpv.vivobarefoot.com A 127.0.0.1"
+local-zone: "yojee.com" static
+local-data: "yojee.com A 127.0.0.1"
+local-zone: "yojik.top" static
+local-data: "yojik.top A 127.0.0.1"
+local-zone: "yojizz.com" static
+local-data: "yojizz.com A 127.0.0.1"
+local-zone: "yojizz.net" static
+local-data: "yojizz.net A 127.0.0.1"
+local-zone: "yojnxl.com" static
 local-data: "yojnxl.com A 127.0.0.1"
 local-zone: "yojoyi.universescope.com" static
 local-data: "yojoyi.universescope.com A 127.0.0.1"
@@ -7738,6 +8092,8 @@ local-zone: "yourservice.live" static
 local-data: "yourservice.live A 127.0.0.1"
 local-zone: "yoursex.info" static
 local-data: "yoursex.info A 127.0.0.1"
+local-zone: "yoursexcam.org" static
+local-data: "yoursexcam.org A 127.0.0.1"
 local-zone: "yoursexclips.com" static
 local-data: "yoursexclips.com A 127.0.0.1"
 local-zone: "yoursexdoctor.blogspot.com" static
@@ -32462,6 +32818,8 @@ local-zone: "zhubo350.info" static
 local-data: "zhubo350.info A 127.0.0.1"
 local-zone: "zhubo900.info" static
 local-data: "zhubo900.info A 127.0.0.1"
+local-zone: "zhuboltfqg.com" static
+local-data: "zhuboltfqg.com A 127.0.0.1"
 local-zone: "zhubovip8.icu.domain.name" static
 local-data: "zhubovip8.icu.domain.name A 127.0.0.1"
 local-zone: "zhucaiedu.com" static
