@@ -1,646 +1,4 @@
-in-wa.000webhostapp.com" static
-local-data: "yang-mau-join-wa.000webhostapp.com A 127.0.0.1"
-local-zone: "yang.hitbox.com" static
-local-data: "yang.hitbox.com A 127.0.0.1"
-local-zone: "yang.pl" static
-local-data: "yang.pl A 127.0.0.1"
-local-zone: "yang.viral2025.baby" static
-local-data: "yang.viral2025.baby A 127.0.0.1"
-local-zone: "yangdasen.cn" static
-local-data: "yangdasen.cn A 127.0.0.1"
-local-zone: "yanger232e.000webhostapp.com" static
-local-data: "yanger232e.000webhostapp.com A 127.0.0.1"
-local-zone: "yangguang.000webhostapp.com" static
-local-data: "yangguang.000webhostapp.com A 127.0.0.1"
-local-zone: "yangguang.ns.giantpanda.com" static
-local-data: "yangguang.ns.giantpanda.com A 127.0.0.1"
-local-zone: "yangisekis.ru" static
-local-data: "yangisekis.ru A 127.0.0.1"
-local-zone: "yangishui.work" static
-local-data: "yangishui.work A 127.0.0.1"
-local-zone: "yangjiajiang.net" static
-local-data: "yangjiajiang.net A 127.0.0.1"
-local-zone: "yangjie.asia" static
-local-data: "yangjie.asia A 127.0.0.1"
-local-zone: "yangl.adserver.com" static
-local-data: "yangl.adserver.com A 127.0.0.1"
-local-zone: "yanglao.cc" static
-local-data: "yanglao.cc A 127.0.0.1"
-local-zone: "yanglaopt.net" static
-local-data: "yanglaopt.net A 127.0.0.1"
-local-zone: "yanglee.com" static
-local-data: "yanglee.com A 127.0.0.1"
-local-zone: "yanglegu.com" static
-local-data: "yanglegu.com A 127.0.0.1"
-local-zone: "yangleji.com" static
-local-data: "yangleji.com A 127.0.0.1"
-local-zone: "yangmauikutmasukgrubya.000webhostapp.com" static
-local-data: "yangmauikutmasukgrubya.000webhostapp.com A 127.0.0.1"
-local-zone: "yangnews.website" static
-local-data: "yangnews.website A 127.0.0.1"
-local-zone: "yangniupiju.com" static
-local-data: "yangniupiju.com A 127.0.0.1"
-local-zone: "yango.fi" static
-local-data: "yango.fi A 127.0.0.1"
-local-zone: "yango.tech" static
-local-data: "yango.tech A 127.0.0.1"
-local-zone: "yangon.club" static
-local-data: "yangon.club A 127.0.0.1"
-local-zone: "yangondirectory.com" static
-local-data: "yangondirectory.com A 127.0.0.1"
-local-zone: "yangoogl.cc" static
-local-data: "yangoogl.cc A 127.0.0.1"
-local-zone: "yangosakis27.blogspot.com" static
-local-data: "yangosakis27.blogspot.com A 127.0.0.1"
-local-zone: "yangosakis7.blogspot.com" static
-local-data: "yangosakis7.blogspot.com A 127.0.0.1"
-local-zone: "yangot.com" static
-local-data: "yangot.com A 127.0.0.1"
-local-zone: "yangroo.com" static
-local-data: "yangroo.com A 127.0.0.1"
-local-zone: "yangsea.net" static
-local-data: "yangsea.net A 127.0.0.1"
-local-zone: "yangsheng-consulta-barcelona.negocio.site" static
-local-data: "yangsheng-consulta-barcelona.negocio.site A 127.0.0.1"
-local-zone: "yangshengka.com" static
-local-data: "yangshengka.com A 127.0.0.1"
-local-zone: "yangshengzu.cn" static
-local-data: "yangshengzu.cn A 127.0.0.1"
-local-zone: "yangshipin.cn" static
-local-data: "yangshipin.cn A 127.0.0.1"
-local-zone: "yangtaotaming.com" static
-local-data: "yangtaotaming.com A 127.0.0.1"
-local-zone: "yangtze-river-cruises.com" static
-local-data: "yangtze-river-cruises.com A 127.0.0.1"
-local-zone: "yangxianhongmi.com" static
-local-data: "yangxianhongmi.com A 127.0.0.1"
-local-zone: "yangyaa.top" static
-local-data: "yangyaa.top A 127.0.0.1"
-local-zone: "yangyi02.com" static
-local-data: "yangyi02.com A 127.0.0.1"
-local-zone: "yangyi13.com" static
-local-data: "yangyi13.com A 127.0.0.1"
-local-zone: "yangyi19.com" static
-local-data: "yangyi19.com A 127.0.0.1"
-local-zone: "yangzhi.de" static
-local-data: "yangzhi.de A 127.0.0.1"
-local-zone: "yangzhououlian.com" static
-local-data: "yangzhououlian.com A 127.0.0.1"
-local-zone: "yangzijiang.com" static
-local-data: "yangzijiang.com A 127.0.0.1"
-local-zone: "yangzirivercorp.com.au" static
-local-data: "yangzirivercorp.com.au A 127.0.0.1"
-local-zone: "yanhh3d.vip" static
-local-data: "yanhh3d.vip A 127.0.0.1"
-local-zone: "yanibu.com" static
-local-data: "yanibu.com A 127.0.0.1"
-local-zone: "yanimateds.com" static
-local-data: "yanimateds.com A 127.0.0.1"
-local-zone: "yanindakifirsatlarbugun.xyz" static
-local-data: "yanindakifirsatlarbugun.xyz A 127.0.0.1"
-local-zone: "yanindakifirsatlarbugunler.xyz" static
-local-data: "yanindakifirsatlarbugunler.xyz A 127.0.0.1"
-local-zone: "yaninediaz.com" static
-local-data: "yaninediaz.com A 127.0.0.1"
-local-zone: "yanj.com" static
-local-data: "yanj.com A 127.0.0.1"
-local-zone: "yanjiaoyisianyi.top" static
-local-data: "yanjiaoyisianyi.top A 127.0.0.1"
-local-zone: "yanjiapi.antutu.net" static
-local-data: "yanjiapi.antutu.net A 127.0.0.1"
-local-zone: "yanjiusuo.cc" static
-local-data: "yanjiusuo.cc A 127.0.0.1"
-local-zone: "yanjunijuni.com" static
-local-data: "yanjunijuni.com A 127.0.0.1"
-local-zone: "yank555-lu.net" static
-local-data: "yank555-lu.net A 127.0.0.1"
-local-zone: "yankawildy.fun" static
-local-data: "yankawildy.fun A 127.0.0.1"
-local-zone: "yankbecoming.com" static
-local-data: "yankbecoming.com A 127.0.0.1"
-local-zone: "yankcams.com" static
-local-data: "yankcams.com A 127.0.0.1"
-local-zone: "yankebakes.pro" static
-local-data: "yankebakes.pro A 127.0.0.1"
-local-zone: "yankee-candle.evyy.net" static
-local-data: "yankee-candle.evyy.net A 127.0.0.1"
-local-zone: "yankee-ensign.000webhostapp.com" static
-local-data: "yankee-ensign.000webhostapp.com A 127.0.0.1"
-local-zone: "yankee-in-belgrade.blogspot.com" static
-local-data: "yankee-in-belgrade.blogspot.com A 127.0.0.1"
-local-zone: "yankee-subfunctions.000webhostapp.com" static
-local-data: "yankee-subfunctions.000webhostapp.com A 127.0.0.1"
-local-zone: "yankee.epsilon.coayako.top" static
-local-data: "yankee.epsilon.coayako.top A 127.0.0.1"
-local-zone: "yankeecandle-us.attn.tv" static
-local-data: "yankeecandle-us.attn.tv A 127.0.0.1"
-local-zone: "yankeecandle.attn.tv" static
-local-data: "yankeecandle.attn.tv A 127.0.0.1"
-local-zone: "yankeecandle.open.securedvisit.com" static
-local-data: "yankeecandle.open.securedvisit.com A 127.0.0.1"
-local-zone: "yankeedabbler.com" static
-local-data: "yankeedabbler.com A 127.0.0.1"
-local-zone: "yankeedownload.com" static
-local-data: "yankeedownload.com A 127.0.0.1"
-local-zone: "yankeehomemilitarymakeover.com" static
-local-data: "yankeehomemilitarymakeover.com A 127.0.0.1"
-local-zone: "yankeelive.com" static
-local-data: "yankeelive.com A 127.0.0.1"
-local-zone: "yankeesupply.com" static
-local-data: "yankeesupply.com A 127.0.0.1"
-local-zone: "yankeetrails.com" static
-local-data: "yankeetrails.com A 127.0.0.1"
-local-zone: "yankeetrailsbasebuy.rtrk.com" static
-local-data: "yankeetrailsbasebuy.rtrk.com A 127.0.0.1"
-local-zone: "yankeyhitler.cfd" static
-local-data: "yankeyhitler.cfd A 127.0.0.1"
-local-zone: "yanki.pe" static
-local-data: "yanki.pe A 127.0.0.1"
-local-zone: "yankitcams.com" static
-local-data: "yankitcams.com A 127.0.0.1"
-local-zone: "yankklchv51.blogspot.com" static
-local-data: "yankklchv51.blogspot.com A 127.0.0.1"
-local-zone: "yankmycrank-pics.info" static
-local-data: "yankmycrank-pics.info A 127.0.0.1"
-local-zone: "yankmyplank.com" static
-local-data: "yankmyplank.com A 127.0.0.1"
-local-zone: "yanks-hosted.com" static
-local-data: "yanks-hosted.com A 127.0.0.1"
-local-zone: "yanks.com" static
-local-data: "yanks.com A 127.0.0.1"
-local-zone: "yanks.live" static
-local-data: "yanks.live A 127.0.0.1"
-local-zone: "yanks.xxx" static
-local-data: "yanks.xxx A 127.0.0.1"
-local-zone: "yankscams.com" static
-local-data: "yankscams.com A 127.0.0.1"
-local-zone: "yankscash.com" static
-local-data: "yankscash.com A 127.0.0.1"
-local-zone: "yanksselvage.top" static
-local-data: "yanksselvage.top A 127.0.0.1"
-local-zone: "yanksvideos.com" static
-local-data: "yanksvideos.com A 127.0.0.1"
-local-zone: "yanksvr.com" static
-local-data: "yanksvr.com A 127.0.0.1"
-local-zone: "yanky-grpc.eks.callrail.com" static
-local-data: "yanky-grpc.eks.callrail.com A 127.0.0.1"
-local-zone: "yanky.eks.callrail.com" static
-local-data: "yanky.eks.callrail.com A 127.0.0.1"
-local-zone: "yanlarina-kalanada-bugibin-oluruz.cfd" static
-local-data: "yanlarina-kalanada-bugibin-oluruz.cfd A 127.0.0.1"
-local-zone: "yanlily.camfeed.club" static
-local-data: "yanlily.camfeed.club A 127.0.0.1"
-local-zone: "yanlin.hd10.com" static
-local-data: "yanlin.hd10.com A 127.0.0.1"
-local-zone: "yanmaga.jp" static
-local-data: "yanmaga.jp A 127.0.0.1"
-local-zone: "yanmartractor.com" static
-local-data: "yanmartractor.com A 127.0.0.1"
-local-zone: "yanmcline.ru" static
-local-data: "yanmcline.ru A 127.0.0.1"
-local-zone: "yann666.blogspot.com" static
-local-data: "yann666.blogspot.com A 127.0.0.1"
-local-zone: "yannboutique.store" static
-local-data: "yannboutique.store A 127.0.0.1"
-local-zone: "yannelli.net" static
-local-data: "yannelli.net A 127.0.0.1"
-local-zone: "yannfrequelin.clickfunnels.com" static
-local-data: "yannfrequelin.clickfunnels.com A 127.0.0.1"
-local-zone: "yannick.delamarre.free.fr" static
-local-data: "yannick.delamarre.free.fr A 127.0.0.1"
-local-zone: "yannickchastincf.clickfunnels.com" static
-local-data: "yannickchastincf.clickfunnels.com A 127.0.0.1"
-local-zone: "yannicksexton3u7z.pages.dev" static
-local-data: "yannicksexton3u7z.pages.dev A 127.0.0.1"
-local-zone: "yanniehot.blogspot.com" static
-local-data: "yanniehot.blogspot.com A 127.0.0.1"
-local-zone: "yanniff.000webhostapp.com" static
-local-data: "yanniff.000webhostapp.com A 127.0.0.1"
-local-zone: "yannifikaris.clickfunnels.com" static
-local-data: "yannifikaris.clickfunnels.com A 127.0.0.1"
-local-zone: "yannlenen.clickfunnels.com" static
-local-data: "yannlenen.clickfunnels.com A 127.0.0.1"
-local-zone: "yannymac.blogspot.com" static
-local-data: "yannymac.blogspot.com A 127.0.0.1"
-local-zone: "yannysalazar.blogspot.com" static
-local-data: "yannysalazar.blogspot.com A 127.0.0.1"
-local-zone: "yano.digital" static
-local-data: "yano.digital A 127.0.0.1"
-local-zone: "yanobxpa.com" static
-local-data: "yanobxpa.com A 127.0.0.1"
-local-zone: "yanochka.net" static
-local-data: "yanochka.net A 127.0.0.1"
-local-zone: "yanokisho.com" static
-local-data: "yanokisho.com A 127.0.0.1"
-local-zone: "yanonly.com" static
-local-data: "yanonly.com A 127.0.0.1"
-local-zone: "yanoworld.net" static
-local-data: "yanoworld.net A 127.0.0.1"
-local-zone: "yanoworld.org" static
-local-data: "yanoworld.org A 127.0.0.1"
-local-zone: "yanowu-gorore.pics" static
-local-data: "yanowu-gorore.pics A 127.0.0.1"
-local-zone: "yanpk.com" static
-local-data: "yanpk.com A 127.0.0.1"
-local-zone: "yanpoly.com" static
-local-data: "yanpoly.com A 127.0.0.1"
-local-zone: "yanqingxiaoshuoba.org" static
-local-data: "yanqingxiaoshuoba.org A 127.0.0.1"
-local-zone: "yanqishui.work" static
-local-data: "yanqishui.work A 127.0.0.1"
-local-zone: "yanrefitness.com" static
-local-data: "yanrefitness.com A 127.0.0.1"
-local-zone: "yansex.com" static
-local-data: "yansex.com A 127.0.0.1"
-local-zone: "yanshanxs.com" static
-local-data: "yanshanxs.com A 127.0.0.1"
-local-zone: "yanshiservice.cn" static
-local-data: "yanshiservice.cn A 127.0.0.1"
-local-zone: "yansi.at" static
-local-data: "yansi.at A 127.0.0.1"
-local-zone: "yansoftware.vn" static
-local-data: "yansoftware.vn A 127.0.0.1"
-local-zone: "yantar.fun" static
-local-data: "yantar.fun A 127.0.0.1"
-local-zone: "yantasylive.com" static
-local-data: "yantasylive.com A 127.0.0.1"
-local-zone: "yanti.wiki" static
-local-data: "yanti.wiki A 127.0.0.1"
-local-zone: "yantoga.com" static
-local-data: "yantoga.com A 127.0.0.1"
-local-zone: "yantosaputra8787.000webhostapp.com" static
-local-data: "yantosaputra8787.000webhostapp.com A 127.0.0.1"
-local-zone: "yantra-escort.com" static
-local-data: "yantra-escort.com A 127.0.0.1"
-local-zone: "yantraescort.com" static
-local-data: "yantraescort.com A 127.0.0.1"
-local-zone: "yantraescort.nl" static
-local-data: "yantraescort.nl A 127.0.0.1"
-local-zone: "yantranetapi.autonettv.com" static
-local-data: "yantranetapi.autonettv.com A 127.0.0.1"
-local-zone: "yantranetwork.com" static
-local-data: "yantranetwork.com A 127.0.0.1"
-local-zone: "yantrasign.com" static
-local-data: "yantrasign.com A 127.0.0.1"
-local-zone: "yantrayuga.com" static
-local-data: "yantrayuga.com A 127.0.0.1"
-local-zone: "yantroks.totalh.net" static
-local-data: "yantroks.totalh.net A 127.0.0.1"
-local-zone: "yantrriks.totalh.net" static
-local-data: "yantrriks.totalh.net A 127.0.0.1"
-local-zone: "yantruks.totalh.net" static
-local-data: "yantruks.totalh.net A 127.0.0.1"
-local-zone: "yantryks.totalh.net" static
-local-data: "yantryks.totalh.net A 127.0.0.1"
-local-zone: "yanttriks.totalh.net" static
-local-data: "yanttriks.totalh.net A 127.0.0.1"
-local-zone: "yanus.us" static
-local-data: "yanus.us A 127.0.0.1"
-local-zone: "yanvanathemessage.com" static
-local-data: "yanvanathemessage.com A 127.0.0.1"
-local-zone: "yanwang.cc" static
-local-data: "yanwang.cc A 127.0.0.1"
-local-zone: "yanxiangyingshi.com" static
-local-data: "yanxiangyingshi.com A 127.0.0.1"
-local-zone: "yanxiukr.com" static
-local-data: "yanxiukr.com A 127.0.0.1"
-local-zone: "yanysdd.com" static
-local-data: "yanysdd.com A 127.0.0.1"
-local-zone: "yanyue.cn" static
-local-data: "yanyue.cn A 127.0.0.1"
-local-zone: "yanyunju.com" static
-local-data: "yanyunju.com A 127.0.0.1"
-local-zone: "yanzhaochang.com" static
-local-data: "yanzhaochang.com A 127.0.0.1"
-local-zone: "yanzhiyang.net" static
-local-data: "yanzhiyang.net A 127.0.0.1"
-local-zone: "yanzi.cloud" static
-local-data: "yanzi.cloud A 127.0.0.1"
-local-zone: "yao2.cc" static
-local-data: "yao2.cc A 127.0.0.1"
-local-zone: "yao6.vip" static
-local-data: "yao6.vip A 127.0.0.1"
-local-zone: "yao7392.xyz" static
-local-data: "yao7392.xyz A 127.0.0.1"
-local-zone: "yaoan-learn.com" static
-local-data: "yaoan-learn.com A 127.0.0.1"
-local-zone: "yaocaichenai.com" static
-local-data: "yaocaichenai.com A 127.0.0.1"
-local-zone: "yaocaiw.com" static
-local-data: "yaocaiw.com A 127.0.0.1"
-local-zone: "yaocss.shop" static
-local-data: "yaocss.shop A 127.0.0.1"
-local-zone: "yaodaipeishi.cn" static
-local-data: "yaodaipeishi.cn A 127.0.0.1"
-local-zone: "yaodevice.shop" static
-local-data: "yaodevice.shop A 127.0.0.1"
-local-zone: "yaofafa.com" static
-local-data: "yaofafa.com A 127.0.0.1"
-local-zone: "yaofangwang.com" static
-local-data: "yaofangwang.com A 127.0.0.1"
-local-zone: "yaofangwang.net" static
-local-data: "yaofangwang.net A 127.0.0.1"
-local-zone: "yaoghyth.xyz" static
-local-data: "yaoghyth.xyz A 127.0.0.1"
-local-zone: "yaoguo.com" static
-local-data: "yaoguo.com A 127.0.0.1"
-local-zone: "yaohe1.baidukongjian.com" static
-local-data: "yaohe1.baidukongjian.com A 127.0.0.1"
-local-zone: "yaoho.fr" static
-local-data: "yaoho.fr A 127.0.0.1"
-local-zone: "yaohq.com" static
-local-data: "yaohq.com A 127.0.0.1"
-local-zone: "yaohu.info" static
-local-data: "yaohu.info A 127.0.0.1"
-local-zone: "yaoi-movie.blogspot.com" static
-local-data: "yaoi-movie.blogspot.com A 127.0.0.1"
-local-zone: "yaoi.porn" static
-local-data: "yaoi.porn A 127.0.0.1"
-local-zone: "yaoiai.com" static
-local-data: "yaoiai.com A 127.0.0.1"
-local-zone: "yaoibaraworld.blogspot.com" static
-local-data: "yaoibaraworld.blogspot.com A 127.0.0.1"
-local-zone: "yaoibooru.booru.org" static
-local-data: "yaoibooru.booru.org A 127.0.0.1"
-local-zone: "yaoiboystory.blogspot.com" static
-local-data: "yaoiboystory.blogspot.com A 127.0.0.1"
-local-zone: "yaoidj.com" static
-local-data: "yaoidj.com A 127.0.0.1"
-local-zone: "yaoidreams.com" static
-local-data: "yaoidreams.com A 127.0.0.1"
-local-zone: "yaoiflix.net" static
-local-data: "yaoiflix.net A 127.0.0.1"
-local-zone: "yaoifun.com" static
-local-data: "yaoifun.com A 127.0.0.1"
-local-zone: "yaoihavenreborn.com" static
-local-data: "yaoihavenreborn.com A 127.0.0.1"
-local-zone: "yaoilib.net" static
-local-data: "yaoilib.net A 127.0.0.1"
-local-zone: "yaoimangaonline.com" static
-local-data: "yaoimangaonline.com A 127.0.0.1"
-local-zone: "yaoimoviearchive.com" static
-local-data: "yaoimoviearchive.com A 127.0.0.1"
-local-zone: "yaoinudeboys.blogspot.com" static
-local-data: "yaoinudeboys.blogspot.com A 127.0.0.1"
-local-zone: "yaoipictures.com" static
-local-data: "yaoipictures.com A 127.0.0.1"
-local-zone: "yaoiporno.com" static
-local-data: "yaoiporno.com A 127.0.0.1"
-local-zone: "yaoiscan.com" static
-local-data: "yaoiscan.com A 127.0.0.1"
-local-zone: "yaoislash.virginradioblog.fr" static
-local-data: "yaoislash.virginradioblog.fr A 127.0.0.1"
-local-zone: "yaoisource.com" static
-local-data: "yaoisource.com A 127.0.0.1"
-local-zone: "yaoispunkcomic.blogspot.com" static
-local-data: "yaoispunkcomic.blogspot.com A 127.0.0.1"
-local-zone: "yaoitoon.com" static
-local-data: "yaoitoon.com A 127.0.0.1"
-local-zone: "yaoitube.net" static
-local-data: "yaoitube.net A 127.0.0.1"
-local-zone: "yaojicm.com" static
-local-data: "yaojicm.com A 127.0.0.1"
-local-zone: "yaokcfjur.com" static
-local-data: "yaokcfjur.com A 127.0.0.1"
-local-zone: "yaokuan01.cn" static
-local-data: "yaokuan01.cn A 127.0.0.1"
-local-zone: "yaolan.adsame.com" static
-local-data: "yaolan.adsame.com A 127.0.0.1"
-local-zone: "yaolu.mh.163.com" static
-local-data: "yaolu.mh.163.com A 127.0.0.1"
-local-zone: "yaolu.yuedu.163.com" static
-local-data: "yaolu.yuedu.163.com A 127.0.0.1"
-local-zone: "yaolutong.com" static
-local-data: "yaolutong.com A 127.0.0.1"
-local-zone: "yaomaodun.blog.getclicky.com" static
-local-data: "yaomaodun.blog.getclicky.com A 127.0.0.1"
-local-zone: "yaomedia.net" static
-local-data: "yaomedia.net A 127.0.0.1"
-local-zone: "yaomuzhubao.com" static
-local-data: "yaomuzhubao.com A 127.0.0.1"
-local-zone: "yaonatrue.shop" static
-local-data: "yaonatrue.shop A 127.0.0.1"
-local-zone: "yaonz.xyz" static
-local-data: "yaonz.xyz A 127.0.0.1"
-local-zone: "yaoo.co" static
-local-data: "yaoo.co A 127.0.0.1"
-local-zone: "yaoo.com" static
-local-data: "yaoo.com A 127.0.0.1"
-local-zone: "yaoo.fr" static
-local-data: "yaoo.fr A 127.0.0.1"
-local-zone: "yaopinnet.com" static
-local-data: "yaopinnet.com A 127.0.0.1"
-local-zone: "yaopinyo.com" static
-local-data: "yaopinyo.com A 127.0.0.1"
-local-zone: "yaoporn.xyz" static
-local-data: "yaoporn.xyz A 127.0.0.1"
-local-zone: "yaosee.shop" static
-local-data: "yaosee.shop A 127.0.0.1"
-local-zone: "yaoshe121.com" static
-local-data: "yaoshe121.com A 127.0.0.1"
-local-zone: "yaoshe177.com" static
-local-data: "yaoshe177.com A 127.0.0.1"
-local-zone: "yaoslgiweccw.com" static
-local-data: "yaoslgiweccw.com A 127.0.0.1"
-local-zone: "yaoulive.com" static
-local-data: "yaoulive.com A 127.0.0.1"
-local-zone: "yaouporn.com" static
-local-data: "yaouporn.com A 127.0.0.1"
-local-zone: "yaowukejigame.com" static
-local-data: "yaowukejigame.com A 127.0.0.1"
-local-zone: "yaoyama.silveregg.net" static
-local-data: "yaoyama.silveregg.net A 127.0.0.1"
-local-zone: "yaoyaomumu.com" static
-local-data: "yaoyaomumu.com A 127.0.0.1"
-local-zone: "yaoyaoterbaik.com" static
-local-data: "yaoyaoterbaik.com A 127.0.0.1"
-local-zone: "yaoyee.com" static
-local-data: "yaoyee.com A 127.0.0.1"
-local-zone: "yaoyuezw.com" static
-local-data: "yaoyuezw.com A 127.0.0.1"
-local-zone: "yaozh.com" static
-local-data: "yaozh.com A 127.0.0.1"
-local-zone: "yaozui.com" static
-local-data: "yaozui.com A 127.0.0.1"
-local-zone: "yap.adult" static
-local-data: "yap.adult A 127.0.0.1"
-local-zone: "yap.yahoo.com" static
-local-data: "yap.yahoo.com A 127.0.0.1"
-local-zone: "yapabbreviate.com" static
-local-data: "yapabbreviate.com A 127.0.0.1"
-local-zone: "yapacams.com" static
-local-data: "yapacams.com A 127.0.0.1"
-local-zone: "yapage.info" static
-local-data: "yapage.info A 127.0.0.1"
-local-zone: "yapapp.porn" static
-local-data: "yapapp.porn A 127.0.0.1"
-local-zone: "yapatube.com" static
-local-data: "yapatube.com A 127.0.0.1"
-local-zone: "yapay.io" static
-local-data: "yapay.io A 127.0.0.1"
-local-zone: "yapaytech.com" static
-local-data: "yapaytech.com A 127.0.0.1"
-local-zone: "yapcbx08.top" static
-local-data: "yapcbx08.top A 127.0.0.1"
-local-zone: "yapclench.com" static
-local-data: "yapclench.com A 127.0.0.1"
-local-zone: "yapdiscuss.com" static
-local-data: "yapdiscuss.com A 127.0.0.1"
-local-zone: "yapdiw06.top" static
-local-data: "yapdiw06.top A 127.0.0.1"
-local-zone: "yape-1.webcindario.com" static
-local-data: "yape-1.webcindario.com A 127.0.0.1"
-local-zone: "yape-3.webcindario.com" static
-local-data: "yape-3.webcindario.com A 127.0.0.1"
-local-zone: "yape-seguridad.webcindario.com" static
-local-data: "yape-seguridad.webcindario.com A 127.0.0.1"
-local-zone: "yape.tech" static
-local-data: "yape.tech A 127.0.0.1"
-local-zone: "yape3-static.yape.tech" static
-local-data: "yape3-static.yape.tech A 127.0.0.1"
-local-zone: "yapebolivia.webcindario.com" static
-local-data: "yapebolivia.webcindario.com A 127.0.0.1"
-local-zone: "yapeol.fr" static
-local-data: "yapeol.fr A 127.0.0.1"
-local-zone: "yapfairmark.com" static
-local-data: "yapfairmark.com A 127.0.0.1"
-local-zone: "yapfiles.com" static
-local-data: "yapfiles.com A 127.0.0.1"
-local-zone: "yapfiles.ru" static
-local-data: "yapfiles.ru A 127.0.0.1"
-local-zone: "yapforestsfairfax.com" static
-local-data: "yapforestsfairfax.com A 127.0.0.1"
-local-zone: "yaphsq02.top" static
-local-data: "yaphsq02.top A 127.0.0.1"
-local-zone: "yapi.apk.v-mate.mobi" static
-local-data: "yapi.apk.v-mate.mobi A 127.0.0.1"
-local-zone: "yapiapi.com" static
-local-data: "yapiapi.com A 127.0.0.1"
-local-zone: "yapiapp.com" static
-local-data: "yapiapp.com A 127.0.0.1"
-local-zone: "yapicentral.com" static
-local-data: "yapicentral.com A 127.0.0.1"
-local-zone: "yapicepin.xyz" static
-local-data: "yapicepin.xyz A 127.0.0.1"
-local-zone: "yapiev09.top" static
-local-data: "yapiev09.top A 127.0.0.1"
-local-zone: "yapigames.com" static
-local-data: "yapigames.com A 127.0.0.1"
-local-zone: "yapikredimflex.com" static
-local-data: "yapikredimflex.com A 127.0.0.1"
-local-zone: "yapikur.com.tr" static
-local-data: "yapikur.com.tr A 127.0.0.1"
-local-zone: "yapily.com" static
-local-data: "yapily.com A 127.0.0.1"
-local-zone: "yapinc.org" static
-local-data: "yapinc.org A 127.0.0.1"
-local-zone: "yapivt01.top" static
-local-data: "yapivt01.top A 127.0.0.1"
-local-zone: "yapj.ipv6news.info" static
-local-data: "yapj.ipv6news.info A 127.0.0.1"
-local-zone: "yapjaz14.top" static
-local-data: "yapjaz14.top A 127.0.0.1"
-local-zone: "yapl.ru" static
-local-data: "yapl.ru A 127.0.0.1"
-local-zone: "yapla.com" static
-local-data: "yapla.com A 127.0.0.1"
-local-zone: "yaplukon.org" static
-local-data: "yaplukon.org A 127.0.0.1"
-local-zone: "yaplzm05.top" static
-local-data: "yaplzm05.top A 127.0.0.1"
-local-zone: "yapmovies.com" static
-local-data: "yapmovies.com A 127.0.0.1"
-local-zone: "yapn.com" static
-local-data: "yapn.com A 127.0.0.1"
-local-zone: "yapofa-fewuka.site" static
-local-data: "yapofa-fewuka.site A 127.0.0.1"
-local-zone: "yapome07.top" static
-local-data: "yapome07.top A 127.0.0.1"
-local-zone: "yaponki.net" static
-local-data: "yaponki.net A 127.0.0.1"
-local-zone: "yaponline.sex" static
-local-data: "yaponline.sex A 127.0.0.1"
-local-zone: "yapoqz03.top" static
-local-data: "yapoqz03.top A 127.0.0.1"
-local-zone: "yaporn.biz" static
-local-data: "yaporn.biz A 127.0.0.1"
-local-zone: "yaporn.expert" static
-local-data: "yaporn.expert A 127.0.0.1"
-local-zone: "yaporn.fun" static
-local-data: "yaporn.fun A 127.0.0.1"
-local-zone: "yaporn.info" static
-local-data: "yaporn.info A 127.0.0.1"
-local-zone: "yaporn.news" static
-local-data: "yaporn.news A 127.0.0.1"
-local-zone: "yaporn.pro" static
-local-data: "yaporn.pro A 127.0.0.1"
-local-zone: "yaporn.team" static
-local-data: "yaporn.team A 127.0.0.1"
-local-zone: "yaporn.tube" static
-local-data: "yaporn.tube A 127.0.0.1"
-local-zone: "yaporn.watch" static
-local-data: "yaporn.watch A 127.0.0.1"
-local-zone: "yaporno-tour.link" static
-local-data: "yaporno-tour.link A 127.0.0.1"
-local-zone: "yaporno-tour.me" static
-local-data: "yaporno-tour.me A 127.0.0.1"
-local-zone: "yaporno.com" static
-local-data: "yaporno.com A 127.0.0.1"
-local-zone: "yaporno.net" static
-local-data: "yaporno.net A 127.0.0.1"
-local-zone: "yaporno365.me" static
-local-data: "yaporno365.me A 127.0.0.1"
-local-zone: "yapornobit.mobi" static
-local-data: "yapornobit.mobi A 127.0.0.1"
-local-zone: "yapornoham.vip" static
-local-data: "yapornoham.vip A 127.0.0.1"
-local-zone: "yapornomoll.com" static
-local-data: "yapornomoll.com A 127.0.0.1"
-local-zone: "yapornsexer.com" static
-local-data: "yapornsexer.com A 127.0.0.1"
-local-zone: "yapornsite.blogspot.com" static
-local-data: "yapornsite.blogspot.com A 127.0.0.1"
-local-zone: "yaporntati.com" static
-local-data: "yaporntati.com A 127.0.0.1"
-local-zone: "yaporntati.info" static
-local-data: "yaporntati.info A 127.0.0.1"
-local-zone: "yapornuha.icu" static
-local-data: "yapornuha.icu A 127.0.0.1"
-local-zone: "yapornx.ru" static
-local-data: "yapornx.ru A 127.0.0.1"
-local-zone: "yapoy.io" static
-local-data: "yapoy.io A 127.0.0.1"
-local-zone: "yapp-live.com" static
-local-data: "yapp-live.com A 127.0.0.1"
-local-zone: "yapp.li" static
-local-data: "yapp.li A 127.0.0.1"
-local-zone: "yapp.us" static
-local-data: "yapp.us A 127.0.0.1"
-local-zone: "yappcurtsey.space" static
-local-data: "yappcurtsey.space A 127.0.0.1"
-local-zone: "yappe.in" static
-local-data: "yappe.in A 127.0.0.1"
-local-zone: "yappeg.com" static
-local-data: "yappeg.com A 127.0.0.1"
-local-zone: "yappercommunity.com" static
-local-data: "yappercommunity.com A 127.0.0.1"
-local-zone: "yappi.com" static
-local-data: "yappi.com A 127.0.0.1"
-local-zone: "yappy.cloud" static
-local-data: "yappy.cloud A 127.0.0.1"
-local-zone: "yappy.com" static
-local-data: "yappy.com A 127.0.0.1"
-local-zone: "yappy.media" static
-local-data: "yappy.media A 127.0.0.1"
-local-zone: "yaprifxbrcrx.com" static
-local-data: "yaprifxbrcrx.com A 127.0.0.1"
-local-zone: "yapro30.com" static
-local-data: "yapro30.com A 127.0.0.1"
-local-zone: "yapro32.com" static
-local-data: "yapro32.com A 127.0.0.1"
-local-zone: "yapro35.com" static
-local-data: "yapro35.com A 127.0.0.1"
-local-zone: "yaps-kaito.net" static
+ "yaps-kaito.net" static
 local-data: "yaps-kaito.net A 127.0.0.1"
 local-zone: "yaps.kaito.ai" static
 local-data: "yaps.kaito.ai A 127.0.0.1"
@@ -1714,6 +1072,8 @@ local-zone: "yazhouyulewang.pydljx.cn" static
 local-data: "yazhouyulewang.pydljx.cn A 127.0.0.1"
 local-zone: "yazilimdunyasi.sbs" static
 local-data: "yazilimdunyasi.sbs A 127.0.0.1"
+local-zone: "yazin-tatil-firsatlari.xyz" static
+local-data: "yazin-tatil-firsatlari.xyz A 127.0.0.1"
 local-zone: "yazinbasisizlrlebuluscak.shop" static
 local-data: "yazinbasisizlrlebuluscak.shop A 127.0.0.1"
 local-zone: "yazio-analytics.com" static
@@ -5282,8 +4642,6 @@ local-zone: "yescapa.ie" static
 local-data: "yescapa.ie A 127.0.0.1"
 local-zone: "yescaptcha.com" static
 local-data: "yescaptcha.com A 127.0.0.1"
-local-zone: "yescaptcha.pro" static
-local-data: "yescaptcha.pro A 127.0.0.1"
 local-zone: "yescards.net" static
 local-data: "yescards.net A 127.0.0.1"
 local-zone: "yescartoonporn.com" static
@@ -14750,6 +14108,8 @@ local-zone: "young-grass-6446.ck.page" static
 local-data: "young-grass-6446.ck.page A 127.0.0.1"
 local-zone: "young-hairy.info" static
 local-data: "young-hairy.info A 127.0.0.1"
+local-zone: "young-hot-lesbian-porn.blogspot.com" static
+local-data: "young-hot-lesbian-porn.blogspot.com A 127.0.0.1"
 local-zone: "young-incest.com" static
 local-data: "young-incest.com A 127.0.0.1"
 local-zone: "young-kim.live" static
@@ -14898,8 +14258,6 @@ local-zone: "young-vids.com" static
 local-data: "young-vids.com A 127.0.0.1"
 local-zone: "young-virgins.com" static
 local-data: "young-virgins.com A 127.0.0.1"
-local-zone: "young-voice-0ad1.dequaviousf44.workers.dev" static
-local-data: "young-voice-0ad1.dequaviousf44.workers.dev A 127.0.0.1"
 local-zone: "young-webcam-movies.blogspot.com" static
 local-data: "young-webcam-movies.blogspot.com A 127.0.0.1"
 local-zone: "young-webcam-video.blogspot.com" static
@@ -18232,8 +17590,6 @@ local-zone: "yourchoicedvd.co.uk" static
 local-data: "yourchoicedvd.co.uk A 127.0.0.1"
 local-zone: "yourchristiandate.com" static
 local-data: "yourchristiandate.com A 127.0.0.1"
-local-zone: "yourcialsupply.top" static
-local-data: "yourcialsupply.top A 127.0.0.1"
 local-zone: "yourcignahsa.trafficfactory.biz" static
 local-data: "yourcignahsa.trafficfactory.biz A 127.0.0.1"
 local-zone: "yourcitizenn04se-verify.dnset.com" static
@@ -19296,10 +18652,6 @@ local-zone: "yourmomtossedmysalad.com" static
 local-data: "yourmomtossedmysalad.com A 127.0.0.1"
 local-zone: "yourmoney.com" static
 local-data: "yourmoney.com A 127.0.0.1"
-local-zone: "yourmoneysaving.online" static
-local-data: "yourmoneysaving.online A 127.0.0.1"
-local-zone: "yourmoneysaving.site" static
-local-data: "yourmoneysaving.site A 127.0.0.1"
 local-zone: "yourmoneysurvey.top" static
 local-data: "yourmoneysurvey.top A 127.0.0.1"
 local-zone: "yourmoneysurvey24.top" static
@@ -21174,10 +20526,14 @@ local-zone: "youtubicaayy.shop" static
 local-data: "youtubicaayy.shop A 127.0.0.1"
 local-zone: "youtubicabic.shop" static
 local-data: "youtubicabic.shop A 127.0.0.1"
+local-zone: "youtubicabot.shop" static
+local-data: "youtubicabot.shop A 127.0.0.1"
 local-zone: "youtubicabuu.shop" static
 local-data: "youtubicabuu.shop A 127.0.0.1"
 local-zone: "youtubicabuy.shop" static
 local-data: "youtubicabuy.shop A 127.0.0.1"
+local-zone: "youtubicaiot.shop" static
+local-data: "youtubicaiot.shop A 127.0.0.1"
 local-zone: "youtubicaiya.shop" static
 local-data: "youtubicaiya.shop A 127.0.0.1"
 local-zone: "youtubicaoba.shop" static
@@ -21190,6 +20546,8 @@ local-zone: "youtubicatuy.shop" static
 local-data: "youtubicatuy.shop A 127.0.0.1"
 local-zone: "youtubicaubb.shop" static
 local-data: "youtubicaubb.shop A 127.0.0.1"
+local-zone: "youtubicaycb.shop" static
+local-data: "youtubicaycb.shop A 127.0.0.1"
 local-zone: "youtubicayyy.shop" static
 local-data: "youtubicayyy.shop A 127.0.0.1"
 local-zone: "youtubist.co" static
@@ -23722,6 +23080,8 @@ local-zone: "ytadskip.com" static
 local-data: "ytadskip.com A 127.0.0.1"
 local-zone: "ytafyhybu.exblog.jp" static
 local-data: "ytafyhybu.exblog.jp A 127.0.0.1"
+local-zone: "ytajelsoz.cfd" static
+local-data: "ytajelsoz.cfd A 127.0.0.1"
 local-zone: "ytanoay.sbs" static
 local-data: "ytanoay.sbs A 127.0.0.1"
 local-zone: "ytapgckhhvou.com" static
@@ -24750,6 +24110,8 @@ local-zone: "yufnqb.airmauritius.com" static
 local-data: "yufnqb.airmauritius.com A 127.0.0.1"
 local-zone: "yufxsk.club" static
 local-data: "yufxsk.club A 127.0.0.1"
+local-zone: "yufxt.top" static
+local-data: "yufxt.top A 127.0.0.1"
 local-zone: "yufyigfhh.blogspot.com" static
 local-data: "yufyigfhh.blogspot.com A 127.0.0.1"
 local-zone: "yufyrslrjmb.com" static
@@ -24872,6 +24234,8 @@ local-zone: "yuhuads.com" static
 local-data: "yuhuads.com A 127.0.0.1"
 local-zone: "yuhuaidz.com" static
 local-data: "yuhuaidz.com A 127.0.0.1"
+local-zone: "yuhuan.cc" static
+local-data: "yuhuan.cc A 127.0.0.1"
 local-zone: "yuhuce-bevowu.pics" static
 local-data: "yuhuce-bevowu.pics A 127.0.0.1"
 local-zone: "yuhugifts.com" static
@@ -24950,8 +24314,6 @@ local-zone: "yuja-sentry1.yuja.com" static
 local-data: "yuja-sentry1.yuja.com A 127.0.0.1"
 local-zone: "yujafi-finuce.pics" static
 local-data: "yujafi-finuce.pics A 127.0.0.1"
-local-zone: "yujaverity.info" static
-local-data: "yujaverity.info A 127.0.0.1"
 local-zone: "yujgr.buzz" static
 local-data: "yujgr.buzz A 127.0.0.1"
 local-zone: "yujia.000webhostapp.com" static
@@ -25276,6 +24638,8 @@ local-zone: "yumbabies.com" static
 local-data: "yumbabies.com A 127.0.0.1"
 local-zone: "yumblin.com" static
 local-data: "yumblin.com A 127.0.0.1"
+local-zone: "yumbrandsnow.com" static
+local-data: "yumbrandsnow.com A 127.0.0.1"
 local-zone: "yumccwuhrnfepfprbmxb.com" static
 local-data: "yumccwuhrnfepfprbmxb.com A 127.0.0.1"
 local-zone: "yumcherry.com" static
@@ -25574,6 +24938,8 @@ local-zone: "yumofchina.com" static
 local-data: "yumofchina.com A 127.0.0.1"
 local-zone: "yumomis.com" static
 local-data: "yumomis.com A 127.0.0.1"
+local-zone: "yumoney-2365.info" static
+local-data: "yumoney-2365.info A 127.0.0.1"
 local-zone: "yumor.shop" static
 local-data: "yumor.shop A 127.0.0.1"
 local-zone: "yumore.g2afse.com" static
@@ -28458,6 +27824,8 @@ local-zone: "yyu5rev9yvr42932.partner-pay.net.daraz.com" static
 local-data: "yyu5rev9yvr42932.partner-pay.net.daraz.com A 127.0.0.1"
 local-zone: "yyu5rev9yvr42932.production-documentsns.partner-pay.net.daraz.com" static
 local-data: "yyu5rev9yvr42932.production-documentsns.partner-pay.net.daraz.com A 127.0.0.1"
+local-zone: "yyuan6.com" static
+local-data: "yyuan6.com A 127.0.0.1"
 local-zone: "yyuap.com" static
 local-data: "yyuap.com A 127.0.0.1"
 local-zone: "yyub.adj.st" static
@@ -29284,8 +28652,6 @@ local-zone: "z.720vedeo.me" static
 local-data: "z.720vedeo.me A 127.0.0.1"
 local-zone: "z.795.adj.st" static
 local-data: "z.795.adj.st A 127.0.0.1"
-local-zone: "z.abelekidr.com" static
-local-data: "z.abelekidr.com A 127.0.0.1"
 local-zone: "z.abnad.net" static
 local-data: "z.abnad.net A 127.0.0.1"
 local-zone: "z.adnxs.com" static
@@ -29462,8 +28828,6 @@ local-zone: "z.shavsl.com" static
 local-data: "z.shavsl.com A 127.0.0.1"
 local-zone: "z.sora.yoyi.com.cn" static
 local-data: "z.sora.yoyi.com.cn A 127.0.0.1"
-local-zone: "z.stourauwhou.com" static
-local-data: "z.stourauwhou.com A 127.0.0.1"
 local-zone: "z.supersonicads.com" static
 local-data: "z.supersonicads.com A 127.0.0.1"
 local-zone: "z.thaistiboa.com" static
@@ -31796,6 +31160,8 @@ local-zone: "zadigetvoltairefrance.fr" static
 local-data: "zadigetvoltairefrance.fr A 127.0.0.1"
 local-zone: "zadigoutlet.fr" static
 local-data: "zadigoutlet.fr A 127.0.0.1"
+local-zone: "zadigvoltaire-us.shop" static
+local-data: "zadigvoltaire-us.shop A 127.0.0.1"
 local-zone: "zadir.hu" static
 local-data: "zadir.hu A 127.0.0.1"
 local-zone: "zadkoff.ucoz.ru" static
@@ -32774,6 +32140,12 @@ local-zone: "zahlen.olereissmann.de" static
 local-data: "zahlen.olereissmann.de A 127.0.0.1"
 local-zone: "zahlschwein.org" static
 local-data: "zahlschwein.org A 127.0.0.1"
+local-zone: "zahlung-verifizieren.icu" static
+local-data: "zahlung-verifizieren.icu A 127.0.0.1"
+local-zone: "zahlungseingang.net" static
+local-data: "zahlungseingang.net A 127.0.0.1"
+local-zone: "zahlungseingang.sbs" static
+local-data: "zahlungseingang.sbs A 127.0.0.1"
 local-zone: "zahn.net.anwalt.de" static
 local-data: "zahn.net.anwalt.de A 127.0.0.1"
 local-zone: "zahnarzt-ackermann.net" static
@@ -34728,6 +34100,8 @@ local-zone: "zaquefilmesomelhordomegadownload.000webhostapp.com" static
 local-data: "zaquefilmesomelhordomegadownload.000webhostapp.com A 127.0.0.1"
 local-zone: "zaqynia.com" static
 local-data: "zaqynia.com A 127.0.0.1"
+local-zone: "zar-it.com" static
+local-data: "zar-it.com A 127.0.0.1"
 local-zone: "zara-desfile1.000webhostapp.com" static
 local-data: "zara-desfile1.000webhostapp.com A 127.0.0.1"
 local-zone: "zara-oracle.com" static
@@ -34750,6 +34124,8 @@ local-zone: "zaraaktar.com" static
 local-data: "zaraaktar.com A 127.0.0.1"
 local-zone: "zaraat.com" static
 local-data: "zaraat.com A 127.0.0.1"
+local-zone: "zaraaustralia.com" static
+local-data: "zaraaustralia.com A 127.0.0.1"
 local-zone: "zaraban.info" static
 local-data: "zaraban.info A 127.0.0.1"
 local-zone: "zarabar.com" static
@@ -40066,6 +39442,8 @@ local-zone: "zensearcher.com" static
 local-data: "zensearcher.com A 127.0.0.1"
 local-zone: "zensei.cloud" static
 local-data: "zensei.cloud A 127.0.0.1"
+local-zone: "zensekai.asia" static
+local-data: "zensekai.asia A 127.0.0.1"
 local-zone: "zensextoy.com" static
 local-data: "zensextoy.com A 127.0.0.1"
 local-zone: "zensiert.net" static
@@ -41860,8 +41238,6 @@ local-zone: "zevarpalace.pk" static
 local-data: "zevarpalace.pk A 127.0.0.1"
 local-zone: "zevars.com" static
 local-data: "zevars.com A 127.0.0.1"
-local-zone: "zevatra.io" static
-local-data: "zevatra.io A 127.0.0.1"
 local-zone: "zevceec.life" static
 local-data: "zevceec.life A 127.0.0.1"
 local-zone: "zeve.au" static
@@ -48086,6 +47462,8 @@ local-zone: "zincidsaloons.top" static
 local-data: "zincidsaloons.top A 127.0.0.1"
 local-zone: "zincimeson.pro" static
 local-data: "zincimeson.pro A 127.0.0.1"
+local-zone: "zincir-aktuel.net" static
+local-data: "zincir-aktuel.net A 127.0.0.1"
 local-zone: "zincirsizstore.com" static
 local-data: "zincirsizstore.com A 127.0.0.1"
 local-zone: "zincit.io" static
@@ -48134,8 +47512,6 @@ local-zone: "zinewiki.com" static
 local-data: "zinewiki.com A 127.0.0.1"
 local-zone: "zinfandelreviews.net" static
 local-data: "zinfandelreviews.net A 127.0.0.1"
-local-zone: "zinflix.com" static
-local-data: "zinflix.com A 127.0.0.1"
 local-zone: "zinfonia.com" static
 local-data: "zinfonia.com A 127.0.0.1"
 local-zone: "zinformatiou.store" static
@@ -52590,8 +51966,6 @@ local-zone: "zmtq.cdnhwczoy106.cn" static
 local-data: "zmtq.cdnhwczoy106.cn A 127.0.0.1"
 local-zone: "zmtvip.com" static
 local-data: "zmtvip.com A 127.0.0.1"
-local-zone: "zmu62084.77119.cc" static
-local-data: "zmu62084.77119.cc A 127.0.0.1"
 local-zone: "zmupdati.weebly.com" static
 local-data: "zmupdati.weebly.com A 127.0.0.1"
 local-zone: "zmurk.com" static
@@ -61610,6 +60984,8 @@ local-zone: "zohotagmanager.cdn.pagesense.io" static
 local-data: "zohotagmanager.cdn.pagesense.io A 127.0.0.1"
 local-zone: "zohovoice.com" static
 local-data: "zohovoice.com A 127.0.0.1"
+local-zone: "zohran.store" static
+local-data: "zohran.store A 127.0.0.1"
 local-zone: "zohranfornyc.com" static
 local-data: "zohranfornyc.com A 127.0.0.1"
 local-zone: "zohup.com" static
@@ -71166,6 +70542,8 @@ local-zone: "zxmail.weebly.com" static
 local-data: "zxmail.weebly.com A 127.0.0.1"
 local-zone: "zxmbc500.000webhostapp.com" static
 local-data: "zxmbc500.000webhostapp.com A 127.0.0.1"
+local-zone: "zxmenhmo.top" static
+local-data: "zxmenhmo.top A 127.0.0.1"
 local-zone: "zxmkvelyft.bid" static
 local-data: "zxmkvelyft.bid A 127.0.0.1"
 local-zone: "zxml.cn" static
