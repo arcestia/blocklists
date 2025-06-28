@@ -1,4 +1,36 @@
-ata: "yanpoly.com A 127.0.0.1"
+"yannicksexton3u7z.pages.dev A 127.0.0.1"
+local-zone: "yanniehot.blogspot.com" static
+local-data: "yanniehot.blogspot.com A 127.0.0.1"
+local-zone: "yanniff.000webhostapp.com" static
+local-data: "yanniff.000webhostapp.com A 127.0.0.1"
+local-zone: "yannifikaris.clickfunnels.com" static
+local-data: "yannifikaris.clickfunnels.com A 127.0.0.1"
+local-zone: "yannlenen.clickfunnels.com" static
+local-data: "yannlenen.clickfunnels.com A 127.0.0.1"
+local-zone: "yannymac.blogspot.com" static
+local-data: "yannymac.blogspot.com A 127.0.0.1"
+local-zone: "yannysalazar.blogspot.com" static
+local-data: "yannysalazar.blogspot.com A 127.0.0.1"
+local-zone: "yano.digital" static
+local-data: "yano.digital A 127.0.0.1"
+local-zone: "yanobxpa.com" static
+local-data: "yanobxpa.com A 127.0.0.1"
+local-zone: "yanochka.net" static
+local-data: "yanochka.net A 127.0.0.1"
+local-zone: "yanokisho.com" static
+local-data: "yanokisho.com A 127.0.0.1"
+local-zone: "yanonly.com" static
+local-data: "yanonly.com A 127.0.0.1"
+local-zone: "yanoworld.net" static
+local-data: "yanoworld.net A 127.0.0.1"
+local-zone: "yanoworld.org" static
+local-data: "yanoworld.org A 127.0.0.1"
+local-zone: "yanowu-gorore.pics" static
+local-data: "yanowu-gorore.pics A 127.0.0.1"
+local-zone: "yanpk.com" static
+local-data: "yanpk.com A 127.0.0.1"
+local-zone: "yanpoly.com" static
+local-data: "yanpoly.com A 127.0.0.1"
 local-zone: "yanqingxiaoshuoba.org" static
 local-data: "yanqingxiaoshuoba.org A 127.0.0.1"
 local-zone: "yanqishui.work" static
@@ -7827,8 +7859,6 @@ local-zone: "yigouw.com" static
 local-data: "yigouw.com A 127.0.0.1"
 local-zone: "yigt.fr" static
 local-data: "yigt.fr A 127.0.0.1"
-local-zone: "yiguannetwork.cn" static
-local-data: "yiguannetwork.cn A 127.0.0.1"
 local-zone: "yiguotech.com" static
 local-data: "yiguotech.com A 127.0.0.1"
 local-zone: "yigyx.com" static
