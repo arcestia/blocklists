@@ -1,3 +1,35 @@
+c
+local-data: "yaporn.news A 127.0.0.1"
+local-zone: "yaporn.pro" static
+local-data: "yaporn.pro A 127.0.0.1"
+local-zone: "yaporn.team" static
+local-data: "yaporn.team A 127.0.0.1"
+local-zone: "yaporn.tube" static
+local-data: "yaporn.tube A 127.0.0.1"
+local-zone: "yaporn.watch" static
+local-data: "yaporn.watch A 127.0.0.1"
+local-zone: "yaporno-tour.link" static
+local-data: "yaporno-tour.link A 127.0.0.1"
+local-zone: "yaporno-tour.me" static
+local-data: "yaporno-tour.me A 127.0.0.1"
+local-zone: "yaporno.com" static
+local-data: "yaporno.com A 127.0.0.1"
+local-zone: "yaporno.net" static
+local-data: "yaporno.net A 127.0.0.1"
+local-zone: "yaporno365.me" static
+local-data: "yaporno365.me A 127.0.0.1"
+local-zone: "yapornobit.mobi" static
+local-data: "yapornobit.mobi A 127.0.0.1"
+local-zone: "yapornoham.vip" static
+local-data: "yapornoham.vip A 127.0.0.1"
+local-zone: "yapornomoll.com" static
+local-data: "yapornomoll.com A 127.0.0.1"
+local-zone: "yapornsexer.com" static
+local-data: "yapornsexer.com A 127.0.0.1"
+local-zone: "yapornsite.blogspot.com" static
+local-data: "yapornsite.blogspot.com A 127.0.0.1"
+local-zone: "yaporntati.com" static
+local-data: "yaporntati.com A 127.0.0.1"
 local-zone: "yaporntati.info" static
 local-data: "yaporntati.info A 127.0.0.1"
 local-zone: "yapornuha.icu" static
@@ -41858,6 +41890,8 @@ local-zone: "zfvsnpir-cxx.buzz" static
 local-data: "zfvsnpir-cxx.buzz A 127.0.0.1"
 local-zone: "zfvtswv.xyz" static
 local-data: "zfvtswv.xyz A 127.0.0.1"
+local-zone: "zfvvgetsulfjm.site" static
+local-data: "zfvvgetsulfjm.site A 127.0.0.1"
 local-zone: "zfwgn.icu" static
 local-data: "zfwgn.icu A 127.0.0.1"
 local-zone: "zfwl.doma2.info" static
@@ -41894,6 +41928,8 @@ local-zone: "zfz10hjy1c9dsx53.test.partner.net.daraz.com" static
 local-data: "zfz10hjy1c9dsx53.test.partner.net.daraz.com A 127.0.0.1"
 local-zone: "zfz10hjy1c9dsx53.wlan.partner-bamboo.net.daraz.com" static
 local-data: "zfz10hjy1c9dsx53.wlan.partner-bamboo.net.daraz.com A 127.0.0.1"
+local-zone: "zfziwjgxrorda.website" static
+local-data: "zfziwjgxrorda.website A 127.0.0.1"
 local-zone: "zg-ap-apps.com" static
 local-data: "zg-ap-apps.com A 127.0.0.1"
 local-zone: "zg-api.com" static
@@ -60678,6 +60714,8 @@ local-zone: "zoemeditation.com" static
 local-data: "zoemeditation.com A 127.0.0.1"
 local-zone: "zoemetart.blogspot.com" static
 local-data: "zoemetart.blogspot.com A 127.0.0.1"
+local-zone: "zoemieuporn.pages.dev" static
+local-data: "zoemieuporn.pages.dev A 127.0.0.1"
 local-zone: "zoeministries.infusionsoft.com" static
 local-data: "zoeministries.infusionsoft.com A 127.0.0.1"
 local-zone: "zoemmm.com" static
