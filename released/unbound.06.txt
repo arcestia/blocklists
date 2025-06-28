@@ -1,4 +1,9 @@
-o.io A 127.0.0.1"
+.net" static
+local-data: "yaps-kaito.net A 127.0.0.1"
+local-zone: "yaps.kaito.ai" static
+local-data: "yaps.kaito.ai A 127.0.0.1"
+local-zone: "yaps.piano.io" static
+local-data: "yaps.piano.io A 127.0.0.1"
 local-zone: "yapskaito.xyz" static
 local-data: "yapskaito.xyz A 127.0.0.1"
 local-zone: "yapskalto.net" static
@@ -765,8 +770,6 @@ local-zone: "yatrou.com" static
 local-data: "yatrou.com A 127.0.0.1"
 local-zone: "yatsenoy.beget.tech" static
 local-data: "yatsenoy.beget.tech A 127.0.0.1"
-local-zone: "yatta.cam" static
-local-data: "yatta.cam A 127.0.0.1"
 local-zone: "yatta.moe" static
 local-data: "yatta.moe A 127.0.0.1"
 local-zone: "yattagolf.com" static
@@ -33779,6 +33782,8 @@ local-zone: "zapetti.solution.weborama.fr" static
 local-data: "zapetti.solution.weborama.fr A 127.0.0.1"
 local-zone: "zapf57.leatherdocumentbags.com" static
 local-data: "zapf57.leatherdocumentbags.com A 127.0.0.1"
+local-zone: "zapfgyqcktakq.site" static
+local-data: "zapfgyqcktakq.site A 127.0.0.1"
 local-zone: "zapfie.shop" static
 local-data: "zapfie.shop A 127.0.0.1"
 local-zone: "zapfolio.click" static
