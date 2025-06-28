@@ -1,4 +1,13 @@
- 127.0.0.1"
+.com" static
+local-data: "youmiuri.com A 127.0.0.1"
+local-zone: "yoummy.com" static
+local-data: "yoummy.com A 127.0.0.1"
+local-zone: "youmob.com" static
+local-data: "youmob.com A 127.0.0.1"
+local-zone: "youmobile.org" static
+local-data: "youmobile.org A 127.0.0.1"
+local-zone: "youmodel.biz" static
+local-data: "youmodel.biz A 127.0.0.1"
 local-zone: "youmongusadnetwork.com" static
 local-data: "youmongusadnetwork.com A 127.0.0.1"
 local-zone: "youmoq.com" static
