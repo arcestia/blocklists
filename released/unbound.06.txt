@@ -1,4 +1,165 @@
-al-zone: "yapikredimflex.com" static
+om A 127.0.0.1"
+local-zone: "yaoidreams.com" static
+local-data: "yaoidreams.com A 127.0.0.1"
+local-zone: "yaoiflix.net" static
+local-data: "yaoiflix.net A 127.0.0.1"
+local-zone: "yaoifun.com" static
+local-data: "yaoifun.com A 127.0.0.1"
+local-zone: "yaoihavenreborn.com" static
+local-data: "yaoihavenreborn.com A 127.0.0.1"
+local-zone: "yaoilib.net" static
+local-data: "yaoilib.net A 127.0.0.1"
+local-zone: "yaoimangaonline.com" static
+local-data: "yaoimangaonline.com A 127.0.0.1"
+local-zone: "yaoimoviearchive.com" static
+local-data: "yaoimoviearchive.com A 127.0.0.1"
+local-zone: "yaoinudeboys.blogspot.com" static
+local-data: "yaoinudeboys.blogspot.com A 127.0.0.1"
+local-zone: "yaoipictures.com" static
+local-data: "yaoipictures.com A 127.0.0.1"
+local-zone: "yaoiporno.com" static
+local-data: "yaoiporno.com A 127.0.0.1"
+local-zone: "yaoiscan.com" static
+local-data: "yaoiscan.com A 127.0.0.1"
+local-zone: "yaoislash.virginradioblog.fr" static
+local-data: "yaoislash.virginradioblog.fr A 127.0.0.1"
+local-zone: "yaoisource.com" static
+local-data: "yaoisource.com A 127.0.0.1"
+local-zone: "yaoispunkcomic.blogspot.com" static
+local-data: "yaoispunkcomic.blogspot.com A 127.0.0.1"
+local-zone: "yaoitoon.com" static
+local-data: "yaoitoon.com A 127.0.0.1"
+local-zone: "yaoitube.net" static
+local-data: "yaoitube.net A 127.0.0.1"
+local-zone: "yaojicm.com" static
+local-data: "yaojicm.com A 127.0.0.1"
+local-zone: "yaokcfjur.com" static
+local-data: "yaokcfjur.com A 127.0.0.1"
+local-zone: "yaokuan01.cn" static
+local-data: "yaokuan01.cn A 127.0.0.1"
+local-zone: "yaolan.adsame.com" static
+local-data: "yaolan.adsame.com A 127.0.0.1"
+local-zone: "yaolu.mh.163.com" static
+local-data: "yaolu.mh.163.com A 127.0.0.1"
+local-zone: "yaolu.yuedu.163.com" static
+local-data: "yaolu.yuedu.163.com A 127.0.0.1"
+local-zone: "yaolutong.com" static
+local-data: "yaolutong.com A 127.0.0.1"
+local-zone: "yaomaodun.blog.getclicky.com" static
+local-data: "yaomaodun.blog.getclicky.com A 127.0.0.1"
+local-zone: "yaomedia.net" static
+local-data: "yaomedia.net A 127.0.0.1"
+local-zone: "yaomuzhubao.com" static
+local-data: "yaomuzhubao.com A 127.0.0.1"
+local-zone: "yaonatrue.shop" static
+local-data: "yaonatrue.shop A 127.0.0.1"
+local-zone: "yaonz.xyz" static
+local-data: "yaonz.xyz A 127.0.0.1"
+local-zone: "yaoo.co" static
+local-data: "yaoo.co A 127.0.0.1"
+local-zone: "yaoo.com" static
+local-data: "yaoo.com A 127.0.0.1"
+local-zone: "yaoo.fr" static
+local-data: "yaoo.fr A 127.0.0.1"
+local-zone: "yaopinnet.com" static
+local-data: "yaopinnet.com A 127.0.0.1"
+local-zone: "yaopinyo.com" static
+local-data: "yaopinyo.com A 127.0.0.1"
+local-zone: "yaoporn.xyz" static
+local-data: "yaoporn.xyz A 127.0.0.1"
+local-zone: "yaosee.shop" static
+local-data: "yaosee.shop A 127.0.0.1"
+local-zone: "yaoshe121.com" static
+local-data: "yaoshe121.com A 127.0.0.1"
+local-zone: "yaoshe177.com" static
+local-data: "yaoshe177.com A 127.0.0.1"
+local-zone: "yaoslgiweccw.com" static
+local-data: "yaoslgiweccw.com A 127.0.0.1"
+local-zone: "yaoulive.com" static
+local-data: "yaoulive.com A 127.0.0.1"
+local-zone: "yaouporn.com" static
+local-data: "yaouporn.com A 127.0.0.1"
+local-zone: "yaowukejigame.com" static
+local-data: "yaowukejigame.com A 127.0.0.1"
+local-zone: "yaoyama.silveregg.net" static
+local-data: "yaoyama.silveregg.net A 127.0.0.1"
+local-zone: "yaoyaomumu.com" static
+local-data: "yaoyaomumu.com A 127.0.0.1"
+local-zone: "yaoyaoterbaik.com" static
+local-data: "yaoyaoterbaik.com A 127.0.0.1"
+local-zone: "yaoyee.com" static
+local-data: "yaoyee.com A 127.0.0.1"
+local-zone: "yaoyuezw.com" static
+local-data: "yaoyuezw.com A 127.0.0.1"
+local-zone: "yaozh.com" static
+local-data: "yaozh.com A 127.0.0.1"
+local-zone: "yaozui.com" static
+local-data: "yaozui.com A 127.0.0.1"
+local-zone: "yap.adult" static
+local-data: "yap.adult A 127.0.0.1"
+local-zone: "yap.yahoo.com" static
+local-data: "yap.yahoo.com A 127.0.0.1"
+local-zone: "yapabbreviate.com" static
+local-data: "yapabbreviate.com A 127.0.0.1"
+local-zone: "yapacams.com" static
+local-data: "yapacams.com A 127.0.0.1"
+local-zone: "yapage.info" static
+local-data: "yapage.info A 127.0.0.1"
+local-zone: "yapapp.porn" static
+local-data: "yapapp.porn A 127.0.0.1"
+local-zone: "yapatube.com" static
+local-data: "yapatube.com A 127.0.0.1"
+local-zone: "yapay.io" static
+local-data: "yapay.io A 127.0.0.1"
+local-zone: "yapaytech.com" static
+local-data: "yapaytech.com A 127.0.0.1"
+local-zone: "yapcbx08.top" static
+local-data: "yapcbx08.top A 127.0.0.1"
+local-zone: "yapclench.com" static
+local-data: "yapclench.com A 127.0.0.1"
+local-zone: "yapdiscuss.com" static
+local-data: "yapdiscuss.com A 127.0.0.1"
+local-zone: "yapdiw06.top" static
+local-data: "yapdiw06.top A 127.0.0.1"
+local-zone: "yape-1.webcindario.com" static
+local-data: "yape-1.webcindario.com A 127.0.0.1"
+local-zone: "yape-3.webcindario.com" static
+local-data: "yape-3.webcindario.com A 127.0.0.1"
+local-zone: "yape-seguridad.webcindario.com" static
+local-data: "yape-seguridad.webcindario.com A 127.0.0.1"
+local-zone: "yape.tech" static
+local-data: "yape.tech A 127.0.0.1"
+local-zone: "yape3-static.yape.tech" static
+local-data: "yape3-static.yape.tech A 127.0.0.1"
+local-zone: "yapebolivia.webcindario.com" static
+local-data: "yapebolivia.webcindario.com A 127.0.0.1"
+local-zone: "yapeol.fr" static
+local-data: "yapeol.fr A 127.0.0.1"
+local-zone: "yapfairmark.com" static
+local-data: "yapfairmark.com A 127.0.0.1"
+local-zone: "yapfiles.com" static
+local-data: "yapfiles.com A 127.0.0.1"
+local-zone: "yapfiles.ru" static
+local-data: "yapfiles.ru A 127.0.0.1"
+local-zone: "yapforestsfairfax.com" static
+local-data: "yapforestsfairfax.com A 127.0.0.1"
+local-zone: "yaphsq02.top" static
+local-data: "yaphsq02.top A 127.0.0.1"
+local-zone: "yapi.apk.v-mate.mobi" static
+local-data: "yapi.apk.v-mate.mobi A 127.0.0.1"
+local-zone: "yapiapi.com" static
+local-data: "yapiapi.com A 127.0.0.1"
+local-zone: "yapiapp.com" static
+local-data: "yapiapp.com A 127.0.0.1"
+local-zone: "yapicentral.com" static
+local-data: "yapicentral.com A 127.0.0.1"
+local-zone: "yapicepin.xyz" static
+local-data: "yapicepin.xyz A 127.0.0.1"
+local-zone: "yapiev09.top" static
+local-data: "yapiev09.top A 127.0.0.1"
+local-zone: "yapigames.com" static
+local-data: "yapigames.com A 127.0.0.1"
+local-zone: "yapikredimflex.com" static
 local-data: "yapikredimflex.com A 127.0.0.1"
 local-zone: "yapikur.com.tr" static
 local-data: "yapikur.com.tr A 127.0.0.1"
