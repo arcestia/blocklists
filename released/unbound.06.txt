@@ -1,4 +1,21 @@
-dox.ru" static
+s A 127.0.0.1"
+local-zone: "yandexuzbekistan.shop" static
+local-data: "yandexuzbekistan.shop A 127.0.0.1"
+local-zone: "yandexweb.com" static
+local-data: "yandexweb.com A 127.0.0.1"
+local-zone: "yandey.ru" static
+local-data: "yandey.ru A 127.0.0.1"
+local-zone: "yandim.info" static
+local-data: "yandim.info A 127.0.0.1"
+local-zone: "yandimporno.com" static
+local-data: "yandimporno.com A 127.0.0.1"
+local-zone: "yandmail.com" static
+local-data: "yandmail.com A 127.0.0.1"
+local-zone: "yandmail.net" static
+local-data: "yandmail.net A 127.0.0.1"
+local-zone: "yandox.fun" static
+local-data: "yandox.fun A 127.0.0.1"
+local-zone: "yandox.ru" static
 local-data: "yandox.ru A 127.0.0.1"
 local-zone: "yandrix.website" static
 local-data: "yandrix.website A 127.0.0.1"
@@ -45408,8 +45425,6 @@ local-zone: "zigono-tepike.pics" static
 local-data: "zigono-tepike.pics A 127.0.0.1"
 local-zone: "zigoogle.com" static
 local-data: "zigoogle.com A 127.0.0.1"
-local-zone: "zigooo.netsons.org" static
-local-data: "zigooo.netsons.org A 127.0.0.1"
 local-zone: "zigoulraugnechu.net" static
 local-data: "zigoulraugnechu.net A 127.0.0.1"
 local-zone: "zigounet.com" static
@@ -61288,6 +61303,8 @@ local-zone: "zoekeensexdate.be" static
 local-data: "zoekeensexdate.be A 127.0.0.1"
 local-zone: "zoekeensexdate.com" static
 local-data: "zoekeensexdate.com A 127.0.0.1"
+local-zone: "zoekeensexpartner.be" static
+local-data: "zoekeensexpartner.be A 127.0.0.1"
 local-zone: "zoekeensexpartner.nl" static
 local-data: "zoekeensexpartner.nl A 127.0.0.1"
 local-zone: "zoekertje.xxx" static
@@ -63194,6 +63211,8 @@ local-zone: "zonguru.tapfiliate.com" static
 local-data: "zonguru.tapfiliate.com A 127.0.0.1"
 local-zone: "zongwww.rgsdocker.net.daraz.com" static
 local-data: "zongwww.rgsdocker.net.daraz.com A 127.0.0.1"
+local-zone: "zongzab.com" static
+local-data: "zongzab.com A 127.0.0.1"
 local-zone: "zongzuhulian.com" static
 local-data: "zongzuhulian.com A 127.0.0.1"
 local-zone: "zoni.edu" static
