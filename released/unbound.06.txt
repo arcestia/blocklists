@@ -1,4 +1,42 @@
- "yaps-kaito.net" static
+local-zone: "yaporntati.info" static
+local-data: "yaporntati.info A 127.0.0.1"
+local-zone: "yapornuha.icu" static
+local-data: "yapornuha.icu A 127.0.0.1"
+local-zone: "yapornx.ru" static
+local-data: "yapornx.ru A 127.0.0.1"
+local-zone: "yapoy.io" static
+local-data: "yapoy.io A 127.0.0.1"
+local-zone: "yapp-live.com" static
+local-data: "yapp-live.com A 127.0.0.1"
+local-zone: "yapp.li" static
+local-data: "yapp.li A 127.0.0.1"
+local-zone: "yapp.us" static
+local-data: "yapp.us A 127.0.0.1"
+local-zone: "yappcurtsey.space" static
+local-data: "yappcurtsey.space A 127.0.0.1"
+local-zone: "yappe.in" static
+local-data: "yappe.in A 127.0.0.1"
+local-zone: "yappeg.com" static
+local-data: "yappeg.com A 127.0.0.1"
+local-zone: "yappercommunity.com" static
+local-data: "yappercommunity.com A 127.0.0.1"
+local-zone: "yappi.com" static
+local-data: "yappi.com A 127.0.0.1"
+local-zone: "yappy.cloud" static
+local-data: "yappy.cloud A 127.0.0.1"
+local-zone: "yappy.com" static
+local-data: "yappy.com A 127.0.0.1"
+local-zone: "yappy.media" static
+local-data: "yappy.media A 127.0.0.1"
+local-zone: "yaprifxbrcrx.com" static
+local-data: "yaprifxbrcrx.com A 127.0.0.1"
+local-zone: "yapro30.com" static
+local-data: "yapro30.com A 127.0.0.1"
+local-zone: "yapro32.com" static
+local-data: "yapro32.com A 127.0.0.1"
+local-zone: "yapro35.com" static
+local-data: "yapro35.com A 127.0.0.1"
+local-zone: "yaps-kaito.net" static
 local-data: "yaps-kaito.net A 127.0.0.1"
 local-zone: "yaps.kaito.ai" static
 local-data: "yaps.kaito.ai A 127.0.0.1"
@@ -21364,8 +21402,6 @@ local-zone: "ypoxz9yaeyl60sfd.net.daraz.com" static
 local-data: "ypoxz9yaeyl60sfd.net.daraz.com A 127.0.0.1"
 local-zone: "ypoz.doma2.info" static
 local-data: "ypoz.doma2.info A 127.0.0.1"
-local-zone: "ypp-documentupdateagreement.short.gy" static
-local-data: "ypp-documentupdateagreement.short.gy A 127.0.0.1"
 local-zone: "ypp.jeniuskedua.com" static
 local-data: "ypp.jeniuskedua.com A 127.0.0.1"
 local-zone: "yppcdn.com" static
@@ -71516,10 +71552,14 @@ local-zone: "zyskcontrol.top" static
 local-data: "zyskcontrol.top A 127.0.0.1"
 local-zone: "zyskdeal.top" static
 local-data: "zyskdeal.top A 127.0.0.1"
+local-zone: "zyskexpert.xyz" static
+local-data: "zyskexpert.xyz A 127.0.0.1"
 local-zone: "zyskfinder.top" static
 local-data: "zyskfinder.top A 127.0.0.1"
 local-zone: "zyskinvest.top" static
 local-data: "zyskinvest.top A 127.0.0.1"
+local-zone: "zyskline.xyz" static
+local-data: "zyskline.xyz A 127.0.0.1"
 local-zone: "zysklog.xyz" static
 local-data: "zysklog.xyz A 127.0.0.1"
 local-zone: "zysknahoryzoncie.eu" static
