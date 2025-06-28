@@ -1,4 +1,43 @@
-its.com" static
+data: "youla.ru.domain.name A 127.0.0.1"
+local-zone: "youladies.de" static
+local-data: "youladies.de A 127.0.0.1"
+local-zone: "youlamedia.com" static
+local-data: "youlamedia.com A 127.0.0.1"
+local-zone: "youlaw.ru" static
+local-data: "youlaw.ru A 127.0.0.1"
+local-zone: "youle55.com" static
+local-data: "youle55.com A 127.0.0.1"
+local-zone: "youlead.agency" static
+local-data: "youlead.agency A 127.0.0.1"
+local-zone: "youlead.pl" static
+local-data: "youlead.pl A 127.0.0.1"
+local-zone: "youleaked.com" static
+local-data: "youleaked.com A 127.0.0.1"
+local-zone: "youleapps.com" static
+local-data: "youleapps.com A 127.0.0.1"
+local-zone: "youlearn.ai" static
+local-data: "youlearn.ai A 127.0.0.1"
+local-zone: "youlearnhow.com" static
+local-data: "youlearnhow.com A 127.0.0.1"
+local-zone: "youlesbi.com" static
+local-data: "youlesbi.com A 127.0.0.1"
+local-zone: "youlesmotorcycles.com" static
+local-data: "youlesmotorcycles.com A 127.0.0.1"
+local-zone: "youlesp.com" static
+local-data: "youlesp.com A 127.0.0.1"
+local-zone: "youliehow.com" static
+local-data: "youliehow.com A 127.0.0.1"
+local-zone: "youlike.nl" static
+local-data: "youlike.nl A 127.0.0.1"
+local-zone: "youlikeboys.com" static
+local-data: "youlikeboys.com A 127.0.0.1"
+local-zone: "youlikecumpany.com" static
+local-data: "youlikecumpany.com A 127.0.0.1"
+local-zone: "youlikehacks.com" static
+local-data: "youlikehacks.com A 127.0.0.1"
+local-zone: "youlikehere.com" static
+local-data: "youlikehere.com A 127.0.0.1"
+local-zone: "youlikehits.com" static
 local-data: "youlikehits.com A 127.0.0.1"
 local-zone: "youlikeme.website" static
 local-data: "youlikeme.website A 127.0.0.1"
