@@ -1,7 +1,4 @@
-atic
-local-data: "yeniposta.com A 127.0.0.1"
-local-zone: "yenisartave.com" static
-local-data: "yenisartave.com A 127.0.0.1"
+ave.com A 127.0.0.1"
 local-zone: "yenisei.info" static
 local-data: "yenisei.info A 127.0.0.1"
 local-zone: "yeniseksler.ru" static
