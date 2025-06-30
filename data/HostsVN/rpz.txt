@@ -2147,6 +2147,7 @@ aem-collector-22ylcwym.kgslb.com CNAME .
 aem-collector.daumkakao.io CNAME .
 aerodynomach.com CNAME .
 aerserv.com CNAME .
+aes.eu-west.ono.axp.amazon-adsystem.com CNAME .
 aes.kargo.com CNAME .
 aeventlog.beacon.qq.com CNAME .
 aevents.izooto.com CNAME .
@@ -4938,6 +4939,7 @@ cdn.postrelease.com CNAME .
 cdn.premiumads.net CNAME .
 cdn.premiumtag.net CNAME .
 cdn.proadscdn.com CNAME .
+cdn.prod.metrics.imdb.a2z.com CNAME .
 cdn.prod.uidapi.com CNAME .
 cdn.promotionengine.com CNAME .
 cdn.pubexchange.com CNAME .
@@ -5432,6 +5434,7 @@ client.vads.net.vn CNAME .
 client2.otm-r.com CNAME .
 clientcdn.pushengage.com CNAME .
 clientinfo.phimmoizz.net CNAME .
+clientlogger.marketplace.aws.a2z.com CNAME .
 clientmanagement.lijit.com CNAME .
 clientmetrics-pa.googleapis.com CNAME .
 clientmetrics.outbrain.com CNAME .
@@ -7460,6 +7463,7 @@ fam.adingo.jp CNAME .
 familiarpyromaniasloping.com CNAME .
 faq.juicer.cc CNAME .
 faqirsgoliard.top CNAME .
+faqlikbid.com CNAME .
 farcivinage.shop CNAME .
 farethief.com CNAME .
 farmergoldfish.com CNAME .
@@ -7714,6 +7718,7 @@ futuristicapparatus.com CNAME .
 futuristicfairies.com CNAME .
 fuwalrnce.com CNAME .
 fvalid.appsflyer.com CNAME .
+fvchjvaiisuxrpb.com CNAME .
 fw.adsafeprotected.com CNAME .
 fw.bapi.adsafeprotected.com CNAME .
 fw.moatads.com CNAME .
@@ -10686,6 +10691,7 @@ metrics.data.hicloud.com CNAME .
 metrics.foxnews.com CNAME .
 metrics.govexec.com CNAME .
 metrics.icloud.com CNAME .
+metrics.imdb.a2z.com CNAME .
 metrics.kmsmep.com CNAME .
 metrics.linkshare.com CNAME .
 metrics.m.ambientplatform.vn CNAME .
@@ -10740,7 +10746,6 @@ millustry.top CNAME .
 mimilcnf.pro CNAME .
 mindlytix.com CNAME .
 mindmemobile.com CNAME .
-minerva.devices.a2z.com CNAME .
 mingledventin.com CNAME .
 minio.connatix.com CNAME .
 minotaur107.com CNAME .
@@ -11292,6 +11297,7 @@ nppmwatch.com CNAME .
 nps.juicer.cc CNAME .
 npttech.com CNAME .
 npv.indexexchange.com CNAME .
+nqcgdvuuyxwj.com CNAME .
 nqucjilr.com CNAME .
 nr-data.net CNAME .
 nr-events.taboola.com CNAME .
@@ -14530,6 +14536,7 @@ sjedt.adsafeprotected.com CNAME .
 sjepm.adsafeprotected.com CNAME .
 sjremetrics.java.com CNAME .
 sjs.bizographics.com CNAME .
+sjvaovqhn.com CNAME .
 skadnetwork.singular.net CNAME .
 skadnetworks.fyber.com CNAME .
 skadsdk.appsflyer.com CNAME .
@@ -16553,6 +16560,7 @@ trustx.org CNAME .
 trx.adscale.de CNAME .
 try.abtasty.com CNAME .
 ts.alcmpn.com CNAME .
+ts.amazon-adsystem.com CNAME .
 ts.siteimprove.com CNAME .
 tshfc.com CNAME .
 tsis.jpush.cn CNAME .
@@ -16841,7 +16849,6 @@ us-content.mediaforge.com CNAME .
 us-east-1.event.prod.bidr.io CNAME .
 us-east-1.prod.pr.analytics.console.aws.a2z.com CNAME .
 us-east-1.prod.pw.analytics.console.aws.a2z.com CNAME .
-us-east-1.prod.service.minerva.devices.a2z.com CNAME .
 us-east-1.rtb.a-mo.net CNAME .
 us-east-1.telemetry.insights.video.a2z.com CNAME .
 us-east-2.prod.pr.analytics.console.aws.a2z.com CNAME .
@@ -17666,6 +17673,7 @@ wonderlandads.com CNAME .
 wondoads.de CNAME .
 woochithoothie.net CNAME .
 woodpeckerlog.com CNAME .
+woomerapapacy.shop CNAME .
 woopra.com CNAME .
 woorucauhou.net CNAME .
 wootric-demo.wootric.com CNAME .
