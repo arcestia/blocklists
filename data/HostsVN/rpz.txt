@@ -1149,6 +1149,7 @@ ads.allizom.org CNAME .
 ads.alobacsi.vn CNAME .
 ads.alphonso.tv CNAME .
 ads.alt.com CNAME .
+ads.amazon.dev CNAME .
 ads.amdmb.com CNAME .
 ads.amigos.com CNAME .
 ads.amxrtb.com CNAME .
@@ -2004,6 +2005,7 @@ advertiserurl.com CNAME .
 advertisespace.com CNAME .
 advertising-cdn.com CNAME .
 advertising-cdn.dpgmedia.cloud CNAME .
+advertising.amazon.dev CNAME .
 advertising.com CNAME .
 advertising.gammassp.com CNAME .
 advertising.microsoft.com CNAME .
@@ -2993,6 +2995,7 @@ api.gif.duapps.com CNAME .
 api.glance.inmobi.com CNAME .
 api.growingio.com CNAME .
 api.iad.appboy.com CNAME .
+api.imdb.eu-west-1.prod.paets.advertising.amazon.dev CNAME .
 api.indexexchange.com CNAME .
 api.inmobi.cn CNAME .
 api.inspectlet.com CNAME .
@@ -3476,7 +3479,14 @@ assets1.adroll.com CNAME .
 assets1.exgfnetwork.com CNAME .
 assistads.net CNAME .
 asslfeqadv.com CNAME .
+assoc-amazon.ca CNAME .
+assoc-amazon.co.uk CNAME .
 assoc-amazon.com CNAME .
+assoc-amazon.de CNAME .
+assoc-amazon.es CNAME .
+assoc-amazon.fr CNAME .
+assoc-amazon.it CNAME .
+assoc-amazon.jp CNAME .
 assoc-msdk-cn.amazon-adsystem.com CNAME .
 assoc-msdk-eu.amazon-adsystem.com CNAME .
 assoc-msdk-us.amazon-adsystem.com CNAME .
@@ -8516,6 +8526,7 @@ hsadspixel.net CNAME .
 hsbarbershop.co.uk CNAME .
 hscozgoqffn.com CNAME .
 hscta.net CNAME .
+hsestonicaawofw.com CNAME .
 hsych.com CNAME .
 ht.alcmpn.com CNAME .
 ht.indexww.com CNAME .
@@ -9501,6 +9512,7 @@ kau.li CNAME .
 kauleeci.com CNAME .
 kaulouvaun.com CNAME .
 kaurieseluxate.com CNAME .
+kautefaunenit.net CNAME .
 kb.display.ad.daum.net CNAME .
 kcaapxanwv.com CNAME .
 kcgkiumubea.com CNAME .
@@ -10966,6 +10978,7 @@ msg.umengcloud.com CNAME .
 msga.cupid.iqiyi.com CNAME .
 msgapp.com CNAME .
 msgose.com CNAME .
+msincsayqmji.com CNAME .
 msn.serving-sys.com CNAME .
 mstorer.net CNAME .
 mstr.sharethrough.com CNAME .
@@ -13103,6 +13116,7 @@ qwykgrylxyl.com CNAME .
 qxadsk.com CNAME .
 qzeavzrfaoqn.com CNAME .
 qzs.gdtimg.com CNAME .
+qzyztuwulo.com CNAME .
 r-ad.ne.jp CNAME .
 r-eu.tsyndicate.com CNAME .
 r-log.dable.io CNAME .
@@ -14642,6 +14656,7 @@ snebbubbled.com CNAME .
 snigelweb.com CNAME .
 snippets-codes.creativecdn.com CNAME .
 snippets-fallback.creativecdn.com CNAME .
+snitzsauteur.shop CNAME .
 snnd.co CNAME .
 snoobi.com CNAME .
 snoopytool.outbrain.com CNAME .
