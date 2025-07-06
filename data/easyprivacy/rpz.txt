@@ -11676,6 +11676,7 @@ ecn-analytics-nssl.emc.com CNAME .
 ecn-analytics.emc.com CNAME .
 ecn-ldr.de CNAME .
 ecomm.events CNAME .
+ecommerce-events.adscale.com CNAME .
 ecommstats.s3.amazonaws.com CNAME .
 econnect.actonservice.com CNAME .
 economicadvantage.midamerican.com CNAME .
@@ -13737,6 +13738,7 @@ generalprose.com CNAME .
 generateoffice.com CNAME .
 genesis.malwarebytes.com CNAME .
 gentian-frd.hjapi.com CNAME .
+geo.bdg.com CNAME .
 geo.brobible.com CNAME .
 geo.emol.cl CNAME .
 geo.ertya.com CNAME .
@@ -19082,6 +19084,7 @@ logs.51cto.com CNAME .
 logs.adplay.ru CNAME .
 logs.animaapp.com CNAME .
 logs.chatboost-cv.algoage.co.jp CNAME .
+logs.dynamicauth.com CNAME .
 logs.hotstar.com CNAME .
 logs.mezmo.com CNAME .
 logs.naukri.com CNAME .
@@ -33908,6 +33911,7 @@ stats.vdsnow.ru CNAME .
 stats.vican.me CNAME .
 stats.vidbinge.com CNAME .
 stats.viddler.com CNAME .
+stats.videasy.net CNAME .
 stats.vidyome.com CNAME .
 stats.visions.ch CNAME .
 stats.vk-portal.net CNAME .
