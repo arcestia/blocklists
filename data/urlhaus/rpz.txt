@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 123.ywxww.net CNAME .
+1337smvids.xyz CNAME .
 1717.1000uc.com CNAME .
 24x7support.top CNAME .
 29sbt.ru CNAME .
@@ -117,10 +118,8 @@ demo.gtropy.com CNAME .
 demo.markazcity.in CNAME .
 demo.safelinegc.com CNAME .
 demo2.amcham-ci.org CNAME .
-demo2.clouddnp.com CNAME .
 demo22.zumm.info CNAME .
 demokratieinbergen.de CNAME .
-denniswatsoncelebrationoflife.com CNAME .
 dentemaxdental.com.au CNAME .
 deporadictos.com CNAME .
 derrickvelasquez.com CNAME .
@@ -456,7 +455,7 @@ xmmvrf.com CNAME .
 xn--yh4bx88a.com CNAME .
 ygim.or.id CNAME .
 yongtai.cn CNAME .
-yorja.org CNAME .
+yosa.com CNAME .
 you-ca.com CNAME .
 younglovemommy.com CNAME .
 youraffiliatesecret.com CNAME .
