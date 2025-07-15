@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 0022a601.pphost.net CNAME .
+1.izumisv1.cc CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 24x7support.top CNAME .
@@ -514,6 +515,7 @@ yoyely.nl CNAME .
 yuliyayantsevich.by CNAME .
 yumeenterprises.com CNAME .
 yumeimise.net CNAME .
+yummy-station.com CNAME .
 yzkzixun.com CNAME .
 z-sercem.pl CNAME .
 zacto.cl CNAME .
