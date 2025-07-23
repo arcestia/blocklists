@@ -2508,7 +2508,6 @@ ad-scope.com CNAME .
 ad-scope.com.cn CNAME .
 ad-score.com CNAME .
 ad-sdk-config.youdao.com CNAME .
-ad-sdk.huxiu.com CNAME .
 ad-seek.jp CNAME .
 ad-serve.b-cdn.net CNAME .
 ad-server.co.za CNAME .
@@ -3644,7 +3643,6 @@ ads.motosiklet.net CNAME .
 ads.msn.com CNAME .
 ads.multimania.lycos.fr CNAME .
 ads.museum.or.jp CNAME .
-ads.music.126.net CNAME .
 ads.networksolutions.com CNAME .
 ads.newgrounds.com CNAME .
 ads.newmedia.cz CNAME .
@@ -25514,7 +25512,6 @@ millsurfaces.com CNAME .
 milordearnful.digital CNAME .
 miltlametta.com CNAME .
 miluwo.com CNAME .
-mime.baidu.com CNAME .
 mimekitab.shop CNAME .
 mimerestates.top CNAME .
 mimicbeeralb.com CNAME .
@@ -26427,7 +26424,6 @@ n0gge40o.de CNAME .
 n0ocxl4w5g.top CNAME .
 n0usvkb1x.com CNAME .
 n0v1cdn.com CNAME .
-n10.xyz CNAME .
 n1307adserv.xyz CNAME .
 n152adserv.com CNAME .
 n1g459ky7y.com CNAME .
@@ -27203,7 +27199,6 @@ nsfsfn.xyz CNAME .
 nsfwadds.com CNAME .
 nsis.bisrv.com CNAME .
 nskyfqigltino.space CNAME .
-nsmedia-advertising.com CNAME .
 nsmpydfe.net CNAME .
 nspmotion.com CNAME .
 nspot.co CNAME .
@@ -30320,6 +30315,7 @@ promote.pair.com CNAME .
 promoted.sndcdn.com CNAME .
 promoted.soundcloud.com CNAME .
 promotion-en.xmeye.net CNAME .
+promotion-partner.kuaishou.com CNAME .
 promotion-quicker.jftechsoft.com CNAME .
 promotion.haravan.com CNAME .
 promotion.polarisoffice.com CNAME .
@@ -37559,13 +37555,21 @@ tmvirr.icu CNAME .
 tnaczwecikco.online CNAME .
 tnc-boot.capcutapi.com CNAME .
 tnc-sg.capcutapi.com CNAME .
+tnc0-aliec2.zijieapi.com CNAME .
+tnc0-alisc1.zijieapi.com CNAME .
+tnc0-bjlgy.zijieapi.com CNAME .
 tnc16-alisg.isnssdk.com CNAME .
 tnc16-useast1a.isnssdk.com CNAME .
 tnc3-aliec2.bytedance.com CNAME .
+tnc3-aliec2.snssdk.com CNAME .
 tnc3-aliec2.toutiaoapi.com CNAME .
+tnc3-aliec2.zijieapi.com CNAME .
 tnc3-alisc1.bytedance.com CNAME .
+tnc3-alisc1.snssdk.com CNAME .
+tnc3-alisc1.toutiaoapi.com CNAME .
 tnc3-alisc1.zijieapi.com CNAME .
 tnc3-bjlgy.bytedance.com CNAME .
+tnc3-bjlgy.snssdk.com CNAME .
 tnc3-bjlgy.toutiaoapi.com CNAME .
 tnc3-bjlgy.zijieapi.com CNAME .
 tneca.com CNAME .

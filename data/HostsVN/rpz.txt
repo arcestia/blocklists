@@ -500,6 +500,7 @@ ad.chieuhoa.com CNAME .
 ad.cl.doubleclick.net CNAME .
 ad.cn.doubleclick.net CNAME .
 ad.cooks.com CNAME .
+ad.cpcstar.com CNAME .
 ad.crwdcntrl.net CNAME .
 ad.daum.net CNAME .
 ad.dev.360.cn CNAME .
@@ -793,6 +794,8 @@ adflex.asia CNAME .
 adflex.vn CNAME .
 adflight.com CNAME .
 adfly.vn CNAME .
+adflyer.media CNAME .
+adflyer.xml.ak-is2.net CNAME .
 adfonic.net CNAME .
 adforcast.com CNAME .
 adforce.com CNAME .
@@ -5652,6 +5655,7 @@ collector.megaxh.com CNAME .
 collector.pi.spectrum.net CNAME .
 collector.scopely.io CNAME .
 collector.sphgfgx.com CNAME .
+collector.superwall.me CNAME .
 collector.unsplash.com CNAME .
 collector.xhamster.com CNAME .
 collegeprowler.adblade.com CNAME .
@@ -6781,6 +6785,7 @@ dp2.33across.com CNAME .
 dp2.specificclick.net CNAME .
 dpm.demdex.net CNAME .
 dpmsrv.com CNAME .
+dpuplet.net CNAME .
 dpyabvkadg.com CNAME .
 dq.alcmpn.com CNAME .
 dq3yxnlzwhcys.cloudfront.net CNAME .
@@ -7565,11 +7570,13 @@ file.autoads.asia CNAME .
 file.novanet.vn CNAME .
 files.bidtellect.com CNAME .
 filgzukroj.com CNAME .
+filter.acertb.com CNAME .
 filter.adservme.com CNAME .
 filter.explorads.com CNAME .
 filter.ezmob.com CNAME .
 filter.revenuehits.com CNAME .
 filter.revrtb.com CNAME .
+filter.rtxfeed.com CNAME .
 fimserve.com CNAME .
 finahkcrevuv.com CNAME .
 finance.cityads.com CNAME .
@@ -9241,6 +9248,7 @@ isobeldrug.com CNAME .
 isolatedovercomepasted.com CNAME .
 ispot.tv CNAME .
 istipaumophy.com CNAME .
+iswashiscourtsh.com CNAME .
 it.gmads.mookie1.com CNAME .
 it.indexexchange.com CNAME .
 it.themoneytizer.com CNAME .
@@ -10261,6 +10269,7 @@ lucky1.marketo.com CNAME .
 luckyorange.com CNAME .
 luckyorange.net CNAME .
 lucrinearraign.com CNAME .
+lufdzaqcoadm.com CNAME .
 lugtzejkowhi.com CNAME .
 luloffer.com CNAME .
 luminati.io CNAME .
@@ -10512,6 +10521,7 @@ mb.logging.admicro.vn CNAME .
 mb.moatads.com CNAME .
 mb.taboola.com CNAME .
 mb9eo.publishers.tremorhub.com CNAME .
+mbddip.com CNAME .
 mbe-cdn.fyber.com CNAME .
 mbid.marfeelrev.com CNAME .
 mblapi.ssl2.duapps.com CNAME .
@@ -12159,6 +12169,7 @@ petametrics.com CNAME .
 petasusawber.com CNAME .
 petchesa.net CNAME .
 petiteumbrella.com CNAME .
+peuru.com CNAME .
 pfewuzbtkr.com CNAME .
 pfox.chartbeat.net CNAME .
 pg.alcmpn.com CNAME .
@@ -13095,6 +13106,7 @@ qrlsx.com CNAME .
 qrodufobzbav.com CNAME .
 qruqon.com CNAME .
 qs.ioam.de CNAME .
+qs251.com CNAME .
 qsearch.media.net CNAME .
 qtoeofqazggu.com CNAME .
 qtpwgglrohgp.com CNAME .
@@ -13533,6 +13545,7 @@ revsci.net CNAME .
 revstats.com CNAME .
 rewarded-video.fyber.com CNAME .
 rewarded.winadx.com CNAME .
+reyeshehadtwobri.com CNAME .
 rezync.com CNAME .
 rfihub.com CNAME .
 rfp.lkqd.net CNAME .
@@ -13789,6 +13802,8 @@ rts.mobula.sd.duapps.com CNAME .
 rts.mobula.sdk.duapps.com CNAME .
 rts.ssl2.duapps.com CNAME .
 rtx.alcmpn.com CNAME .
+rtxfeed.com CNAME .
+rtxfeed.xml.ak-is2.net CNAME .
 rtyznd.com CNAME .
 ru-geo.cityads.com CNAME .
 ru-gmtdmp.mookie1.com CNAME .
@@ -17439,6 +17454,7 @@ vtphp.andbeyond.media CNAME .
 vtrack.aniview.com CNAME .
 vtracy.de CNAME .
 vtrk.doubleverify.com CNAME .
+vtvldhbbdilepes.com CNAME .
 vu.adschoom.com CNAME .
 vu.moatads.com CNAME .
 vudachisouxouk.net CNAME .
@@ -17502,6 +17518,7 @@ waudist.tynt.com CNAME .
 waufooke.com CNAME .
 waust.at CNAME .
 wauthaik.net CNAME .
+wawhoufteedaksu.com CNAME .
 waxa-direct.info CNAME .
 waymarkgentiin.com CNAME .
 wbidder.online CNAME .
@@ -18571,6 +18588,8 @@ xml-eu-v4.pops.gg CNAME .
 xml-g.adservme.com CNAME .
 xml-v4.pops.gg CNAME .
 xml.accesstrade.net CNAME .
+xml.acertb.com CNAME .
+xml.adflyer.media CNAME .
 xml.admidainsight.com CNAME .
 xml.admozartxml.com CNAME .
 xml.adpicmedia.net CNAME .
@@ -18590,6 +18609,7 @@ xml.revenuehits.com CNAME .
 xml.revrtb.com CNAME .
 xml.revrtb.net CNAME .
 xml.rklmstr.com CNAME .
+xml.rtxfeed.com CNAME .
 xml.showcasethat.com CNAME .
 xml.zeusadx.com CNAME .
 xml2.rklmstr.com CNAME .
