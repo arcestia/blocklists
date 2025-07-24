@@ -5,7 +5,6 @@
         IN      NS      localhost.
 ; domain list below
 0022a601.pphost.net CNAME .
-1.izumisv1.cc CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 64thservice.life CNAME .
@@ -17,14 +16,12 @@ acc.wtshelp.top CNAME .
 accesspoint.cc CNAME .
 acms.saleseos.com CNAME .
 admin.byte.in.ua CNAME .
-admin.gestroom.it CNAME .
 advansys.com.ar CNAME .
 advustech.com CNAME .
 agapi.cqjjb.cn CNAME .
 akacostanyaszarvas.hu CNAME .
 alarmline.com.br CNAME .
 alien-training.com CNAME .
-alina-quintana.com CNAME .
 allendostmen.com CNAME .
 allister.ee CNAME .
 allstarstriping.com CNAME .
@@ -51,7 +48,6 @@ bon.organzoperate.com CNAME .
 book.rollingvideogames.com CNAME .
 bot.chanbaba.online CNAME .
 bot.hiddenlists.net CNAME .
-boxwoodrenovations.com CNAME .
 bridgeroad.maverickpreviews.com CNAME .
 brightworks.cz CNAME .
 buscascolegios.diit.cl CNAME .
@@ -68,6 +64,7 @@ cerni-mix-01174839212-snort-20.resourcemaster.net CNAME .
 chaparral.es CNAME .
 chat-server.maverickpreviews.com CNAME .
 checkinetverifk.com CNAME .
+chinaapper.com CNAME .
 chinesegarden.com.tr CNAME .
 chiptune.com CNAME .
 city.organzoperate.com CNAME .
@@ -95,6 +92,7 @@ davaorealproperty.com CNAME .
 daviddarle.fr CNAME .
 dcrun.co.uk CNAME .
 dcwblida.dz CNAME .
+detail-booking.com.br CNAME .
 device.redirec.com CNAME .
 dezcom.com CNAME .
 dezino.ir CNAME .
@@ -155,8 +153,8 @@ graceparkhawthornclub.com CNAME .
 hasalltalent.com CNAME .
 hbws.cc CNAME .
 headtechnologies.xyz CNAME .
-hitman-pro.ru CNAME .
 hitstation.nl CNAME .
+hobobot.net CNAME .
 hogarsancamilo.org CNAME .
 hollywoodcafeonmain.com CNAME .
 home.organzoperate.com CNAME .
@@ -199,7 +197,6 @@ maidforyou1985.com CNAME .
 main.dsn.ovh CNAME .
 masgrave.com CNAME .
 mdm.net.id CNAME .
-me3.ne.jp CNAME .
 medthermography.com CNAME .
 mercut.ro CNAME .
 michellegraci.com CNAME .
@@ -208,6 +205,8 @@ mogimall.com CNAME .
 moonloaderupdate.ru CNAME .
 moruk.xyz CNAME .
 mundocarnes.cl CNAME .
+muzzumilruheel.com CNAME .
+mybrainscanner.com CNAME .
 mynode.olb-portals.net.tr CNAME .
 namthaibinh.net CNAME .
 ncxps.com CNAME .
@@ -227,8 +226,11 @@ onenightlife.com CNAME .
 onfiltre.com.tr CNAME .
 onlinehotvideos.com CNAME .
 onlinetanecni.cz CNAME .
+onyxaquarius.de CNAME .
 onyxarmorcrypt.de CNAME .
+onyxcryptorix.de CNAME .
 onyxcyberapex.de CNAME .
+onyxfortifypro.de CNAME .
 onyxfortitech.de CNAME .
 onyxguardify.de CNAME .
 onyxguardshift.de CNAME .
@@ -312,6 +314,7 @@ stioman.com CNAME .
 suakhoaketsattphcm.com CNAME .
 support.clz.kr CNAME .
 support.viewpoint.fr CNAME .
+taka.com.mx CNAME .
 tanscarattorneys.co.tz CNAME .
 tapestryoftruth.com CNAME .
 tcgroup.com.au CNAME .
@@ -369,7 +372,6 @@ www.institut-corps-a-ligne.fr CNAME .
 www.jfbd.com CNAME .
 www.js-hurling.com CNAME .
 www.khavar.com CNAME .
-www.konsor.ru CNAME .
 www.maxmoney.com CNAME .
 www.medises.co.kr CNAME .
 www.modernitgen.com CNAME .
@@ -386,6 +388,7 @@ www.salonmarketing.ca CNAME .
 www.silver-hubdachwohnwagen.de CNAME .
 www.ss-01.com CNAME .
 www.starcountry.net CNAME .
+www.support-data.com CNAME .
 www.surethinks.com CNAME .
 www.tdejb.com CNAME .
 www.techgeeks.org CNAME .
@@ -409,4 +412,5 @@ ximonite.com CNAME .
 xn--yh4bx88a.com CNAME .
 xnhauvietnam.vietnamddns.com CNAME .
 yongtai.cn CNAME .
+yzkzixun.com CNAME .
 zenglobalenerji.com CNAME .
