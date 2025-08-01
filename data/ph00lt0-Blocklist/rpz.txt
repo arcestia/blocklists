@@ -1363,6 +1363,7 @@ accorhotels.com CNAME .
 accorhotels.ws CNAME .
 account.squadata.net CNAME .
 account.talkingdata.com CNAME .
+accountable2you.com CNAME .
 accountinsight.cloud CNAME .
 accounts.tnet.nl CNAME .
 accurateshooter.net CNAME .
@@ -3033,6 +3034,7 @@ analytics-xpress.jabra.com CNAME .
 analytics.0xecho.com CNAME .
 analytics.126.net CNAME .
 analytics.163.com CNAME .
+analytics.300624.com CNAME .
 analytics.a-f.io CNAME .
 analytics.adjust.world CNAME .
 analytics.agoda.com CNAME .
@@ -3621,6 +3623,7 @@ applemediaservices.com CNAME .
 applets.ebxcdn.com CNAME .
 application.com CNAME .
 applicationinsights.azure.com CNAME .
+applicationinsights.io CNAME .
 applies.goldenbees.fr CNAME .
 applifier.com CNAME .
 applift.com CNAME .
@@ -9307,6 +9310,8 @@ fakespot.com CNAME .
 faktor.mk CNAME .
 falundata.com CNAME .
 falundata.org CNAME .
+family.microsoft.com CNAME .
+familyorbit.com CNAME .
 familysafetyproduction.com CNAME .
 familysearch.org CNAME .
 familytreedna.com CNAME .
@@ -9475,6 +9480,7 @@ findicons.com CNAME .
 finding.hardwareheaven.com CNAME .
 findingsale.nl CNAME .
 findingsgallery.co.uk CNAME .
+findmykids.app CNAME .
 findmykids.org CNAME .
 findnsave.idahostatesman.com CNAME .
 findresources4me.com CNAME .
@@ -10035,6 +10041,7 @@ geotargetly.com CNAME .
 geotrust.com CNAME .
 geover-prod.do.dsp.mp.microsoft.com CNAME .
 geover.prod.do.dsp.mp.microsoft.com CNAME .
+geozilla.com CNAME .
 gepush.com CNAME .
 germany-on.ru.com CNAME .
 gerstobes.cc CNAME .
@@ -11810,6 +11817,7 @@ ips.gov.py CNAME .
 ipsllc-usa.info CNAME .
 ipsos-nederland.nl CNAME .
 ipsos-online.com CNAME .
+ipsos-reporting.com CNAME .
 ipsos.com CNAME .
 ipsos.nl CNAME .
 ipsos.pl CNAME .
@@ -12244,6 +12252,7 @@ kbowebbncb.com CNAME .
 kcmsurvey.com CNAME .
 kcmsurvey.eu CNAME .
 kdl.keywee.co CNAME .
+kdlparentalcontrol.com CNAME .
 keap-link006.com CNAME .
 keap.com CNAME .
 keen.io CNAME .
@@ -12294,8 +12303,13 @@ kickfire.com CNAME .
 kickmobiles.com CNAME .
 kickofflabs.com CNAME .
 kicnse.com CNAME .
+kid-control.com CNAME .
+kid-control.ru CNAME .
+kiddoware.com CNAME .
+kidgy.com CNAME .
 kidoz.net CNAME .
 kidsenjongeren.nl CNAME .
+kidslox.com CNAME .
 kieskeurig.nl CNAME .
 kieskompas.nl CNAME .
 kiip.me CNAME .
@@ -12912,6 +12926,7 @@ locationsciencesgroup.ai CNAME .
 locdrop.query.yahoo.com CNAME .
 locize.app CNAME .
 locize.io CNAME .
+lockittight.com CNAME .
 locuslabs.com CNAME .
 loewen-play.de CNAME .
 loffertadeldia.it CNAME .
@@ -13669,6 +13684,7 @@ metomic.io CNAME .
 metric.gstatic.com CNAME .
 metrica.yandex.net CNAME .
 metricool.com CNAME .
+metrics-collector.cloudability.com CNAME .
 metrics-dra.dt.hicloud.com CNAME .
 metrics-drcn.dt.hicloud.com CNAME .
 metrics.agent.datadoghq.com CNAME .
@@ -13877,6 +13893,7 @@ mm.tencent.com CNAME .
 mmcc.yxlady.com CNAME .
 mmcdn.nl CNAME .
 mmg.zone CNAME .
+mmguardian.com CNAME .
 mmqs10.top CNAME .
 mmstat.com CNAME .
 mnd-track-backend.herokuapp.com CNAME .
@@ -13940,6 +13957,7 @@ mobilebet.de CNAME .
 mobileconfig.sascdn.com CNAME .
 mobiledissector.com CNAME .
 mobilee.com CNAME .
+mobilefence.com CNAME .
 mobilefuse.com CNAME .
 mobileleaves.com CNAME .
 mobilelog.kugou.com CNAME .
@@ -14371,6 +14389,7 @@ netent.com CNAME .
 netflix-service.com CNAME .
 netko0o.com CNAME .
 netlify.apollo.io CNAME .
+netnanny.com CNAME .
 netperform-is.vodafone.com.tr CNAME .
 netpoint-media.de CNAME .
 netprocesse.com CNAME .
@@ -15063,6 +15082,7 @@ origin-nvidia.ru CNAME .
 origin-nvidia.tw CNAME .
 original-slots.de CNAME .
 original-wetten.de CNAME .
+orjq.net CNAME .
 orthofyto.com CNAME .
 orthohealthfoundation.nl CNAME .
 orthokennis.nl CNAME .
@@ -15913,6 +15933,7 @@ pro.iweihai.cn CNAME .
 pro.letv.com CNAME .
 probe.me.apple-dns.net CNAME .
 probes.cedexis.com CNAME .
+probit.com CNAME .
 proctor.io CNAME .
 proctor360.com CNAME .
 proctoredu.com CNAME .
@@ -16334,6 +16355,7 @@ quota-reader.net CNAME .
 quote.51.la CNAME .
 quoteslabs.net CNAME .
 quotientapp.com CNAME .
+qustodio.com CNAME .
 quw18.com CNAME .
 quyaoya.com CNAME .
 qvidian.com CNAME .
@@ -17102,6 +17124,7 @@ safeframe.googlesyndication.com CNAME .
 safegraph.com CNAME .
 safejournal.dk CNAME .
 safelinks.protection.outlook.com CNAME .
+safenet.family CNAME .
 safeopt.com CNAME .
 saferwet.com CNAME .
 safetracing.infomaniak.com CNAME .
@@ -17246,6 +17269,7 @@ screencloud-apps-production.herokuapp.com CNAME .
 screencloud.auth0.com CNAME .
 screenondemand.de CNAME .
 screenrant.com CNAME .
+screentimelabs.com CNAME .
 screpy.com CNAME .
 scribe.twitter.com CNAME .
 scribit.pro CNAME .
@@ -17427,6 +17451,7 @@ seebug.org CNAME .
 seeding-alliance.de CNAME .
 seedtag.com CNAME .
 seeger-seeger.li CNAME .
+seekdroid.com CNAME .
 seen.hgo7r.cn CNAME .
 seenthis.co CNAME .
 seersco.com CNAME .
@@ -17916,6 +17941,7 @@ snapmobileasia.net CNAME .
 snapppt.com CNAME .
 snapwidget.com CNAME .
 snarf.evebox.org CNAME .
+sng.link CNAME .
 sni.ssl-20minutes.fr.c.footprint.net CNAME .
 snigel.com CNAME .
 snigelweb.com CNAME .
@@ -18525,6 +18551,7 @@ stats.gridsuite.net CNAME .
 stats.hbbtv.smartclip.net CNAME .
 stats.hey.com CNAME .
 stats.hosting24.com CNAME .
+stats.ideanote.io CNAME .
 stats.ilumy.com CNAME .
 stats.ipinyou.com CNAME .
 stats.it53.nl CNAME .
@@ -19689,6 +19716,7 @@ truenorth.io CNAME .
 truepublish.de CNAME .
 truepush.com CNAME .
 truewebtechnolabs.com CNAME .
+truple.io CNAME .
 trust-provider.com CNAME .
 trust.zone CNAME .
 trust23wallet.art CNAME .
@@ -20084,6 +20112,7 @@ use.typekit.net CNAME .
 useadify.com CNAME .
 useamp.com CNAME .
 useblackbox.io CNAME .
+useboomerang.com CNAME .
 usebroca.com CNAME .
 usebutton.com CNAME .
 usecag.apm.whirlpool.com CNAME .
@@ -20123,6 +20152,7 @@ usertrack.net CNAME .
 userway.org CNAME .
 userzoom.com CNAME .
 ushaqi.com CNAME .
+usibtheteam.com CNAME .
 usingde.com CNAME .
 usr.navdmp.com CNAME .
 uss-pid.lenovomm.com CNAME .
@@ -20815,6 +20845,7 @@ wiredplus.com CNAME .
 wirelessdevicestats.googleapis.com CNAME .
 wiremo.co CNAME .
 wirtualn-d.openx.net CNAME .
+wisemo.com CNAME .
 wisepops.com CNAME .
 wisepops.net CNAME .
 wisepush.video.baidu.com CNAME .
@@ -21426,6 +21457,7 @@ znnan-morganstanleydigital.siteintercept.qualtrics.com CNAME .
 znsv.baidu.cn CNAME .
 znsv.baidu.com CNAME .
 zo66.com CNAME .
+zoemob.com CNAME .
 zog.link CNAME .
 zohocampaigns.com CNAME .
 zohoinsights1.eu CNAME .
