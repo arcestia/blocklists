@@ -5,7 +5,6 @@
         IN      NS      localhost.
 ; domain list below
 101com.com CNAME .
-180hits.de CNAME .
 180searchassistant.com CNAME .
 1rx.io CNAME .
 2020mustang.com CNAME .
@@ -609,7 +608,6 @@ ads.yumenetworks.com CNAME .
 ads1-adnow.com CNAME .
 ads1.mediacapital.pt CNAME .
 ads1.msn.com CNAME .
-ads1.rne.com CNAME .
 ads1.virtual-nights.com CNAME .
 ads10.speedbit.com CNAME .
 ads180.com CNAME .
@@ -618,7 +616,6 @@ ads2.contentabc.com CNAME .
 ads2.femmefab.nl CNAME .
 ads2.gamecity.net CNAME .
 ads2.hsoub.com CNAME .
-ads2.rne.com CNAME .
 ads2.virtual-nights.com CNAME .
 ads2.webdrive.no CNAME .
 ads2.xnet.cz CNAME .
@@ -1431,7 +1428,6 @@ dacdn.vwo.com CNAME .
 dakic-ia-300.com CNAME .
 damageddistance.com CNAME .
 damdoor.com CNAME .
-dancemistake.com CNAME .
 dapper.net CNAME .
 data.namesakeoscilloscopemarquis.com CNAME .
 datenow.link CNAME .
@@ -1442,7 +1438,6 @@ decenterads.com CNAME .
 decisivebase.com CNAME .
 decisivedrawer.com CNAME .
 decknetwork.net CNAME .
-decoycreation.com CNAME .
 deepintent.com CNAME .
 delicatecascade.com CNAME .
 deloo.de CNAME .
@@ -3266,6 +3261,7 @@ ventivmedia.com CNAME .
 venturead.com CNAME .
 vericlick.com CNAME .
 vertamedia.com CNAME .
+verticalmass.com CNAME .
 vervewireless.com CNAME .
 vgnp3trk.com CNAME .
 vibrantsundown.com CNAME .
