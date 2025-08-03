@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 0-0.fr CNAME .
+007agent-i.fr CNAME .
 01casino-x.ru CNAME .
 033nachtvandeliteratuur.nl CNAME .
 03e.info CNAME .
@@ -235,6 +236,7 @@ ayongoods.xyz CNAME .
 azartclub.org CNAME .
 azbukafree.com CNAME .
 azlex.uz CNAME .
+baciakte.online CNAME .
 backlinks-fast-top.com CNAME .
 bahisgunceladresi.com CNAME .
 baixar-musicas-gratis.com CNAME .
@@ -689,6 +691,7 @@ empire-market.xyz CNAME .
 empiremarket-link.org CNAME .
 empiremarketlink24.com CNAME .
 empirestuff.org CNAME .
+encmbtia.online CNAME .
 energomash.net CNAME .
 energysexy.com CNAME .
 englishtopic.ru CNAME .
