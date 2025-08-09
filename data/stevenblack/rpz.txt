@@ -305,6 +305,7 @@ ads.feedly.com CNAME .
 ads.heytapmobi.com CNAME .
 ads.heytapmobile.com CNAME .
 ads.oppomobile.com CNAME .
+ads.playstream.media CNAME .
 ads.proc.cc CNAME .
 ads.samsungads.com CNAME .
 ads.servenobid.com CNAME .
@@ -716,6 +717,7 @@ cdn.liftoff.io CNAME .
 cdn.mirror-codes.net CNAME .
 cdn.moengage.com CNAME .
 cdn.mxpnl.com CNAME .
+cdn.playstream.media CNAME .
 cdn.prod.uidapi.com CNAME .
 cdn.purpleads.io CNAME .
 cdn.rates.consumertrack.com CNAME .
@@ -1703,6 +1705,7 @@ privatproxy-schnellvpn.xyz CNAME .
 prod.adjoe-programmatic.com CNAME .
 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev CNAME .
 prod.zenkube.com CNAME .
+prodcdn.playstream.media CNAME .
 prodealscenter.com CNAME .
 product-cdn.liftoff-creatives.io CNAME .
 products.gobankingrates.com CNAME .
@@ -1711,6 +1714,7 @@ prombid.com CNAME .
 promo.buzzclicks.com CNAME .
 prov.alphonso.tv CNAME .
 proxy.alphonso.tv CNAME .
+pscontent.playstream.media CNAME .
 psozyhotho.pro CNAME .
 psserviceonline.com CNAME .
 pub.axiatraders.com CNAME .
