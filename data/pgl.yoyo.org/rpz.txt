@@ -921,6 +921,7 @@ api.iterable.com CNAME .
 api.kameleoon.com CNAME .
 api.lab.amplitude.com CNAME .
 api.rudderlabs.com CNAME .
+api.swetrix.com CNAME .
 api2.amplitude.com CNAME .
 apolloprogram.io CNAME .
 app-analytics-v2.snapchat.com CNAME .
@@ -2967,7 +2968,6 @@ surveygizmobeacon.s3.amazonaws.com CNAME .
 sw88.espn.com CNAME .
 swan-swan-goose.com CNAME .
 swankysquare.com CNAME .
-swetrix.com CNAME .
 swingslip.com CNAME .
 swordgoose.com CNAME .
 synonymoussticks.com CNAME .
