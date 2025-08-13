@@ -5,9 +5,11 @@
         IN      NS      localhost.
 ; domain list below
 0022a601.pphost.net CNAME .
+1-x0puwht74wwurxbd.izumisv1.cc CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 2-7smhsud1cgid1ti7.izumisv1.cc CNAME .
+20cn.net CNAME .
 24x7support.top CNAME .
 4-foiqag7r50tqmfjf.izumisv1.cc CNAME .
 52mj.susuwei.cn CNAME .
@@ -38,6 +40,7 @@ assuredfix.com CNAME .
 aulist.com CNAME .
 autoiwc.ru CNAME .
 axhelp.top CNAME .
+backupso.com CNAME .
 bestieslos.com CNAME .
 bialball.com CNAME .
 blaiz.me CNAME .
@@ -177,7 +180,6 @@ jyothishmathi.in CNAME .
 karoonpc.com CNAME .
 kavacanada.ca CNAME .
 klar.gg CNAME .
-konsor.ru CNAME .
 kramersmarionnettes.com CNAME .
 kriez.work CNAME .
 krishnaplastpack.com CNAME .
@@ -250,6 +252,7 @@ patch.cdn.topgame.kr CNAME .
 pay.aqiu6.com CNAME .
 phpmyadmin.hebergement.ml-shop-fr.com CNAME .
 pid.fly160.com CNAME .
+pravprihod.ru CNAME .
 prloglink.prsa7.top CNAME .
 public.demo.securecloudsandbox.com CNAME .
 pve.rebirthltd.com CNAME .
@@ -364,6 +367,7 @@ www.ingonherbal.com CNAME .
 www.institut-corps-a-ligne.fr CNAME .
 www.js-hurling.com CNAME .
 www.konsor.ru CNAME .
+www.lockoutindia.com CNAME .
 www.luuk-lifestyle.eu CNAME .
 www.medises.co.kr CNAME .
 www.modernitgen.com CNAME .
