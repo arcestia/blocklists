@@ -6926,6 +6926,7 @@ cop.my CNAME .
 copart.com CNAME .
 copernica.nl CNAME .
 copilot-telemetry-service.githubusercontent.com CNAME .
+copilot-telemetry.githubusercontent.com CNAME .
 copy.ai CNAME .
 coral.co.uk CNAME .
 coral.heute.at CNAME .
@@ -9015,6 +9016,7 @@ ermes.ai CNAME .
 ernxdgt.com CNAME .
 eroterest.net CNAME .
 erpafends.shop CNAME .
+error-analytics-sessions-production.shopifysvc.com CNAME .
 errors.figma.com CNAME .
 errors.serverius.net CNAME .
 errors.stripe.com CNAME .
@@ -9934,6 +9936,7 @@ gateway-sop.fpt.vn CNAME .
 gateway.answerscloud.com CNAME .
 gateway.foresee.com CNAME .
 gateway.fortunelounge.com CNAME .
+gateway.hobbii.com CNAME .
 gateways.s3.amazonaws.com CNAME .
 gatorleads.co.uk CNAME .
 gaua.hit.gemius.pl CNAME .
@@ -10215,6 +10218,7 @@ global.ccs.amazonaws.com CNAME .
 global.com CNAME .
 global.edge.bamgrid.com CNAME .
 global.ketchcdn.com CNAME .
+global.livediagnostics.monitor.azure.com CNAME .
 global.localizecdn.com CNAME .
 global.msads.net CNAME .
 global.prod.pw.analytics.console.aws.a2z.com CNAME .
@@ -11697,6 +11701,7 @@ integralads.com CNAME .
 integrate.io CNAME .
 integrations.etrusted.com CNAME .
 integrations.fitanalytics.com CNAME .
+integrations.gitbook.com CNAME .
 integry.io CNAME .
 intel.morningstar.co.uk CNAME .
 intellexa.com CNAME .
@@ -12318,6 +12323,8 @@ kiirkasiinod.net CNAME .
 kikaloterij.nl CNAME .
 kimberlite.io CNAME .
 kinderattraktie.nl CNAME .
+kindly.ai CNAME .
+kindlycdn.com CNAME .
 kindredgroup.com CNAME .
 kinesis.eu-west-1.amazonaws.com CNAME .
 kinetic6.co.ke CNAME .
@@ -13703,6 +13710,7 @@ metrics.ionos.co.uk CNAME .
 metrics.ionos.com CNAME .
 metrics.ionos.fr CNAME .
 metrics.ionos.it CNAME .
+metrics.kapa.ai CNAME .
 metrics.kmsmep.com CNAME .
 metrics.mozilla.com CNAME .
 metrics.mysynchrony.com CNAME .
@@ -17688,7 +17696,6 @@ sho.ai CNAME .
 shop-adtm-assets.shpp.ext.zooplus.io CNAME .
 shop-links.co CNAME .
 shop.admin.yinyuetai.com CNAME .
-shop.app CNAME .
 shop.pe CNAME .
 shop.yinyuetai.com CNAME .
 shop265.com CNAME .
@@ -19151,6 +19158,7 @@ telemetry.cell-0.sa-east-1.prod.tangerinebox.console.aws.a2z.com CNAME .
 telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com CNAME .
 telemetry.cell-0.us-west-2.prod.tangerinebox.console.aws.a2z.com CNAME .
 telemetry.docusign.net CNAME .
+telemetry.individual.githubcopilot.com CNAME .
 telemetry.jivosite.com CNAME .
 telemetry.microsoft.com CNAME .
 telemetry.microsoft.com.nsatc.net CNAME .
@@ -19347,6 +19355,7 @@ time2play.com CNAME .
 timeboxter.store CNAME .
 timeshares.best CNAME .
 timetravelpromotion.com CNAME .
+timplicity.com CNAME .
 timvanvlierden.nl CNAME .
 tindersparks.com CNAME .
 tinosmarble.com CNAME .
@@ -19918,6 +19927,7 @@ udmserve.net CNAME .
 udrig.com CNAME .
 udrwyjpwjfeg.com CNAME .
 ue.yeyoucdn.com CNAME .
+ue1.adobe.io CNAME .
 ueadlian.com CNAME .
 uebawtz7.me CNAME .
 uerzyr.cn CNAME .
@@ -20091,6 +20101,7 @@ urs.zdnet.com CNAME .
 us-ads.openx.net CNAME .
 us-central1-adaptive-growth.cloudfunctions.net CNAME .
 us-central1-report-uri-openathens.cloudfunctions.net CNAME .
+us-central1-shopify-instrumentat-ff788286.cloudfunctions.net CNAME .
 us-central1-signal-data-science.cloudfunctions.net CNAME .
 us-u.openx.net CNAME .
 us.bannyat.com CNAME .
@@ -20766,6 +20777,7 @@ widget.fitanalytics.com CNAME .
 widget.getgist.com CNAME .
 widget.getyourguide.com CNAME .
 widget.intercom.io CNAME .
+widget.kapa.ai CNAME .
 widget.kelkoo.com CNAME .
 widget.kominfo.go.id CNAME .
 widget.manychat.com CNAME .

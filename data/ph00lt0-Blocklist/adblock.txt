@@ -6920,6 +6920,7 @@
 ||copart.com^
 ||copernica.nl^
 ||copilot-telemetry-service.githubusercontent.com^
+||copilot-telemetry.githubusercontent.com^
 ||copy.ai^
 ||coral.co.uk^
 ||coral.heute.at^
@@ -9009,6 +9010,7 @@
 ||ernxdgt.com^
 ||eroterest.net^
 ||erpafends.shop^
+||error-analytics-sessions-production.shopifysvc.com^
 ||errors.figma.com^
 ||errors.serverius.net^
 ||errors.stripe.com^
@@ -9928,6 +9930,7 @@
 ||gateway.answerscloud.com^
 ||gateway.foresee.com^
 ||gateway.fortunelounge.com^
+||gateway.hobbii.com^
 ||gateways.s3.amazonaws.com^
 ||gatorleads.co.uk^
 ||gaua.hit.gemius.pl^
@@ -10209,6 +10212,7 @@
 ||global.com^
 ||global.edge.bamgrid.com^
 ||global.ketchcdn.com^
+||global.livediagnostics.monitor.azure.com^
 ||global.localizecdn.com^
 ||global.msads.net^
 ||global.prod.pw.analytics.console.aws.a2z.com^
@@ -11691,6 +11695,7 @@
 ||integrate.io^
 ||integrations.etrusted.com^
 ||integrations.fitanalytics.com^
+||integrations.gitbook.com^
 ||integry.io^
 ||intel.morningstar.co.uk^
 ||intellexa.com^
@@ -12312,6 +12317,8 @@
 ||kikaloterij.nl^
 ||kimberlite.io^
 ||kinderattraktie.nl^
+||kindly.ai^
+||kindlycdn.com^
 ||kindredgroup.com^
 ||kinesis.eu-west-1.amazonaws.com^
 ||kinetic6.co.ke^
@@ -13697,6 +13704,7 @@
 ||metrics.ionos.com^
 ||metrics.ionos.fr^
 ||metrics.ionos.it^
+||metrics.kapa.ai^
 ||metrics.kmsmep.com^
 ||metrics.mozilla.com^
 ||metrics.mysynchrony.com^
@@ -17682,7 +17690,6 @@
 ||shop-adtm-assets.shpp.ext.zooplus.io^
 ||shop-links.co^
 ||shop.admin.yinyuetai.com^
-||shop.app^
 ||shop.pe^
 ||shop.yinyuetai.com^
 ||shop265.com^
@@ -19145,6 +19152,7 @@
 ||telemetry.cell-0.us-east-1.prod.tangerinebox.console.aws.a2z.com^
 ||telemetry.cell-0.us-west-2.prod.tangerinebox.console.aws.a2z.com^
 ||telemetry.docusign.net^
+||telemetry.individual.githubcopilot.com^
 ||telemetry.jivosite.com^
 ||telemetry.microsoft.com.nsatc.net^
 ||telemetry.microsoft.com^
@@ -19341,6 +19349,7 @@
 ||timeboxter.store^
 ||timeshares.best^
 ||timetravelpromotion.com^
+||timplicity.com^
 ||timvanvlierden.nl^
 ||tindersparks.com^
 ||tinosmarble.com^
@@ -19912,6 +19921,7 @@
 ||udrig.com^
 ||udrwyjpwjfeg.com^
 ||ue.yeyoucdn.com^
+||ue1.adobe.io^
 ||ueadlian.com^
 ||uebawtz7.me^
 ||uerzyr.cn^
@@ -20085,6 +20095,7 @@
 ||us-ads.openx.net^
 ||us-central1-adaptive-growth.cloudfunctions.net^
 ||us-central1-report-uri-openathens.cloudfunctions.net^
+||us-central1-shopify-instrumentat-ff788286.cloudfunctions.net^
 ||us-central1-signal-data-science.cloudfunctions.net^
 ||us-u.openx.net^
 ||us.bannyat.com^
@@ -20760,6 +20771,7 @@
 ||widget.getgist.com^
 ||widget.getyourguide.com^
 ||widget.intercom.io^
+||widget.kapa.ai^
 ||widget.kelkoo.com^
 ||widget.kominfo.go.id^
 ||widget.manychat.com^
