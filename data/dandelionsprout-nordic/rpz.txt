@@ -139,6 +139,8 @@ betzykrisesenter.no CNAME .
 bilborsen.webannonse.no CNAME .
 billing-invalid.com CNAME .
 billingservice02-myinfo.com CNAME .
+biltemadk.com CNAME .
+biltemasverige.com CNAME .
 binance-bedring.com CNAME .
 bitcoinevolutionaustraliareview.com CNAME .
 bloggannonser.no CNAME .
@@ -228,6 +230,7 @@ eccoskonorge.com CNAME .
 economywatch.com CNAME .
 edksundportal.com CNAME .
 egmontdk.mainroll.com CNAME .
+elkjopnorway.com CNAME .
 eltlnorsgogle.is-a-cpa.com CNAME .
 emediate.dk CNAME .
 eportalsundhed.com CNAME .
@@ -657,6 +660,9 @@ static.itrack.it CNAME .
 static.onads.dk CNAME .
 stcontent.net CNAME .
 step.dk CNAME .
+stihl-dk.com CNAME .
+stihl-no.com CNAME .
+stihl-se.com CNAME .
 storustovu.dk CNAME .
 sundhed-einfoportal.com CNAME .
 sundhed-tjek.com CNAME .
@@ -763,6 +769,8 @@ www.betterbannerscloud.com CNAME .
 www.betzykrisesenter.no CNAME .
 www.billing-invalid.com CNAME .
 www.billingservice02-myinfo.com CNAME .
+www.biltemadk.com CNAME .
+www.biltemasverige.com CNAME .
 www.binance-bedring.com CNAME .
 www.bitcoinevolutionaustraliareview.com CNAME .
 www.bloggannonser.no CNAME .
@@ -834,6 +842,7 @@ www.eccolabgroup.com CNAME .
 www.eccoskonorge.com CNAME .
 www.economywatch.com CNAME .
 www.edksundportal.com CNAME .
+www.elkjopnorway.com CNAME .
 www.emediate.dk CNAME .
 www.eportalsundhed.com CNAME .
 www.esundinfo-dk.com CNAME .
@@ -1177,6 +1186,9 @@ www.start-myaltinn.com CNAME .
 www.static-dscn.net CNAME .
 www.stcontent.net CNAME .
 www.step.dk CNAME .
+www.stihl-dk.com CNAME .
+www.stihl-no.com CNAME .
+www.stihl-se.com CNAME .
 www.storustovu.dk CNAME .
 www.sundhed-einfoportal.com CNAME .
 www.sundhed-tjek.com CNAME .
@@ -1240,6 +1252,9 @@ www.xeroshoesdanmarks.com CNAME .
 www.xn--gymsharkklrnorge-3ob.com CNAME .
 www.y6.no CNAME .
 www.yttersiden.no CNAME .
+www.zooplus-no.com CNAME .
+www.zooplus-se.com CNAME .
+www.zooplusdanmark.com CNAME .
 wxqgx123.com CNAME .
 xanax-2mg.over-blog.com CNAME .
 xeroshoes-danmark.com CNAME .
@@ -1249,3 +1264,6 @@ xn--gymsharkklrnorge-3ob.com CNAME .
 xss.my.id CNAME .
 y6.no CNAME .
 yttersiden.no CNAME .
+zooplus-no.com CNAME .
+zooplus-se.com CNAME .
+zooplusdanmark.com CNAME .
