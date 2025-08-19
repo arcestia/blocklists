@@ -5713,6 +5713,7 @@ config.ad-brix.com CNAME .
 config.adview.cn CNAME .
 config.aps.amazon-adsystem.com CNAME .
 config.eastus-ssp.appgwv2.inmobi.com CNAME .
+config.emb-api.com CNAME .
 config.hiido.com CNAME .
 config.inmobi.cn CNAME .
 config.inmobi.com CNAME .
@@ -6315,6 +6316,7 @@ data.agkn.com CNAME .
 data.aniview.com CNAME .
 data.atomex.net CNAME .
 data.bizographics.com CNAME .
+data.emb-api.com CNAME .
 data.flurry.com CNAME .
 data.growingio.com CNAME .
 data.mathtag.com CNAME .
@@ -6913,6 +6915,7 @@ dxgo95ahe73e8.cloudfront.net CNAME .
 dyn-objects.mathtag.com CNAME .
 dyn.omnitagjs.com CNAME .
 dynamic-ads.appier.net CNAME .
+dynamic-report-api.appsflyersdk.com CNAME .
 dynamic.3lift.com CNAME .
 dynamic.criteo.com CNAME .
 dynamicads.statsperformdev.com CNAME .
@@ -8267,6 +8270,7 @@ guhalxqa.com CNAME .
 guhomnfuzq.com CNAME .
 guidecent.com CNAME .
 guihua-china.com CNAME .
+gukrelrock.net CNAME .
 gullyending.com CNAME .
 gum.criteo.com CNAME .
 gumdrops.gumgum.com CNAME .
@@ -10822,6 +10826,7 @@ millustry.top CNAME .
 mimilcnf.pro CNAME .
 mindlytix.com CNAME .
 mindmemobile.com CNAME .
+minerva.devices.a2z.com CNAME .
 mingledventin.com CNAME .
 minio.connatix.com CNAME .
 minotaur107.com CNAME .
@@ -11326,6 +11331,7 @@ nmc.adhaven.com CNAME .
 nmetrics.samsung.com CNAME .
 no-cdn.convertexperiments.com CNAME .
 no2veeamggaseber.com CNAME .
+noa.yahoo.com CNAME .
 nobid.io CNAME .
 node-01.adsrv.net CNAME .
 node-02.adsrv.net CNAME .
@@ -11522,6 +11528,7 @@ oddsserve.com CNAME .
 odfohvwi.com CNAME .
 odfsmijima.com CNAME .
 odgomfabcas.com CNAME .
+odm.app-ads-services.com CNAME .
 odqdkealzr.com CNAME .
 odr.mookie1.com CNAME .
 oewa.at CNAME .
@@ -12027,6 +12034,7 @@ partnerlinks.io CNAME .
 partnerportal.marketo.com CNAME .
 partners.ad-brix.com CNAME .
 partners.adpopcorn.com CNAME .
+partners.agoda.com CNAME .
 partners.chartboost.com CNAME .
 partners.content.ad CNAME .
 partners.marketolive.com CNAME .
@@ -12831,6 +12839,7 @@ psa.appnexus.com CNAME .
 psaltauw.net CNAME .
 psankei.chartbeat.net CNAME .
 psausuck.net CNAME .
+pscbrveha.com CNAME .
 psipausaix.net CNAME .
 pson.logging.admicro.vn CNAME .
 psootchu.net CNAME .
@@ -16032,6 +16041,7 @@ telemetry.api.swiftkey.com CNAME .
 telemetry.art19.com CNAME .
 telemetry.canva.com CNAME .
 telemetry.dropbox.com CNAME .
+telemetry.insights.video.a2z.com CNAME .
 telemetry.malwarebytes.com CNAME .
 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com CNAME .
 telemetry.sdk.inmobi.cn CNAME .
@@ -16813,6 +16823,7 @@ uciservice.com CNAME .
 ucloud.lsosad.com CNAME .
 udbdf-v2.nimo.tv CNAME .
 udc.msn.com CNAME .
+udc.yahoo.com CNAME .
 udinugoo.com CNAME .
 udm.scorecardresearch.com CNAME .
 udmserve.net CNAME .
@@ -17751,6 +17762,7 @@ wikia-ads.wikia.com CNAME .
 wildcard.aniview.com.edgekey.net CNAME .
 wildedbarley.com CNAME .
 wilslide.com CNAME .
+wiltiqkc.com CNAME .
 wimswuppoxan.com CNAME .
 win-dsp-eu.adkernel.com CNAME .
 win-dsp-staging.adkernel.com CNAME .
@@ -17853,6 +17865,7 @@ wpu.sh CNAME .
 wpush.org CNAME .
 wqjbldnnceroue.com CNAME .
 wqzyxxrrep.com CNAME .
+wr.amigojimbang.com CNAME .
 wr.indexexchange.com CNAME .
 wrapper.blueseed.tv CNAME .
 wrapper.lemde.fr CNAME .
@@ -18625,6 +18638,7 @@ xius.com CNAME .
 xjrwxfdphc.com CNAME .
 xjs.ptengine.jp CNAME .
 xkesalwueyz.com CNAME .
+xkfvceil.com CNAME .
 xldncyivwazvfy.com CNAME .
 xlirdr.com CNAME .
 xlisting.jp CNAME .
@@ -18952,6 +18966,7 @@ zunsoach.com CNAME .
 zuqalzajno.com CNAME .
 zvetokr2hr8pcng09.com CNAME .
 zwnoeqzsuz.com CNAME .
+zwnsuuaoqfab.com CNAME .
 zxc.world CNAME .
 zy.eilaeliza.top CNAME .
 zybrdr.com CNAME .
