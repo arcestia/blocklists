@@ -1,4 +1,20 @@
-ata: "znd1fuizllxc3zntc-centene.siteintercept.qualtrics.com A 127.0.0.1"
+-data: "znd0fibzwba7vyfab-mcclatchy.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0jgxknmyfvsh3z-novacx.siteintercept.qualtrics.com" static
+local-data: "znd0jgxknmyfvsh3z-novacx.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0s1yot86j3ytel-qxm.siteintercept.qualtrics.com" static
+local-data: "znd0s1yot86j3ytel-qxm.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0teossckgeqlsw-caleres.siteintercept.qualtrics.com" static
+local-data: "znd0teossckgeqlsw-caleres.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0wg65mj4mrrtv8-journeyfurther.siteintercept.qualtrics.com" static
+local-data: "znd0wg65mj4mrrtv8-journeyfurther.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0y3ntzchbfavjd-ihg.siteintercept.qualtrics.com" static
+local-data: "znd0y3ntzchbfavjd-ihg.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0z5552pzt936ad-ticketmaster.siteintercept.qualtrics.com" static
+local-data: "znd0z5552pzt936ad-ticketmaster.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd0zbgibmqse8t09-uhg1.siteintercept.qualtrics.com" static
+local-data: "znd0zbgibmqse8t09-uhg1.siteintercept.qualtrics.com A 127.0.0.1"
+local-zone: "znd1fuizllxc3zntc-centene.siteintercept.qualtrics.com" static
+local-data: "znd1fuizllxc3zntc-centene.siteintercept.qualtrics.com A 127.0.0.1"
 local-zone: "znd3v7rbphouxilfr-rentpath.siteintercept.qualtrics.com" static
 local-data: "znd3v7rbphouxilfr-rentpath.siteintercept.qualtrics.com A 127.0.0.1"
 local-zone: "znd3xk9gckh8pvqdu-trinityhealth.siteintercept.qualtrics.com" static
