@@ -1,7 +1,4 @@
--data: "znd0fibzwba7vyfab-mcclatchy.siteintercept.qualtrics.com A 127.0.0.1"
-local-zone: "znd0jgxknmyfvsh3z-novacx.siteintercept.qualtrics.com" static
-local-data: "znd0jgxknmyfvsh3z-novacx.siteintercept.qualtrics.com A 127.0.0.1"
-local-zone: "znd0s1yot86j3ytel-qxm.siteintercept.qualtrics.com" static
+l-qxm.siteintercept.qualtrics.com" static
 local-data: "znd0s1yot86j3ytel-qxm.siteintercept.qualtrics.com A 127.0.0.1"
 local-zone: "znd0teossckgeqlsw-caleres.siteintercept.qualtrics.com" static
 local-data: "znd0teossckgeqlsw-caleres.siteintercept.qualtrics.com A 127.0.0.1"
@@ -6563,6 +6560,8 @@ local-zone: "zorrasanonimas.blogspot.com" static
 local-data: "zorrasanonimas.blogspot.com A 127.0.0.1"
 local-zone: "zorrasarabes.com" static
 local-data: "zorrasarabes.com A 127.0.0.1"
+local-zone: "zorrascachondas.com" static
+local-data: "zorrascachondas.com A 127.0.0.1"
 local-zone: "zorrasexhibidas.blogspot.com" static
 local-data: "zorrasexhibidas.blogspot.com A 127.0.0.1"
 local-zone: "zorrassexo.blogspot.com" static
@@ -7109,6 +7108,8 @@ local-zone: "zoznamka-bdsm.sk" static
 local-data: "zoznamka-bdsm.sk A 127.0.0.1"
 local-zone: "zoznamka-na-sex.sk" static
 local-data: "zoznamka-na-sex.sk A 127.0.0.1"
+local-zone: "zoznamka-sex.sk" static
+local-data: "zoznamka-sex.sk A 127.0.0.1"
 local-zone: "zoznamstatic.sk" static
 local-data: "zoznamstatic.sk A 127.0.0.1"
 local-zone: "zozo-chat.com" static
@@ -11751,8 +11752,6 @@ local-zone: "zurich-escorts.blogspot.com" static
 local-data: "zurich-escorts.blogspot.com A 127.0.0.1"
 local-zone: "zurich-girls.ch" static
 local-data: "zurich-girls.ch A 127.0.0.1"
-local-zone: "zurich-redlight-escorts.com" static
-local-data: "zurich-redlight-escorts.com A 127.0.0.1"
 local-zone: "zurich-santander.cl" static
 local-data: "zurich-santander.cl A 127.0.0.1"
 local-zone: "zurich-taxi.com" static
@@ -12805,6 +12804,8 @@ local-zone: "zwangerpesiri.com" static
 local-data: "zwangerpesiri.com A 127.0.0.1"
 local-zone: "zwangerschapspagina.nl" static
 local-data: "zwangerschapspagina.nl A 127.0.0.1"
+local-zone: "zwangersex.startplezier.nl" static
+local-data: "zwangersex.startplezier.nl A 127.0.0.1"
 local-zone: "zwanghaftes-masturbieren-bisexuelle-kontakte.pages.dev" static
 local-data: "zwanghaftes-masturbieren-bisexuelle-kontakte.pages.dev A 127.0.0.1"
 local-zone: "zwangsentsamung.biz" static
@@ -15627,8 +15628,6 @@ local-zone: "zz4s.adj.st" static
 local-data: "zz4s.adj.st A 127.0.0.1"
 local-zone: "zz4z83rt2w9vn.clickfunnels.com" static
 local-data: "zz4z83rt2w9vn.clickfunnels.com A 127.0.0.1"
-local-zone: "zz532.com" static
-local-data: "zz532.com A 127.0.0.1"
 local-zone: "zz573.com" static
 local-data: "zz573.com A 127.0.0.1"
 local-zone: "zz713.com" static
