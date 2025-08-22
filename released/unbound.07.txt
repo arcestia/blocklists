@@ -1,4 +1,26 @@
-
+c
+local-data: "zylingker.com A 127.0.0.1"
+local-zone: "zylishdesigns.in" static
+local-data: "zylishdesigns.in A 127.0.0.1"
+local-zone: "zylishpark.com" static
+local-data: "zylishpark.com A 127.0.0.1"
+local-zone: "zyliss.com" static
+local-data: "zyliss.com A 127.0.0.1"
+local-zone: "zylizz.xyz" static
+local-data: "zylizz.xyz A 127.0.0.1"
+local-zone: "zyllium.com" static
+local-data: "zyllium.com A 127.0.0.1"
+local-zone: "zyln.mjt.lu" static
+local-data: "zyln.mjt.lu A 127.0.0.1"
+local-zone: "zylnora.site" static
+local-data: "zylnora.site A 127.0.0.1"
+local-zone: "zylo.com" static
+local-data: "zylo.com A 127.0.0.1"
+local-zone: "zylogelastocomp.com" static
+local-data: "zylogelastocomp.com A 127.0.0.1"
+local-zone: "zylokfmgrtzv.com" static
+local-data: "zylokfmgrtzv.com A 127.0.0.1"
+local-zone: "zylom.midasplayer.com" static
 local-data: "zylom.midasplayer.com A 127.0.0.1"
 local-zone: "zylomatix.com" static
 local-data: "zylomatix.com A 127.0.0.1"

@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 10086623.top CNAME .
+111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 24x7support.top CNAME .
@@ -22,6 +23,7 @@ admin.gestroom.it CNAME .
 advansys.com.ar CNAME .
 adver.com.br CNAME .
 advustech.com CNAME .
+afrihealthexpo.org CNAME .
 agapi.cqjjb.cn CNAME .
 agropole.tg CNAME .
 alarmline.com.br CNAME .
@@ -34,6 +36,7 @@ anydeesk.ink CNAME .
 api.co-operativefinance.com CNAME .
 api.ewfiles.net CNAME .
 app-monespaces-securpass-assurances.art CNAME .
+armanayegh.com CNAME .
 artacom.com.br CNAME .
 artscreenstudio.ru CNAME .
 asl-company.ru CNAME .
@@ -50,7 +53,6 @@ bestieslos.com CNAME .
 bigbag.wootraining.certificacion.cl CNAME .
 blaiz.me CNAME .
 blessdayservices.org CNAME .
-blit.co.za CNAME .
 blogs.sokun.jp CNAME .
 bmdcompany.com CNAME .
 book.organzoperate.com CNAME .
@@ -74,6 +76,7 @@ catbaparadisehotel.com.vn CNAME .
 ccilogistica.com.br CNAME .
 cdaonline.com.ar CNAME .
 cdn.file6.goodid.com CNAME .
+cegelecinfo.fr CNAME .
 celebratingseniors.net CNAME .
 cerni-mix-01174839212-snort-20.resourcemaster.net CNAME .
 chaparral.es CNAME .
@@ -170,9 +173,9 @@ fullstacknir.com CNAME .
 fulltai.top CNAME .
 fz.tiansys.cn CNAME .
 gabyagozetim.com CNAME .
-galerisenimutiara.com CNAME .
 glaustralia.com CNAME .
 googletagamnager.com CNAME .
+greenmile.ng CNAME .
 grikom.info CNAME .
 hasalltalent.com CNAME .
 hitman-pro.ru CNAME .
@@ -194,7 +197,6 @@ intelligentopennetworkingawards.com CNAME .
 investtrad.com CNAME .
 ircftp.net CNAME .
 isiore.com.co CNAME .
-istetiklagelsin.com CNAME .
 itcomsrv.kz CNAME .
 itssprout.com CNAME .
 izogard.com CNAME .
@@ -204,6 +206,7 @@ jeantetfamily.com CNAME .
 jkshaonv.com CNAME .
 jobcity.com CNAME .
 jointings.org CNAME .
+jxhuyhoang.com CNAME .
 jyothishmathi.in CNAME .
 k1gkl25as.top CNAME .
 kakhun.ru CNAME .
@@ -220,12 +223,14 @@ kuzina-teatr.ru CNAME .
 lindenappliances.co.za CNAME .
 lindnerelektroanlagen.de CNAME .
 linkssl.com CNAME .
+livetrack.in CNAME .
 local-update.com CNAME .
 lomejordesalamanca.es CNAME .
 m-global.hksty.net CNAME .
 m.bal-stroi.ru CNAME .
 maidforyou1985.com CNAME .
 mail.mestierecolombia.com CNAME .
+main.dsn.ovh CNAME .
 mandarin.net.au CNAME .
 masgrave.com CNAME .
 maxximbrasil.com CNAME .
@@ -239,6 +244,7 @@ moe.livesync.hyghbyte.com CNAME .
 mogimall.com CNAME .
 moonloaderupdate.ru CNAME .
 mundocarnes.cl CNAME .
+muzzumilruheel.com CNAME .
 mydllink.xyz CNAME .
 myevmanual.com CNAME .
 namaacont.com CNAME .
@@ -247,6 +253,7 @@ ndirection.kr CNAME .
 noithaticon.vn CNAME .
 northernvirginiaeyeassociates.com CNAME .
 ntf.mohtash.ir CNAME .
+nusatoyota.co.id CNAME .
 nvtai.id.vn CNAME .
 ny.lshdw.cc CNAME .
 o24o.ru CNAME .
@@ -256,10 +263,13 @@ oknoplastik.sk CNAME .
 olingerphoto.com CNAME .
 onedomainpro.com CNAME .
 onfiltre.com.tr CNAME .
+onlinetanecni.cz CNAME .
+onyxaquarius.de CNAME .
 onyxarmorcrypt.de CNAME .
 onyxcryptorix.de CNAME .
 onyxcyberapex.de CNAME .
 onyxcyberedge.de CNAME .
+onyxfortifypro.de CNAME .
 onyxfortitech.de CNAME .
 onyxguardify.de CNAME .
 onyxguardshift.de CNAME .
@@ -290,6 +300,7 @@ pay.aqiu6.com CNAME .
 phpmyadmin.hebergement.ml-shop-fr.com CNAME .
 pid.fly160.com CNAME .
 pns.org.pk CNAME .
+pobedastaff.ru CNAME .
 prloglink.prsa7.top CNAME .
 ptc.wa.com.pk CNAME .
 ptgut.co.id CNAME .
@@ -299,7 +310,6 @@ quanlyphongnet.com CNAME .
 quovadisholidays.testingdemo.net CNAME .
 ramactools.net CNAME .
 rapidloader.org CNAME .
-razorcrypter.com CNAME .
 reauthenticator.com CNAME .
 records.dennisign.se CNAME .
 redlk.com CNAME .
@@ -333,14 +343,14 @@ smeetspost.nl CNAME .
 smoking-hot.net CNAME .
 sms-szfang.com CNAME .
 soft.110route.com CNAME .
-solidbytes.vn CNAME .
+softcatalog.ru CNAME .
 solutelco.com CNAME .
+somautomotivorj.com.br CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 spst.hqup.in CNAME .
 src1.minibai.com CNAME .
 static.ilclock.com CNAME .
 static.topxgun.com CNAME .
-stdown.dinju.com CNAME .
 stealer.cy CNAME .
 storage.webfiledata.com CNAME .
 supercleanspb.ru CNAME .
@@ -350,6 +360,7 @@ svirtual.sanviatorperu.edu.pe CNAME .
 taka.com.mx CNAME .
 talentrecruitments.com CNAME .
 tanscarattorneys.co.tz CNAME .
+tapestryoftruth.com CNAME .
 tcgroup.com.au CNAME .
 tecunonline.com CNAME .
 telegramcn.co CNAME .
@@ -370,6 +381,7 @@ upchemicals.co.in CNAME .
 update.cg100iii.com CNAME .
 update.volam2005pk.com CNAME .
 update.volamthientu.cc CNAME .
+upgradegc.com CNAME .
 uploadtree.com CNAME .
 vagler.ru CNAME .
 vault.appsuites.ai CNAME .
@@ -435,9 +447,11 @@ www.support-data.com CNAME .
 www.surethinks.com CNAME .
 www.tdejb.com CNAME .
 www.techgeeks.org CNAME .
+www.tecunonline.com CNAME .
 www.teknotown.com CNAME .
 www.test.peperoncinochepassione.it CNAME .
 www.tirtasentosa.com CNAME .
+www.tobeart.ru CNAME .
 www.udobrit.ru CNAME .
 www.uralmetalloprokat.ru CNAME .
 www.usaayurveda.com CNAME .
@@ -454,6 +468,7 @@ xai830k.com CNAME .
 xemhang.vn CNAME .
 ximonite.com CNAME .
 xn--90abegbttpjb3bzb2j.xn--p1ai CNAME .
+xn--b1afiqif6c.xn--p1ai CNAME .
 xn--yh4bx88a.com CNAME .
 xnhauvietnam.vietnamddns.com CNAME .
 xshop.com.tr CNAME .
