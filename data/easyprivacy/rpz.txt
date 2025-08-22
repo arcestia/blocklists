@@ -4652,6 +4652,8 @@ adppartner.solutions.adpinfo.com CNAME .
 adpromo.peppynet.com CNAME .
 adrtx.net CNAME .
 ads-collector.luizalabs.com CNAME .
+ads-tracking.beop.io CNAME .
+ads-tracking.collectiveaudience.co CNAME .
 ads-trk.vidible.tv CNAME .
 ads.dandelionchocolate.jp CNAME .
 ads.tikpage.com CNAME .
@@ -9277,7 +9279,6 @@ content22.citibank.com.au CNAME .
 content22.citibankonline.com CNAME .
 content22.online.citi.com CNAME .
 contentcamera.com CNAME .
-contents-tracking.beop.io CNAME .
 contents.pwc.com CNAME .
 contoso-my.sharepoint.com CNAME .
 contractor-app.buildforce.com CNAME .
@@ -14850,6 +14851,7 @@ hauzdj.quellogiusto.it CNAME .
 haxdym.min-breeder.com CNAME .
 hazawl.veke.fi CNAME .
 hazmatworkshop.com CNAME .
+hb.collectiveaudience.co CNAME .
 hb.vhsrv.com CNAME .
 hbaazk.bukalapak.com CNAME .
 hbahrd.yogibo.jp CNAME .
@@ -26646,6 +26648,7 @@ s.cambridgetimes.ca CNAME .
 s.cameratico.com CNAME .
 s.chatie.ai CNAME .
 s.clientes.construrama.com CNAME .
+s.collectiveaudience.co CNAME .
 s.columbiathreadneedle.ch CNAME .
 s.columbiathreadneedle.co.uk CNAME .
 s.columbiathreadneedle.hk CNAME .
@@ -34439,6 +34442,7 @@ swebtraffic.executiveboard.com CNAME .
 sweeps.la-z-boy.com CNAME .
 sweetslope.com CNAME .
 swellstocking.com CNAME .
+swiftintro.com CNAME .
 swim2000.actonservice.com CNAME .
 swimfreely.com CNAME .
 swingslip.com CNAME .
