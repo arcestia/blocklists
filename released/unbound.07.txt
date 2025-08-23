@@ -1,48 +1,4 @@
-static
-local-data: "zvakpnrjqvge.com A 127.0.0.1"
-local-zone: "zvarga.com" static
-local-data: "zvarga.com A 127.0.0.1"
-local-zone: "zvartnots.aero" static
-local-data: "zvartnots.aero A 127.0.0.1"
-local-zone: "zvarych.info" static
-local-data: "zvarych.info A 127.0.0.1"
-local-zone: "zvatrswtsrw.ml" static
-local-data: "zvatrswtsrw.ml A 127.0.0.1"
-local-zone: "zvay.online" static
-local-data: "zvay.online A 127.0.0.1"
-local-zone: "zvayfoi.com" static
-local-data: "zvayfoi.com A 127.0.0.1"
-local-zone: "zvaz.top" static
-local-data: "zvaz.top A 127.0.0.1"
-local-zone: "zvbeewl.shop" static
-local-data: "zvbeewl.shop A 127.0.0.1"
-local-zone: "zvbjjgfd567.000webhostapp.com" static
-local-data: "zvbjjgfd567.000webhostapp.com A 127.0.0.1"
-local-zone: "zvbqvqbrwbvyj.top" static
-local-data: "zvbqvqbrwbvyj.top A 127.0.0.1"
-local-zone: "zvbqya.marideal.mu" static
-local-data: "zvbqya.marideal.mu A 127.0.0.1"
-local-zone: "zvc.cc" static
-local-data: "zvc.cc A 127.0.0.1"
-local-zone: "zvca.org" static
-local-data: "zvca.org A 127.0.0.1"
-local-zone: "zvcacddnthtie.sotreq.net" static
-local-data: "zvcacddnthtie.sotreq.net A 127.0.0.1"
-local-zone: "zvczcxvd.com" static
-local-data: "zvczcxvd.com A 127.0.0.1"
-local-zone: "zvdd.de" static
-local-data: "zvdd.de A 127.0.0.1"
-local-zone: "zvdgvdxy.shop" static
-local-data: "zvdgvdxy.shop A 127.0.0.1"
-local-zone: "zvdhfeelw.firebaseapp.com" static
-local-data: "zvdhfeelw.firebaseapp.com A 127.0.0.1"
-local-zone: "zvdhfeelw.web.app" static
-local-data: "zvdhfeelw.web.app A 127.0.0.1"
-local-zone: "zvdkxhzpaslxe.online" static
-local-data: "zvdkxhzpaslxe.online A 127.0.0.1"
-local-zone: "zvdotftdxkfsv.bid" static
-local-data: "zvdotftdxkfsv.bid A 127.0.0.1"
-local-zone: "zvdynplmof.17.182nfl.hb.tt.omtrdc.net" static
+l-zone: "zvdynplmof.17.182nfl.hb.tt.omtrdc.net" static
 local-data: "zvdynplmof.17.182nfl.hb.tt.omtrdc.net A 127.0.0.1"
 local-zone: "zveckashop.com" static
 local-data: "zveckashop.com A 127.0.0.1"
