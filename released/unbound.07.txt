@@ -1,9 +1,4 @@
-hhsgovfedramp.gov1.siteintercept.qualtrics.com" static
-local-data: "zncavpghm4p7uacyp-hhsgovfedramp.gov1.siteintercept.qualtrics.com A 127.0.0.1"
-local-zone: "zncavq6zyki6g6u4d-scrippsmedia.siteintercept.qualtrics.com" static
-local-data: "zncavq6zyki6g6u4d-scrippsmedia.siteintercept.qualtrics.com A 127.0.0.1"
-local-zone: "zncay4fyhk12nhafp-cspire.siteintercept.qualtrics.com" static
-local-data: "zncay4fyhk12nhafp-cspire.siteintercept.qualtrics.com A 127.0.0.1"
+fyhk12nhafp-cspire.siteintercept.qualtrics.com A 127.0.0.1"
 local-zone: "zncbc5yybo3ggxzdl-tmobilecx.siteintercept.qualtrics.com" static
 local-data: "zncbc5yybo3ggxzdl-tmobilecx.siteintercept.qualtrics.com A 127.0.0.1"
 local-zone: "zncbdlbnlikzwg7fr-rimeto.siteintercept.qualtrics.com" static
@@ -3044,6 +3039,8 @@ local-zone: "zolalola.000webhostapp.com" static
 local-data: "zolalola.000webhostapp.com A 127.0.0.1"
 local-zone: "zolamars.com" static
 local-data: "zolamars.com A 127.0.0.1"
+local-zone: "zoland.club" static
+local-data: "zoland.club A 127.0.0.1"
 local-zone: "zolando.ae" static
 local-data: "zolando.ae A 127.0.0.1"
 local-zone: "zolando.com" static
