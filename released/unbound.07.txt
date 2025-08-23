@@ -1,4 +1,22 @@
-ata: "zuvid.blogspot.com A 127.0.0.1"
+al-data: "zuuvi.com A 127.0.0.1"
+local-zone: "zuuvicdn.com" static
+local-data: "zuuvicdn.com A 127.0.0.1"
+local-zone: "zuuwfrphdgxk.com" static
+local-data: "zuuwfrphdgxk.com A 127.0.0.1"
+local-zone: "zuva.jp" static
+local-data: "zuva.jp A 127.0.0.1"
+local-zone: "zuvary.tech" static
+local-data: "zuvary.tech A 127.0.0.1"
+local-zone: "zuvdxzfa.net" static
+local-data: "zuvdxzfa.net A 127.0.0.1"
+local-zone: "zuventus.in" static
+local-data: "zuventus.in A 127.0.0.1"
+local-zone: "zuverink.net" static
+local-data: "zuverink.net A 127.0.0.1"
+local-zone: "zuvf.com" static
+local-data: "zuvf.com A 127.0.0.1"
+local-zone: "zuvid.blogspot.com" static
+local-data: "zuvid.blogspot.com A 127.0.0.1"
 local-zone: "zuvids.blogspot.com" static
 local-data: "zuvids.blogspot.com A 127.0.0.1"
 local-zone: "zuvioeb.com" static
