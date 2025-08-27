@@ -1,4 +1,1454 @@
-.0.1"
+ 127.0.0.1"
+local-zone: "www.t9njsg.lol" static
+local-data: "www.t9njsg.lol A 127.0.0.1"
+local-zone: "www.t9qudl.top" static
+local-data: "www.t9qudl.top A 127.0.0.1"
+local-zone: "www.ta-milosc.pl" static
+local-data: "www.ta-milosc.pl A 127.0.0.1"
+local-zone: "www.ta4bmc0ex6ozhwn.odnowic-aktualizacji.cfd" static
+local-data: "www.ta4bmc0ex6ozhwn.odnowic-aktualizacji.cfd A 127.0.0.1"
+local-zone: "www.tabacgigi.pro" static
+local-data: "www.tabacgigi.pro A 127.0.0.1"
+local-zone: "www.tabacon-oberbayern-de.com" static
+local-data: "www.tabacon-oberbayern-de.com A 127.0.0.1"
+local-zone: "www.tabarhods.pro" static
+local-data: "www.tabarhods.pro A 127.0.0.1"
+local-zone: "www.tabelmetan.pro" static
+local-data: "www.tabelmetan.pro A 127.0.0.1"
+local-zone: "www.taberbushnell.com" static
+local-data: "www.taberbushnell.com A 127.0.0.1"
+local-zone: "www.taberfroda.pro" static
+local-data: "www.taberfroda.pro A 127.0.0.1"
+local-zone: "www.tabiloner.info" static
+local-data: "www.tabiloner.info A 127.0.0.1"
+local-zone: "www.tabithacox.com" static
+local-data: "www.tabithacox.com A 127.0.0.1"
+local-zone: "www.tabizeno.com" static
+local-data: "www.tabizeno.com A 127.0.0.1"
+local-zone: "www.tablasrestaurant.com" static
+local-data: "www.tablasrestaurant.com A 127.0.0.1"
+local-zone: "www.tablemanners.com" static
+local-data: "www.tablemanners.com A 127.0.0.1"
+local-zone: "www.tablerockangler.pl" static
+local-data: "www.tablerockangler.pl A 127.0.0.1"
+local-zone: "www.tablethutbox.com" static
+local-data: "www.tablethutbox.com A 127.0.0.1"
+local-zone: "www.tabloidos.ru" static
+local-data: "www.tabloidos.ru A 127.0.0.1"
+local-zone: "www.taboola.com" static
+local-data: "www.taboola.com A 127.0.0.1"
+local-zone: "www.tabouf.com" static
+local-data: "www.tabouf.com A 127.0.0.1"
+local-zone: "www.taboupneum.pro" static
+local-data: "www.taboupneum.pro A 127.0.0.1"
+local-zone: "www.tabulatury.net" static
+local-data: "www.tabulatury.net A 127.0.0.1"
+local-zone: "www.tabulruote.pro" static
+local-data: "www.tabulruote.pro A 127.0.0.1"
+local-zone: "www.taccariela.pro" static
+local-data: "www.taccariela.pro A 127.0.0.1"
+local-zone: "www.tacceabbai.pro" static
+local-data: "www.tacceabbai.pro A 127.0.0.1"
+local-zone: "www.tacchdati.pro" static
+local-data: "www.tacchdati.pro A 127.0.0.1"
+local-zone: "www.tacchnorth.pro" static
+local-data: "www.tacchnorth.pro A 127.0.0.1"
+local-zone: "www.tachyaccad.pro" static
+local-data: "www.tachyaccad.pro A 127.0.0.1"
+local-zone: "www.tachydisba.pro" static
+local-data: "www.tachydisba.pro A 127.0.0.1"
+local-zone: "www.tachyonis.store" static
+local-data: "www.tachyonis.store A 127.0.0.1"
+local-zone: "www.tacitvitiv.pro" static
+local-data: "www.tacitvitiv.pro A 127.0.0.1"
+local-zone: "www.tackies.info" static
+local-data: "www.tackies.info A 127.0.0.1"
+local-zone: "www.tackybullmastiff.pro" static
+local-data: "www.tackybullmastiff.pro A 127.0.0.1"
+local-zone: "www.tackycaiman.pro" static
+local-data: "www.tackycaiman.pro A 127.0.0.1"
+local-zone: "www.tackyhoatzin.pro" static
+local-data: "www.tackyhoatzin.pro A 127.0.0.1"
+local-zone: "www.tackyjackal.pro" static
+local-data: "www.tackyjackal.pro A 127.0.0.1"
+local-zone: "www.tackyladybug.pro" static
+local-data: "www.tackyladybug.pro A 127.0.0.1"
+local-zone: "www.tackypolecat.pro" static
+local-data: "www.tackypolecat.pro A 127.0.0.1"
+local-zone: "www.tackyporpoise.pro" static
+local-data: "www.tackyporpoise.pro A 127.0.0.1"
+local-zone: "www.tackyraccoon.pro" static
+local-data: "www.tackyraccoon.pro A 127.0.0.1"
+local-zone: "www.tackyshark.pro" static
+local-data: "www.tackyshark.pro A 127.0.0.1"
+local-zone: "www.tackywildebeest.pro" static
+local-data: "www.tackywildebeest.pro A 127.0.0.1"
+local-zone: "www.taconesdecalle.com" static
+local-data: "www.taconesdecalle.com A 127.0.0.1"
+local-zone: "www.tactfulgorilla.pro" static
+local-data: "www.tactfulgorilla.pro A 127.0.0.1"
+local-zone: "www.tactfulmongoose.pro" static
+local-data: "www.tactfulmongoose.pro A 127.0.0.1"
+local-zone: "www.tactfuloryx.pro" static
+local-data: "www.tactfuloryx.pro A 127.0.0.1"
+local-zone: "www.tactfulsilkworm.pro" static
+local-data: "www.tactfulsilkworm.pro A 127.0.0.1"
+local-zone: "www.tactfulskua.pro" static
+local-data: "www.tactfulskua.pro A 127.0.0.1"
+local-zone: "www.tactfulsnake.pro" static
+local-data: "www.tactfulsnake.pro A 127.0.0.1"
+local-zone: "www.tactfultoucanet.pro" static
+local-data: "www.tactfultoucanet.pro A 127.0.0.1"
+local-zone: "www.tacticapci.com" static
+local-data: "www.tacticapci.com A 127.0.0.1"
+local-zone: "www.tacticloud.neofinx.com" static
+local-data: "www.tacticloud.neofinx.com A 127.0.0.1"
+local-zone: "www.tacticout.club" static
+local-data: "www.tacticout.club A 127.0.0.1"
+local-zone: "www.tactirepro.pro" static
+local-data: "www.tactirepro.pro A 127.0.0.1"
+local-zone: "www.tactually.info" static
+local-data: "www.tactually.info A 127.0.0.1"
+local-zone: "www.tadalafilcs.com" static
+local-data: "www.tadalafilcs.com A 127.0.0.1"
+local-zone: "www.tadamoun.org" static
+local-data: "www.tadamoun.org A 127.0.0.1"
+local-zone: "www.tadije-sedemu.pics" static
+local-data: "www.tadije-sedemu.pics A 127.0.0.1"
+local-zone: "www.tadushf.com" static
+local-data: "www.tadushf.com A 127.0.0.1"
+local-zone: "www.tafcaucus.com" static
+local-data: "www.tafcaucus.com A 127.0.0.1"
+local-zone: "www.taffeaggio.pro" static
+local-data: "www.taffeaggio.pro A 127.0.0.1"
+local-zone: "www.taffysalta.pro" static
+local-data: "www.taffysalta.pro A 127.0.0.1"
+local-zone: "www.tafidizo.com" static
+local-data: "www.tafidizo.com A 127.0.0.1"
+local-zone: "www.tafiloa.com" static
+local-data: "www.tafiloa.com A 127.0.0.1"
+local-zone: "www.tafondisru.pro" static
+local-data: "www.tafondisru.pro A 127.0.0.1"
+local-zone: "www.tafrispoll.pro" static
+local-data: "www.tafrispoll.pro A 127.0.0.1"
+local-zone: "www.tag-cluster.online" static
+local-data: "www.tag-cluster.online A 127.0.0.1"
+local-zone: "www.tagadomiciliocl.top" static
+local-data: "www.tagadomiciliocl.top A 127.0.0.1"
+local-zone: "www.tagadomiciliocl.xyz" static
+local-data: "www.tagadomiciliocl.xyz A 127.0.0.1"
+local-zone: "www.tagbliss.store" static
+local-data: "www.tagbliss.store A 127.0.0.1"
+local-zone: "www.tagbloom41.xyz" static
+local-data: "www.tagbloom41.xyz A 127.0.0.1"
+local-zone: "www.tagflare.cfd" static
+local-data: "www.tagflare.cfd A 127.0.0.1"
+local-zone: "www.tagliautoc.pro" static
+local-data: "www.tagliautoc.pro A 127.0.0.1"
+local-zone: "www.taglidispe.pro" static
+local-data: "www.taglidispe.pro A 127.0.0.1"
+local-zone: "www.taglinonop.pro" static
+local-data: "www.taglinonop.pro A 127.0.0.1"
+local-zone: "www.taglirimul.pro" static
+local-data: "www.taglirimul.pro A 127.0.0.1"
+local-zone: "www.tagmuh.com" static
+local-data: "www.tagmuh.com A 127.0.0.1"
+local-zone: "www.tagozuu5.pro" static
+local-data: "www.tagozuu5.pro A 127.0.0.1"
+local-zone: "www.tagpanel.cfd" static
+local-data: "www.tagpanel.cfd A 127.0.0.1"
+local-zone: "www.tagpulse.cfd" static
+local-data: "www.tagpulse.cfd A 127.0.0.1"
+local-zone: "www.tagstream.cfd" static
+local-data: "www.tagstream.cfd A 127.0.0.1"
+local-zone: "www.tagumpay-ai.com" static
+local-data: "www.tagumpay-ai.com A 127.0.0.1"
+local-zone: "www.tagumpayai.online" static
+local-data: "www.tagumpayai.online A 127.0.0.1"
+local-zone: "www.tagvector.cfd" static
+local-data: "www.tagvector.cfd A 127.0.0.1"
+local-zone: "www.tahankanbrand.com" static
+local-data: "www.tahankanbrand.com A 127.0.0.1"
+local-zone: "www.tahexi-boveza.site" static
+local-data: "www.tahexi-boveza.site A 127.0.0.1"
+local-zone: "www.tahirovicnamestaj.com" static
+local-data: "www.tahirovicnamestaj.com A 127.0.0.1"
+local-zone: "www.tahonathg.com" static
+local-data: "www.tahonathg.com A 127.0.0.1"
+local-zone: "www.tahunqq.net" static
+local-data: "www.tahunqq.net A 127.0.0.1"
+local-zone: "www.tahywii.com" static
+local-data: "www.tahywii.com A 127.0.0.1"
+local-zone: "www.tailoatria.pro" static
+local-data: "www.tailoatria.pro A 127.0.0.1"
+local-zone: "www.tailoredinsight.pro" static
+local-data: "www.tailoredinsight.pro A 127.0.0.1"
+local-zone: "www.tailoredpaths.pro" static
+local-data: "www.tailoredpaths.pro A 127.0.0.1"
+local-zone: "www.tairgam.vip" static
+local-data: "www.tairgam.vip A 127.0.0.1"
+local-zone: "www.taisevcortes.com.br" static
+local-data: "www.taisevcortes.com.br A 127.0.0.1"
+local-zone: "www.taistbuche.pro" static
+local-data: "www.taistbuche.pro A 127.0.0.1"
+local-zone: "www.taiwanmetalmanufacturer.net" static
+local-data: "www.taiwanmetalmanufacturer.net A 127.0.0.1"
+local-zone: "www.taiyaki-s-vanilyu.com" static
+local-data: "www.taiyaki-s-vanilyu.com A 127.0.0.1"
+local-zone: "www.tajemniczaosada.site" static
+local-data: "www.tajemniczaosada.site A 127.0.0.1"
+local-zone: "www.tajhub.com" static
+local-data: "www.tajhub.com A 127.0.0.1"
+local-zone: "www.tajnder.pl" static
+local-data: "www.tajnder.pl A 127.0.0.1"
+local-zone: "www.tajohi-xunaha.pics" static
+local-data: "www.tajohi-xunaha.pics A 127.0.0.1"
+local-zone: "www.tajuxoa.com" static
+local-data: "www.tajuxoa.com A 127.0.0.1"
+local-zone: "www.takafi-diludi.pics" static
+local-data: "www.takafi-diludi.pics A 127.0.0.1"
+local-zone: "www.takano-sekai.blogspot.com" static
+local-data: "www.takano-sekai.blogspot.com A 127.0.0.1"
+local-zone: "www.takaze-wareso.site" static
+local-data: "www.takaze-wareso.site A 127.0.0.1"
+local-zone: "www.takecheckercret.world" static
+local-data: "www.takecheckercret.world A 127.0.0.1"
+local-zone: "www.takemyclassesdone.com" static
+local-data: "www.takemyclassesdone.com A 127.0.0.1"
+local-zone: "www.takeoutgenie.com" static
+local-data: "www.takeoutgenie.com A 127.0.0.1"
+local-zone: "www.takeowiyt.pro" static
+local-data: "www.takeowiyt.pro A 127.0.0.1"
+local-zone: "www.takilunga.xyz" static
+local-data: "www.takilunga.xyz A 127.0.0.1"
+local-zone: "www.takingpolicy.org" static
+local-data: "www.takingpolicy.org A 127.0.0.1"
+local-zone: "www.taklosninger-norge.com" static
+local-data: "www.taklosninger-norge.com A 127.0.0.1"
+local-zone: "www.taklufah.com" static
+local-data: "www.taklufah.com A 127.0.0.1"
+local-zone: "www.takosfritten.com" static
+local-data: "www.takosfritten.com A 127.0.0.1"
+local-zone: "www.taktikyverix.net" static
+local-data: "www.taktikyverix.net A 127.0.0.1"
+local-zone: "www.takvimvetarih.com" static
+local-data: "www.takvimvetarih.com A 127.0.0.1"
+local-zone: "www.takweenalwatan.com" static
+local-data: "www.takweenalwatan.com A 127.0.0.1"
+local-zone: "www.talaisib.com" static
+local-data: "www.talaisib.com A 127.0.0.1"
+local-zone: "www.talasfundex.com" static
+local-data: "www.talasfundex.com A 127.0.0.1"
+local-zone: "www.talasnovigo.pro" static
+local-data: "www.talasnovigo.pro A 127.0.0.1"
+local-zone: "www.talastaseries.com" static
+local-data: "www.talastaseries.com A 127.0.0.1"
+local-zone: "www.tale-eonflux.top" static
+local-data: "www.tale-eonflux.top A 127.0.0.1"
+local-zone: "www.taleispro.com" static
+local-data: "www.taleispro.com A 127.0.0.1"
+local-zone: "www.talent-horizon-pl.works" static
+local-data: "www.talent-horizon-pl.works A 127.0.0.1"
+local-zone: "www.talent-map.info" static
+local-data: "www.talent-map.info A 127.0.0.1"
+local-zone: "www.talent-meetup.com" static
+local-data: "www.talent-meetup.com A 127.0.0.1"
+local-zone: "www.talentbroker.net" static
+local-data: "www.talentbroker.net A 127.0.0.1"
+local-zone: "www.talentedammonite.pro" static
+local-data: "www.talentedammonite.pro A 127.0.0.1"
+local-zone: "www.talentedcorgi.pro" static
+local-data: "www.talentedcorgi.pro A 127.0.0.1"
+local-zone: "www.talentedechidna.pro" static
+local-data: "www.talentedechidna.pro A 127.0.0.1"
+local-zone: "www.talentedfoxhound.pro" static
+local-data: "www.talentedfoxhound.pro A 127.0.0.1"
+local-zone: "www.talentedge.com.my" static
+local-data: "www.talentedge.com.my A 127.0.0.1"
+local-zone: "www.talentedguillemot.pro" static
+local-data: "www.talentedguillemot.pro A 127.0.0.1"
+local-zone: "www.talentedlobster.pro" static
+local-data: "www.talentedlobster.pro A 127.0.0.1"
+local-zone: "www.talentedlori.pro" static
+local-data: "www.talentedlori.pro A 127.0.0.1"
+local-zone: "www.talentedmammoth.pro" static
+local-data: "www.talentedmammoth.pro A 127.0.0.1"
+local-zone: "www.talentedmarten.pro" static
+local-data: "www.talentedmarten.pro A 127.0.0.1"
+local-zone: "www.talentedwolf.pro" static
+local-data: "www.talentedwolf.pro A 127.0.0.1"
+local-zone: "www.talentfacevn.com" static
+local-data: "www.talentfacevn.com A 127.0.0.1"
+local-zone: "www.talentoclickcards.com" static
+local-data: "www.talentoclickcards.com A 127.0.0.1"
+local-zone: "www.talergam.zone" static
+local-data: "www.talergam.zone A 127.0.0.1"
+local-zone: "www.taligi-yawivi.pics" static
+local-data: "www.taligi-yawivi.pics A 127.0.0.1"
+local-zone: "www.talion.co" static
+local-data: "www.talion.co A 127.0.0.1"
+local-zone: "www.talisunder.pro" static
+local-data: "www.talisunder.pro A 127.0.0.1"
+local-zone: "www.talitoledano.com" static
+local-data: "www.talitoledano.com A 127.0.0.1"
+local-zone: "www.talk0.cfd" static
+local-data: "www.talk0.cfd A 127.0.0.1"
+local-zone: "www.talk8.cfd" static
+local-data: "www.talk8.cfd A 127.0.0.1"
+local-zone: "www.talk99.cn" static
+local-data: "www.talk99.cn A 127.0.0.1"
+local-zone: "www.talkable.com" static
+local-data: "www.talkable.com A 127.0.0.1"
+local-zone: "www.talkabout-tech.com" static
+local-data: "www.talkabout-tech.com A 127.0.0.1"
+local-zone: "www.talkfhumdr.pro" static
+local-data: "www.talkfhumdr.pro A 127.0.0.1"
+local-zone: "www.talkgrit.com" static
+local-data: "www.talkgrit.com A 127.0.0.1"
+local-zone: "www.talkinggurus.com" static
+local-data: "www.talkinggurus.com A 127.0.0.1"
+local-zone: "www.talkingnibs.com" static
+local-data: "www.talkingnibs.com A 127.0.0.1"
+local-zone: "www.talkjpeanut.lat" static
+local-data: "www.talkjpeanut.lat A 127.0.0.1"
+local-zone: "www.talkpuppet.com" static
+local-data: "www.talkpuppet.com A 127.0.0.1"
+local-zone: "www.talkranke.vercel.app" static
+local-data: "www.talkranke.vercel.app A 127.0.0.1"
+local-zone: "www.talkshowhub.live" static
+local-data: "www.talkshowhub.live A 127.0.0.1"
+local-zone: "www.talksterz.com" static
+local-data: "www.talksterz.com A 127.0.0.1"
+local-zone: "www.talktexanbbq.com" static
+local-data: "www.talktexanbbq.com A 127.0.0.1"
+local-zone: "www.talktodoc.org" static
+local-data: "www.talktodoc.org A 127.0.0.1"
+local-zone: "www.talktrendmedia.com" static
+local-data: "www.talktrendmedia.com A 127.0.0.1"
+local-zone: "www.talkwa.pro" static
+local-data: "www.talkwa.pro A 127.0.0.1"
+local-zone: "www.tall-garden-little.on-fleek.app" static
+local-data: "www.tall-garden-little.on-fleek.app A 127.0.0.1"
+local-zone: "www.tallalligator.pro" static
+local-data: "www.tallalligator.pro A 127.0.0.1"
+local-zone: "www.tallammonite.pro" static
+local-data: "www.tallammonite.pro A 127.0.0.1"
+local-zone: "www.tallboy242.com" static
+local-data: "www.tallboy242.com A 127.0.0.1"
+local-zone: "www.tallchicken.pro" static
+local-data: "www.tallchicken.pro A 127.0.0.1"
+local-zone: "www.tallcopperhead.pro" static
+local-data: "www.tallcopperhead.pro A 127.0.0.1"
+local-zone: "www.talleagle.pro" static
+local-data: "www.talleagle.pro A 127.0.0.1"
+local-zone: "www.tallerarquitecturaciudad.com" static
+local-data: "www.tallerarquitecturaciudad.com A 127.0.0.1"
+local-zone: "www.tallerescraft.com" static
+local-data: "www.tallerescraft.com A 127.0.0.1"
+local-zone: "www.tallharrier.pro" static
+local-data: "www.tallharrier.pro A 127.0.0.1"
+local-zone: "www.talljackal.pro" static
+local-data: "www.talljackal.pro A 127.0.0.1"
+local-zone: "www.tallnautilus.pro" static
+local-data: "www.tallnautilus.pro A 127.0.0.1"
+local-zone: "www.tallogeiki.pro" static
+local-data: "www.tallogeiki.pro A 127.0.0.1"
+local-zone: "www.tallomissp.pro" static
+local-data: "www.tallomissp.pro A 127.0.0.1"
+local-zone: "www.tallori.cfd" static
+local-data: "www.tallori.cfd A 127.0.0.1"
+local-zone: "www.tallosussi.pro" static
+local-data: "www.tallosussi.pro A 127.0.0.1"
+local-zone: "www.tallpoodle.pro" static
+local-data: "www.tallpoodle.pro A 127.0.0.1"
+local-zone: "www.tallquail.pro" static
+local-data: "www.tallquail.pro A 127.0.0.1"
+local-zone: "www.tallraccoon.pro" static
+local-data: "www.tallraccoon.pro A 127.0.0.1"
+local-zone: "www.talltailsforpets.com" static
+local-data: "www.talltailsforpets.com A 127.0.0.1"
+local-zone: "www.talltermite.pro" static
+local-data: "www.talltermite.pro A 127.0.0.1"
+local-zone: "www.tallyride.com" static
+local-data: "www.tallyride.com A 127.0.0.1"
+local-zone: "www.talonextrader-83-core.com" static
+local-data: "www.talonextrader-83-core.com A 127.0.0.1"
+local-zone: "www.talonextrader-83core.com" static
+local-data: "www.talonextrader-83core.com A 127.0.0.1"
+local-zone: "www.talonextrader-83core.net" static
+local-data: "www.talonextrader-83core.net A 127.0.0.1"
+local-zone: "www.talonextrader83-core.com" static
+local-data: "www.talonextrader83-core.com A 127.0.0.1"
+local-zone: "www.talonextraderai.com" static
+local-data: "www.talonextraderai.com A 127.0.0.1"
+local-zone: "www.talonix-sphere.net" static
+local-data: "www.talonix-sphere.net A 127.0.0.1"
+local-zone: "www.talonixfunds.com" static
+local-data: "www.talonixfunds.com A 127.0.0.1"
+local-zone: "www.talonixtrader.net" static
+local-data: "www.talonixtrader.net A 127.0.0.1"
+local-zone: "www.talonixtrader85ai.com" static
+local-data: "www.talonixtrader85ai.com A 127.0.0.1"
+local-zone: "www.talonixvault.com" static
+local-data: "www.talonixvault.com A 127.0.0.1"
+local-zone: "www.taloswatch.com" static
+local-data: "www.taloswatch.com A 127.0.0.1"
+local-zone: "www.talvexor-trader-ai.com" static
+local-data: "www.talvexor-trader-ai.com A 127.0.0.1"
+local-zone: "www.talvexor-trader.com" static
+local-data: "www.talvexor-trader.com A 127.0.0.1"
+local-zone: "www.talvexortrader-app.com" static
+local-data: "www.talvexortrader-app.com A 127.0.0.1"
+local-zone: "www.talvexortrader39-titan.com" static
+local-data: "www.talvexortrader39-titan.com A 127.0.0.1"
+local-zone: "www.talvexortrader39-titan.net" static
+local-data: "www.talvexortrader39-titan.net A 127.0.0.1"
+local-zone: "www.talvexortrader39.com" static
+local-data: "www.talvexortrader39.com A 127.0.0.1"
+local-zone: "www.talvexortrader39titan.com" static
+local-data: "www.talvexortrader39titan.com A 127.0.0.1"
+local-zone: "www.tamanamp1.com" static
+local-data: "www.tamanamp1.com A 127.0.0.1"
+local-zone: "www.tamanamp10.com" static
+local-data: "www.tamanamp10.com A 127.0.0.1"
+local-zone: "www.tamanamp12.com" static
+local-data: "www.tamanamp12.com A 127.0.0.1"
+local-zone: "www.tamanamp13.com" static
+local-data: "www.tamanamp13.com A 127.0.0.1"
+local-zone: "www.tamanamp14.com" static
+local-data: "www.tamanamp14.com A 127.0.0.1"
+local-zone: "www.tamanamp2.com" static
+local-data: "www.tamanamp2.com A 127.0.0.1"
+local-zone: "www.tamanamp8.com" static
+local-data: "www.tamanamp8.com A 127.0.0.1"
+local-zone: "www.tamanamp9.com" static
+local-data: "www.tamanamp9.com A 127.0.0.1"
+local-zone: "www.tamanbungaamp1.com" static
+local-data: "www.tamanbungaamp1.com A 127.0.0.1"
+local-zone: "www.tamanbungaamp2.com" static
+local-data: "www.tamanbungaamp2.com A 127.0.0.1"
+local-zone: "www.tamanbungaamp3.com" static
+local-data: "www.tamanbungaamp3.com A 127.0.0.1"
+local-zone: "www.tamanbungaamp4.com" static
+local-data: "www.tamanbungaamp4.com A 127.0.0.1"
+local-zone: "www.tamaneden.com" static
+local-data: "www.tamaneden.com A 127.0.0.1"
+local-zone: "www.tamangrocer.com" static
+local-data: "www.tamangrocer.com A 127.0.0.1"
+local-zone: "www.tambometap.pro" static
+local-data: "www.tambometap.pro A 127.0.0.1"
+local-zone: "www.tambuhevd.pro" static
+local-data: "www.tambuhevd.pro A 127.0.0.1"
+local-zone: "www.tameburs.info" static
+local-data: "www.tameburs.info A 127.0.0.1"
+local-zone: "www.tamelalerma.website" static
+local-data: "www.tamelalerma.website A 127.0.0.1"
+local-zone: "www.tamgrt.com" static
+local-data: "www.tamgrt.com A 127.0.0.1"
+local-zone: "www.tamidoe4.pro" static
+local-data: "www.tamidoe4.pro A 127.0.0.1"
+local-zone: "www.tamilvadai.com" static
+local-data: "www.tamilvadai.com A 127.0.0.1"
+local-zone: "www.tamim-autoverkauf.com" static
+local-data: "www.tamim-autoverkauf.com A 127.0.0.1"
+local-zone: "www.tamitamashiro.com" static
+local-data: "www.tamitamashiro.com A 127.0.0.1"
+local-zone: "www.tamizhanetwork.com" static
+local-data: "www.tamizhanetwork.com A 127.0.0.1"
+local-zone: "www.tamjuro.pics" static
+local-data: "www.tamjuro.pics A 127.0.0.1"
+local-zone: "www.tammy3110.com" static
+local-data: "www.tammy3110.com A 127.0.0.1"
+local-zone: "www.tamodye.info" static
+local-data: "www.tamodye.info A 127.0.0.1"
+local-zone: "www.tampabaydeviance.net" static
+local-data: "www.tampabaydeviance.net A 127.0.0.1"
+local-zone: "www.tampabayhomesrealty.com" static
+local-data: "www.tampabayhomesrealty.com A 127.0.0.1"
+local-zone: "www.tampbaycabinets.com" static
+local-data: "www.tampbaycabinets.com A 127.0.0.1"
+local-zone: "www.tampisuper.pro" static
+local-data: "www.tampisuper.pro A 127.0.0.1"
+local-zone: "www.tamporinca.pro" static
+local-data: "www.tamporinca.pro A 127.0.0.1"
+local-zone: "www.tamszumerle.pro" static
+local-data: "www.tamszumerle.pro A 127.0.0.1"
+local-zone: "www.tamtumibericos.com" static
+local-data: "www.tamtumibericos.com A 127.0.0.1"
+local-zone: "www.tan-comet-scale.glitch.me" static
+local-data: "www.tan-comet-scale.glitch.me A 127.0.0.1"
+local-zone: "www.tanageteri.pro" static
+local-data: "www.tanageteri.pro A 127.0.0.1"
+local-zone: "www.tanagradie.com" static
+local-data: "www.tanagradie.com A 127.0.0.1"
+local-zone: "www.tanavabit.com" static
+local-data: "www.tanavabit.com A 127.0.0.1"
+local-zone: "www.tanavocet.pro" static
+local-data: "www.tanavocet.pro A 127.0.0.1"
+local-zone: "www.tanchamois.pro" static
+local-data: "www.tanchamois.pro A 127.0.0.1"
+local-zone: "www.tancrane.pro" static
+local-data: "www.tancrane.pro A 127.0.0.1"
+local-zone: "www.tandceasy.com" static
+local-data: "www.tandceasy.com A 127.0.0.1"
+local-zone: "www.tanfasupra.pro" static
+local-data: "www.tanfasupra.pro A 127.0.0.1"
+local-zone: "www.tangarealestate.com" static
+local-data: "www.tangarealestate.com A 127.0.0.1"
+local-zone: "www.tanger.com.br" static
+local-data: "www.tanger.com.br A 127.0.0.1"
+local-zone: "www.tangerconference.com" static
+local-data: "www.tangerconference.com A 127.0.0.1"
+local-zone: "www.tangerineant.pro" static
+local-data: "www.tangerineant.pro A 127.0.0.1"
+local-zone: "www.tangerineara.pro" static
+local-data: "www.tangerineara.pro A 127.0.0.1"
+local-zone: "www.tangerinechowchow.pro" static
+local-data: "www.tangerinechowchow.pro A 127.0.0.1"
+local-zone: "www.tangerinehusky.pro" static
+local-data: "www.tangerinehusky.pro A 127.0.0.1"
+local-zone: "www.tangerinehyrax.pro" static
+local-data: "www.tangerinehyrax.pro A 127.0.0.1"
+local-zone: "www.tangerinekangaroo.pro" static
+local-data: "www.tangerinekangaroo.pro A 127.0.0.1"
+local-zone: "www.tangerinemarmot.pro" static
+local-data: "www.tangerinemarmot.pro A 127.0.0.1"
+local-zone: "www.tangersadferon.top" static
+local-data: "www.tangersadferon.top A 127.0.0.1"
+local-zone: "www.tangesongh.pro" static
+local-data: "www.tangesongh.pro A 127.0.0.1"
+local-zone: "www.tangeunrep.pro" static
+local-data: "www.tangeunrep.pro A 127.0.0.1"
+local-zone: "www.tanghbassu.pro" static
+local-data: "www.tanghbassu.pro A 127.0.0.1"
+local-zone: "www.tangiblebutterfly.pro" static
+local-data: "www.tangiblebutterfly.pro A 127.0.0.1"
+local-zone: "www.tangiblechital.pro" static
+local-data: "www.tangiblechital.pro A 127.0.0.1"
+local-zone: "www.tangiblekiwi.pro" static
+local-data: "www.tangiblekiwi.pro A 127.0.0.1"
+local-zone: "www.tangibleoxpecker.pro" static
+local-data: "www.tangibleoxpecker.pro A 127.0.0.1"
+local-zone: "www.tangibleplatypus.pro" static
+local-data: "www.tangibleplatypus.pro A 127.0.0.1"
+local-zone: "www.tangiblerottweiler.pro" static
+local-data: "www.tangiblerottweiler.pro A 127.0.0.1"
+local-zone: "www.tangibletuna.pro" static
+local-data: "www.tangibletuna.pro A 127.0.0.1"
+local-zone: "www.tangiblewhale.pro" static
+local-data: "www.tangiblewhale.pro A 127.0.0.1"
+local-zone: "www.tangletex.com" static
+local-data: "www.tangletex.com A 127.0.0.1"
+local-zone: "www.tangling.info" static
+local-data: "www.tangling.info A 127.0.0.1"
+local-zone: "www.tangoltd.com" static
+local-data: "www.tangoltd.com A 127.0.0.1"
+local-zone: "www.tangstrounces.com" static
+local-data: "www.tangstrounces.com A 127.0.0.1"
+local-zone: "www.tanhyena.pro" static
+local-data: "www.tanhyena.pro A 127.0.0.1"
+local-zone: "www.taniabenitocoach.com" static
+local-data: "www.taniabenitocoach.com A 127.0.0.1"
+local-zone: "www.taniemedia.pl" static
+local-data: "www.taniemedia.pl A 127.0.0.1"
+local-zone: "www.tanietesteryperfum.pl" static
+local-data: "www.tanietesteryperfum.pl A 127.0.0.1"
+local-zone: "www.taniodrewno.shop" static
+local-data: "www.taniodrewno.shop A 127.0.0.1"
+local-zone: "www.tanja-christina.blogspot.com" static
+local-data: "www.tanja-christina.blogspot.com A 127.0.0.1"
+local-zone: "www.tanjamiletic.com" static
+local-data: "www.tanjamiletic.com A 127.0.0.1"
+local-zone: "www.tank3pull.com" static
+local-data: "www.tank3pull.com A 127.0.0.1"
+local-zone: "www.tankaco.com" static
+local-data: "www.tankaco.com A 127.0.0.1"
+local-zone: "www.tankeogteknikk.no" static
+local-data: "www.tankeogteknikk.no A 127.0.0.1"
+local-zone: "www.tankerdewa.com" static
+local-data: "www.tankerdewa.com A 127.0.0.1"
+local-zone: "www.tanklriagg.pro" static
+local-data: "www.tanklriagg.pro A 127.0.0.1"
+local-zone: "www.tannaouze.com" static
+local-data: "www.tannaouze.com A 127.0.0.1"
+local-zone: "www.tanningrochester.com" static
+local-data: "www.tanningrochester.com A 127.0.0.1"
+local-zone: "www.tanningsalonbroward.com" static
+local-data: "www.tanningsalonbroward.com A 127.0.0.1"
+local-zone: "www.tanningwichita.com" static
+local-data: "www.tanningwichita.com A 127.0.0.1"
+local-zone: "www.tannismott.pro" static
+local-data: "www.tannismott.pro A 127.0.0.1"
+local-zone: "www.tannoer.top" static
+local-data: "www.tannoer.top A 127.0.0.1"
+local-zone: "www.tanpelican.pro" static
+local-data: "www.tanpelican.pro A 127.0.0.1"
+local-zone: "www.tanrange.com" static
+local-data: "www.tanrange.com A 127.0.0.1"
+local-zone: "www.tansrimichelleyeoh.com" static
+local-data: "www.tansrimichelleyeoh.com A 127.0.0.1"
+local-zone: "www.tantaetnol.pro" static
+local-data: "www.tantaetnol.pro A 127.0.0.1"
+local-zone: "www.tantahecto.pro" static
+local-data: "www.tantahecto.pro A 127.0.0.1"
+local-zone: "www.tantricdeluxemassage.com" static
+local-data: "www.tantricdeluxemassage.com A 127.0.0.1"
+local-zone: "www.tanvidrolexumapo.space" static
+local-data: "www.tanvidrolexumapo.space A 127.0.0.1"
+local-zone: "www.tanycyy.com" static
+local-data: "www.tanycyy.com A 127.0.0.1"
+local-zone: "www.tanzeelonlinequranacademy.com" static
+local-data: "www.tanzeelonlinequranacademy.com A 127.0.0.1"
+local-zone: "www.tao123.com" static
+local-data: "www.tao123.com A 127.0.0.1"
+local-zone: "www.taoiscorba.pro" static
+local-data: "www.taoiscorba.pro A 127.0.0.1"
+local-zone: "www.taoist-books.online" static
+local-data: "www.taoist-books.online A 127.0.0.1"
+local-zone: "www.taolds.digital" static
+local-data: "www.taolds.digital A 127.0.0.1"
+local-zone: "www.tap-o-noth-holidays.com" static
+local-data: "www.tap-o-noth-holidays.com A 127.0.0.1"
+local-zone: "www.tap-reward.info" static
+local-data: "www.tap-reward.info A 127.0.0.1"
+local-zone: "www.tap2611hoc.cc" static
+local-data: "www.tap2611hoc.cc A 127.0.0.1"
+local-zone: "www.tap2614qrc.cc" static
+local-data: "www.tap2614qrc.cc A 127.0.0.1"
+local-zone: "www.tap2616wck.cc" static
+local-data: "www.tap2616wck.cc A 127.0.0.1"
+local-zone: "www.tap26214vb.cc" static
+local-data: "www.tap26214vb.cc A 127.0.0.1"
+local-zone: "www.tap26566d0.cc" static
+local-data: "www.tap26566d0.cc A 127.0.0.1"
+local-zone: "www.tap2658vij.cc" static
+local-data: "www.tap2658vij.cc A 127.0.0.1"
+local-zone: "www.tap2665h2t.cc" static
+local-data: "www.tap2665h2t.cc A 127.0.0.1"
+local-zone: "www.tap26807pw.cc" static
+local-data: "www.tap26807pw.cc A 127.0.0.1"
+local-zone: "www.tap2729p75.cc" static
+local-data: "www.tap2729p75.cc A 127.0.0.1"
+local-zone: "www.tap2768qrf.cc" static
+local-data: "www.tap2768qrf.cc A 127.0.0.1"
+local-zone: "www.tap27961th.cc" static
+local-data: "www.tap27961th.cc A 127.0.0.1"
+local-zone: "www.tap28353xv.cc" static
+local-data: "www.tap28353xv.cc A 127.0.0.1"
+local-zone: "www.tapascesar.com" static
+local-data: "www.tapascesar.com A 127.0.0.1"
+local-zone: "www.tapboost.click" static
+local-data: "www.tapboost.click A 127.0.0.1"
+local-zone: "www.tapdhomeo.pro" static
+local-data: "www.tapdhomeo.pro A 127.0.0.1"
+local-zone: "www.tapecu-tuzuwi.site" static
+local-data: "www.tapecu-tuzuwi.site A 127.0.0.1"
+local-zone: "www.tapernemat.pro" static
+local-data: "www.tapernemat.pro A 127.0.0.1"
+local-zone: "www.tapindrena.pro" static
+local-data: "www.tapindrena.pro A 127.0.0.1"
+local-zone: "www.tapinpubbl.pro" static
+local-data: "www.tapinpubbl.pro A 127.0.0.1"
+local-zone: "www.tapirberyc.pro" static
+local-data: "www.tapirberyc.pro A 127.0.0.1"
+local-zone: "www.tapliqo.sbs" static
+local-data: "www.tapliqo.sbs A 127.0.0.1"
+local-zone: "www.tapmemory.lat" static
+local-data: "www.tapmemory.lat A 127.0.0.1"
+local-zone: "www.tapnews.life" static
+local-data: "www.tapnews.life A 127.0.0.1"
+local-zone: "www.tappabelie.pro" static
+local-data: "www.tappabelie.pro A 127.0.0.1"
+local-zone: "www.tappeassir.pro" static
+local-data: "www.tappeassir.pro A 127.0.0.1"
+local-zone: "www.tappelous.pro" static
+local-data: "www.tappelous.pro A 127.0.0.1"
+local-zone: "www.tapresearch.com" static
+local-data: "www.tapresearch.com A 127.0.0.1"
+local-zone: "www.tapsacrosstown.com" static
+local-data: "www.tapsacrosstown.com A 127.0.0.1"
+local-zone: "www.taptappays.com" static
+local-data: "www.taptappays.com A 127.0.0.1"
+local-zone: "www.taqra.com" static
+local-data: "www.taqra.com A 127.0.0.1"
+local-zone: "www.taqueriajessicawa.com" static
+local-data: "www.taqueriajessicawa.com A 127.0.0.1"
+local-zone: "www.taqueriasantamonica.com" static
+local-data: "www.taqueriasantamonica.com A 127.0.0.1"
+local-zone: "www.taquseo.com" static
+local-data: "www.taquseo.com A 127.0.0.1"
+local-zone: "www.tara-dimaggio-design.top" static
+local-data: "www.tara-dimaggio-design.top A 127.0.0.1"
+local-zone: "www.tarabesame.pro" static
+local-data: "www.tarabesame.pro A 127.0.0.1"
+local-zone: "www.taracomgroup.com" static
+local-data: "www.taracomgroup.com A 127.0.0.1"
+local-zone: "www.taraful.com" static
+local-data: "www.taraful.com A 127.0.0.1"
+local-zone: "www.taragon-opulon-ai.net" static
+local-data: "www.taragon-opulon-ai.net A 127.0.0.1"
+local-zone: "www.tarandka.com" static
+local-data: "www.tarandka.com A 127.0.0.1"
+local-zone: "www.tarapsatin.pro" static
+local-data: "www.tarapsatin.pro A 127.0.0.1"
+local-zone: "www.tarasowystyl.shop" static
+local-data: "www.tarasowystyl.shop A 127.0.0.1"
+local-zone: "www.taravindolupaxomensil.store" static
+local-data: "www.taravindolupaxomensil.store A 127.0.0.1"
+local-zone: "www.taraxinol-new.org" static
+local-data: "www.taraxinol-new.org A 127.0.0.1"
+local-zone: "www.tarbinox.online" static
+local-data: "www.tarbinox.online A 127.0.0.1"
+local-zone: "www.tarcresira.click" static
+local-data: "www.tarcresira.click A 127.0.0.1"
+local-zone: "www.tarcresira.quest" static
+local-data: "www.tarcresira.quest A 127.0.0.1"
+local-zone: "www.tardaxanto.pro" static
+local-data: "www.tardaxanto.pro A 127.0.0.1"
+local-zone: "www.tardelapid.pro" static
+local-data: "www.tardelapid.pro A 127.0.0.1"
+local-zone: "www.tardexius-ai-gpt.com" static
+local-data: "www.tardexius-ai-gpt.com A 127.0.0.1"
+local-zone: "www.tardexiusai.net" static
+local-data: "www.tardexiusai.net A 127.0.0.1"
+local-zone: "www.tardexiusaigpt.net" static
+local-data: "www.tardexiusaigpt.net A 127.0.0.1"
+local-zone: "www.tardianyth.pro" static
+local-data: "www.tardianyth.pro A 127.0.0.1"
+local-zone: "www.taread.pro" static
+local-data: "www.taread.pro A 127.0.0.1"
+local-zone: "www.tareekalfalak.com" static
+local-data: "www.tareekalfalak.com A 127.0.0.1"
+local-zone: "www.targ-cmp.top" static
+local-data: "www.targ-cmp.top A 127.0.0.1"
+local-zone: "www.targ-wrk.top" static
+local-data: "www.targ-wrk.top A 127.0.0.1"
+local-zone: "www.targadsz.top" static
+local-data: "www.targadsz.top A 127.0.0.1"
+local-zone: "www.targcamp.xyz" static
+local-data: "www.targcamp.xyz A 127.0.0.1"
+local-zone: "www.targdecraciun.com" static
+local-data: "www.targdecraciun.com A 127.0.0.1"
+local-zone: "www.target-darts.shop" static
+local-data: "www.target-darts.shop A 127.0.0.1"
+local-zone: "www.targetarrows.sbs" static
+local-data: "www.targetarrows.sbs A 127.0.0.1"
+local-zone: "www.targetedclicktraffic.com" static
+local-data: "www.targetedclicktraffic.com A 127.0.0.1"
+local-zone: "www.targetedforce.stavetechnology.com" static
+local-data: "www.targetedforce.stavetechnology.com A 127.0.0.1"
+local-zone: "www.targeteyewear.com" static
+local-data: "www.targeteyewear.com A 127.0.0.1"
+local-zone: "www.targetmarketingpty.com" static
+local-data: "www.targetmarketingpty.com A 127.0.0.1"
+local-zone: "www.targetnumberone.com" static
+local-data: "www.targetnumberone.com A 127.0.0.1"
+local-zone: "www.targetplus8.sbs" static
+local-data: "www.targetplus8.sbs A 127.0.0.1"
+local-zone: "www.targetsekutu.com" static
+local-data: "www.targetsekutu.com A 127.0.0.1"
+local-zone: "www.targpro.top" static
+local-data: "www.targpro.top A 127.0.0.1"
+local-zone: "www.targuslock.com" static
+local-data: "www.targuslock.com A 127.0.0.1"
+local-zone: "www.targwrk.top" static
+local-data: "www.targwrk.top A 127.0.0.1"
+local-zone: "www.tarifaabsolute.com" static
+local-data: "www.tarifaabsolute.com A 127.0.0.1"
+local-zone: "www.tarifaessential.com" static
+local-data: "www.tarifaessential.com A 127.0.0.1"
+local-zone: "www.tarifaoldtown.com" static
+local-data: "www.tarifaoldtown.com A 127.0.0.1"
+local-zone: "www.tariffs-ai.com" static
+local-data: "www.tariffs-ai.com A 127.0.0.1"
+local-zone: "www.tarifunwei.pro" static
+local-data: "www.tarifunwei.pro A 127.0.0.1"
+local-zone: "www.tarikhdan.org" static
+local-data: "www.tarikhdan.org A 127.0.0.1"
+local-zone: "www.tarimasac6.com" static
+local-data: "www.tarimasac6.com A 127.0.0.1"
+local-zone: "www.tarinu-moxuja.sbs" static
+local-data: "www.tarinu-moxuja.sbs A 127.0.0.1"
+local-zone: "www.tariogerivawila8ro.online" static
+local-data: "www.tariogerivawila8ro.online A 127.0.0.1"
+local-zone: "www.tariqon-sync-gpt.com" static
+local-data: "www.tariqon-sync-gpt.com A 127.0.0.1"
+local-zone: "www.tariqonsyncgptapp.com" static
+local-data: "www.tariqonsyncgptapp.com A 127.0.0.1"
+local-zone: "www.tariuniverse.com" static
+local-data: "www.tariuniverse.com A 127.0.0.1"
+local-zone: "www.tark-inc.com" static
+local-data: "www.tark-inc.com A 127.0.0.1"
+local-zone: "www.tarmaabeya.pro" static
+local-data: "www.tarmaabeya.pro A 127.0.0.1"
+local-zone: "www.tarmex.zone" static
+local-data: "www.tarmex.zone A 127.0.0.1"
+local-zone: "www.tarminomb.pro" static
+local-data: "www.tarminomb.pro A 127.0.0.1"
+local-zone: "www.tarmolinavexupq8h25.space" static
+local-data: "www.tarmolinavexupq8h25.space A 127.0.0.1"
+local-zone: "www.tarnuvolab.com" static
+local-data: "www.tarnuvolab.com A 127.0.0.1"
+local-zone: "www.tarocchied.pro" static
+local-data: "www.tarocchied.pro A 127.0.0.1"
+local-zone: "www.taroconsp.pro" static
+local-data: "www.taroconsp.pro A 127.0.0.1"
+local-zone: "www.tarocsmoke.pro" static
+local-data: "www.tarocsmoke.pro A 127.0.0.1"
+local-zone: "www.tarokabazar.com" static
+local-data: "www.tarokabazar.com A 127.0.0.1"
+local-zone: "www.taronel.com" static
+local-data: "www.taronel.com A 127.0.0.1"
+local-zone: "www.tarostrade.net" static
+local-data: "www.tarostrade.net A 127.0.0.1"
+local-zone: "www.tarotharmony.com" static
+local-data: "www.tarotharmony.com A 127.0.0.1"
+local-zone: "www.tarpedispa.pro" static
+local-data: "www.tarpedispa.pro A 127.0.0.1"
+local-zone: "www.tarpolux-app.com" static
+local-data: "www.tarpolux-app.com A 127.0.0.1"
+local-zone: "www.tarquenthilo.com" static
+local-data: "www.tarquenthilo.com A 127.0.0.1"
+local-zone: "www.tarragonaenreformas.com" static
+local-data: "www.tarragonaenreformas.com A 127.0.0.1"
+local-zone: "www.tarrytownfilmfestival.com" static
+local-data: "www.tarrytownfilmfestival.com A 127.0.0.1"
+local-zone: "www.tarsirinas.pro" static
+local-data: "www.tarsirinas.pro A 127.0.0.1"
+local-zone: "www.tartagragn.pro" static
+local-data: "www.tartagragn.pro A 127.0.0.1"
+local-zone: "www.tartalata.com" static
+local-data: "www.tartalata.com A 127.0.0.1"
+local-zone: "www.tartaletki-klubnika.com" static
+local-data: "www.tartaletki-klubnika.com A 127.0.0.1"
+local-zone: "www.tartidisca.pro" static
+local-data: "www.tartidisca.pro A 127.0.0.1"
+local-zone: "www.tartlmembr.pro" static
+local-data: "www.tartlmembr.pro A 127.0.0.1"
+local-zone: "www.tartrmesax.pro" static
+local-data: "www.tartrmesax.pro A 127.0.0.1"
+local-zone: "www.tartrtenzo.pro" static
+local-data: "www.tartrtenzo.pro A 127.0.0.1"
+local-zone: "www.taruhantoto01.net" static
+local-data: "www.taruhantoto01.net A 127.0.0.1"
+local-zone: "www.tarumi-taisaku.xyz" static
+local-data: "www.tarumi-taisaku.xyz A 127.0.0.1"
+local-zone: "www.tasarimbul.com" static
+local-data: "www.tasarimbul.com A 127.0.0.1"
+local-zone: "www.taschenwelt-geisler.xyz" static
+local-data: "www.taschenwelt-geisler.xyz A 127.0.0.1"
+local-zone: "www.task-result-writer.vercel.app" static
+local-data: "www.task-result-writer.vercel.app A 127.0.0.1"
+local-zone: "www.task52trackaccess.space" static
+local-data: "www.task52trackaccess.space A 127.0.0.1"
+local-zone: "www.task8.space" static
+local-data: "www.task8.space A 127.0.0.1"
+local-zone: "www.taskandpurpose.icu" static
+local-data: "www.taskandpurpose.icu A 127.0.0.1"
+local-zone: "www.taskbitf.top" static
+local-data: "www.taskbitf.top A 127.0.0.1"
+local-zone: "www.taskbitl.top" static
+local-data: "www.taskbitl.top A 127.0.0.1"
+local-zone: "www.taskbitn.top" static
+local-data: "www.taskbitn.top A 127.0.0.1"
+local-zone: "www.taskbity.top" static
+local-data: "www.taskbity.top A 127.0.0.1"
+local-zone: "www.taskblockh.top" static
+local-data: "www.taskblockh.top A 127.0.0.1"
+local-zone: "www.taskblockt.top" static
+local-data: "www.taskblockt.top A 127.0.0.1"
+local-zone: "www.taskblocky.top" static
+local-data: "www.taskblocky.top A 127.0.0.1"
+local-zone: "www.taskbyte.sbs" static
+local-data: "www.taskbyte.sbs A 127.0.0.1"
+local-zone: "www.taskcashn.top" static
+local-data: "www.taskcashn.top A 127.0.0.1"
+local-zone: "www.taskcashq.xyz" static
+local-data: "www.taskcashq.xyz A 127.0.0.1"
+local-zone: "www.taskchainw.top" static
+local-data: "www.taskchainw.top A 127.0.0.1"
+local-zone: "www.taskco1ntrolunit.online" static
+local-data: "www.taskco1ntrolunit.online A 127.0.0.1"
+local-zone: "www.taskcoinj.top" static
+local-data: "www.taskcoinj.top A 127.0.0.1"
+local-zone: "www.taskcoinr.top" static
+local-data: "www.taskcoinr.top A 127.0.0.1"
+local-zone: "www.taskconnectunit.online" static
+local-data: "www.taskconnectunit.online A 127.0.0.1"
+local-zone: "www.taskcrafty.top" static
+local-data: "www.taskcrafty.top A 127.0.0.1"
+local-zone: "www.taskdropc.top" static
+local-data: "www.taskdropc.top A 127.0.0.1"
+local-zone: "www.taskdropf.xyz" static
+local-data: "www.taskdropf.xyz A 127.0.0.1"
+local-zone: "www.taskdropj.top" static
+local-data: "www.taskdropj.top A 127.0.0.1"
+local-zone: "www.taskdropk.top" static
+local-data: "www.taskdropk.top A 127.0.0.1"
+local-zone: "www.taskdropl.top" static
+local-data: "www.taskdropl.top A 127.0.0.1"
+local-zone: "www.taskdropr.top" static
+local-data: "www.taskdropr.top A 127.0.0.1"
+local-zone: "www.taskdropv.top" static
+local-data: "www.taskdropv.top A 127.0.0.1"
+local-zone: "www.taskdropw.xyz" static
+local-data: "www.taskdropw.xyz A 127.0.0.1"
+local-zone: "www.taskdropz.top" static
+local-data: "www.taskdropz.top A 127.0.0.1"
+local-zone: "www.taskdropz.xyz" static
+local-data: "www.taskdropz.xyz A 127.0.0.1"
+local-zone: "www.taskexl.top" static
+local-data: "www.taskexl.top A 127.0.0.1"
+local-zone: "www.taskexy.top" static
+local-data: "www.taskexy.top A 127.0.0.1"
+local-zone: "www.taskflow2go.store" static
+local-data: "www.taskflow2go.store A 127.0.0.1"
+local-zone: "www.taskflown.top" static
+local-data: "www.taskflown.top A 127.0.0.1"
+local-zone: "www.taskflowr.xyz" static
+local-data: "www.taskflowr.xyz A 127.0.0.1"
+local-zone: "www.taskflowv.top" static
+local-data: "www.taskflowv.top A 127.0.0.1"
+local-zone: "www.taskforceorange.com" static
+local-data: "www.taskforceorange.com A 127.0.0.1"
+local-zone: "www.taskforgep.top" static
+local-data: "www.taskforgep.top A 127.0.0.1"
+local-zone: "www.taskforger.top" static
+local-data: "www.taskforger.top A 127.0.0.1"
+local-zone: "www.taskform.icu" static
+local-data: "www.taskform.icu A 127.0.0.1"
+local-zone: "www.taskformc.top" static
+local-data: "www.taskformc.top A 127.0.0.1"
+local-zone: "www.taskformf.xyz" static
+local-data: "www.taskformf.xyz A 127.0.0.1"
+local-zone: "www.taskformj.top" static
+local-data: "www.taskformj.top A 127.0.0.1"
+local-zone: "www.taskframeeng7ine.store" static
+local-data: "www.taskframeeng7ine.store A 127.0.0.1"
+local-zone: "www.taskfusionc06lick.online" static
+local-data: "www.taskfusionc06lick.online A 127.0.0.1"
+local-zone: "www.taskgatel.xyz" static
+local-data: "www.taskgatel.xyz A 127.0.0.1"
+local-zone: "www.taskgenix208lab.online" static
+local-data: "www.taskgenix208lab.online A 127.0.0.1"
+local-zone: "www.taskglobalaccess.space" static
+local-data: "www.taskglobalaccess.space A 127.0.0.1"
+local-zone: "www.taskglobalcontro8l.online" static
+local-data: "www.taskglobalcontro8l.online A 127.0.0.1"
+local-zone: "www.taskglobalfusion.space" static
+local-data: "www.taskglobalfusion.space A 127.0.0.1"
+local-zone: "www.taskglobalvau90lt.store" static
+local-data: "www.taskglobalvau90lt.store A 127.0.0.1"
+local-zone: "www.taskgridj.top" static
+local-data: "www.taskgridj.top A 127.0.0.1"
+local-zone: "www.taskgridn.top" static
+local-data: "www.taskgridn.top A 127.0.0.1"
+local-zone: "www.taskgridp.top" static
+local-data: "www.taskgridp.top A 127.0.0.1"
+local-zone: "www.taskgridr.top" static
+local-data: "www.taskgridr.top A 127.0.0.1"
+local-zone: "www.taskgridr.xyz" static
+local-data: "www.taskgridr.xyz A 127.0.0.1"
+local-zone: "www.taskgridx.top" static
+local-data: "www.taskgridx.top A 127.0.0.1"
+local-zone: "www.taskgridy.top" static
+local-data: "www.taskgridy.top A 127.0.0.1"
+local-zone: "www.taskhashm.top" static
+local-data: "www.taskhashm.top A 127.0.0.1"
+local-zone: "www.taskhivey.com" static
+local-data: "www.taskhivey.com A 127.0.0.1"
+local-zone: "www.taskholdj.top" static
+local-data: "www.taskholdj.top A 127.0.0.1"
+local-zone: "www.taskholdl.top" static
+local-data: "www.taskholdl.top A 127.0.0.1"
+local-zone: "www.taskholdw.top" static
+local-data: "www.taskholdw.top A 127.0.0.1"
+local-zone: "www.taskholdx.top" static
+local-data: "www.taskholdx.top A 127.0.0.1"
+local-zone: "www.taskjumpk.top" static
+local-data: "www.taskjumpk.top A 127.0.0.1"
+local-zone: "www.taskjumpt.top" static
+local-data: "www.taskjumpt.top A 127.0.0.1"
+local-zone: "www.taskjumpt.xyz" static
+local-data: "www.taskjumpt.xyz A 127.0.0.1"
+local-zone: "www.taskjumpw.top" static
+local-data: "www.taskjumpw.top A 127.0.0.1"
+local-zone: "www.taskjumpz.top" static
+local-data: "www.taskjumpz.top A 127.0.0.1"
+local-zone: "www.tasklinkc.top" static
+local-data: "www.tasklinkc.top A 127.0.0.1"
+local-zone: "www.tasklinkl.xyz" static
+local-data: "www.tasklinkl.xyz A 127.0.0.1"
+local-zone: "www.tasklinkm.top" static
+local-data: "www.tasklinkm.top A 127.0.0.1"
+local-zone: "www.tasklinkr.top" static
+local-data: "www.tasklinkr.top A 127.0.0.1"
+local-zone: "www.tasklinkw.top" static
+local-data: "www.tasklinkw.top A 127.0.0.1"
+local-zone: "www.tasklinkw.xyz" static
+local-data: "www.tasklinkw.xyz A 127.0.0.1"
+local-zone: "www.tasklinkx.top" static
+local-data: "www.tasklinkx.top A 127.0.0.1"
+local-zone: "www.taskloady.top" static
+local-data: "www.taskloady.top A 127.0.0.1"
+local-zone: "www.tasklynxr.top" static
+local-data: "www.tasklynxr.top A 127.0.0.1"
+local-zone: "www.tasklynxv.top" static
+local-data: "www.tasklynxv.top A 127.0.0.1"
+local-zone: "www.taskmedia55vision.online" static
+local-data: "www.taskmedia55vision.online A 127.0.0.1"
+local-zone: "www.taskmintp.xyz" static
+local-data: "www.taskmintp.xyz A 127.0.0.1"
+local-zone: "www.taskmintr.top" static
+local-data: "www.taskmintr.top A 127.0.0.1"
+local-zone: "www.taskmintt.top" static
+local-data: "www.taskmintt.top A 127.0.0.1"
+local-zone: "www.taskmintv.top" static
+local-data: "www.taskmintv.top A 127.0.0.1"
+local-zone: "www.taskminty.top" static
+local-data: "www.taskminty.top A 127.0.0.1"
+local-zone: "www.taskmovel.xyz" static
+local-data: "www.taskmovel.xyz A 127.0.0.1"
+local-zone: "www.taskmoven.top" static
+local-data: "www.taskmoven.top A 127.0.0.1"
+local-zone: "www.taskmovez.top" static
+local-data: "www.taskmovez.top A 127.0.0.1"
+local-zone: "www.tasknexr.top" static
+local-data: "www.tasknexr.top A 127.0.0.1"
+local-zone: "www.tasknexy.top" static
+local-data: "www.tasknexy.top A 127.0.0.1"
+local-zone: "www.taskometryplatform.xyz" static
+local-data: "www.taskometryplatform.xyz A 127.0.0.1"
+local-zone: "www.taskpathm.top" static
+local-data: "www.taskpathm.top A 127.0.0.1"
+local-zone: "www.taskpathr.top" static
+local-data: "www.taskpathr.top A 127.0.0.1"
+local-zone: "www.taskpathw.top" static
+local-data: "www.taskpathw.top A 127.0.0.1"
+local-zone: "www.taskpathw.xyz" static
+local-data: "www.taskpathw.xyz A 127.0.0.1"
+local-zone: "www.taskpathx.xyz" static
+local-data: "www.taskpathx.xyz A 127.0.0.1"
+local-zone: "www.taskpayj.top" static
+local-data: "www.taskpayj.top A 127.0.0.1"
+local-zone: "www.taskpayz.top" static
+local-data: "www.taskpayz.top A 127.0.0.1"
+local-zone: "www.taskpushv.top" static
+local-data: "www.taskpushv.top A 127.0.0.1"
+local-zone: "www.taskpushw.top" static
+local-data: "www.taskpushw.top A 127.0.0.1"
+local-zone: "www.taskroomy.com" static
+local-data: "www.taskroomy.com A 127.0.0.1"
+local-zone: "www.taskrow.top" static
+local-data: "www.taskrow.top A 127.0.0.1"
+local-zone: "www.taskrunf.top" static
+local-data: "www.taskrunf.top A 127.0.0.1"
+local-zone: "www.taskrunn.top" static
+local-data: "www.taskrunn.top A 127.0.0.1"
+local-zone: "www.taskrunv.top" static
+local-data: "www.taskrunv.top A 127.0.0.1"
+local-zone: "www.taskrunz.top" static
+local-data: "www.taskrunz.top A 127.0.0.1"
+local-zone: "www.taskschat.com" static
+local-data: "www.taskschat.com A 127.0.0.1"
+local-zone: "www.tasksendf.xyz" static
+local-data: "www.tasksendf.xyz A 127.0.0.1"
+local-zone: "www.tasksendk.top" static
+local-data: "www.tasksendk.top A 127.0.0.1"
+local-zone: "www.tasksendq.top" static
+local-data: "www.tasksendq.top A 127.0.0.1"
+local-zone: "www.tasksendr.top" static
+local-data: "www.tasksendr.top A 127.0.0.1"
+local-zone: "www.tasksendw.top" static
+local-data: "www.tasksendw.top A 127.0.0.1"
+local-zone: "www.tasksendx.xyz" static
+local-data: "www.tasksendx.xyz A 127.0.0.1"
+local-zone: "www.taskswapj.top" static
+local-data: "www.taskswapj.top A 127.0.0.1"
+local-zone: "www.taskswapy.top" static
+local-data: "www.taskswapy.top A 127.0.0.1"
+local-zone: "www.tasksystem0logic.store" static
+local-data: "www.tasksystem0logic.store A 127.0.0.1"
+local-zone: "www.tasktokens.top" static
+local-data: "www.tasktokens.top A 127.0.0.1"
+local-zone: "www.tasktokenu.top" static
+local-data: "www.tasktokenu.top A 127.0.0.1"
+local-zone: "www.tasktr8endcontrol.store" static
+local-data: "www.tasktr8endcontrol.store A 127.0.0.1"
+local-zone: "www.tasktracker82.online" static
+local-data: "www.tasktracker82.online A 127.0.0.1"
+local-zone: "www.tassabonta.pro" static
+local-data: "www.tassabonta.pro A 127.0.0.1"
+local-zone: "www.tassedecen.pro" static
+local-data: "www.tassedecen.pro A 127.0.0.1"
+local-zone: "www.tasseresol.pro" static
+local-data: "www.tasseresol.pro A 127.0.0.1"
+local-zone: "www.tastamoda.com" static
+local-data: "www.tastamoda.com A 127.0.0.1"
+local-zone: "www.tastasoffr.pro" static
+local-data: "www.tastasoffr.pro A 127.0.0.1"
+local-zone: "www.taste-loop.info" static
+local-data: "www.taste-loop.info A 127.0.0.1"
+local-zone: "www.tasteandflava.com" static
+local-data: "www.tasteandflava.com A 127.0.0.1"
+local-zone: "www.tastecanvas.top" static
+local-data: "www.tastecanvas.top A 127.0.0.1"
+local-zone: "www.tastefulbear.pro" static
+local-data: "www.tastefulbear.pro A 127.0.0.1"
+local-zone: "www.tastefulboa.pro" static
+local-data: "www.tastefulboa.pro A 127.0.0.1"
+local-zone: "www.tastefulbumblebee.pro" static
+local-data: "www.tastefulbumblebee.pro A 127.0.0.1"
+local-zone: "www.tastefulcorgi.pro" static
+local-data: "www.tastefulcorgi.pro A 127.0.0.1"
+local-zone: "www.tastefulfalcon.pro" static
+local-data: "www.tastefulfalcon.pro A 127.0.0.1"
+local-zone: "www.tastefulgecko.pro" static
+local-data: "www.tastefulgecko.pro A 127.0.0.1"
+local-zone: "www.tastefulpig.pro" static
+local-data: "www.tastefulpig.pro A 127.0.0.1"
+local-zone: "www.tastefulpogona.pro" static
+local-data: "www.tastefulpogona.pro A 127.0.0.1"
+local-zone: "www.tastefulrabbit.pro" static
+local-data: "www.tastefulrabbit.pro A 127.0.0.1"
+local-zone: "www.tastefulseriema.pro" static
+local-data: "www.tastefulseriema.pro A 127.0.0.1"
+local-zone: "www.tastefulsponge.pro" static
+local-data: "www.tastefulsponge.pro A 127.0.0.1"
+local-zone: "www.tastefulurchin.pro" static
+local-data: "www.tastefulurchin.pro A 127.0.0.1"
+local-zone: "www.tasteofsalts.com" static
+local-data: "www.tasteofsalts.com A 127.0.0.1"
+local-zone: "www.tastepiani.pro" static
+local-data: "www.tastepiani.pro A 127.0.0.1"
+local-zone: "www.tastescaro.pro" static
+local-data: "www.tastescaro.pro A 127.0.0.1"
+local-zone: "www.tastevites.com" static
+local-data: "www.tastevites.com A 127.0.0.1"
+local-zone: "www.tastibiome.pro" static
+local-data: "www.tastibiome.pro A 127.0.0.1"
+local-zone: "www.tastingva.com" static
+local-data: "www.tastingva.com A 127.0.0.1"
+local-zone: "www.tastiprodi.pro" static
+local-data: "www.tastiprodi.pro A 127.0.0.1"
+local-zone: "www.tasttee.com" static
+local-data: "www.tasttee.com A 127.0.0.1"
+local-zone: "www.tata-crypto.com" static
+local-data: "www.tata-crypto.com A 127.0.0.1"
+local-zone: "www.tathagatasmvw.info" static
+local-data: "www.tathagatasmvw.info A 127.0.0.1"
+local-zone: "www.tathangchen.gestionresultados.info" static
+local-data: "www.tathangchen.gestionresultados.info A 127.0.0.1"
+local-zone: "www.tatichstudio.com" static
+local-data: "www.tatichstudio.com A 127.0.0.1"
+local-zone: "www.tatinea7.pro" static
+local-data: "www.tatinea7.pro A 127.0.0.1"
+local-zone: "www.tatinuy.pro" static
+local-data: "www.tatinuy.pro A 127.0.0.1"
+local-zone: "www.tattecyber.pro" static
+local-data: "www.tattecyber.pro A 127.0.0.1"
+local-zone: "www.tattitener.pro" static
+local-data: "www.tattitener.pro A 127.0.0.1"
+local-zone: "www.tattooshaha.info" static
+local-data: "www.tattooshaha.info A 127.0.0.1"
+local-zone: "www.tatuapecca.pro" static
+local-data: "www.tatuapecca.pro A 127.0.0.1"
+local-zone: "www.tatuasensa.pro" static
+local-data: "www.tatuasensa.pro A 127.0.0.1"
+local-zone: "www.tatustorepl.com" static
+local-data: "www.tatustorepl.com A 127.0.0.1"
+local-zone: "www.tatyanaleahy.com" static
+local-data: "www.tatyanaleahy.com A 127.0.0.1"
+local-zone: "www.tau-medical.com" static
+local-data: "www.tau-medical.com A 127.0.0.1"
+local-zone: "www.tau-portfolix.net" static
+local-data: "www.tau-portfolix.net A 127.0.0.1"
+local-zone: "www.taucoeyjfx.icu" static
+local-data: "www.taucoeyjfx.icu A 127.0.0.1"
+local-zone: "www.taufizzlet.net" static
+local-data: "www.taufizzlet.net A 127.0.0.1"
+local-zone: "www.taulcalaba.pro" static
+local-data: "www.taulcalaba.pro A 127.0.0.1"
+local-zone: "www.tauntscatt.pro" static
+local-data: "www.tauntscatt.pro A 127.0.0.1"
+local-zone: "www.taupeauk.pro" static
+local-data: "www.taupeauk.pro A 127.0.0.1"
+local-zone: "www.taupegerbil.pro" static
+local-data: "www.taupegerbil.pro A 127.0.0.1"
+local-zone: "www.taupeleech.pro" static
+local-data: "www.taupeleech.pro A 127.0.0.1"
+local-zone: "www.taupenuthatch.pro" static
+local-data: "www.taupenuthatch.pro A 127.0.0.1"
+local-zone: "www.taupesheep.pro" static
+local-data: "www.taupesheep.pro A 127.0.0.1"
+local-zone: "www.taupeuakari.pro" static
+local-data: "www.taupeuakari.pro A 127.0.0.1"
+local-zone: "www.taupewarthog.pro" static
+local-data: "www.taupewarthog.pro A 127.0.0.1"
+local-zone: "www.tauportfolix.online" static
+local-data: "www.tauportfolix.online A 127.0.0.1"
+local-zone: "www.tauportfolixapp.com" static
+local-data: "www.tauportfolixapp.com A 127.0.0.1"
+local-zone: "www.taureau-dore.com" static
+local-data: "www.taureau-dore.com A 127.0.0.1"
+local-zone: "www.taurixal.art" static
+local-data: "www.taurixal.art A 127.0.0.1"
+local-zone: "www.tauron-zwrot.online" static
+local-data: "www.tauron-zwrot.online A 127.0.0.1"
+local-zone: "www.tauronenergy.site" static
+local-data: "www.tauronenergy.site A 127.0.0.1"
+local-zone: "www.tauronzwrot25.online" static
+local-data: "www.tauronzwrot25.online A 127.0.0.1"
+local-zone: "www.taurubisec.pro" static
+local-data: "www.taurubisec.pro A 127.0.0.1"
+local-zone: "www.tauschvirexar.net" static
+local-data: "www.tauschvirexar.net A 127.0.0.1"
+local-zone: "www.tautoeffet.pro" static
+local-data: "www.tautoeffet.pro A 127.0.0.1"
+local-zone: "www.tautononso.pro" static
+local-data: "www.tautononso.pro A 127.0.0.1"
+local-zone: "www.tauxisvrennai.com" static
+local-data: "www.tauxisvrennai.com A 127.0.0.1"
+local-zone: "www.tauzetaomega.org" static
+local-data: "www.tauzetaomega.org A 127.0.0.1"
+local-zone: "www.tavakkol.click" static
+local-data: "www.tavakkol.click A 127.0.0.1"
+local-zone: "www.tavares.co.za" static
+local-data: "www.tavares.co.za A 127.0.0.1"
+local-zone: "www.tavaxeza.com" static
+local-data: "www.tavaxeza.com A 127.0.0.1"
+local-zone: "www.tavendell.com" static
+local-data: "www.tavendell.com A 127.0.0.1"
+local-zone: "www.tavergemel.pro" static
+local-data: "www.tavergemel.pro A 127.0.0.1"
+local-zone: "www.taveruplic.pro" static
+local-data: "www.taveruplic.pro A 127.0.0.1"
+local-zone: "www.tavin.sa.com" static
+local-data: "www.tavin.sa.com A 127.0.0.1"
+local-zone: "www.tavino.top" static
+local-data: "www.tavino.top A 127.0.0.1"
+local-zone: "www.tavinorexumadoliprens.store" static
+local-data: "www.tavinorexumadoliprens.store A 127.0.0.1"
+local-zone: "www.tavoldesch.pro" static
+local-data: "www.tavoldesch.pro A 127.0.0.1"
+local-zone: "www.tavonirexuladomipsaren.online" static
+local-data: "www.tavonirexuladomipsaren.online A 127.0.0.1"
+local-zone: "www.tavonix-trader.com" static
+local-data: "www.tavonix-trader.com A 127.0.0.1"
+local-zone: "www.tavonixtraderai.com" static
+local-data: "www.tavonixtraderai.com A 127.0.0.1"
+local-zone: "www.tavostochok.top" static
+local-data: "www.tavostochok.top A 127.0.0.1"
+local-zone: "www.tavoxapro.icu" static
+local-data: "www.tavoxapro.icu A 127.0.0.1"
+local-zone: "www.tavro.shop" static
+local-data: "www.tavro.shop A 127.0.0.1"
+local-zone: "www.tawdefdallah.com" static
+local-data: "www.tawdefdallah.com A 127.0.0.1"
+local-zone: "www.taweba-kixane.pics" static
+local-data: "www.taweba-kixane.pics A 127.0.0.1"
+local-zone: "www.tawiyu-tujiwa.pics" static
+local-data: "www.tawiyu-tujiwa.pics A 127.0.0.1"
+local-zone: "www.tawkrooma.vercel.app" static
+local-data: "www.tawkrooma.vercel.app A 127.0.0.1"
+local-zone: "www.tax-binance.com" static
+local-data: "www.tax-binance.com A 127.0.0.1"
+local-zone: "www.taxahi-yefipi.pics" static
+local-data: "www.taxahi-yefipi.pics A 127.0.0.1"
+local-zone: "www.taxanormeliora.my" static
+local-data: "www.taxanormeliora.my A 127.0.0.1"
+local-zone: "www.taxarionventoria.my" static
+local-data: "www.taxarionventoria.my A 127.0.0.1"
+local-zone: "www.taxatgiung.pro" static
+local-data: "www.taxatgiung.pro A 127.0.0.1"
+local-zone: "www.taxavenistra.click" static
+local-data: "www.taxavenistra.click A 127.0.0.1"
+local-zone: "www.taxeliox.net" static
+local-data: "www.taxeliox.net A 127.0.0.1"
+local-zone: "www.taxesoi.top" static
+local-data: "www.taxesoi.top A 127.0.0.1"
+local-zone: "www.taxihatiengiare.com" static
+local-data: "www.taxihatiengiare.com A 127.0.0.1"
+local-zone: "www.taxilospenascales.com" static
+local-data: "www.taxilospenascales.com A 127.0.0.1"
+local-zone: "www.taxitransferspain.com" static
+local-data: "www.taxitransferspain.com A 127.0.0.1"
+local-zone: "www.taxnestgw.com" static
+local-data: "www.taxnestgw.com A 127.0.0.1"
+local-zone: "www.taxocyo7.pro" static
+local-data: "www.taxocyo7.pro A 127.0.0.1"
+local-zone: "www.taxonemeridion.my" static
+local-data: "www.taxonemeridion.my A 127.0.0.1"
+local-zone: "www.taxonomeravixia.click" static
+local-data: "www.taxonomeravixia.click A 127.0.0.1"
+local-zone: "www.taxonomerienta.my" static
+local-data: "www.taxonomerienta.my A 127.0.0.1"
+local-zone: "www.taxonomerion.lat" static
+local-data: "www.taxonomerion.lat A 127.0.0.1"
+local-zone: "www.taxonomirelatrix.lat" static
+local-data: "www.taxonomirelatrix.lat A 127.0.0.1"
+local-zone: "www.taxorenthesia.click" static
+local-data: "www.taxorenthesia.click A 127.0.0.1"
+local-zone: "www.taxorinthesia.club" static
+local-data: "www.taxorinthesia.club A 127.0.0.1"
+local-zone: "www.taxoventeralith.lat" static
+local-data: "www.taxoventeralith.lat A 127.0.0.1"
+local-zone: "www.taxpertsolutions.com" static
+local-data: "www.taxpertsolutions.com A 127.0.0.1"
+local-zone: "www.taxpilot.za.com" static
+local-data: "www.taxpilot.za.com A 127.0.0.1"
+local-zone: "www.taxprowess.com" static
+local-data: "www.taxprowess.com A 127.0.0.1"
+local-zone: "www.taxsavingmasterclass.com" static
+local-data: "www.taxsavingmasterclass.com A 127.0.0.1"
+local-zone: "www.taxservicesnigeria.com" static
+local-data: "www.taxservicesnigeria.com A 127.0.0.1"
+local-zone: "www.taxtrategist.com" static
+local-data: "www.taxtrategist.com A 127.0.0.1"
+local-zone: "www.taxydromiki.cfd" static
+local-data: "www.taxydromiki.cfd A 127.0.0.1"
+local-zone: "www.tayake-balufo.pics" static
+local-data: "www.tayake-balufo.pics A 127.0.0.1"
+local-zone: "www.tayda-adsworld.com" static
+local-data: "www.tayda-adsworld.com A 127.0.0.1"
+local-zone: "www.taydeskey.xyz" static
+local-data: "www.taydeskey.xyz A 127.0.0.1"
+local-zone: "www.taydohome.com" static
+local-data: "www.taydohome.com A 127.0.0.1"
+local-zone: "www.tayelerdens.top" static
+local-data: "www.tayelerdens.top A 127.0.0.1"
+local-zone: "www.tayepu-lakusi.pics" static
+local-data: "www.tayepu-lakusi.pics A 127.0.0.1"
+local-zone: "www.tayido-xugewa.site" static
+local-data: "www.tayido-xugewa.site A 127.0.0.1"
+local-zone: "www.taykosevilla.com" static
+local-data: "www.taykosevilla.com A 127.0.0.1"
+local-zone: "www.taylorinterventions.com" static
+local-data: "www.taylorinterventions.com A 127.0.0.1"
+local-zone: "www.taysee-servis.ru" static
+local-data: "www.taysee-servis.ru A 127.0.0.1"
+local-zone: "www.taytherapies.com" static
+local-data: "www.taytherapies.com A 127.0.0.1"
+local-zone: "www.tayz4u.pics" static
+local-data: "www.tayz4u.pics A 127.0.0.1"
+local-zone: "www.taz4hair.com" static
+local-data: "www.taz4hair.com A 127.0.0.1"
+local-zone: "www.tazejua.com" static
+local-data: "www.tazejua.com A 127.0.0.1"
+local-zone: "www.taziquy.pro" static
+local-data: "www.taziquy.pro A 127.0.0.1"
+local-zone: "www.tazmanyabet.net" static
+local-data: "www.tazmanyabet.net A 127.0.0.1"
+local-zone: "www.tazron.za.com" static
+local-data: "www.tazron.za.com A 127.0.0.1"
+local-zone: "www.tazviy.pics" static
+local-data: "www.tazviy.pics A 127.0.0.1"
+local-zone: "www.tba-sites.com" static
+local-data: "www.tba-sites.com A 127.0.0.1"
+local-zone: "www.tbasior.com" static
+local-data: "www.tbasior.com A 127.0.0.1"
+local-zone: "www.tbc.nevvqeq.top" static
+local-data: "www.tbc.nevvqeq.top A 127.0.0.1"
+local-zone: "www.tbdeuqqosx.aseconapdis.org" static
+local-data: "www.tbdeuqqosx.aseconapdis.org A 127.0.0.1"
+local-zone: "www.tbergmans.online" static
+local-data: "www.tbergmans.online A 127.0.0.1"
+local-zone: "www.tbitcoin.me" static
+local-data: "www.tbitcoin.me A 127.0.0.1"
+local-zone: "www.tbllad.com" static
+local-data: "www.tbllad.com A 127.0.0.1"
+local-zone: "www.tbn.quifelenergy.com" static
+local-data: "www.tbn.quifelenergy.com A 127.0.0.1"
+local-zone: "www.tc1zeq.hjgbfv.es" static
+local-data: "www.tc1zeq.hjgbfv.es A 127.0.0.1"
+local-zone: "www.tc4ugh.skin" static
+local-data: "www.tc4ugh.skin A 127.0.0.1"
+local-zone: "www.tcfoodtrucks.com" static
+local-data: "www.tcfoodtrucks.com A 127.0.0.1"
+local-zone: "www.tckisiw.com" static
+local-data: "www.tckisiw.com A 127.0.0.1"
+local-zone: "www.tcm.optica.ero-advertising.com" static
+local-data: "www.tcm.optica.ero-advertising.com A 127.0.0.1"
+local-zone: "www.tcmfind.com" static
+local-data: "www.tcmfind.com A 127.0.0.1"
+local-zone: "www.tcolorwatch.com" static
+local-data: "www.tcolorwatch.com A 127.0.0.1"
+local-zone: "www.tcpmarkets.com" static
+local-data: "www.tcpmarkets.com A 127.0.0.1"
+local-zone: "www.tcrog.shop" static
+local-data: "www.tcrog.shop A 127.0.0.1"
+local-zone: "www.tcuevtlogre.top" static
+local-data: "www.tcuevtlogre.top A 127.0.0.1"
+local-zone: "www.tdahenadultos.com" static
+local-data: "www.tdahenadultos.com A 127.0.0.1"
+local-zone: "www.tdejb.com" static
+local-data: "www.tdejb.com A 127.0.0.1"
+local-zone: "www.tdfxapp.com" static
+local-data: "www.tdfxapp.com A 127.0.0.1"
+local-zone: "www.tdgpa.org" static
+local-data: "www.tdgpa.org A 127.0.0.1"
+local-zone: "www.tdivez.ideefly.com" static
+local-data: "www.tdivez.ideefly.com A 127.0.0.1"
+local-zone: "www.tdncomunicaciones.sbs" static
+local-data: "www.tdncomunicaciones.sbs A 127.0.0.1"
+local-zone: "www.tdsip.com" static
+local-data: "www.tdsip.com A 127.0.0.1"
+local-zone: "www.tdzexperience.com" static
+local-data: "www.tdzexperience.com A 127.0.0.1"
+local-zone: "www.te4chstart.online" static
+local-data: "www.te4chstart.online A 127.0.0.1"
+local-zone: "www.te5chpost.online" static
+local-data: "www.te5chpost.online A 127.0.0.1"
+local-zone: "www.te8bula.pics" static
+local-data: "www.te8bula.pics A 127.0.0.1"
+local-zone: "www.teaandtherapy.info" static
+local-data: "www.teaandtherapy.info A 127.0.0.1"
+local-zone: "www.teacherconde.com" static
+local-data: "www.teacherconde.com A 127.0.0.1"
+local-zone: "www.teachforge.com" static
+local-data: "www.teachforge.com A 127.0.0.1"
+local-zone: "www.teachinglearners.com" static
+local-data: "www.teachinglearners.com A 127.0.0.1"
+local-zone: "www.teacudisin.com" static
+local-data: "www.teacudisin.com A 127.0.0.1"
+local-zone: "www.teakcrafter.com" static
+local-data: "www.teakcrafter.com A 127.0.0.1"
+local-zone: "www.teal-tamqrah-17.tiiny.io" static
+local-data: "www.teal-tamqrah-17.tiiny.io A 127.0.0.1"
+local-zone: "www.tealbarnacle.pro" static
+local-data: "www.tealbarnacle.pro A 127.0.0.1"
+local-zone: "www.tealgrouse.pro" static
+local-data: "www.tealgrouse.pro A 127.0.0.1"
+local-zone: "www.tealhummingbird.pro" static
+local-data: "www.tealhummingbird.pro A 127.0.0.1"
+local-zone: "www.teallyrebird.pro" static
+local-data: "www.teallyrebird.pro A 127.0.0.1"
+local-zone: "www.tealmastiff.pro" static
+local-data: "www.tealmastiff.pro A 127.0.0.1"
+local-zone: "www.tealpenguin.pro" static
+local-data: "www.tealpenguin.pro A 127.0.0.1"
+local-zone: "www.tealpiculet.pro" static
+local-data: "www.tealpiculet.pro A 127.0.0.1"
+local-zone: "www.tealslepidote.com" static
+local-data: "www.tealslepidote.com A 127.0.0.1"
+local-zone: "www.tealturaco.pro" static
+local-data: "www.tealturaco.pro A 127.0.0.1"
+local-zone: "www.tealvole.pro" static
+local-data: "www.tealvole.pro A 127.0.0.1"
+local-zone: "www.team-add-me.com" static
+local-data: "www.team-add-me.com A 127.0.0.1"
+local-zone: "www.team-ci.cfd" static
+local-data: "www.team-ci.cfd A 127.0.0.1"
+local-zone: "www.team-luo.com" static
+local-data: "www.team-luo.com A 127.0.0.1"
+local-zone: "www.team-pow.com" static
+local-data: "www.team-pow.com A 127.0.0.1"
+local-zone: "www.teambodyscience.com" static
+local-data: "www.teambodyscience.com A 127.0.0.1"
+local-zone: "www.teamchile.org" static
+local-data: "www.teamchile.org A 127.0.0.1"
+local-zone: "www.teamcoachingtoolkit.com" static
+local-data: "www.teamcoachingtoolkit.com A 127.0.0.1"
 local-zone: "www.teamcyberlock.com" static
 local-data: "www.teamcyberlock.com A 127.0.0.1"
 local-zone: "www.teamgame7.com" static
@@ -231,8 +1681,6 @@ local-zone: "www.technofmconsulting.com" static
 local-data: "www.technofmconsulting.com A 127.0.0.1"
 local-zone: "www.technologicznyhub.club" static
 local-data: "www.technologicznyhub.club A 127.0.0.1"
-local-zone: "www.technologies-u.shop" static
-local-data: "www.technologies-u.shop A 127.0.0.1"
 local-zone: "www.technology-git-main-id623917540.vercel.app" static
 local-data: "www.technology-git-main-id623917540.vercel.app A 127.0.0.1"
 local-zone: "www.technologyinsport.com" static
@@ -983,6 +2431,8 @@ local-zone: "www.tereska.pl" static
 local-data: "www.tereska.pl A 127.0.0.1"
 local-zone: "www.tergiyarlga.pro" static
 local-data: "www.tergiyarlga.pro A 127.0.0.1"
+local-zone: "www.terimovulaxopedina.space" static
+local-data: "www.terimovulaxopedina.space A 127.0.0.1"
 local-zone: "www.termidegra.pro" static
 local-data: "www.termidegra.pro A 127.0.0.1"
 local-zone: "www.termieduca.pro" static
@@ -1179,8 +2629,6 @@ local-zone: "www.test.loyalty.qantas.com" static
 local-data: "www.test.loyalty.qantas.com A 127.0.0.1"
 local-zone: "www.test.matras96.ru" static
 local-data: "www.test.matras96.ru A 127.0.0.1"
-local-zone: "www.test.partner.net.daraz.com" static
-local-data: "www.test.partner.net.daraz.com A 127.0.0.1"
 local-zone: "www.test.peperoncinochepassione.it" static
 local-data: "www.test.peperoncinochepassione.it A 127.0.0.1"
 local-zone: "www.test1231.zohobackstage.com" static
@@ -1593,8 +3041,6 @@ local-zone: "www.theagentsoracle.com" static
 local-data: "www.theagentsoracle.com A 127.0.0.1"
 local-zone: "www.theairgunbarn.com" static
 local-data: "www.theairgunbarn.com A 127.0.0.1"
-local-zone: "www.thealexanderfamily.net" static
-local-data: "www.thealexanderfamily.net A 127.0.0.1"
 local-zone: "www.theanchorinnbeachfront.world" static
 local-data: "www.theanchorinnbeachfront.world A 127.0.0.1"
 local-zone: "www.theanimebox.com" static
@@ -1769,6 +3215,8 @@ local-zone: "www.thecorecf.com" static
 local-data: "www.thecorecf.com A 127.0.0.1"
 local-zone: "www.thecosyshelter.com" static
 local-data: "www.thecosyshelter.com A 127.0.0.1"
+local-zone: "www.thecountriesof.com" static
+local-data: "www.thecountriesof.com A 127.0.0.1"
 local-zone: "www.thecoupondeal.com" static
 local-data: "www.thecoupondeal.com A 127.0.0.1"
 local-zone: "www.thecowboycardealer.com" static
@@ -1927,8 +3375,6 @@ local-zone: "www.thefootiecompany.com" static
 local-data: "www.thefootiecompany.com A 127.0.0.1"
 local-zone: "www.thefouralls.com" static
 local-data: "www.thefouralls.com A 127.0.0.1"
-local-zone: "www.thefoxhd.com" static
-local-data: "www.thefoxhd.com A 127.0.0.1"
 local-zone: "www.theframingmethod.com" static
 local-data: "www.theframingmethod.com A 127.0.0.1"
 local-zone: "www.thefranklingroup.com" static
@@ -2681,6 +4127,8 @@ local-zone: "www.thewriterspen.com" static
 local-data: "www.thewriterspen.com A 127.0.0.1"
 local-zone: "www.theyrentwebuy.com" static
 local-data: "www.theyrentwebuy.com A 127.0.0.1"
+local-zone: "www.theysence.com" static
+local-data: "www.theysence.com A 127.0.0.1"
 local-zone: "www.thezarashop.xyz" static
 local-data: "www.thezarashop.xyz A 127.0.0.1"
 local-zone: "www.thezars.com" static
@@ -2947,8 +4395,6 @@ local-zone: "www.thriventechnology.com" static
 local-data: "www.thriventechnology.com A 127.0.0.1"
 local-zone: "www.thriveorbit.info" static
 local-data: "www.thriveorbit.info A 127.0.0.1"
-local-zone: "www.thrivepetfoodsdev.com" static
-local-data: "www.thrivepetfoodsdev.com A 127.0.0.1"
 local-zone: "www.thrivepilot.info" static
 local-data: "www.thrivepilot.info A 127.0.0.1"
 local-zone: "www.thrivepoints.info" static
@@ -3575,8 +5021,6 @@ local-zone: "www.tintoangui.pro" static
 local-data: "www.tintoangui.pro A 127.0.0.1"
 local-zone: "www.tinvestvn.com" static
 local-data: "www.tinvestvn.com A 127.0.0.1"
-local-zone: "www.tiny-elephant-howling.on-fleek.app" static
-local-data: "www.tiny-elephant-howling.on-fleek.app A 127.0.0.1"
 local-zone: "www.tinychameleon.pro" static
 local-data: "www.tinychameleon.pro A 127.0.0.1"
 local-zone: "www.tinyfilehost.com" static
@@ -3601,6 +5045,8 @@ local-zone: "www.tinyuloop.lat" static
 local-data: "www.tinyuloop.lat A 127.0.0.1"
 local-zone: "www.tinyvalleyhouse.xyz" static
 local-data: "www.tinyvalleyhouse.xyz A 127.0.0.1"
+local-zone: "www.tiokolhnoe.site" static
+local-data: "www.tiokolhnoe.site A 127.0.0.1"
 local-zone: "www.tiomarkets.com" static
 local-data: "www.tiomarkets.com A 127.0.0.1"
 local-zone: "www.tipanddonation.com" static
@@ -4003,6 +5449,8 @@ local-zone: "www.toilneverfoils.net" static
 local-data: "www.toilneverfoils.net A 127.0.0.1"
 local-zone: "www.toilneverfoils.org" static
 local-data: "www.toilneverfoils.org A 127.0.0.1"
+local-zone: "www.tojest-krakow.pl" static
+local-data: "www.tojest-krakow.pl A 127.0.0.1"
 local-zone: "www.tojestto.is-best.net" static
 local-data: "www.tojestto.is-best.net A 127.0.0.1"
 local-zone: "www.tojojoi0.pro" static
@@ -4661,6 +6109,8 @@ local-zone: "www.topicsfeedeport.com" static
 local-data: "www.topicsfeedeport.com A 127.0.0.1"
 local-zone: "www.topicshotreport.online" static
 local-data: "www.topicshotreport.online A 127.0.0.1"
+local-zone: "www.topictopyes.pro" static
+local-data: "www.topictopyes.pro A 127.0.0.1"
 local-zone: "www.topictrackerreporter.com" static
 local-data: "www.topictrackerreporter.com A 127.0.0.1"
 local-zone: "www.topinfostorytoday.com" static
@@ -4973,6 +6423,8 @@ local-zone: "www.tornivaleximodra.online" static
 local-data: "www.tornivaleximodra.online A 127.0.0.1"
 local-zone: "www.tornivalexq8u7j3h.space" static
 local-data: "www.tornivalexq8u7j3h.space A 127.0.0.1"
+local-zone: "www.tornivalexuq58q9h4p.sbs" static
+local-data: "www.tornivalexuq58q9h4p.sbs A 127.0.0.1"
 local-zone: "www.tornprof.lat" static
 local-data: "www.tornprof.lat A 127.0.0.1"
 local-zone: "www.toroboo.online" static
@@ -5051,6 +6503,8 @@ local-zone: "www.toruldicad.pro" static
 local-data: "www.toruldicad.pro A 127.0.0.1"
 local-zone: "www.toruxia.com" static
 local-data: "www.toruxia.com A 127.0.0.1"
+local-zone: "www.torvalinemuxp9q32h75.space" static
+local-data: "www.torvalinemuxp9q32h75.space A 127.0.0.1"
 local-zone: "www.torvexcapital.com" static
 local-data: "www.torvexcapital.com A 127.0.0.1"
 local-zone: "www.torvilantem8u4q7jh.space" static
@@ -5195,6 +6649,8 @@ local-zone: "www.toureko.com" static
 local-data: "www.toureko.com A 127.0.0.1"
 local-zone: "www.tourforweekend.com" static
 local-data: "www.tourforweekend.com A 127.0.0.1"
+local-zone: "www.tourismplacesinkerala.com" static
+local-data: "www.tourismplacesinkerala.com A 127.0.0.1"
 local-zone: "www.touristogo.com" static
 local-data: "www.touristogo.com A 127.0.0.1"
 local-zone: "www.tourmalinecormorant.pro" static
@@ -6623,8 +8079,6 @@ local-zone: "www.trailhalo.space" static
 local-data: "www.trailhalo.space A 127.0.0.1"
 local-zone: "www.trainbo.com" static
 local-data: "www.trainbo.com A 127.0.0.1"
-local-zone: "www.traincomputers.com" static
-local-data: "www.traincomputers.com A 127.0.0.1"
 local-zone: "www.traineroga.pro" static
 local-data: "www.traineroga.pro A 127.0.0.1"
 local-zone: "www.training.graduateschool.edu" static
@@ -6925,6 +8379,8 @@ local-zone: "www.transpiso.net" static
 local-data: "www.transpiso.net A 127.0.0.1"
 local-zone: "www.transpluri.pro" static
 local-data: "www.transpluri.pro A 127.0.0.1"
+local-zone: "www.transport-warszawski.pl" static
+local-data: "www.transport-warszawski.pl A 127.0.0.1"
 local-zone: "www.transportersonline.com" static
 local-data: "www.transportersonline.com A 127.0.0.1"
 local-zone: "www.transportx.org" static
@@ -7459,8 +8915,6 @@ local-zone: "www.trenaviczaria.lat" static
 local-data: "www.trenaviczaria.lat A 127.0.0.1"
 local-zone: "www.trencherwise.info" static
 local-data: "www.trencherwise.info A 127.0.0.1"
-local-zone: "www.trenchfootos.info" static
-local-data: "www.trenchfootos.info A 127.0.0.1"
 local-zone: "www.trend-circuit.info" static
 local-data: "www.trend-circuit.info A 127.0.0.1"
 local-zone: "www.trend-connect.xyz" static
@@ -7615,6 +9069,8 @@ local-zone: "www.trendingcurrentscene.com" static
 local-data: "www.trendingcurrentscene.com A 127.0.0.1"
 local-zone: "www.trendingdailyinsight.com" static
 local-data: "www.trendingdailyinsight.com A 127.0.0.1"
+local-zone: "www.trendingdailynewshub.com" static
+local-data: "www.trendingdailynewshub.com A 127.0.0.1"
 local-zone: "www.trendingdigesttoday.com" static
 local-data: "www.trendingdigesttoday.com A 127.0.0.1"
 local-zone: "www.trendingfeel.lat" static
@@ -8443,6 +9899,8 @@ local-zone: "www.trovexa.online" static
 local-data: "www.trovexa.online A 127.0.0.1"
 local-zone: "www.trovica.cfd" static
 local-data: "www.trovica.cfd A 127.0.0.1"
+local-zone: "www.trovinalemuxu39q7p.space" static
+local-data: "www.trovinalemuxu39q7p.space A 127.0.0.1"
 local-zone: "www.trovista.space" static
 local-data: "www.trovista.space A 127.0.0.1"
 local-zone: "www.troythomasatl.com" static
@@ -8781,6 +10239,8 @@ local-zone: "www.truth7zone.top" static
 local-data: "www.truth7zone.top A 127.0.0.1"
 local-zone: "www.truthavo.info" static
 local-data: "www.truthavo.info A 127.0.0.1"
+local-zone: "www.truthbay.live" static
+local-data: "www.truthbay.live A 127.0.0.1"
 local-zone: "www.truthbeam.icu" static
 local-data: "www.truthbeam.icu A 127.0.0.1"
 local-zone: "www.truthcurrent.cfd" static
@@ -9175,8 +10635,6 @@ local-zone: "www.tuorj.pages.dev" static
 local-data: "www.tuorj.pages.dev A 127.0.0.1"
 local-zone: "www.tupap-flow.digital" static
 local-data: "www.tupap-flow.digital A 127.0.0.1"
-local-zone: "www.tupatineteelectrico.net" static
-local-data: "www.tupatineteelectrico.net A 127.0.0.1"
 local-zone: "www.tupelocabinets.com" static
 local-data: "www.tupelocabinets.com A 127.0.0.1"
 local-zone: "www.tupesem.com" static
@@ -9419,8 +10877,6 @@ local-zone: "www.tuscannuthatch.pro" static
 local-data: "www.tuscannuthatch.pro A 127.0.0.1"
 local-zone: "www.tuscanworm.pro" static
 local-data: "www.tuscanworm.pro A 127.0.0.1"
-local-zone: "www.tusdecimosdeloteria.net" static
-local-data: "www.tusdecimosdeloteria.net A 127.0.0.1"
 local-zone: "www.tusignificadodelossuenos.com" static
 local-data: "www.tusignificadodelossuenos.com A 127.0.0.1"
 local-zone: "www.tusikmoneyai.com" static
@@ -9477,8 +10933,6 @@ local-zone: "www.tuxeqoi.info" static
 local-data: "www.tuxeqoi.info A 127.0.0.1"
 local-zone: "www.tuxoya-hudare.pics" static
 local-data: "www.tuxoya-hudare.pics A 127.0.0.1"
-local-zone: "www.tuyeihjfoiuhdjk.pages.dev" static
-local-data: "www.tuyeihjfoiuhdjk.pages.dev A 127.0.0.1"
 local-zone: "www.tuyo.tonespath.com" static
 local-data: "www.tuyo.tonespath.com A 127.0.0.1"
 local-zone: "www.tuyomew.com" static
@@ -10115,6 +11569,8 @@ local-zone: "www.u0kk8re.rest" static
 local-data: "www.u0kk8re.rest A 127.0.0.1"
 local-zone: "www.u1kstu.hair" static
 local-data: "www.u1kstu.hair A 127.0.0.1"
+local-zone: "www.u1ndaa.cyou" static
+local-data: "www.u1ndaa.cyou A 127.0.0.1"
 local-zone: "www.u1trkqf.com" static
 local-data: "www.u1trkqf.com A 127.0.0.1"
 local-zone: "www.u25.store" static
@@ -10141,6 +11597,8 @@ local-zone: "www.u7s5g7f.shop" static
 local-data: "www.u7s5g7f.shop A 127.0.0.1"
 local-zone: "www.u8i90o.lat" static
 local-data: "www.u8i90o.lat A 127.0.0.1"
+local-zone: "www.u8livb.top" static
+local-data: "www.u8livb.top A 127.0.0.1"
 local-zone: "www.u8marl.top" static
 local-data: "www.u8marl.top A 127.0.0.1"
 local-zone: "www.u9fnq4g8.forms.app" static
@@ -10267,8 +11725,6 @@ local-zone: "www.uchnhyakayi.com" static
 local-data: "www.uchnhyakayi.com A 127.0.0.1"
 local-zone: "www.uci-zertifikate.online" static
 local-data: "www.uci-zertifikate.online A 127.0.0.1"
-local-zone: "www.uckeleequine.com" static
-local-data: "www.uckeleequine.com A 127.0.0.1"
 local-zone: "www.ucne.top" static
 local-data: "www.ucne.top A 127.0.0.1"
 local-zone: "www.ucomm.sbs" static
@@ -10289,6 +11745,8 @@ local-zone: "www.udo8eh.lat" static
 local-data: "www.udo8eh.lat A 127.0.0.1"
 local-zone: "www.udobrit.ru" static
 local-data: "www.udobrit.ru A 127.0.0.1"
+local-zone: "www.udzhuhfuzfhufyzufizjdizjfizf.cfolks.pl" static
+local-data: "www.udzhuhfuzfhufyzufizjdizjfizf.cfolks.pl A 127.0.0.1"
 local-zone: "www.udziele-pozyczki-prywatnie.pl" static
 local-data: "www.udziele-pozyczki-prywatnie.pl A 127.0.0.1"
 local-zone: "www.udzielepozyczkiprywatnejszybko.pl" static
@@ -10595,6 +12053,8 @@ local-zone: "www.ultimatediscountstore.com" static
 local-data: "www.ultimatediscountstore.com A 127.0.0.1"
 local-zone: "www.ultimatedivinggear.com" static
 local-data: "www.ultimatedivinggear.com A 127.0.0.1"
+local-zone: "www.ultimatefilter.sbs" static
+local-data: "www.ultimatefilter.sbs A 127.0.0.1"
 local-zone: "www.ultimatefund-1000.com" static
 local-data: "www.ultimatefund-1000.com A 127.0.0.1"
 local-zone: "www.ultimategameexp.com" static
@@ -12429,8 +13889,6 @@ local-zone: "www.upsbezahlung.com" static
 local-data: "www.upsbezahlung.com A 127.0.0.1"
 local-zone: "www.upscalelandscapes.com" static
 local-data: "www.upscalelandscapes.com A 127.0.0.1"
-local-zone: "www.upservice-eu.com" static
-local-data: "www.upservice-eu.com A 127.0.0.1"
 local-zone: "www.upsildopoc.pro" static
 local-data: "www.upsildopoc.pro A 127.0.0.1"
 local-zone: "www.upsilonnexify.com" static
@@ -12549,6 +14007,8 @@ local-zone: "www.urbanchattel.com" static
 local-data: "www.urbanchattel.com A 127.0.0.1"
 local-zone: "www.urbanchroniclefeed.com" static
 local-data: "www.urbanchroniclefeed.com A 127.0.0.1"
+local-zone: "www.urbanclifftop.xyz" static
+local-data: "www.urbanclifftop.xyz A 127.0.0.1"
 local-zone: "www.urbancollie.pro" static
 local-data: "www.urbancollie.pro A 127.0.0.1"
 local-zone: "www.urbandalis.pro" static
@@ -13019,6 +14479,8 @@ local-zone: "www.utarget.co.uk" static
 local-data: "www.utarget.co.uk A 127.0.0.1"
 local-zone: "www.ute.fynxer.top" static
 local-data: "www.ute.fynxer.top A 127.0.0.1"
+local-zone: "www.utensilsandmore.store" static
+local-data: "www.utensilsandmore.store A 127.0.0.1"
 local-zone: "www.uterf.site" static
 local-data: "www.uterf.site A 127.0.0.1"
 local-zone: "www.utermondersen.top" static
@@ -13105,6 +14567,8 @@ local-zone: "www.uvttof.top" static
 local-data: "www.uvttof.top A 127.0.0.1"
 local-zone: "www.uvuschofi.pro" static
 local-data: "www.uvuschofi.pro A 127.0.0.1"
+local-zone: "www.uvxgsqdv.shop" static
+local-data: "www.uvxgsqdv.shop A 127.0.0.1"
 local-zone: "www.uw5j9.cc" static
 local-data: "www.uw5j9.cc A 127.0.0.1"
 local-zone: "www.uwagawesolemiasteczko.com" static
@@ -13227,6 +14691,8 @@ local-zone: "www.v7spl2.skin" static
 local-data: "www.v7spl2.skin A 127.0.0.1"
 local-zone: "www.v7syk0.cc" static
 local-data: "www.v7syk0.cc A 127.0.0.1"
+local-zone: "www.v7ukjkl.site" static
+local-data: "www.v7ukjkl.site A 127.0.0.1"
 local-zone: "www.v82gc3.lat" static
 local-data: "www.v82gc3.lat A 127.0.0.1"
 local-zone: "www.v8alueconnecthub.space" static
@@ -13383,8 +14849,6 @@ local-zone: "www.valdostas.com" static
 local-data: "www.valdostas.com A 127.0.0.1"
 local-zone: "www.valedavvero.com" static
 local-data: "www.valedavvero.com A 127.0.0.1"
-local-zone: "www.valenciaadschool.com" static
-local-data: "www.valenciaadschool.com A 127.0.0.1"
 local-zone: "www.valend.icu" static
 local-data: "www.valend.icu A 127.0.0.1"
 local-zone: "www.valenstral.pro" static
@@ -13453,6 +14917,10 @@ local-zone: "www.vallicompe.pro" static
 local-data: "www.vallicompe.pro A 127.0.0.1"
 local-zone: "www.vallorium.icu" static
 local-data: "www.vallorium.icu A 127.0.0.1"
+local-zone: "www.valmonitrexu5p9h38q.sbs" static
+local-data: "www.valmonitrexu5p9h38q.sbs A 127.0.0.1"
+local-zone: "www.valmorinextup9q24h53.site" static
+local-data: "www.valmorinextup9q24h53.site A 127.0.0.1"
 local-zone: "www.valnirexodamputo.space" static
 local-data: "www.valnirexodamputo.space A 127.0.0.1"
 local-zone: "www.valnix.shop" static
@@ -13559,6 +15027,8 @@ local-zone: "www.valtrixnexusaiapp.com" static
 local-data: "www.valtrixnexusaiapp.com A 127.0.0.1"
 local-zone: "www.valtronicexuq29p7.store" static
 local-data: "www.valtronicexuq29p7.store A 127.0.0.1"
+local-zone: "www.valtronimepux94h2.sbs" static
+local-data: "www.valtronimepux94h2.sbs A 127.0.0.1"
 local-zone: "www.valtrynix.org" static
 local-data: "www.valtrynix.org A 127.0.0.1"
 local-zone: "www.valturoxtrade.net" static
@@ -14051,14 +15521,14 @@ local-zone: "www.vaultstartclick.space" static
 local-data: "www.vaultstartclick.space A 127.0.0.1"
 local-zone: "www.vaultwave.online" static
 local-data: "www.vaultwave.online A 127.0.0.1"
-local-zone: "www.vavawi.widgetmarkething.com" static
-local-data: "www.vavawi.widgetmarkething.com A 127.0.0.1"
 local-zone: "www.vavotel.com" static
 local-data: "www.vavotel.com A 127.0.0.1"
 local-zone: "www.vavuci-luxapo.website" static
 local-data: "www.vavuci-luxapo.website A 127.0.0.1"
 local-zone: "www.vawifuk.com" static
 local-data: "www.vawifuk.com A 127.0.0.1"
+local-zone: "www.vaworogstikable.pro" static
+local-data: "www.vaworogstikable.pro A 127.0.0.1"
 local-zone: "www.vaxlora.site" static
 local-data: "www.vaxlora.site A 127.0.0.1"
 local-zone: "www.vayake-coluxi.site" static
@@ -14105,6 +15575,8 @@ local-zone: "www.vcelarstvo.com" static
 local-data: "www.vcelarstvo.com A 127.0.0.1"
 local-zone: "www.vcentury01.com" static
 local-data: "www.vcentury01.com A 127.0.0.1"
+local-zone: "www.vcgsxw.gchccub9.cc" static
+local-data: "www.vcgsxw.gchccub9.cc A 127.0.0.1"
 local-zone: "www.vckkjv.s3.us-east-005.backblazeb2.com" static
 local-data: "www.vckkjv.s3.us-east-005.backblazeb2.com A 127.0.0.1"
 local-zone: "www.vcodehall.vercel.app" static
@@ -14847,8 +16319,6 @@ local-zone: "www.venixortraderpeak.com" static
 local-data: "www.venixortraderpeak.com A 127.0.0.1"
 local-zone: "www.venlithar.iggholdings.info" static
 local-data: "www.venlithar.iggholdings.info A 127.0.0.1"
-local-zone: "www.venom-studio.com" static
-local-data: "www.venom-studio.com A 127.0.0.1"
 local-zone: "www.venomousbandicoot.pro" static
 local-data: "www.venomousbandicoot.pro A 127.0.0.1"
 local-zone: "www.venomousechidna.pro" static
@@ -14861,8 +16331,6 @@ local-zone: "www.venomousuakari.pro" static
 local-data: "www.venomousuakari.pro A 127.0.0.1"
 local-zone: "www.venomouszebra.pro" static
 local-data: "www.venomouszebra.pro A 127.0.0.1"
-local-zone: "www.venomsites.com" static
-local-data: "www.venomsites.com A 127.0.0.1"
 local-zone: "www.venouconfl.pro" static
 local-data: "www.venouconfl.pro A 127.0.0.1"
 local-zone: "www.venouincho.pro" static
@@ -15159,6 +16627,8 @@ local-zone: "www.verifiedimmediatesessiondetected.top" static
 local-data: "www.verifiedimmediatesessiondetected.top A 127.0.0.1"
 local-zone: "www.verifiedimproperrealtimemobile.top" static
 local-data: "www.verifiedimproperrealtimemobile.top A 127.0.0.1"
+local-zone: "www.verifiednewsburstalert.pro" static
+local-data: "www.verifiednewsburstalert.pro A 127.0.0.1"
 local-zone: "www.verifiednewss.info" static
 local-data: "www.verifiednewss.info A 127.0.0.1"
 local-zone: "www.verifiedsafebusinessproven.autos" static
@@ -15573,8 +17043,6 @@ local-zone: "www.vevulyi9.pro" static
 local-data: "www.vevulyi9.pro A 127.0.0.1"
 local-zone: "www.vewdefimedia.com" static
 local-data: "www.vewdefimedia.com A 127.0.0.1"
-local-zone: "www.vewel.com" static
-local-data: "www.vewel.com A 127.0.0.1"
 local-zone: "www.vewvwm.myshopify.com" static
 local-data: "www.vewvwm.myshopify.com A 127.0.0.1"
 local-zone: "www.vexa-corevia.net" static
@@ -15643,6 +17111,8 @@ local-zone: "www.vexomlootapp.net" static
 local-data: "www.vexomlootapp.net A 127.0.0.1"
 local-zone: "www.vexor-lua.com" static
 local-data: "www.vexor-lua.com A 127.0.0.1"
+local-zone: "www.vexoralnitup39q5h28.sbs" static
+local-data: "www.vexoralnitup39q5h28.sbs A 127.0.0.1"
 local-zone: "www.vexoria.today" static
 local-data: "www.vexoria.today A 127.0.0.1"
 local-zone: "www.vexorium.xyz" static
@@ -15651,6 +17121,8 @@ local-zone: "www.vexorlua-app.com" static
 local-data: "www.vexorlua-app.com A 127.0.0.1"
 local-zone: "www.vexrilo.online" static
 local-data: "www.vexrilo.online A 127.0.0.1"
+local-zone: "www.vextoniralumtep93h.space" static
+local-data: "www.vextoniralumtep93h.space A 127.0.0.1"
 local-zone: "www.vextora.art" static
 local-data: "www.vextora.art A 127.0.0.1"
 local-zone: "www.vextora.top" static
@@ -16573,8 +18045,6 @@ local-zone: "www.vinted.confirmations.shop" static
 local-data: "www.vinted.confirmations.shop A 127.0.0.1"
 local-zone: "www.vinted.confrm87.cyou" static
 local-data: "www.vinted.confrm87.cyou A 127.0.0.1"
-local-zone: "www.vinted.data-completion.help" static
-local-data: "www.vinted.data-completion.help A 127.0.0.1"
 local-zone: "www.vinted.de-market2005.com" static
 local-data: "www.vinted.de-market2005.com A 127.0.0.1"
 local-zone: "www.vinted.de-markt01.com" static
@@ -16865,6 +18335,8 @@ local-zone: "www.vintedsph.shop" static
 local-data: "www.vintedsph.shop A 127.0.0.1"
 local-zone: "www.vintedsphj.shop" static
 local-data: "www.vintedsphj.shop A 127.0.0.1"
+local-zone: "www.vintedstb.shop" static
+local-data: "www.vintedstb.shop A 127.0.0.1"
 local-zone: "www.vintedverification.com" static
 local-data: "www.vintedverification.com A 127.0.0.1"
 local-zone: "www.vintedvim1.shop" static
@@ -16877,8 +18349,8 @@ local-zone: "www.vintedzq.com" static
 local-data: "www.vintedzq.com A 127.0.0.1"
 local-zone: "www.vintely.club" static
 local-data: "www.vintely.club A 127.0.0.1"
-local-zone: "www.vintled.m7lzbw.hair" static
-local-data: "www.vintled.m7lzbw.hair A 127.0.0.1"
+local-zone: "www.vinylworkscanada.com" static
+local-data: "www.vinylworkscanada.com A 127.0.0.1"
 local-zone: "www.vio.kiopeut.top" static
 local-data: "www.vio.kiopeut.top A 127.0.0.1"
 local-zone: "www.vioesaetr.top" static
@@ -17029,6 +18501,8 @@ local-zone: "www.virall-hubb.digital" static
 local-data: "www.virall-hubb.digital A 127.0.0.1"
 local-zone: "www.viralmarble.duplartment.com" static
 local-data: "www.viralmarble.duplartment.com A 127.0.0.1"
+local-zone: "www.viralsoftwares.store" static
+local-data: "www.viralsoftwares.store A 127.0.0.1"
 local-zone: "www.virana-wihona.pics" static
 local-data: "www.virana-wihona.pics A 127.0.0.1"
 local-zone: "www.vireelvon.com" static
@@ -17133,6 +18607,8 @@ local-zone: "www.virtualizecr.com" static
 local-data: "www.virtualizecr.com A 127.0.0.1"
 local-zone: "www.virtualnexuspoint.com" static
 local-data: "www.virtualnexuspoint.com A 127.0.0.1"
+local-zone: "www.virtualpaintscene.digital" static
+local-data: "www.virtualpaintscene.digital A 127.0.0.1"
 local-zone: "www.virtualplug.online" static
 local-data: "www.virtualplug.online A 127.0.0.1"
 local-zone: "www.virtualprivatelessons.net" static
@@ -17511,6 +18987,8 @@ local-zone: "www.visionpropuls1e.store" static
 local-data: "www.visionpropuls1e.store A 127.0.0.1"
 local-zone: "www.visionpulsemedi1a.store" static
 local-data: "www.visionpulsemedi1a.store A 127.0.0.1"
+local-zone: "www.visionreport.live" static
+local-data: "www.visionreport.live A 127.0.0.1"
 local-zone: "www.visions4tartload.online" static
 local-data: "www.visions4tartload.online A 127.0.0.1"
 local-zone: "www.visionschools.org" static
@@ -18141,8 +19619,6 @@ local-zone: "www.vlorika.com" static
 local-data: "www.vlorika.com A 127.0.0.1"
 local-zone: "www.vlrke.live" static
 local-data: "www.vlrke.live A 127.0.0.1"
-local-zone: "www.vlssolicitor.com" static
-local-data: "www.vlssolicitor.com A 127.0.0.1"
 local-zone: "www.vmbe.deotorslok.top" static
 local-data: "www.vmbe.deotorslok.top A 127.0.0.1"
 local-zone: "www.vmcsatellite.com" static
@@ -18203,6 +19679,8 @@ local-zone: "www.vodfilmy.pl" static
 local-data: "www.vodfilmy.pl A 127.0.0.1"
 local-zone: "www.vodfilmy.tumblr.com" static
 local-data: "www.vodfilmy.tumblr.com A 127.0.0.1"
+local-zone: "www.vodfind.com" static
+local-data: "www.vodfind.com A 127.0.0.1"
 local-zone: "www.vodflix.tv" static
 local-data: "www.vodflix.tv A 127.0.0.1"
 local-zone: "www.vodkin.pl" static
@@ -18511,6 +19989,8 @@ local-zone: "www.vomygie.top" static
 local-data: "www.vomygie.top A 127.0.0.1"
 local-zone: "www.vonam.space" static
 local-data: "www.vonam.space A 127.0.0.1"
+local-zone: "www.vonaro.xyz" static
+local-data: "www.vonaro.xyz A 127.0.0.1"
 local-zone: "www.vondratexapp.com" static
 local-data: "www.vondratexapp.com A 127.0.0.1"
 local-zone: "www.voniluu.com" static
@@ -18593,6 +20073,8 @@ local-zone: "www.vornelis.com" static
 local-data: "www.vornelis.com A 127.0.0.1"
 local-zone: "www.vornik.top" static
 local-data: "www.vornik.top A 127.0.0.1"
+local-zone: "www.vornilatexu85q92h3p.sbs" static
+local-data: "www.vornilatexu85q92h3p.sbs A 127.0.0.1"
 local-zone: "www.vorniqo.art" static
 local-data: "www.vorniqo.art A 127.0.0.1"
 local-zone: "www.vornoxdrivegptai.com" static
@@ -18909,6 +20391,8 @@ local-zone: "www.vroq.info" static
 local-data: "www.vroq.info A 127.0.0.1"
 local-zone: "www.vrr-boostt.xyz" static
 local-data: "www.vrr-boostt.xyz A 127.0.0.1"
+local-zone: "www.vrr-gooo.digital" static
+local-data: "www.vrr-gooo.digital A 127.0.0.1"
 local-zone: "www.vrrlon.digital" static
 local-data: "www.vrrlon.digital A 127.0.0.1"
 local-zone: "www.vrshop.digital" static
@@ -19005,8 +20489,6 @@ local-zone: "www.vudebuw.com" static
 local-data: "www.vudebuw.com A 127.0.0.1"
 local-zone: "www.vuduiammem.pro" static
 local-data: "www.vuduiammem.pro A 127.0.0.1"
-local-zone: "www.vuebello.com" static
-local-data: "www.vuebello.com A 127.0.0.1"
 local-zone: "www.vufene-yatera.pics" static
 local-data: "www.vufene-yatera.pics A 127.0.0.1"
 local-zone: "www.vufibo-xisupa.pics" static
@@ -19289,8 +20771,6 @@ local-zone: "www.vyinggenar.pro" static
 local-data: "www.vyinggenar.pro A 127.0.0.1"
 local-zone: "www.vykafau9.pro" static
 local-data: "www.vykafau9.pro A 127.0.0.1"
-local-zone: "www.vyklyk.com" static
-local-data: "www.vyklyk.com A 127.0.0.1"
 local-zone: "www.vylarixnetworks.com" static
 local-data: "www.vylarixnetworks.com A 127.0.0.1"
 local-zone: "www.vylenthramedia.com" static
@@ -19671,10 +21151,6 @@ local-zone: "www.walchale.com" static
 local-data: "www.walchale.com A 127.0.0.1"
 local-zone: "www.walets-trexorappsafe-xxdesktop.serviceprovider.shop" static
 local-data: "www.walets-trexorappsafe-xxdesktop.serviceprovider.shop A 127.0.0.1"
-local-zone: "www.walidacja.grupa-pocztowa.top" static
-local-data: "www.walidacja.grupa-pocztowa.top A 127.0.0.1"
-local-zone: "www.walidacja.pocztowa-grupa.top" static
-local-data: "www.walidacja.pocztowa-grupa.top A 127.0.0.1"
 local-zone: "www.walidacjagrupapocztowa.top" static
 local-data: "www.walidacjagrupapocztowa.top A 127.0.0.1"
 local-zone: "www.walidacjapoczty.netlify.app" static
@@ -19735,8 +21211,6 @@ local-zone: "www.wall-plates.com" static
 local-data: "www.wall-plates.com A 127.0.0.1"
 local-zone: "www.wallaponta.pro" static
 local-data: "www.wallaponta.pro A 127.0.0.1"
-local-zone: "www.wallet-coinbase.com.addpotion.com" static
-local-data: "www.wallet-coinbase.com.addpotion.com A 127.0.0.1"
 local-zone: "www.walletconnect-virusscanner.com" static
 local-data: "www.walletconnect-virusscanner.com A 127.0.0.1"
 local-zone: "www.walletixecologico.com" static
@@ -20083,6 +21557,8 @@ local-zone: "www.warssaw.b-cdn.net" static
 local-data: "www.warssaw.b-cdn.net A 127.0.0.1"
 local-zone: "www.warszawa-klif.top" static
 local-data: "www.warszawa-klif.top A 127.0.0.1"
+local-zone: "www.warszawa-moda.pl" static
+local-data: "www.warszawa-moda.pl A 127.0.0.1"
 local-zone: "www.warszawa-utrudnienia.pl" static
 local-data: "www.warszawa-utrudnienia.pl A 127.0.0.1"
 local-zone: "www.warszawalat.lat" static
@@ -20353,8 +21829,6 @@ local-zone: "www.wbiox.itswalix.com" static
 local-data: "www.wbiox.itswalix.com A 127.0.0.1"
 local-zone: "www.wbius.com" static
 local-data: "www.wbius.com A 127.0.0.1"
-local-zone: "www.wblag6f64k469918j6fgqo6m.traveltripcompany.com" static
-local-data: "www.wblag6f64k469918j6fgqo6m.traveltripcompany.com A 127.0.0.1"
 local-zone: "www.wbok.pl" static
 local-data: "www.wbok.pl A 127.0.0.1"
 local-zone: "www.wbond.club" static
@@ -21187,8 +22661,6 @@ local-zone: "www.weconsult-it.com" static
 local-data: "www.weconsult-it.com A 127.0.0.1"
 local-zone: "www.wedding-in-dubai.com" static
 local-data: "www.wedding-in-dubai.com A 127.0.0.1"
-local-zone: "www.weddingbandsbuy.com" static
-local-data: "www.weddingbandsbuy.com A 127.0.0.1"
 local-zone: "www.weddinglevelup.com" static
 local-data: "www.weddinglevelup.com A 127.0.0.1"
 local-zone: "www.weddingofficiantssd.com" static
@@ -21217,8 +22689,6 @@ local-zone: "www.weefap.com" static
 local-data: "www.weefap.com A 127.0.0.1"
 local-zone: "www.weehawkengrace.com" static
 local-data: "www.weehawkengrace.com A 127.0.0.1"
-local-zone: "www.weekenddeals.xyz" static
-local-data: "www.weekenddeals.xyz A 127.0.0.1"
 local-zone: "www.weekendputtclub.com" static
 local-data: "www.weekendputtclub.com A 127.0.0.1"
 local-zone: "www.weekendworldwide.com" static
@@ -21451,6 +22921,8 @@ local-zone: "www.welthyyhealth.com" static
 local-data: "www.welthyyhealth.com A 127.0.0.1"
 local-zone: "www.weltiunchi.pro" static
 local-data: "www.weltiunchi.pro A 127.0.0.1"
+local-zone: "www.weltronivuxp8q24h5.space" static
+local-data: "www.weltronivuxp8q24h5.space A 127.0.0.1"
 local-zone: "www.welturex-app.com" static
 local-data: "www.welturex-app.com A 127.0.0.1"
 local-zone: "www.welturexai.com" static
@@ -21505,6 +22977,8 @@ local-zone: "www.werkontaai.com" static
 local-data: "www.werkontaai.com A 127.0.0.1"
 local-zone: "www.werkontaaml.com" static
 local-data: "www.werkontaaml.com A 127.0.0.1"
+local-zone: "www.werlinatovexup7q95h2.space" static
+local-data: "www.werlinatovexup7q95h2.space A 127.0.0.1"
 local-zone: "www.werloc.com" static
 local-data: "www.werloc.com A 127.0.0.1"
 local-zone: "www.wernandogarey.top" static
@@ -21513,10 +22987,14 @@ local-zone: "www.wernerssonost.com" static
 local-data: "www.wernerssonost.com A 127.0.0.1"
 local-zone: "www.wernet.pl" static
 local-data: "www.wernet.pl A 127.0.0.1"
+local-zone: "www.wernitolavemup93q7.online" static
+local-data: "www.wernitolavemup93q7.online A 127.0.0.1"
 local-zone: "www.wernorinonestojovi.store" static
 local-data: "www.wernorinonestojovi.store A 127.0.0.1"
 local-zone: "www.wernosent51oentroserilo.online" static
 local-data: "www.wernosent51oentroserilo.online A 127.0.0.1"
+local-zone: "www.wernovaliteup2q93h7.sbs" static
+local-data: "www.wernovaliteup2q93h7.sbs A 127.0.0.1"
 local-zone: "www.wernovalitux9p2qh.store" static
 local-data: "www.wernovalitux9p2qh.store A 127.0.0.1"
 local-zone: "www.werpol.top" static
@@ -21565,6 +23043,8 @@ local-zone: "www.weryvai4.pro" static
 local-data: "www.weryvai4.pro A 127.0.0.1"
 local-zone: "www.wescam.info" static
 local-data: "www.wescam.info A 127.0.0.1"
+local-zone: "www.wesellkeys.com" static
+local-data: "www.wesellkeys.com A 127.0.0.1"
 local-zone: "www.wesellstuffandthings.com" static
 local-data: "www.wesellstuffandthings.com A 127.0.0.1"
 local-zone: "www.weselnyplaner.com" static
@@ -21657,6 +23137,8 @@ local-zone: "www.wevijoa.com" static
 local-data: "www.wevijoa.com A 127.0.0.1"
 local-zone: "www.wevoba-bujola.site" static
 local-data: "www.wevoba-bujola.site A 127.0.0.1"
+local-zone: "www.wevrantolipex73q8p.space" static
+local-data: "www.wevrantolipex73q8p.space A 127.0.0.1"
 local-zone: "www.wewaza-tanece.site" static
 local-data: "www.wewaza-tanece.site A 127.0.0.1"
 local-zone: "www.wewillrocknow.com" static
@@ -22993,8 +24475,6 @@ local-zone: "www.wingedwhippet.pro" static
 local-data: "www.wingedwhippet.pro A 127.0.0.1"
 local-zone: "www.wingletsystem.com" static
 local-data: "www.wingletsystem.com A 127.0.0.1"
-local-zone: "www.wingsaccountingacademy.com" static
-local-data: "www.wingsaccountingacademy.com A 127.0.0.1"
 local-zone: "www.wingshopbc.com" static
 local-data: "www.wingshopbc.com A 127.0.0.1"
 local-zone: "www.winhero.win" static
@@ -23087,8 +24567,6 @@ local-zone: "www.wiqatoa.com" static
 local-data: "www.wiqatoa.com A 127.0.0.1"
 local-zone: "www.wiqezae.com" static
 local-data: "www.wiqezae.com A 127.0.0.1"
-local-zone: "www.wiqn69ob1bssfi18jldgt5f0.traveltripcompany.com" static
-local-data: "www.wiqn69ob1bssfi18jldgt5f0.traveltripcompany.com A 127.0.0.1"
 local-zone: "www.wiqyray.com" static
 local-data: "www.wiqyray.com A 127.0.0.1"
 local-zone: "www.wiraplox.com" static
@@ -23269,6 +24747,8 @@ local-zone: "www.withoutbankers.com" static
 local-data: "www.withoutbankers.com A 127.0.0.1"
 local-zone: "www.withoutimupepe.com" static
 local-data: "www.withoutimupepe.com A 127.0.0.1"
+local-zone: "www.withoutkamaruti.com" static
+local-data: "www.withoutkamaruti.com A 127.0.0.1"
 local-zone: "www.withsobi.com" static
 local-data: "www.withsobi.com A 127.0.0.1"
 local-zone: "www.witschen.com" static
@@ -23443,6 +24923,8 @@ local-zone: "www.wkelg1o8d21kp6e93rlari7l.ultimatevacationgetaways.com" static
 local-data: "www.wkelg1o8d21kp6e93rlari7l.ultimatevacationgetaways.com A 127.0.0.1"
 local-zone: "www.wkjnvrjq4fpp9e893k8jc2kk.charmingceremonyguide.com" static
 local-data: "www.wkjnvrjq4fpp9e893k8jc2kk.charmingceremonyguide.com A 127.0.0.1"
+local-zone: "www.wkjyczte.shop" static
+local-data: "www.wkjyczte.shop A 127.0.0.1"
 local-zone: "www.wkr2fgmbreupfet8jdtsa609.joystickjoygame.com" static
 local-data: "www.wkr2fgmbreupfet8jdtsa609.joystickjoygame.com A 127.0.0.1"
 local-zone: "www.wks.ero-advertising.com" static
@@ -23505,6 +24987,8 @@ local-zone: "www.wnj8q.cyou" static
 local-data: "www.wnj8q.cyou A 127.0.0.1"
 local-zone: "www.wnodleqnb461gt183sk2ghk4.craftsmagics.com" static
 local-data: "www.wnodleqnb461gt183sk2ghk4.craftsmagics.com A 127.0.0.1"
+local-zone: "www.wnonee.sbs" static
+local-data: "www.wnonee.sbs A 127.0.0.1"
 local-zone: "www.wnotesapi.com" static
 local-data: "www.wnotesapi.com A 127.0.0.1"
 local-zone: "www.wnywe.com" static
@@ -23883,6 +25367,8 @@ local-zone: "www.wordpress-ygwc0gswg0k880wocwocsw8c.86.106.104.10.sslip.io" stat
 local-data: "www.wordpress-ygwc0gswg0k880wocwocsw8c.86.106.104.10.sslip.io A 127.0.0.1"
 local-zone: "www.wordpress.000-038.net.daraz.com" static
 local-data: "www.wordpress.000-038.net.daraz.com A 127.0.0.1"
+local-zone: "www.wordpressdomains.net" static
+local-data: "www.wordpressdomains.net A 127.0.0.1"
 local-zone: "www.wordscolony.com" static
 local-data: "www.wordscolony.com A 127.0.0.1"
 local-zone: "www.wordsforpeace.net" static
@@ -23907,8 +25393,6 @@ local-zone: "www.work-loom.com" static
 local-data: "www.work-loom.com A 127.0.0.1"
 local-zone: "www.work-offer.com" static
 local-data: "www.work-offer.com A 127.0.0.1"
-local-zone: "www.work-pro.cfd" static
-local-data: "www.work-pro.cfd A 127.0.0.1"
 local-zone: "www.workapk.online" static
 local-data: "www.workapk.online A 127.0.0.1"
 local-zone: "www.workbdone.com" static
@@ -23969,10 +25453,6 @@ local-zone: "www.workolink.com" static
 local-data: "www.workolink.com A 127.0.0.1"
 local-zone: "www.workpagez.com" static
 local-data: "www.workpagez.com A 127.0.0.1"
-local-zone: "www.worksharpculinaryemail.com" static
-local-data: "www.worksharpculinaryemail.com A 127.0.0.1"
-local-zone: "www.worksharpemail.com" static
-local-data: "www.worksharpemail.com A 127.0.0.1"
 local-zone: "www.workshopcurator.com" static
 local-data: "www.workshopcurator.com A 127.0.0.1"
 local-zone: "www.workshopvoteshub.com" static
@@ -24033,6 +25513,8 @@ local-zone: "www.worldfacts.info" static
 local-data: "www.worldfacts.info A 127.0.0.1"
 local-zone: "www.worldfoodscience.com" static
 local-data: "www.worldfoodscience.com A 127.0.0.1"
+local-zone: "www.worldforclimate.net" static
+local-data: "www.worldforclimate.net A 127.0.0.1"
 local-zone: "www.worldfreshheadlines.com" static
 local-data: "www.worldfreshheadlines.com A 127.0.0.1"
 local-zone: "www.worldheadlinerswide.com" static
@@ -24099,6 +25581,8 @@ local-zone: "www.worldwidecurrentevents.com" static
 local-data: "www.worldwidecurrentevents.com A 127.0.0.1"
 local-zone: "www.worldwidecurrentnews.com" static
 local-data: "www.worldwidecurrentnews.com A 127.0.0.1"
+local-zone: "www.worldwidefeednew.com" static
+local-data: "www.worldwidefeednew.com A 127.0.0.1"
 local-zone: "www.worldwidefreightco.com" static
 local-data: "www.worldwidefreightco.com A 127.0.0.1"
 local-zone: "www.worldwideheadliners.pro" static
@@ -24543,8 +26027,6 @@ local-zone: "www.wtdxws.s3.us-east-005.backblazeb2.com" static
 local-data: "www.wtdxws.s3.us-east-005.backblazeb2.com A 127.0.0.1"
 local-zone: "www.wtfsystem.com" static
 local-data: "www.wtfsystem.com A 127.0.0.1"
-local-zone: "www.wtgcjqi4gvdrvc18jhmghhfc.traveltripcompany.com" static
-local-data: "www.wtgcjqi4gvdrvc18jhmghhfc.traveltripcompany.com A 127.0.0.1"
 local-zone: "www.wthacolous.online" static
 local-data: "www.wthacolous.online A 127.0.0.1"
 local-zone: "www.wtocoinbroker.com" static
@@ -24971,12 +26453,18 @@ local-zone: "www.xalvexgain47ai.com" static
 local-data: "www.xalvexgain47ai.com A 127.0.0.1"
 local-zone: "www.xalvextrader47.com" static
 local-data: "www.xalvextrader47.com A 127.0.0.1"
+local-zone: "www.xalvoniremtexuq95p.online" static
+local-data: "www.xalvoniremtexuq95p.online A 127.0.0.1"
+local-zone: "www.xalvornitemux48q5.sbs" static
+local-data: "www.xalvornitemux48q5.sbs A 127.0.0.1"
 local-zone: "www.xalyqou.com" static
 local-data: "www.xalyqou.com A 127.0.0.1"
 local-zone: "www.xamaya-sohaxa.pics" static
 local-data: "www.xamaya-sohaxa.pics A 127.0.0.1"
 local-zone: "www.xambertlouen.top" static
 local-data: "www.xambertlouen.top A 127.0.0.1"
+local-zone: "www.xandivoluret.sbs" static
+local-data: "www.xandivoluret.sbs A 127.0.0.1"
 local-zone: "www.xandoria.site" static
 local-data: "www.xandoria.site A 127.0.0.1"
 local-zone: "www.xaninecreb.space" static
@@ -25207,6 +26695,8 @@ local-zone: "www.xehovi-yiwusa.pics" static
 local-data: "www.xehovi-yiwusa.pics A 127.0.0.1"
 local-zone: "www.xejower.pro" static
 local-data: "www.xejower.pro A 127.0.0.1"
+local-zone: "www.xelavo.xyz" static
+local-data: "www.xelavo.xyz A 127.0.0.1"
 local-zone: "www.xeldorsaldo.net" static
 local-data: "www.xeldorsaldo.net A 127.0.0.1"
 local-zone: "www.xeldorsaldoai.com" static
@@ -25215,6 +26705,8 @@ local-zone: "www.xelirionn.com" static
 local-data: "www.xelirionn.com A 127.0.0.1"
 local-zone: "www.xelivozarowern5ojorina.space" static
 local-data: "www.xelivozarowern5ojorina.space A 127.0.0.1"
+local-zone: "www.xelmoraviteq7u9p25h.sbs" static
+local-data: "www.xelmoraviteq7u9p25h.sbs A 127.0.0.1"
 local-zone: "www.xeloria.top" static
 local-data: "www.xeloria.top A 127.0.0.1"
 local-zone: "www.xelphor.site" static
@@ -25355,6 +26847,8 @@ local-zone: "www.xerisu-rapeba.pics" static
 local-data: "www.xerisu-rapeba.pics A 127.0.0.1"
 local-zone: "www.xerlita.cfd" static
 local-data: "www.xerlita.cfd A 127.0.0.1"
+local-zone: "www.xernomivaltup27q.sbs" static
+local-data: "www.xernomivaltup27q.sbs A 127.0.0.1"
 local-zone: "www.xeroblog.com" static
 local-data: "www.xeroblog.com A 127.0.0.1"
 local-zone: "www.xerocdisgr.pro" static
@@ -25371,6 +26865,8 @@ local-zone: "www.xeroshoesdanmark.com" static
 local-data: "www.xeroshoesdanmark.com A 127.0.0.1"
 local-zone: "www.xeroshoesdanmarks.com" static
 local-data: "www.xeroshoesdanmarks.com A 127.0.0.1"
+local-zone: "www.xertinalovemupq57h9.sbs" static
+local-data: "www.xertinalovemupq57h9.sbs A 127.0.0.1"
 local-zone: "www.xerupi.icu" static
 local-data: "www.xerupi.icu A 127.0.0.1"
 local-zone: "www.xervalu.pics" static
@@ -25485,6 +26981,8 @@ local-zone: "www.xisa.widgetmarkething.com" static
 local-data: "www.xisa.widgetmarkething.com A 127.0.0.1"
 local-zone: "www.xistomarketing.com" static
 local-data: "www.xistomarketing.com A 127.0.0.1"
+local-zone: "www.xisuydfisfyhisfuoifosujfidujfi.cfolks.pl" static
+local-data: "www.xisuydfisfyhisfuoifosujfidujfi.cfolks.pl A 127.0.0.1"
 local-zone: "www.xitatae.com" static
 local-data: "www.xitatae.com A 127.0.0.1"
 local-zone: "www.xitevuj.com" static
@@ -25565,6 +27063,8 @@ local-zone: "www.xn--albilet-b9a.oferta-0592084.cfd" static
 local-data: "www.xn--albilet-b9a.oferta-0592084.cfd A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.oferta-0692053.cfd" static
 local-data: "www.xn--albilet-b9a.oferta-0692053.cfd A 127.0.0.1"
+local-zone: "www.xn--albilet-b9a.oferta-6298626.cfd" static
+local-data: "www.xn--albilet-b9a.oferta-6298626.cfd A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.oferta2149712912714812501271.cyou" static
 local-data: "www.xn--albilet-b9a.oferta2149712912714812501271.cyou A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.oferta820810977.cyou" static
@@ -25637,6 +27137,10 @@ local-zone: "www.xn--albilet-b9a.pl-oferta1427061.cfd" static
 local-data: "www.xn--albilet-b9a.pl-oferta1427061.cfd A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.pl-oferta1568115.top" static
 local-data: "www.xn--albilet-b9a.pl-oferta1568115.top A 127.0.0.1"
+local-zone: "www.xn--albilet-b9a.pl-oferta214101512.sbs" static
+local-data: "www.xn--albilet-b9a.pl-oferta214101512.sbs A 127.0.0.1"
+local-zone: "www.xn--albilet-b9a.pl-oferta21410159.sbs" static
+local-data: "www.xn--albilet-b9a.pl-oferta21410159.sbs A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.pl-oferta21410591.sbs" static
 local-data: "www.xn--albilet-b9a.pl-oferta21410591.sbs A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.pl-oferta2530811.cfd" static
@@ -25719,6 +27223,12 @@ local-zone: "www.xn--albilet-b9a.pl-oferta7910551.top" static
 local-data: "www.xn--albilet-b9a.pl-oferta7910551.top A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.pl-oferta8564819.cfd" static
 local-data: "www.xn--albilet-b9a.pl-oferta8564819.cfd A 127.0.0.1"
+local-zone: "www.xn--albilet-b9a.pl-oferta875882334.cfd" static
+local-data: "www.xn--albilet-b9a.pl-oferta875882334.cfd A 127.0.0.1"
+local-zone: "www.xn--albilet-b9a.pl-oferta87765782.cfd" static
+local-data: "www.xn--albilet-b9a.pl-oferta87765782.cfd A 127.0.0.1"
+local-zone: "www.xn--albilet-b9a.pl-oferta8785243242.cfd" static
+local-data: "www.xn--albilet-b9a.pl-oferta8785243242.cfd A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.pl-oferta8867425.cfd" static
 local-data: "www.xn--albilet-b9a.pl-oferta8867425.cfd A 127.0.0.1"
 local-zone: "www.xn--albilet-b9a.pl-oferta8875757325.cfd" static
@@ -25807,6 +27317,8 @@ local-zone: "www.xn--gymsharkklrnorge-3ob.com" static
 local-data: "www.xn--gymsharkklrnorge-3ob.com A 127.0.0.1"
 local-zone: "www.xn--mdrekroki-bdb.eu" static
 local-data: "www.xn--mdrekroki-bdb.eu A 127.0.0.1"
+local-zone: "www.xn--mrelay-expdition-kqb.com" static
+local-data: "www.xn--mrelay-expdition-kqb.com A 127.0.0.1"
 local-zone: "www.xn--on3b15m2lco2u.com" static
 local-data: "www.xn--on3b15m2lco2u.com A 127.0.0.1"
 local-zone: "www.xn--pandorabiuteria-qkd.com" static
@@ -25891,8 +27403,6 @@ local-zone: "www.xomora-vahive.pics" static
 local-data: "www.xomora-vahive.pics A 127.0.0.1"
 local-zone: "www.xomuval.pics" static
 local-data: "www.xomuval.pics A 127.0.0.1"
-local-zone: "www.xonido-sonubi.pro" static
-local-data: "www.xonido-sonubi.pro A 127.0.0.1"
 local-zone: "www.xonosuo.icu" static
 local-data: "www.xonosuo.icu A 127.0.0.1"
 local-zone: "www.xoomdot.com" static
@@ -25907,8 +27417,6 @@ local-zone: "www.xopisu-mucesi.site" static
 local-data: "www.xopisu-mucesi.site A 127.0.0.1"
 local-zone: "www.xopites.com" static
 local-data: "www.xopites.com A 127.0.0.1"
-local-zone: "www.xopler.click" static
-local-data: "www.xopler.click A 127.0.0.1"
 local-zone: "www.xopryellowhebav.pro" static
 local-data: "www.xopryellowhebav.pro A 127.0.0.1"
 local-zone: "www.xopupiu.top" static
@@ -25973,8 +27481,6 @@ local-zone: "www.xpasslist.info" static
 local-data: "www.xpasslist.info A 127.0.0.1"
 local-zone: "www.xpenseapp.com" static
 local-data: "www.xpenseapp.com A 127.0.0.1"
-local-zone: "www.xpeoy.shop" static
-local-data: "www.xpeoy.shop A 127.0.0.1"
 local-zone: "www.xpeprojects.com" static
 local-data: "www.xpeprojects.com A 127.0.0.1"
 local-zone: "www.xpertinsights.pro" static
@@ -26255,6 +27761,8 @@ local-zone: "www.xvsdpoctza.weebly.com" static
 local-data: "www.xvsdpoctza.weebly.com A 127.0.0.1"
 local-zone: "www.xw2i6skl4uh3jrg.tvshna.pl" static
 local-data: "www.xw2i6skl4uh3jrg.tvshna.pl A 127.0.0.1"
+local-zone: "www.xw3zjp.skin" static
+local-data: "www.xw3zjp.skin A 127.0.0.1"
 local-zone: "www.xw9b74okgq5p8sa.wsparcie.cfd" static
 local-data: "www.xw9b74okgq5p8sa.wsparcie.cfd A 127.0.0.1"
 local-zone: "www.xwebmail-stuserbu.vercel.app" static
@@ -26307,8 +27815,6 @@ local-zone: "www.xyberra.info" static
 local-data: "www.xyberra.info A 127.0.0.1"
 local-zone: "www.xybihoa.pro" static
 local-data: "www.xybihoa.pro A 127.0.0.1"
-local-zone: "www.xycnfl.com" static
-local-data: "www.xycnfl.com A 127.0.0.1"
 local-zone: "www.xycusua2.pro" static
 local-data: "www.xycusua2.pro A 127.0.0.1"
 local-zone: "www.xydiluu.com" static
@@ -26769,6 +28275,8 @@ local-zone: "www.ygf.705re8e5pgdszdu.333fbcyp4f59n47mr4.com" static
 local-data: "www.ygf.705re8e5pgdszdu.333fbcyp4f59n47mr4.com A 127.0.0.1"
 local-zone: "www.ygjyg.butekye.top" static
 local-data: "www.ygjyg.butekye.top A 127.0.0.1"
+local-zone: "www.ygmzqrhc.info" static
+local-data: "www.ygmzqrhc.info A 127.0.0.1"
 local-zone: "www.ygwpywj.live" static
 local-data: "www.ygwpywj.live A 127.0.0.1"
 local-zone: "www.yh-07-vinted.pages.dev" static
@@ -26779,6 +28287,8 @@ local-zone: "www.yh5bhm.cyou" static
 local-data: "www.yh5bhm.cyou A 127.0.0.1"
 local-zone: "www.yhdg5.lat" static
 local-data: "www.yhdg5.lat A 127.0.0.1"
+local-zone: "www.yhftyygljg.vercel.app" static
+local-data: "www.yhftyygljg.vercel.app A 127.0.0.1"
 local-zone: "www.yhip4u.lat" static
 local-data: "www.yhip4u.lat A 127.0.0.1"
 local-zone: "www.yibiwi-kehavu.pics" static
@@ -26901,8 +28411,6 @@ local-zone: "www.ymgbga.com" static
 local-data: "www.ymgbga.com A 127.0.0.1"
 local-zone: "www.yminor.info" static
 local-data: "www.yminor.info A 127.0.0.1"
-local-zone: "www.ymzts.info" static
-local-data: "www.ymzts.info A 127.0.0.1"
 local-zone: "www.yn8qwd.lat" static
 local-data: "www.yn8qwd.lat A 127.0.0.1"
 local-zone: "www.ynslitze.shop" static
@@ -26925,8 +28433,6 @@ local-zone: "www.yodelidoo.com" static
 local-data: "www.yodelidoo.com A 127.0.0.1"
 local-zone: "www.yodide-nacanu.site" static
 local-data: "www.yodide-nacanu.site A 127.0.0.1"
-local-zone: "www.yogawithdrrach.com" static
-local-data: "www.yogawithdrrach.com A 127.0.0.1"
 local-zone: "www.yogeru-nenaru.site" static
 local-data: "www.yogeru-nenaru.site A 127.0.0.1"
 local-zone: "www.yogeshthakur.com" static
@@ -27315,8 +28821,6 @@ local-zone: "www.yumozur.com" static
 local-data: "www.yumozur.com A 127.0.0.1"
 local-zone: "www.yupibu-bavuga.site" static
 local-data: "www.yupibu-bavuga.site A 127.0.0.1"
-local-zone: "www.yupolaw.online" static
-local-data: "www.yupolaw.online A 127.0.0.1"
 local-zone: "www.yuppipuppy.com" static
 local-data: "www.yuppipuppy.com A 127.0.0.1"
 local-zone: "www.yuqukoparu.com" static
@@ -27619,6 +29123,8 @@ local-zone: "www.zalokaj.blogspot.com" static
 local-data: "www.zalokaj.blogspot.com A 127.0.0.1"
 local-zone: "www.zalrba.sbs" static
 local-data: "www.zalrba.sbs A 127.0.0.1"
+local-zone: "www.zaltroniveup4q7h95.store" static
+local-data: "www.zaltroniveup4q7h95.store A 127.0.0.1"
 local-zone: "www.zaltsburgas.top" static
 local-data: "www.zaltsburgas.top A 127.0.0.1"
 local-zone: "www.zalukaj-film.24.eu" static
@@ -27741,12 +29247,22 @@ local-zone: "www.zanocorebit.com" static
 local-data: "www.zanocorebit.com A 127.0.0.1"
 local-zone: "www.zanogi-wufiki.pics" static
 local-data: "www.zanogi-wufiki.pics A 127.0.0.1"
+local-zone: "www.zanovupiredalomite.space" static
+local-data: "www.zanovupiredalomite.space A 127.0.0.1"
 local-zone: "www.zanowow.com" static
 local-data: "www.zanowow.com A 127.0.0.1"
 local-zone: "www.zanozusu.com" static
 local-data: "www.zanozusu.com A 127.0.0.1"
 local-zone: "www.zanpromilexotra.space" static
 local-data: "www.zanpromilexotra.space A 127.0.0.1"
+local-zone: "www.zanrivalotumexupq48h2.space" static
+local-data: "www.zanrivalotumexupq48h2.space A 127.0.0.1"
+local-zone: "www.zanrivolamtexup42qh.sbs" static
+local-data: "www.zanrivolamtexup42qh.sbs A 127.0.0.1"
+local-zone: "www.zanrivoltamexu8q27p.sbs" static
+local-data: "www.zanrivoltamexu8q27p.sbs A 127.0.0.1"
+local-zone: "www.zanrivomantuxp59h.sbs" static
+local-data: "www.zanrivomantuxp59h.sbs A 127.0.0.1"
 local-zone: "www.zanrivotalexu37qh.store" static
 local-data: "www.zanrivotalexu37qh.store A 127.0.0.1"
 local-zone: "www.zantex-frame.net" static
@@ -27765,10 +29281,20 @@ local-zone: "www.zanthsecurity.co.za" static
 local-data: "www.zanthsecurity.co.za A 127.0.0.1"
 local-zone: "www.zantria.site" static
 local-data: "www.zantria.site A 127.0.0.1"
+local-zone: "www.zantrilovemux2q94ph.sbs" static
+local-data: "www.zantrilovemux2q94ph.sbs A 127.0.0.1"
+local-zone: "www.zantrilovemux58.sbs" static
+local-data: "www.zantrilovemux58.sbs A 127.0.0.1"
+local-zone: "www.zantrilovexp4u9q85.space" static
+local-data: "www.zantrilovexp4u9q85.space A 127.0.0.1"
 local-zone: "www.zantrous.store" static
 local-data: "www.zantrous.store A 127.0.0.1"
+local-zone: "www.zanvolatirexup93h25.space" static
+local-data: "www.zanvolatirexup93h25.space A 127.0.0.1"
 local-zone: "www.zanvora.site" static
 local-data: "www.zanvora.site A 127.0.0.1"
+local-zone: "www.zanvorinetaluxu53p.space" static
+local-data: "www.zanvorinetaluxu53p.space A 127.0.0.1"
 local-zone: "www.zanyzests.pro" static
 local-data: "www.zanyzests.pro A 127.0.0.1"
 local-zone: "www.zanyzones.pro" static
@@ -28669,6 +30195,8 @@ local-zone: "www.zermixrent-app.com" static
 local-data: "www.zermixrent-app.com A 127.0.0.1"
 local-zone: "www.zernextrading.com" static
 local-data: "www.zernextrading.com A 127.0.0.1"
+local-zone: "www.zernivotaluq48p3xh.space" static
+local-data: "www.zernivotaluq48p3xh.space A 127.0.0.1"
 local-zone: "www.zero-karano-kaze.com" static
 local-data: "www.zero-karano-kaze.com A 127.0.0.1"
 local-zone: "www.zero2summit.com" static
@@ -28979,6 +30507,8 @@ local-zone: "www.zikevee.com" static
 local-data: "www.zikevee.com A 127.0.0.1"
 local-zone: "www.zikuvoy.com" static
 local-data: "www.zikuvoy.com A 127.0.0.1"
+local-zone: "www.zilano.xyz" static
+local-data: "www.zilano.xyz A 127.0.0.1"
 local-zone: "www.ziliwa-gitizi.site" static
 local-data: "www.ziliwa-gitizi.site A 127.0.0.1"
 local-zone: "www.zilmavorandexute.online" static
@@ -29451,6 +30981,8 @@ local-zone: "www.zolvak.pics" static
 local-data: "www.zolvak.pics A 127.0.0.1"
 local-zone: "www.zolvinarexupt3q95h.space" static
 local-data: "www.zolvinarexupt3q95h.space A 127.0.0.1"
+local-zone: "www.zolvinatreup5q8h39.online" static
+local-data: "www.zolvinatreup5q8h39.online A 127.0.0.1"
 local-zone: "www.zombaliens.com" static
 local-data: "www.zombaliens.com A 127.0.0.1"
 local-zone: "www.zomehiy1.pro" static
@@ -29587,12 +31119,22 @@ local-zone: "www.zonitrextrader30ultra.com" static
 local-data: "www.zonitrextrader30ultra.com A 127.0.0.1"
 local-zone: "www.zonizsorri.pro" static
 local-data: "www.zonizsorri.pro A 127.0.0.1"
+local-zone: "www.zonralivantexup4q8h97.space" static
+local-data: "www.zonralivantexup4q8h97.space A 127.0.0.1"
 local-zone: "www.zontelorix.com" static
 local-data: "www.zontelorix.com A 127.0.0.1"
 local-zone: "www.zontelorix.org" static
 local-data: "www.zontelorix.org A 127.0.0.1"
+local-zone: "www.zonter-3valmi.digital" static
+local-data: "www.zonter-3valmi.digital A 127.0.0.1"
 local-zone: "www.zonto.shop" static
 local-data: "www.zonto.shop A 127.0.0.1"
+local-zone: "www.zontralivexu59q47h.site" static
+local-data: "www.zontralivexu59q47h.site A 127.0.0.1"
+local-zone: "www.zontrivalemupq4h97p.sbs" static
+local-data: "www.zontrivalemupq4h97p.sbs A 127.0.0.1"
+local-zone: "www.zontrivalonemux4q97h2.space" static
+local-data: "www.zontrivalonemux4q97h2.space A 127.0.0.1"
 local-zone: "www.zontrivex14.online" static
 local-data: "www.zontrivex14.online A 127.0.0.1"
 local-zone: "www.zontrix.site" static
@@ -30271,6 +31813,8 @@ local-zone: "www.zzmaciej.top" static
 local-data: "www.zzmaciej.top A 127.0.0.1"
 local-zone: "www.zzpwoning.com" static
 local-data: "www.zzpwoning.com A 127.0.0.1"
+local-zone: "www0.kes.gbc.criteo.com" static
+local-data: "www0.kes.gbc.criteo.com A 127.0.0.1"
 local-zone: "www1-hotmailsmt-docomojapanse.9200.love" static
 local-data: "www1-hotmailsmt-docomojapanse.9200.love A 127.0.0.1"
 local-zone: "www1-hotmailsmt-docomojapanse.cotti.site" static
@@ -30387,6 +31931,8 @@ local-zone: "www2.ablenetinc.com" static
 local-data: "www2.ablenetinc.com A 127.0.0.1"
 local-zone: "www2.abrfid.com" static
 local-data: "www2.abrfid.com A 127.0.0.1"
+local-zone: "www2.aceee.org" static
+local-data: "www2.aceee.org A 127.0.0.1"
 local-zone: "www2.acertusdelivers.com" static
 local-data: "www2.acertusdelivers.com A 127.0.0.1"
 local-zone: "www2.acesquality.com" static
@@ -30653,6 +32199,8 @@ local-zone: "www2.citybooqi.com" static
 local-data: "www2.citybooqi.com A 127.0.0.1"
 local-zone: "www2.citywealthmag.com" static
 local-data: "www2.citywealthmag.com A 127.0.0.1"
+local-zone: "www2.civicscience.com" static
+local-data: "www2.civicscience.com A 127.0.0.1"
 local-zone: "www2.clarionpartners.com" static
 local-data: "www2.clarionpartners.com A 127.0.0.1"
 local-zone: "www2.claritas.com" static
@@ -30761,6 +32309,8 @@ local-zone: "www2.doxim.com" static
 local-data: "www2.doxim.com A 127.0.0.1"
 local-zone: "www2.dragonflyintelligence.com" static
 local-data: "www2.dragonflyintelligence.com A 127.0.0.1"
+local-zone: "www2.dstillery.com" static
+local-data: "www2.dstillery.com A 127.0.0.1"
 local-zone: "www2.dten.com" static
 local-data: "www2.dten.com A 127.0.0.1"
 local-zone: "www2.dtexsystems.com" static
@@ -31373,8 +32923,6 @@ local-zone: "www2.quickattach.com" static
 local-data: "www2.quickattach.com A 127.0.0.1"
 local-zone: "www2.quickbooks.co.uk" static
 local-data: "www2.quickbooks.co.uk A 127.0.0.1"
-local-zone: "www2.quicktalkerfreestyle.com" static
-local-data: "www2.quicktalkerfreestyle.com A 127.0.0.1"
 local-zone: "www2.qventus.com" static
 local-data: "www2.qventus.com A 127.0.0.1"
 local-zone: "www2.rablighting.com" static
@@ -31517,8 +33065,6 @@ local-zone: "www2.spcai.org" static
 local-data: "www2.spcai.org A 127.0.0.1"
 local-zone: "www2.spi.com" static
 local-data: "www2.spi.com A 127.0.0.1"
-local-zone: "www2.sportbusiness.com" static
-local-data: "www2.sportbusiness.com A 127.0.0.1"
 local-zone: "www2.spur.org" static
 local-data: "www2.spur.org A 127.0.0.1"
 local-zone: "www2.squaredup.com" static
@@ -31765,18 +33311,26 @@ local-zone: "www3-vpass-jp.acai51.com" static
 local-data: "www3-vpass-jp.acai51.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.halhlsvip.com" static
 local-data: "www3-vpass-jp.halhlsvip.com A 127.0.0.1"
+local-zone: "www3-vpass-jp.jhyjbj.com" static
+local-data: "www3-vpass-jp.jhyjbj.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.mjkfjkgl.com" static
 local-data: "www3-vpass-jp.mjkfjkgl.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.njzhuman.com" static
 local-data: "www3-vpass-jp.njzhuman.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.qyanglogis.com" static
 local-data: "www3-vpass-jp.qyanglogis.com A 127.0.0.1"
+local-zone: "www3-vpass-jp.yaozhaowo.com" static
+local-data: "www3-vpass-jp.yaozhaowo.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.yirumusic.com" static
 local-data: "www3-vpass-jp.yirumusic.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.ynlljy.com" static
 local-data: "www3-vpass-jp.ynlljy.com A 127.0.0.1"
+local-zone: "www3-vpass-jp.yxbaixin.com" static
+local-data: "www3-vpass-jp.yxbaixin.com A 127.0.0.1"
 local-zone: "www3-vpass-jp.zjgtzx.com" static
 local-data: "www3-vpass-jp.zjgtzx.com A 127.0.0.1"
+local-zone: "www3-vpass-jp.zsjuwei.com" static
+local-data: "www3-vpass-jp.zsjuwei.com A 127.0.0.1"
 local-zone: "www3-vpass.aiyin666.com" static
 local-data: "www3-vpass.aiyin666.com A 127.0.0.1"
 local-zone: "www3-vpass.bajolared.com" static
@@ -31795,6 +33349,10 @@ local-zone: "www3-vpass.tlllmedia.com" static
 local-data: "www3-vpass.tlllmedia.com A 127.0.0.1"
 local-zone: "www3-vpass.wzfkkl.com" static
 local-data: "www3-vpass.wzfkkl.com A 127.0.0.1"
+local-zone: "www3-vpass.xingtailong.com" static
+local-data: "www3-vpass.xingtailong.com A 127.0.0.1"
+local-zone: "www3-vpass.zhruan.com" static
+local-data: "www3-vpass.zhruan.com A 127.0.0.1"
 local-zone: "www3.addfreestats.com" static
 local-data: "www3.addfreestats.com A 127.0.0.1"
 local-zone: "www3.addthis.com" static
@@ -32209,10 +33767,10 @@ local-zone: "wwwconforama.fr" static
 local-data: "wwwconforama.fr A 127.0.0.1"
 local-zone: "wwwcora.fr" static
 local-data: "wwwcora.fr A 127.0.0.1"
-local-zone: "wwwcorporate.ag.gbc.criteo.com" static
-local-data: "wwwcorporate.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwcyves-rocher.fr" static
 local-data: "wwwcyves-rocher.fr A 127.0.0.1"
+local-zone: "wwwd21vejvoh8fjtd.gbc.criteo.com" static
+local-data: "wwwd21vejvoh8fjtd.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwd26tdg0zc6yz7q.gbc.criteo.com" static
 local-data: "wwwd26tdg0zc6yz7q.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwdhl.fr" static
@@ -32229,6 +33787,8 @@ local-zone: "wwwdomaincontrol.ag.gbc.criteo.com" static
 local-data: "wwwdomaincontrol.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwdpd.fr" static
 local-data: "wwwdpd.fr A 127.0.0.1"
+local-zone: "wwwdxkptbljw30jv.gbc.criteo.com" static
+local-data: "wwwdxkptbljw30jv.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwweasymillions.fr" static
 local-data: "wwweasymillions.fr A 127.0.0.1"
 local-zone: "wwwebay.fr" static
@@ -32277,6 +33837,8 @@ local-zone: "wwwhealth.ag.gbc.criteo.com" static
 local-data: "wwwhealth.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwhelline.fr" static
 local-data: "wwwhelline.fr A 127.0.0.1"
+local-zone: "wwwhosting.ag.gbc.criteo.com" static
+local-data: "wwwhosting.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwhotmail.fr" static
 local-data: "wwwhotmail.fr A 127.0.0.1"
 local-zone: "wwwhsbc.fr" static
@@ -32399,10 +33961,10 @@ local-zone: "wwwroot.forent.sk" static
 local-data: "wwwroot.forent.sk A 127.0.0.1"
 local-zone: "wwwrsi.fr" static
 local-data: "wwwrsi.fr A 127.0.0.1"
-local-zone: "wwwrt.ag.gbc.criteo.com" static
-local-data: "wwwrt.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwrtm.fr" static
 local-data: "wwwrtm.fr A 127.0.0.1"
+local-zone: "wwws3.ag.gbc.criteo.com" static
+local-data: "wwws3.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwsaintadrienlasalle.fr" static
 local-data: "wwwsaintadrienlasalle.fr A 127.0.0.1"
 local-zone: "wwwsante.fr" static
@@ -32433,8 +33995,6 @@ local-zone: "wwwuserdataws-jp-as.ag.gbc.criteo.com" static
 local-data: "wwwuserdataws-jp-as.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwuserdataws.ag.gbc.criteo.com" static
 local-data: "wwwuserdataws.ag.gbc.criteo.com A 127.0.0.1"
-local-zone: "wwwv-ankama.com" static
-local-data: "wwwv-ankama.com A 127.0.0.1"
 local-zone: "wwwv1.ag.gbc.criteo.com" static
 local-data: "wwwv1.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwvendezvotrevoiture.fr" static
@@ -32449,6 +34009,8 @@ local-zone: "wwww-da.us.gbc.criteo.com" static
 local-data: "wwww-da.us.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwww.aeonto.com" static
 local-data: "wwww.aeonto.com A 127.0.0.1"
+local-zone: "wwwwiki.ag.gbc.criteo.com" static
+local-data: "wwwwiki.ag.gbc.criteo.com A 127.0.0.1"
 local-zone: "wwwwonderbox.fr" static
 local-data: "wwwwonderbox.fr A 127.0.0.1"
 local-zone: "wwwzellepay123.wixstudio.com" static
@@ -32737,8 +34299,6 @@ local-zone: "wywwyvtsjuywc.space" static
 local-data: "wywwyvtsjuywc.space A 127.0.0.1"
 local-zone: "wyxfbj.club" static
 local-data: "wyxfbj.club A 127.0.0.1"
-local-zone: "wyxivhul.cn" static
-local-data: "wyxivhul.cn A 127.0.0.1"
 local-zone: "wyywgy8d.web.app" static
 local-data: "wyywgy8d.web.app A 127.0.0.1"
 local-zone: "wyzdlu.arhaus.com" static
@@ -33005,6 +34565,8 @@ local-zone: "x1.52aoteman.com" static
 local-data: "x1.52aoteman.com A 127.0.0.1"
 local-zone: "x15ioxa5i.aggressiveq9.com" static
 local-data: "x15ioxa5i.aggressiveq9.com A 127.0.0.1"
+local-zone: "x197ud.sbs" static
+local-data: "x197ud.sbs A 127.0.0.1"
 local-zone: "x1c9gze9i.com" static
 local-data: "x1c9gze9i.com A 127.0.0.1"
 local-zone: "x1casino1.fr" static
@@ -33335,14 +34897,16 @@ local-zone: "xalvexgain47ai.com" static
 local-data: "xalvexgain47ai.com A 127.0.0.1"
 local-zone: "xalvextrader47.com" static
 local-data: "xalvextrader47.com A 127.0.0.1"
+local-zone: "xalvoniremtexuq95p.online" static
+local-data: "xalvoniremtexuq95p.online A 127.0.0.1"
+local-zone: "xalvornitemux48q5.sbs" static
+local-data: "xalvornitemux48q5.sbs A 127.0.0.1"
 local-zone: "xalyqou.com" static
 local-data: "xalyqou.com A 127.0.0.1"
 local-zone: "xamaya-sohaxa.pics" static
 local-data: "xamaya-sohaxa.pics A 127.0.0.1"
 local-zone: "xambertlouen.top" static
 local-data: "xambertlouen.top A 127.0.0.1"
-local-zone: "xambush.top" static
-local-data: "xambush.top A 127.0.0.1"
 local-zone: "xamniksq.com" static
 local-data: "xamniksq.com A 127.0.0.1"
 local-zone: "xanadoo.fr" static
@@ -33365,12 +34929,12 @@ local-zone: "xanax.t-amo.net" static
 local-data: "xanax.t-amo.net A 127.0.0.1"
 local-zone: "xanaxxanax.3xforum.ro" static
 local-data: "xanaxxanax.3xforum.ro A 127.0.0.1"
+local-zone: "xandivoluret.sbs" static
+local-data: "xandivoluret.sbs A 127.0.0.1"
 local-zone: "xandoria.site" static
 local-data: "xandoria.site A 127.0.0.1"
 local-zone: "xandygiveaway.com" static
 local-data: "xandygiveaway.com A 127.0.0.1"
-local-zone: "xanfq.cn" static
-local-data: "xanfq.cn A 127.0.0.1"
 local-zone: "xaninecreb.space" static
 local-data: "xaninecreb.space A 127.0.0.1"
 local-zone: "xanobrinanoylo.com" static
@@ -33443,6 +35007,8 @@ local-zone: "xarukaawenabr.site" static
 local-data: "xarukaawenabr.site A 127.0.0.1"
 local-zone: "xarvilo.com" static
 local-data: "xarvilo.com A 127.0.0.1"
+local-zone: "xarvo-0nilex.digital" static
+local-data: "xarvo-0nilex.digital A 127.0.0.1"
 local-zone: "xasf32easzx.appspot.com" static
 local-data: "xasf32easzx.appspot.com A 127.0.0.1"
 local-zone: "xasikyi.pro" static
@@ -34001,6 +35567,8 @@ local-zone: "xekjzy.rinascente.it" static
 local-data: "xekjzy.rinascente.it A 127.0.0.1"
 local-zone: "xel-xel-fie.com" static
 local-data: "xel-xel-fie.com A 127.0.0.1"
+local-zone: "xelavo.xyz" static
+local-data: "xelavo.xyz A 127.0.0.1"
 local-zone: "xeldorsaldo.net" static
 local-data: "xeldorsaldo.net A 127.0.0.1"
 local-zone: "xeldorsaldoai.com" static
@@ -34011,6 +35579,8 @@ local-zone: "xelivozarowern5ojorina.space" static
 local-data: "xelivozarowern5ojorina.space A 127.0.0.1"
 local-zone: "xelllwrite.com" static
 local-data: "xelllwrite.com A 127.0.0.1"
+local-zone: "xelmoraviteq7u9p25h.sbs" static
+local-data: "xelmoraviteq7u9p25h.sbs A 127.0.0.1"
 local-zone: "xeloria.top" static
 local-data: "xeloria.top A 127.0.0.1"
 local-zone: "xelphor.site" static
@@ -34069,8 +35639,6 @@ local-zone: "xendria.site" static
 local-data: "xendria.site A 127.0.0.1"
 local-zone: "xenfloders.top" static
 local-data: "xenfloders.top A 127.0.0.1"
-local-zone: "xeniatalerwholesale.com" static
-local-data: "xeniatalerwholesale.com A 127.0.0.1"
 local-zone: "xenical.1.p2l.info" static
 local-data: "xenical.1.p2l.info A 127.0.0.1"
 local-zone: "xenical.3.p2l.info" static
@@ -34183,6 +35751,8 @@ local-zone: "xerisu-rapeba.pics" static
 local-data: "xerisu-rapeba.pics A 127.0.0.1"
 local-zone: "xerlita.cfd" static
 local-data: "xerlita.cfd A 127.0.0.1"
+local-zone: "xernomivaltup27q.sbs" static
+local-data: "xernomivaltup27q.sbs A 127.0.0.1"
 local-zone: "xeroblog.com" static
 local-data: "xeroblog.com A 127.0.0.1"
 local-zone: "xerocdisgr.pro" static
@@ -34209,6 +35779,8 @@ local-zone: "xeroshoesdanmark.com" static
 local-data: "xeroshoesdanmark.com A 127.0.0.1"
 local-zone: "xeroshoesdanmarks.com" static
 local-data: "xeroshoesdanmarks.com A 127.0.0.1"
+local-zone: "xertinalovemupq57h9.sbs" static
+local-data: "xertinalovemupq57h9.sbs A 127.0.0.1"
 local-zone: "xertive.com" static
 local-data: "xertive.com A 127.0.0.1"
 local-zone: "xerupi.icu" static
@@ -34485,8 +36057,6 @@ local-zone: "xhohnr.fdm.pl" static
 local-data: "xhohnr.fdm.pl A 127.0.0.1"
 local-zone: "xhoodv.com" static
 local-data: "xhoodv.com A 127.0.0.1"
-local-zone: "xhorse.pl" static
-local-data: "xhorse.pl A 127.0.0.1"
 local-zone: "xhovaqdubabj.com" static
 local-data: "xhovaqdubabj.com A 127.0.0.1"
 local-zone: "xhprof.demo.pardot.com" static
@@ -34543,6 +36113,8 @@ local-zone: "xiaobaixitong.com" static
 local-data: "xiaobaixitong.com A 127.0.0.1"
 local-zone: "xiaoe.com" static
 local-data: "xiaoe.com A 127.0.0.1"
+local-zone: "xiaoliaobaike.cc" static
+local-data: "xiaoliaobaike.cc A 127.0.0.1"
 local-zone: "xiaomi-dtv.m.cn.miaozhen.com" static
 local-data: "xiaomi-dtv.m.cn.miaozhen.com A 127.0.0.1"
 local-zone: "xiaomi-mi-france.fr" static
@@ -34731,6 +36303,8 @@ local-zone: "xiss.ru" static
 local-data: "xiss.ru A 127.0.0.1"
 local-zone: "xistomarketing.com" static
 local-data: "xistomarketing.com A 127.0.0.1"
+local-zone: "xisuydfisfyhisfuoifosujfidujfi.cfolks.pl" static
+local-data: "xisuydfisfyhisfuoifosujfidujfi.cfolks.pl A 127.0.0.1"
 local-zone: "xisvnjjncycsto.com" static
 local-data: "xisvnjjncycsto.com A 127.0.0.1"
 local-zone: "xitatae.com" static
@@ -34831,6 +36405,8 @@ local-zone: "xjpmlf.xyz" static
 local-data: "xjpmlf.xyz A 127.0.0.1"
 local-zone: "xjq5.belambra.be" static
 local-data: "xjq5.belambra.be A 127.0.0.1"
+local-zone: "xjqcoqthkap.com" static
+local-data: "xjqcoqthkap.com A 127.0.0.1"
 local-zone: "xjrreecpgepx.com" static
 local-data: "xjrreecpgepx.com A 127.0.0.1"
 local-zone: "xjrwxfdphc.com" static
@@ -36327,6 +37903,8 @@ local-zone: "xn--albilet-b9a.oferta-0592084.cfd" static
 local-data: "xn--albilet-b9a.oferta-0592084.cfd A 127.0.0.1"
 local-zone: "xn--albilet-b9a.oferta-0692053.cfd" static
 local-data: "xn--albilet-b9a.oferta-0692053.cfd A 127.0.0.1"
+local-zone: "xn--albilet-b9a.oferta-6298626.cfd" static
+local-data: "xn--albilet-b9a.oferta-6298626.cfd A 127.0.0.1"
 local-zone: "xn--albilet-b9a.oferta2149712912714812501271.cyou" static
 local-data: "xn--albilet-b9a.oferta2149712912714812501271.cyou A 127.0.0.1"
 local-zone: "xn--albilet-b9a.oferta820810977.cyou" static
@@ -36399,6 +37977,10 @@ local-zone: "xn--albilet-b9a.pl-oferta1427061.cfd" static
 local-data: "xn--albilet-b9a.pl-oferta1427061.cfd A 127.0.0.1"
 local-zone: "xn--albilet-b9a.pl-oferta1568115.top" static
 local-data: "xn--albilet-b9a.pl-oferta1568115.top A 127.0.0.1"
+local-zone: "xn--albilet-b9a.pl-oferta214101512.sbs" static
+local-data: "xn--albilet-b9a.pl-oferta214101512.sbs A 127.0.0.1"
+local-zone: "xn--albilet-b9a.pl-oferta21410159.sbs" static
+local-data: "xn--albilet-b9a.pl-oferta21410159.sbs A 127.0.0.1"
 local-zone: "xn--albilet-b9a.pl-oferta21410591.sbs" static
 local-data: "xn--albilet-b9a.pl-oferta21410591.sbs A 127.0.0.1"
 local-zone: "xn--albilet-b9a.pl-oferta2530811.cfd" static
@@ -36483,6 +38065,12 @@ local-zone: "xn--albilet-b9a.pl-oferta7910551.top" static
 local-data: "xn--albilet-b9a.pl-oferta7910551.top A 127.0.0.1"
 local-zone: "xn--albilet-b9a.pl-oferta8564819.cfd" static
 local-data: "xn--albilet-b9a.pl-oferta8564819.cfd A 127.0.0.1"
+local-zone: "xn--albilet-b9a.pl-oferta875882334.cfd" static
+local-data: "xn--albilet-b9a.pl-oferta875882334.cfd A 127.0.0.1"
+local-zone: "xn--albilet-b9a.pl-oferta87765782.cfd" static
+local-data: "xn--albilet-b9a.pl-oferta87765782.cfd A 127.0.0.1"
+local-zone: "xn--albilet-b9a.pl-oferta8785243242.cfd" static
+local-data: "xn--albilet-b9a.pl-oferta8785243242.cfd A 127.0.0.1"
 local-zone: "xn--albilet-b9a.pl-oferta8867425.cfd" static
 local-data: "xn--albilet-b9a.pl-oferta8867425.cfd A 127.0.0.1"
 local-zone: "xn--albilet-b9a.pl-oferta8875757325.cfd" static
@@ -37375,6 +38963,8 @@ local-zone: "xn--monsouvenirdcole-mqb.fr" static
 local-data: "xn--monsouvenirdcole-mqb.fr A 127.0.0.1"
 local-zone: "xn--monstagede3me-6gb.fr" static
 local-data: "xn--monstagede3me-6gb.fr A 127.0.0.1"
+local-zone: "xn--mrelay-expdition-kqb.com" static
+local-data: "xn--mrelay-expdition-kqb.com A 127.0.0.1"
 local-zone: "xn--msccroisire-69a.fr" static
 local-data: "xn--msccroisire-69a.fr A 127.0.0.1"
 local-zone: "xn--msccroisires-5db.fr" static
@@ -38411,6 +40001,8 @@ local-zone: "xngqoc.com" static
 local-data: "xngqoc.com A 127.0.0.1"
 local-zone: "xngtheohoq.top" static
 local-data: "xngtheohoq.top A 127.0.0.1"
+local-zone: "xnnuudqewlagg.com" static
+local-data: "xnnuudqewlagg.com A 127.0.0.1"
 local-zone: "xnnx69.com" static
 local-data: "xnnx69.com A 127.0.0.1"
 local-zone: "xnoztzcdyawlx.love" static
@@ -38547,8 +40139,6 @@ local-zone: "xomuval.pics" static
 local-data: "xomuval.pics A 127.0.0.1"
 local-zone: "xonderbox.fr" static
 local-data: "xonderbox.fr A 127.0.0.1"
-local-zone: "xonido-sonubi.pro" static
-local-data: "xonido-sonubi.pro A 127.0.0.1"
 local-zone: "xoniwltrsxgot.site" static
 local-data: "xoniwltrsxgot.site A 127.0.0.1"
 local-zone: "xonosuo.icu" static
@@ -38573,8 +40163,6 @@ local-zone: "xopisu-mucesi.site" static
 local-data: "xopisu-mucesi.site A 127.0.0.1"
 local-zone: "xopites.com" static
 local-data: "xopites.com A 127.0.0.1"
-local-zone: "xopler.click" static
-local-data: "xopler.click A 127.0.0.1"
 local-zone: "xopnqk.wconcept.co.kr" static
 local-data: "xopnqk.wconcept.co.kr A 127.0.0.1"
 local-zone: "xopryellowhebav.pro" static
@@ -38697,8 +40285,6 @@ local-zone: "xpeivrvqckryo.store" static
 local-data: "xpeivrvqckryo.store A 127.0.0.1"
 local-zone: "xpenseapp.com" static
 local-data: "xpenseapp.com A 127.0.0.1"
-local-zone: "xpeoy.shop" static
-local-data: "xpeoy.shop A 127.0.0.1"
 local-zone: "xpeprojects.com" static
 local-data: "xpeprojects.com A 127.0.0.1"
 local-zone: "xpert.com.ua" static
@@ -39553,6 +41139,8 @@ local-zone: "xvkhez.swiatkwiatow.pl" static
 local-data: "xvkhez.swiatkwiatow.pl A 127.0.0.1"
 local-zone: "xvlpksjchavbe.store" static
 local-data: "xvlpksjchavbe.store A 127.0.0.1"
+local-zone: "xvltszpuxkgmpglq.net" static
+local-data: "xvltszpuxkgmpglq.net A 127.0.0.1"
 local-zone: "xvlybmebrvuvh.website" static
 local-data: "xvlybmebrvuvh.website A 127.0.0.1"
 local-zone: "xvnitu.com" static
@@ -39593,6 +41181,8 @@ local-zone: "xvzyyzix.com" static
 local-data: "xvzyyzix.com A 127.0.0.1"
 local-zone: "xw2i6skl4uh3jrg.tvshna.pl" static
 local-data: "xw2i6skl4uh3jrg.tvshna.pl A 127.0.0.1"
+local-zone: "xw3zjp.skin" static
+local-data: "xw3zjp.skin A 127.0.0.1"
 local-zone: "xw9b74okgq5p8sa.wsparcie.cfd" static
 local-data: "xw9b74okgq5p8sa.wsparcie.cfd A 127.0.0.1"
 local-zone: "xwa8flt6o.jp" static
@@ -39945,6 +41535,8 @@ local-zone: "xymhzq.klingel.de" static
 local-data: "xymhzq.klingel.de A 127.0.0.1"
 local-zone: "xympumihvhkkv.online" static
 local-data: "xympumihvhkkv.online A 127.0.0.1"
+local-zone: "xynkzguvdhttm.site" static
+local-data: "xynkzguvdhttm.site A 127.0.0.1"
 local-zone: "xynovalorconsulting.com" static
 local-data: "xynovalorconsulting.com A 127.0.0.1"
 local-zone: "xyntarisjize.com" static
@@ -40221,6 +41813,8 @@ local-zone: "y56gcvx-lean-bear-up.mybluemix.net" static
 local-data: "y56gcvx-lean-bear-up.mybluemix.net A 127.0.0.1"
 local-zone: "y591.sbs" static
 local-data: "y591.sbs A 127.0.0.1"
+local-zone: "y5bhc6.top" static
+local-data: "y5bhc6.top A 127.0.0.1"
 local-zone: "y5bwjhz8m21r3do.voltairels.pl" static
 local-data: "y5bwjhz8m21r3do.voltairels.pl A 127.0.0.1"
 local-zone: "y5cryz.lol" static
@@ -40475,8 +42069,6 @@ local-zone: "yandex.re" static
 local-data: "yandex.re A 127.0.0.1"
 local-zone: "yandexadexchange.net" static
 local-data: "yandexadexchange.net A 127.0.0.1"
-local-zone: "yandexgiris.xyz" static
-local-data: "yandexgiris.xyz A 127.0.0.1"
 local-zone: "yandexmetric.com" static
 local-data: "yandexmetric.com A 127.0.0.1"
 local-zone: "yandexmetrica.com" static
@@ -40595,6 +42187,8 @@ local-zone: "yategoit.widget.criteo.com" static
 local-data: "yategoit.widget.criteo.com A 127.0.0.1"
 local-zone: "yatemy.cn" static
 local-data: "yatemy.cn A 127.0.0.1"
+local-zone: "yatftt.topup-center.com" static
+local-data: "yatftt.topup-center.com A 127.0.0.1"
 local-zone: "yatirimlyxo.net" static
 local-data: "yatirimlyxo.net A 127.0.0.1"
 local-zone: "yatirimlyxoapp.com" static
@@ -40637,8 +42231,6 @@ local-zone: "yavscv.e-scurefiles.net" static
 local-data: "yavscv.e-scurefiles.net A 127.0.0.1"
 local-zone: "yavteam.com" static
 local-data: "yavteam.com A 127.0.0.1"
-local-zone: "yawmy.cn" static
-local-data: "yawmy.cn A 127.0.0.1"
 local-zone: "yawnesprin.pro" static
 local-data: "yawnesprin.pro A 127.0.0.1"
 local-zone: "yawninginsect.pro" static
@@ -40723,6 +42315,8 @@ local-zone: "ybibpwduubqhk.space" static
 local-data: "ybibpwduubqhk.space A 127.0.0.1"
 local-zone: "ybjgdbcmispbe.store" static
 local-data: "ybjgdbcmispbe.store A 127.0.0.1"
+local-zone: "ybjiqlvlviepch.com" static
+local-data: "ybjiqlvlviepch.com A 127.0.0.1"
 local-zone: "ybkministries.com" static
 local-data: "ybkministries.com A 127.0.0.1"
 local-zone: "yblvoxyjzuqrh.space" static
@@ -40839,6 +42433,8 @@ local-zone: "ycmksqoykzgyf.website" static
 local-data: "ycmksqoykzgyf.website A 127.0.0.1"
 local-zone: "ycmpwhfvgynyp.store" static
 local-data: "ycmpwhfvgynyp.store A 127.0.0.1"
+local-zone: "ycoecgqypbqtv.space" static
+local-data: "ycoecgqypbqtv.space A 127.0.0.1"
 local-zone: "ycome.cfd" static
 local-data: "ycome.cfd A 127.0.0.1"
 local-zone: "ycpxanwjyd.com" static
@@ -41395,6 +42991,8 @@ local-zone: "ygmkcuj3v.com" static
 local-data: "ygmkcuj3v.com A 127.0.0.1"
 local-zone: "ygmpia.worten.pt" static
 local-data: "ygmpia.worten.pt A 127.0.0.1"
+local-zone: "ygmzqrhc.info" static
+local-data: "ygmzqrhc.info A 127.0.0.1"
 local-zone: "ygncvlnvzvsco.website" static
 local-data: "ygncvlnvzvsco.website A 127.0.0.1"
 local-zone: "ygoibya.icu" static
@@ -41445,6 +43043,8 @@ local-zone: "yhdnrjncdndswnrj.nl" static
 local-data: "yhdnrjncdndswnrj.nl A 127.0.0.1"
 local-zone: "yhegvnmjdlvrn.space" static
 local-data: "yhegvnmjdlvrn.space A 127.0.0.1"
+local-zone: "yhftyygljg.vercel.app" static
+local-data: "yhftyygljg.vercel.app A 127.0.0.1"
 local-zone: "yhgfsdad.top" static
 local-data: "yhgfsdad.top A 127.0.0.1"
 local-zone: "yhgio.com" static
@@ -41501,8 +43101,6 @@ local-zone: "yhwhassemblies.com" static
 local-data: "yhwhassemblies.com A 127.0.0.1"
 local-zone: "yhzeiw8x4k2cu3p.nutfxs.pl" static
 local-data: "yhzeiw8x4k2cu3p.nutfxs.pl A 127.0.0.1"
-local-zone: "yhzl.ydso.xyz" static
-local-data: "yhzl.ydso.xyz A 127.0.0.1"
 local-zone: "yhznde.materiel-aventure.fr" static
 local-data: "yhznde.materiel-aventure.fr A 127.0.0.1"
 local-zone: "yi.ximizi.com" static
@@ -41719,6 +43317,8 @@ local-zone: "yitypzcd.shop" static
 local-data: "yitypzcd.shop A 127.0.0.1"
 local-zone: "yiucfif.icu" static
 local-data: "yiucfif.icu A 127.0.0.1"
+local-zone: "yiukig.icu" static
+local-data: "yiukig.icu A 127.0.0.1"
 local-zone: "yivxzt.doctor-agent.com" static
 local-data: "yivxzt.doctor-agent.com A 127.0.0.1"
 local-zone: "yivyqoltpgwqv.site" static
@@ -41927,8 +43527,6 @@ local-zone: "ylafwg.greenpoint.pl" static
 local-data: "ylafwg.greenpoint.pl A 127.0.0.1"
 local-zone: "ylakmr.expressionscatalog.com" static
 local-data: "ylakmr.expressionscatalog.com A 127.0.0.1"
-local-zone: "ylcne.com" static
-local-data: "ylcne.com A 127.0.0.1"
 local-zone: "yldbt.com" static
 local-data: "yldbt.com A 127.0.0.1"
 local-zone: "yldmgrimg.net" static
@@ -42057,6 +43655,8 @@ local-zone: "ymmegy.icu" static
 local-data: "ymmegy.icu A 127.0.0.1"
 local-zone: "ymmiyun.com" static
 local-data: "ymmiyun.com A 127.0.0.1"
+local-zone: "ymmobi.com" static
+local-data: "ymmobi.com A 127.0.0.1"
 local-zone: "ymndiw.tesbihane.com" static
 local-data: "ymndiw.tesbihane.com A 127.0.0.1"
 local-zone: "ymonetize.com" static
@@ -42091,8 +43691,6 @@ local-zone: "ymwjwe.xyz" static
 local-data: "ymwjwe.xyz A 127.0.0.1"
 local-zone: "ymx33.com" static
 local-data: "ymx33.com A 127.0.0.1"
-local-zone: "ymzts.info" static
-local-data: "ymzts.info A 127.0.0.1"
 local-zone: "yn0mbg4p1.com" static
 local-data: "yn0mbg4p1.com A 127.0.0.1"
 local-zone: "yn8qwd.lat" static
@@ -42193,8 +43791,6 @@ local-zone: "yodide-nacanu.site" static
 local-data: "yodide-nacanu.site A 127.0.0.1"
 local-zone: "yodleeinc.tt.omtrdc.net" static
 local-data: "yodleeinc.tt.omtrdc.net A 127.0.0.1"
-local-zone: "yodobashi-citizen.hqoxfc.cn" static
-local-data: "yodobashi-citizen.hqoxfc.cn A 127.0.0.1"
 local-zone: "yodobashi-numer.tostog.cn" static
 local-data: "yodobashi-numer.tostog.cn A 127.0.0.1"
 local-zone: "yodobashi-oculato.xteotw.cn" static
@@ -42217,8 +43813,6 @@ local-zone: "yogamagazine.fr" static
 local-data: "yogamagazine.fr A 127.0.0.1"
 local-zone: "yogapersuasive.com" static
 local-data: "yogapersuasive.com A 127.0.0.1"
-local-zone: "yogawithdrrach.com" static
-local-data: "yogawithdrrach.com A 127.0.0.1"
 local-zone: "yogeestenuis.cfd" static
 local-data: "yogeestenuis.cfd A 127.0.0.1"
 local-zone: "yogeru-nenaru.site" static
@@ -42535,6 +44129,8 @@ local-zone: "youlbrian.world" static
 local-data: "youlbrian.world A 127.0.0.1"
 local-zone: "youle55.com" static
 local-data: "youle55.com A 127.0.0.1"
+local-zone: "youliao8.cc" static
+local-data: "youliao8.cc A 127.0.0.1"
 local-zone: "youliehow.com" static
 local-data: "youliehow.com A 127.0.0.1"
 local-zone: "youlikehacks.com" static
@@ -43015,6 +44611,8 @@ local-zone: "youvisit.fr" static
 local-data: "youvisit.fr A 127.0.0.1"
 local-zone: "youwillneverfindme.bonusx.it" static
 local-data: "youwillneverfindme.bonusx.it A 127.0.0.1"
+local-zone: "yovo.cc" static
+local-data: "yovo.cc A 127.0.0.1"
 local-zone: "yovoads.com" static
 local-data: "yovoads.com A 127.0.0.1"
 local-zone: "yowlyfgtthpus.online" static
@@ -43251,6 +44849,8 @@ local-zone: "yrsst.yogarenewteachertraining.com" static
 local-data: "yrsst.yogarenewteachertraining.com A 127.0.0.1"
 local-zone: "yrssubidea.rest" static
 local-data: "yrssubidea.rest A 127.0.0.1"
+local-zone: "yrudqd.sbs" static
+local-data: "yrudqd.sbs A 127.0.0.1"
 local-zone: "yruejdiu.pages.dev" static
 local-data: "yruejdiu.pages.dev A 127.0.0.1"
 local-zone: "yruqwfriqcots.website" static
@@ -43421,8 +45021,6 @@ local-zone: "ytlsppuzpf.club" static
 local-data: "ytlsppuzpf.club A 127.0.0.1"
 local-zone: "ytmbyqfzljyni.website" static
 local-data: "ytmbyqfzljyni.website A 127.0.0.1"
-local-zone: "ytmp4.net.daraz.com" static
-local-data: "ytmp4.net.daraz.com A 127.0.0.1"
 local-zone: "ytmwqfftkvood.store" static
 local-data: "ytmwqfftkvood.store A 127.0.0.1"
 local-zone: "yto3kavwud.com" static
@@ -43525,8 +45123,6 @@ local-zone: "yuelmodqhrw.com" static
 local-data: "yuelmodqhrw.com A 127.0.0.1"
 local-zone: "yueqal.glassesusa.com" static
 local-data: "yueqal.glassesusa.com A 127.0.0.1"
-local-zone: "yuequu.com" static
-local-data: "yuequu.com A 127.0.0.1"
 local-zone: "yufijmieuwhrfheniokjmwiej.pages.dev" static
 local-data: "yufijmieuwhrfheniokjmwiej.pages.dev A 127.0.0.1"
 local-zone: "yugaley.info" static
@@ -43599,8 +45195,6 @@ local-zone: "yulankartos.life" static
 local-data: "yulankartos.life A 127.0.0.1"
 local-zone: "yulasa-wagefa.pics" static
 local-data: "yulasa-wagefa.pics A 127.0.0.1"
-local-zone: "yulequanxiaoshuo.gbc.criteo.com" static
-local-data: "yulequanxiaoshuo.gbc.criteo.com A 127.0.0.1"
 local-zone: "yulianalopez.com" static
 local-data: "yulianalopez.com A 127.0.0.1"
 local-zone: "yulinata.ru" static
@@ -43667,8 +45261,6 @@ local-zone: "yupfiles.net" static
 local-data: "yupfiles.net A 127.0.0.1"
 local-zone: "yupibu-bavuga.site" static
 local-data: "yupibu-bavuga.site A 127.0.0.1"
-local-zone: "yupolaw.online" static
-local-data: "yupolaw.online A 127.0.0.1"
 local-zone: "yuponwormy.life" static
 local-data: "yuponwormy.life A 127.0.0.1"
 local-zone: "yuppads.com" static
@@ -44449,8 +46041,6 @@ local-zone: "zabbix.bidgear.com" static
 local-data: "zabbix.bidgear.com A 127.0.0.1"
 local-zone: "zabbix.symanteprotection.com" static
 local-data: "zabbix.symanteprotection.com A 127.0.0.1"
-local-zone: "zabbixbcava.gbc.criteo.com" static
-local-data: "zabbixbcava.gbc.criteo.com A 127.0.0.1"
 local-zone: "zabehi-cekuwo.pics" static
 local-data: "zabehi-cekuwo.pics A 127.0.0.1"
 local-zone: "zabka-casyno.casino-official-game.com" static
@@ -44797,6 +46387,8 @@ local-zone: "zalrba.sbs" static
 local-data: "zalrba.sbs A 127.0.0.1"
 local-zone: "zaltaumi.net" static
 local-data: "zaltaumi.net A 127.0.0.1"
+local-zone: "zaltroniveup4q7h95.store" static
+local-data: "zaltroniveup4q7h95.store A 127.0.0.1"
 local-zone: "zaltsburgas.top" static
 local-data: "zaltsburgas.top A 127.0.0.1"
 local-zone: "zalukaj-film.24.eu" static
@@ -44945,6 +46537,8 @@ local-zone: "zanocorebit.com" static
 local-data: "zanocorebit.com A 127.0.0.1"
 local-zone: "zanogi-wufiki.pics" static
 local-data: "zanogi-wufiki.pics A 127.0.0.1"
+local-zone: "zanovupiredalomite.space" static
+local-data: "zanovupiredalomite.space A 127.0.0.1"
 local-zone: "zanowow.com" static
 local-data: "zanowow.com A 127.0.0.1"
 local-zone: "zanox-affiliate.de" static
@@ -44955,6 +46549,14 @@ local-zone: "zanozusu.com" static
 local-data: "zanozusu.com A 127.0.0.1"
 local-zone: "zanpromilexotra.space" static
 local-data: "zanpromilexotra.space A 127.0.0.1"
+local-zone: "zanrivalotumexupq48h2.space" static
+local-data: "zanrivalotumexupq48h2.space A 127.0.0.1"
+local-zone: "zanrivolamtexup42qh.sbs" static
+local-data: "zanrivolamtexup42qh.sbs A 127.0.0.1"
+local-zone: "zanrivoltamexu8q27p.sbs" static
+local-data: "zanrivoltamexu8q27p.sbs A 127.0.0.1"
+local-zone: "zanrivomantuxp59h.sbs" static
+local-data: "zanrivomantuxp59h.sbs A 127.0.0.1"
 local-zone: "zanrivotalexu37qh.store" static
 local-data: "zanrivotalexu37qh.store A 127.0.0.1"
 local-zone: "zans.onecinema.us" static
@@ -44979,10 +46581,20 @@ local-zone: "zantracker.com" static
 local-data: "zantracker.com A 127.0.0.1"
 local-zone: "zantria.site" static
 local-data: "zantria.site A 127.0.0.1"
+local-zone: "zantrilovemux2q94ph.sbs" static
+local-data: "zantrilovemux2q94ph.sbs A 127.0.0.1"
+local-zone: "zantrilovemux58.sbs" static
+local-data: "zantrilovemux58.sbs A 127.0.0.1"
+local-zone: "zantrilovexp4u9q85.space" static
+local-data: "zantrilovexp4u9q85.space A 127.0.0.1"
 local-zone: "zantrous.store" static
 local-data: "zantrous.store A 127.0.0.1"
+local-zone: "zanvolatirexup93h25.space" static
+local-data: "zanvolatirexup93h25.space A 127.0.0.1"
 local-zone: "zanvora.site" static
 local-data: "zanvora.site A 127.0.0.1"
+local-zone: "zanvorinetaluxu53p.space" static
+local-data: "zanvorinetaluxu53p.space A 127.0.0.1"
 local-zone: "zanvpkmdslnvg.vip" static
 local-data: "zanvpkmdslnvg.vip A 127.0.0.1"
 local-zone: "zanyestablishment.pro" static
@@ -45649,6 +47261,8 @@ local-zone: "zdrg.besafe.com" static
 local-data: "zdrg.besafe.com A 127.0.0.1"
 local-zone: "zdrg.voksi.com" static
 local-data: "zdrg.voksi.com A 127.0.0.1"
+local-zone: "zdroje-oocn.gbc.criteo.com" static
+local-data: "zdroje-oocn.gbc.criteo.com A 127.0.0.1"
 local-zone: "zdrowasfera.pl" static
 local-data: "zdrowasfera.pl A 127.0.0.1"
 local-zone: "zdrowebuciki.pl" static
@@ -45745,8 +47359,6 @@ local-zone: "zebliro.space" static
 local-data: "zebliro.space A 127.0.0.1"
 local-zone: "zebracheats.com" static
 local-data: "zebracheats.com A 127.0.0.1"
-local-zone: "zebragirl.gbc.criteo.com" static
-local-data: "zebragirl.gbc.criteo.com A 127.0.0.1"
 local-zone: "zebranebula.site" static
 local-data: "zebranebula.site A 127.0.0.1"
 local-zone: "zebrasnack.store" static
@@ -45867,6 +47479,8 @@ local-zone: "zeidaeascot.cyou" static
 local-data: "zeidaeascot.cyou A 127.0.0.1"
 local-zone: "zeirishi.net.daraz.com" static
 local-data: "zeirishi.net.daraz.com A 127.0.0.1"
+local-zone: "zeit01.webtrekk.net" static
+local-data: "zeit01.webtrekk.net A 127.0.0.1"
 local-zone: "zejasoo.info" static
 local-data: "zejasoo.info A 127.0.0.1"
 local-zone: "zejyoelgljenc.site" static
@@ -46411,14 +48025,14 @@ local-zone: "zermixrent-app.com" static
 local-data: "zermixrent-app.com A 127.0.0.1"
 local-zone: "zernextrading.com" static
 local-data: "zernextrading.com A 127.0.0.1"
+local-zone: "zernivotaluq48p3xh.space" static
+local-data: "zernivotaluq48p3xh.space A 127.0.0.1"
 local-zone: "zero-karano-kaze.com" static
 local-data: "zero-karano-kaze.com A 127.0.0.1"
 local-zone: "zero.kz" static
 local-data: "zero.kz A 127.0.0.1"
 local-zone: "zero2summit.com" static
 local-data: "zero2summit.com A 127.0.0.1"
-local-zone: "zerobot.eu.cc" static
-local-data: "zerobot.eu.cc A 127.0.0.1"
 local-zone: "zerocha.jp" static
 local-data: "zerocha.jp A 127.0.0.1"
 local-zone: "zerocircuit.online" static
@@ -46607,6 +48221,8 @@ local-zone: "zetc6lsssuoo5pr8.docs.net.daraz.com" static
 local-data: "zetc6lsssuoo5pr8.docs.net.daraz.com A 127.0.0.1"
 local-zone: "zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com" static
 local-data: "zetc6lsssuoo5pr8.emailvision.authenticate.net.daraz.com A 127.0.0.1"
+local-zone: "zetcasino-fr.fr" static
+local-data: "zetcasino-fr.fr A 127.0.0.1"
 local-zone: "zetcasino.fr" static
 local-data: "zetcasino.fr A 127.0.0.1"
 local-zone: "zetcasinofr.fr" static
@@ -46785,8 +48401,6 @@ local-zone: "zfwgn.icu" static
 local-data: "zfwgn.icu A 127.0.0.1"
 local-zone: "zfww.fr" static
 local-data: "zfww.fr A 127.0.0.1"
-local-zone: "zfxk8w1i07wz3xn4.net.daraz.com" static
-local-data: "zfxk8w1i07wz3xn4.net.daraz.com A 127.0.0.1"
 local-zone: "zfyw.fr" static
 local-data: "zfyw.fr A 127.0.0.1"
 local-zone: "zfzaxpljtwejp.site" static
@@ -46971,8 +48585,6 @@ local-zone: "zhmsgznkpenng.space" static
 local-data: "zhmsgznkpenng.space A 127.0.0.1"
 local-zone: "zhohro.swsg.co" static
 local-data: "zhohro.swsg.co A 127.0.0.1"
-local-zone: "zhongshan.pilot45.com" static
-local-data: "zhongshan.pilot45.com A 127.0.0.1"
 local-zone: "zhongwangmy.cn" static
 local-data: "zhongwangmy.cn A 127.0.0.1"
 local-zone: "zhongwen-telegram.com" static
@@ -46995,6 +48607,8 @@ local-zone: "zhtiqbietjwhb.fun" static
 local-data: "zhtiqbietjwhb.fun A 127.0.0.1"
 local-zone: "zhtndfplsmcqt.global" static
 local-data: "zhtndfplsmcqt.global A 127.0.0.1"
+local-zone: "zhuevv03d0fxj7yh.authenticate.net.daraz.com" static
+local-data: "zhuevv03d0fxj7yh.authenticate.net.daraz.com A 127.0.0.1"
 local-zone: "zhuevv03d0fxj7yh.emailvision.authenticate.net.daraz.com" static
 local-data: "zhuevv03d0fxj7yh.emailvision.authenticate.net.daraz.com A 127.0.0.1"
 local-zone: "zhukovshda.info" static
@@ -47153,14 +48767,8 @@ local-zone: "zigzag.vn" static
 local-data: "zigzag.vn A 127.0.0.1"
 local-zone: "zigzagcabin.com" static
 local-data: "zigzagcabin.com A 127.0.0.1"
-local-zone: "zigzagstr-ns3.mobilecl.bellsouth.net.daraz.com" static
-local-data: "zigzagstr-ns3.mobilecl.bellsouth.net.daraz.com A 127.0.0.1"
-local-zone: "zigzagstr-twtelecom.azure.net.daraz.com" static
-local-data: "zigzagstr-twtelecom.azure.net.daraz.com A 127.0.0.1"
 local-zone: "zigzagstr.administrators.net.daraz.com" static
 local-data: "zigzagstr.administrators.net.daraz.com A 127.0.0.1"
-local-zone: "zigzagstr3.mobilecl.bellsouth.net.daraz.com" static
-local-data: "zigzagstr3.mobilecl.bellsouth.net.daraz.com A 127.0.0.1"
 local-zone: "zigzt.com" static
 local-data: "zigzt.com A 127.0.0.1"
 local-zone: "zihano-jocatu.pics" static
@@ -47199,6 +48807,8 @@ local-zone: "zikuvoy.com" static
 local-data: "zikuvoy.com A 127.0.0.1"
 local-zone: "zil.net.daraz.com" static
 local-data: "zil.net.daraz.com A 127.0.0.1"
+local-zone: "zilano.xyz" static
+local-data: "zilano.xyz A 127.0.0.1"
 local-zone: "zilchesmoated.com" static
 local-data: "zilchesmoated.com A 127.0.0.1"
 local-zone: "zilhvf.hesperide.com" static
@@ -47755,6 +49365,8 @@ local-zone: "zkdefuiz.icu" static
 local-data: "zkdefuiz.icu A 127.0.0.1"
 local-zone: "zkdkvnzsdxge.info" static
 local-data: "zkdkvnzsdxge.info A 127.0.0.1"
+local-zone: "zkdrywjcdepjx.online" static
+local-data: "zkdrywjcdepjx.online A 127.0.0.1"
 local-zone: "zkebwy.copenhagenstudios.com" static
 local-data: "zkebwy.copenhagenstudios.com A 127.0.0.1"
 local-zone: "zkfz.pm" static
@@ -47829,6 +49441,8 @@ local-zone: "zkzhqu51utziepdq.net.daraz.com" static
 local-data: "zkzhqu51utziepdq.net.daraz.com A 127.0.0.1"
 local-zone: "zl.cura-alzheimer.info" static
 local-data: "zl.cura-alzheimer.info A 127.0.0.1"
+local-zone: "zl2ozf.top" static
+local-data: "zl2ozf.top A 127.0.0.1"
 local-zone: "zl5hi8pf3v9p3gkx.northamerica.net.daraz.com" static
 local-data: "zl5hi8pf3v9p3gkx.northamerica.net.daraz.com A 127.0.0.1"
 local-zone: "zla653.top" static
@@ -48181,6 +49795,8 @@ local-zone: "znqpe.honest.com" static
 local-data: "znqpe.honest.com A 127.0.0.1"
 local-zone: "znrttr.jaypore.com" static
 local-data: "znrttr.jaypore.com A 127.0.0.1"
+local-zone: "znsebkpnpczim.website" static
+local-data: "znsebkpnpczim.website A 127.0.0.1"
 local-zone: "znvgru.karenlondon.com" static
 local-data: "znvgru.karenlondon.com A 127.0.0.1"
 local-zone: "znxrb1jmuyeween7.emailvision.authenticate.net.daraz.com" static
@@ -48411,6 +50027,8 @@ local-zone: "zolvak.pics" static
 local-data: "zolvak.pics A 127.0.0.1"
 local-zone: "zolvinarexupt3q95h.space" static
 local-data: "zolvinarexupt3q95h.space A 127.0.0.1"
+local-zone: "zolvinatreup5q8h39.online" static
+local-data: "zolvinatreup5q8h39.online A 127.0.0.1"
 local-zone: "zombaliens.com" static
 local-data: "zombaliens.com A 127.0.0.1"
 local-zone: "zombieslayer-alternate.kano.link" static
@@ -48419,6 +50037,8 @@ local-zone: "zombieslayer.kano.link" static
 local-data: "zombieslayer.kano.link A 127.0.0.1"
 local-zone: "zombyfairfax.com" static
 local-data: "zombyfairfax.com A 127.0.0.1"
+local-zone: "zomdufobhmfmm.space" static
+local-data: "zomdufobhmfmm.space A 127.0.0.1"
 local-zone: "zomehiy1.pro" static
 local-data: "zomehiy1.pro A 127.0.0.1"
 local-zone: "zomemiy.com" static
@@ -48571,8 +50191,6 @@ local-zone: "zong-intns1.twtelecom.net.daraz.com" static
 local-data: "zong-intns1.twtelecom.net.daraz.com A 127.0.0.1"
 local-zone: "zong-kube-partner.net.daraz.com" static
 local-data: "zong-kube-partner.net.daraz.com A 127.0.0.1"
-local-zone: "zong-oa-2.net.daraz.com" static
-local-data: "zong-oa-2.net.daraz.com A 127.0.0.1"
 local-zone: "zong-sftp-ids-car10.net.daraz.com" static
 local-data: "zong-sftp-ids-car10.net.daraz.com A 127.0.0.1"
 local-zone: "zong-sftp-k8s-prodns1.viviotech.net.daraz.com" static
@@ -48597,8 +50215,6 @@ local-zone: "zong-staging.frontpage-partner.net.daraz.com" static
 local-data: "zong-staging.frontpage-partner.net.daraz.com A 127.0.0.1"
 local-zone: "zong-staging.northamerica.net.daraz.com" static
 local-data: "zong-staging.northamerica.net.daraz.com A 127.0.0.1"
-local-zone: "zong-staging.patner.net.daraz.com" static
-local-data: "zong-staging.patner.net.daraz.com A 127.0.0.1"
 local-zone: "zong-stagingontroller-patner.net.daraz.com" static
 local-data: "zong-stagingontroller-patner.net.daraz.com A 127.0.0.1"
 local-zone: "zong-stagingpi-docsprint-mo.net.daraz.com" static
@@ -48609,6 +50225,8 @@ local-zone: "zong.ae29-sjc12-dr01.net.daraz.com" static
 local-data: "zong.ae29-sjc12-dr01.net.daraz.com A 127.0.0.1"
 local-zone: "zong.gwyancancook.net.daraz.com" static
 local-data: "zong.gwyancancook.net.daraz.com A 127.0.0.1"
+local-zone: "zong.net.daraz.com" static
+local-data: "zong.net.daraz.com A 127.0.0.1"
 local-zone: "zong.webappr-oa-2.net.daraz.com" static
 local-data: "zong.webappr-oa-2.net.daraz.com A 127.0.0.1"
 local-zone: "zong3arketing.net.daraz.com" static
@@ -48639,6 +50257,8 @@ local-zone: "zonizsorri.pro" static
 local-data: "zonizsorri.pro A 127.0.0.1"
 local-zone: "zononi.com" static
 local-data: "zononi.com A 127.0.0.1"
+local-zone: "zonralivantexup4q8h97.space" static
+local-data: "zonralivantexup4q8h97.space A 127.0.0.1"
 local-zone: "zonsingise.com" static
 local-data: "zonsingise.com A 127.0.0.1"
 local-zone: "zontelorix.com" static
@@ -48647,12 +50267,22 @@ local-zone: "zontelorix.org" static
 local-data: "zontelorix.org A 127.0.0.1"
 local-zone: "zontent.powvideo.net" static
 local-data: "zontent.powvideo.net A 127.0.0.1"
+local-zone: "zonter-3valmi.digital" static
+local-data: "zonter-3valmi.digital A 127.0.0.1"
 local-zone: "zontera.com" static
 local-data: "zontera.com A 127.0.0.1"
 local-zone: "zonto.shop" static
 local-data: "zonto.shop A 127.0.0.1"
+local-zone: "zontqiwjmdzbv.space" static
+local-data: "zontqiwjmdzbv.space A 127.0.0.1"
+local-zone: "zontralivexu59q47h.site" static
+local-data: "zontralivexu59q47h.site A 127.0.0.1"
 local-zone: "zontrans.com" static
 local-data: "zontrans.com A 127.0.0.1"
+local-zone: "zontrivalemupq4h97p.sbs" static
+local-data: "zontrivalemupq4h97p.sbs A 127.0.0.1"
+local-zone: "zontrivalonemux4q97h2.space" static
+local-data: "zontrivalonemux4q97h2.space A 127.0.0.1"
 local-zone: "zontrivex14.online" static
 local-data: "zontrivex14.online A 127.0.0.1"
 local-zone: "zontrix.site" static
@@ -49077,20 +50707,14 @@ local-zone: "zqwofo.liverpool.com.mx" static
 local-data: "zqwofo.liverpool.com.mx A 127.0.0.1"
 local-zone: "zqxjpo6s7t.invias.top" static
 local-data: "zqxjpo6s7t.invias.top A 127.0.0.1"
-local-zone: "zqy99.com" static
-local-data: "zqy99.com A 127.0.0.1"
 local-zone: "zqydulfzxb.com" static
 local-data: "zqydulfzxb.com A 127.0.0.1"
 local-zone: "zr2pk5kb37ai3yd7.assets.net.daraz.com" static
 local-data: "zr2pk5kb37ai3yd7.assets.net.daraz.com A 127.0.0.1"
-local-zone: "zr2pk5kb37ai3yd7.docs.net.daraz.com" static
-local-data: "zr2pk5kb37ai3yd7.docs.net.daraz.com A 127.0.0.1"
 local-zone: "zr2pk5kb37ai3yd7.partner.net.daraz.com" static
 local-data: "zr2pk5kb37ai3yd7.partner.net.daraz.com A 127.0.0.1"
 local-zone: "zr3.icu" static
 local-data: "zr3.icu A 127.0.0.1"
-local-zone: "zr687u7scp8bybvf.net.daraz.com" static
-local-data: "zr687u7scp8bybvf.net.daraz.com A 127.0.0.1"
 local-zone: "zrakos.com" static
 local-data: "zrakos.com A 127.0.0.1"
 local-zone: "zrbbbj.tf.com.br" static
@@ -49169,8 +50793,6 @@ local-zone: "zs.voyage-prive.com" static
 local-data: "zs.voyage-prive.com A 127.0.0.1"
 local-zone: "zs0l3kw5yrcf7n6l.assets.net.daraz.com" static
 local-data: "zs0l3kw5yrcf7n6l.assets.net.daraz.com A 127.0.0.1"
-local-zone: "zs0l3kw5yrcf7n6l.lib-oa-1.net.daraz.com" static
-local-data: "zs0l3kw5yrcf7n6l.lib-oa-1.net.daraz.com A 127.0.0.1"
 local-zone: "zsassociatesindiapvt.tt.omtrdc.net" static
 local-data: "zsassociatesindiapvt.tt.omtrdc.net A 127.0.0.1"
 local-zone: "zsasvs.hey.car" static
@@ -49553,6 +51175,8 @@ local-zone: "zunekoco.top" static
 local-data: "zunekoco.top A 127.0.0.1"
 local-zone: "zuneplay.com" static
 local-data: "zuneplay.com A 127.0.0.1"
+local-zone: "zunianchelys.world" static
+local-data: "zunianchelys.world A 127.0.0.1"
 local-zone: "zunisattar.com" static
 local-data: "zunisattar.com A 127.0.0.1"
 local-zone: "zunostore.su" static
@@ -49663,6 +51287,8 @@ local-zone: "zuwufag.com" static
 local-data: "zuwufag.com A 127.0.0.1"
 local-zone: "zux69yaexje6va06.partner.net.daraz.com" static
 local-data: "zux69yaexje6va06.partner.net.daraz.com A 127.0.0.1"
+local-zone: "zuxbysnundhbl.com" static
+local-data: "zuxbysnundhbl.com A 127.0.0.1"
 local-zone: "zuyupu.gadgetbazaar.st" static
 local-data: "zuyupu.gadgetbazaar.st A 127.0.0.1"
 local-zone: "zuyusu-yagimi.site" static
@@ -49707,6 +51333,8 @@ local-zone: "zvetokr2hr8pcng09.com" static
 local-data: "zvetokr2hr8pcng09.com A 127.0.0.1"
 local-zone: "zvfzqw.cotta.jp" static
 local-data: "zvfzqw.cotta.jp A 127.0.0.1"
+local-zone: "zvgxsp1quz8icpc3.summer.net.daraz.com" static
+local-data: "zvgxsp1quz8icpc3.summer.net.daraz.com A 127.0.0.1"
 local-zone: "zvhct.zorrata.com" static
 local-data: "zvhct.zorrata.com A 127.0.0.1"
 local-zone: "zvhjk.petite-plume.com" static
@@ -49761,6 +51389,8 @@ local-zone: "zvvajeommbajz.top" static
 local-data: "zvvajeommbajz.top A 127.0.0.1"
 local-zone: "zvvajeommbjjq.top" static
 local-data: "zvvajeommbjjq.top A 127.0.0.1"
+local-zone: "zvvajeommbrmj.top" static
+local-data: "zvvajeommbrmj.top A 127.0.0.1"
 local-zone: "zvvm3v11w8ibbkqo.net.daraz.com" static
 local-data: "zvvm3v11w8ibbkqo.net.daraz.com A 127.0.0.1"
 local-zone: "zvvpcz.puravita.ch" static
@@ -49779,6 +51409,8 @@ local-zone: "zvzmzrawlvwlo.top" static
 local-data: "zvzmzrawlvwlo.top A 127.0.0.1"
 local-zone: "zvzmzrawlvwyb.top" static
 local-data: "zvzmzrawlvwyb.top A 127.0.0.1"
+local-zone: "zw3b.icu" static
+local-data: "zw3b.icu A 127.0.0.1"
 local-zone: "zwaar.net" static
 local-data: "zwaar.net A 127.0.0.1"
 local-zone: "zwaar.org" static
