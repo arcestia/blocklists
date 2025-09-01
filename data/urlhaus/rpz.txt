@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 1-engineer.ru CNAME .
+11.jujosuu4.ru CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
@@ -259,6 +260,7 @@ namthaibinh.net CNAME .
 ncxps.com CNAME .
 ndirection.kr CNAME .
 noithaticon.vn CNAME .
+nusatoyota.co.id CNAME .
 nvtai.id.vn CNAME .
 ny.lshdw.cc CNAME .
 o24o.ru CNAME .
@@ -348,7 +350,7 @@ seamlessvideowall.com CNAME .
 secure.third-domain.su CNAME .
 sfa.com.ar CNAME .
 sg123.net CNAME .
-sharegolem.com CNAME .
+shaderm.com CNAME .
 shark-watewer.com CNAME .
 shipminttracking.net CNAME .
 shop.mediasova.ru CNAME .
@@ -416,8 +418,10 @@ vip.3a9.net CNAME .
 vipcncnetwork.com CNAME .
 visam.info CNAME .
 visualwikicloud.com CNAME .
+vitoturizm.com.tr CNAME .
 vodomer-service.ru CNAME .
 vpn.silk-gen.com CNAME .
+vulnfactory.org CNAME .
 we.vupabya1.ru CNAME .
 website.mypetapp.co.za CNAME .
 windatem.com CNAME .
@@ -461,6 +465,7 @@ www.mixturro.com CNAME .
 www.modernitgen.com CNAME .
 www.myvcart.com CNAME .
 www.namuvpn.com CNAME .
+www.newkey.co.kr CNAME .
 www.ojang.pe.kr CNAME .
 www.okhan.net CNAME .
 www.opolis.io CNAME .
