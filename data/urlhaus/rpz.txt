@@ -5,7 +5,6 @@
         IN      NS      localhost.
 ; domain list below
 1-engineer.ru CNAME .
-10086623.top CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
@@ -21,17 +20,16 @@ admin-extranetadm-captcha.com CNAME .
 admin.byte.in.ua CNAME .
 admin.gestroom.it CNAME .
 advansys.com.ar CNAME .
-adver.com.br CNAME .
 advustech.com CNAME .
 afrihealthexpo.org CNAME .
 agapi.cqjjb.cn CNAME .
 alarmline.com.br CNAME .
 alien-training.com CNAME .
 allendostmen.com CNAME .
-altseamx.com CNAME .
 amuletweb.com CNAME .
 anapa-zarya.ru CNAME .
 antvietnam.com CNAME .
+anyhoo.testeaza.eu CNAME .
 api.chimera-hosting.zip CNAME .
 app-monespaces-securpass-assurances.art CNAME .
 apple-service93.ru CNAME .
@@ -64,6 +62,7 @@ bridgeroad.maverickpreviews.com CNAME .
 brightworks.cz CNAME .
 buscascolegios.diit.cl CNAME .
 buzz.organzoperate.com CNAME .
+bypass188v144.xyz CNAME .
 camp.organzoperate.com CNAME .
 caravella.com.br CNAME .
 cast.organzoperate.com CNAME .
@@ -151,6 +150,7 @@ dweixin.cn CNAME .
 dynamicmemchannel.com CNAME .
 e4l4.com CNAME .
 educacom.com.br CNAME .
+electri.billregulator.com CNAME .
 electrum-dogecoin.com CNAME .
 elisans.novayonetim.com CNAME .
 embedone.com CNAME .
@@ -178,6 +178,7 @@ gabyagozetim.com CNAME .
 galerisenimutiara.com CNAME .
 generativezmedium.com CNAME .
 glaustralia.com CNAME .
+googletagamnager.com CNAME .
 greenmile.ng CNAME .
 grikom.info CNAME .
 hasalltalent.com CNAME .
@@ -186,9 +187,11 @@ hitstation.nl CNAME .
 hobobot.net CNAME .
 hogarsancamilo.org CNAME .
 hollywoodcafeonmain.com CNAME .
+hope2cooling.com CNAME .
 hotel-city.net CNAME .
 hotellacastellana.com.uy CNAME .
 hranenie.pereezd-24.com CNAME .
+hseda.com CNAME .
 humble-photo.com CNAME .
 icoffeecloud.com CNAME .
 igra123.com CNAME .
@@ -218,6 +221,7 @@ karoonpc.com CNAME .
 katyache.com CNAME .
 kavacanada.ca CNAME .
 klar.gg CNAME .
+konsor.ru CNAME .
 kosmetolodzy.com CNAME .
 kramersmarionnettes.com CNAME .
 kriez.work CNAME .
@@ -250,8 +254,8 @@ mohamedayesh.com CNAME .
 moonloaderupdate.ru CNAME .
 mundocarnes.cl CNAME .
 muriaspetin.es CNAME .
-muzzumilruheel.com CNAME .
 namaacont.com CNAME .
+namthaibinh.net CNAME .
 ncxps.com CNAME .
 ndirection.kr CNAME .
 noithaticon.vn CNAME .
@@ -260,7 +264,6 @@ ny.lshdw.cc CNAME .
 o24o.ru CNAME .
 ojang.pe.kr CNAME .
 okhan.net CNAME .
-oknoplastik.sk CNAME .
 olingerphoto.com CNAME .
 onedomainpro.com CNAME .
 onestartbrowser.com CNAME .
@@ -275,7 +278,6 @@ onyxfortifypro.de CNAME .
 onyxfortitech.de CNAME .
 onyxguardify.de CNAME .
 onyxguardshift.de CNAME .
-onyxguardwave.de CNAME .
 onyxironvault.de CNAME .
 onyxleo.de CNAME .
 onyxnexguard.de CNAME .
@@ -301,6 +303,7 @@ paradoxcheat.fun CNAME .
 passagem-aviao.com CNAME .
 pay.aqiu6.com CNAME .
 pcupd.com CNAME .
+pdffilehub.net CNAME .
 pf.vozunaa0.ru CNAME .
 phpmyadmin.hebergement.ml-shop-fr.com CNAME .
 pid.fly160.com CNAME .
@@ -376,7 +379,6 @@ support.clz.kr CNAME .
 support.viewpoint.fr CNAME .
 svirtual.sanviatorperu.edu.pe CNAME .
 taka.com.mx CNAME .
-talentrecruitments.com CNAME .
 tanscarattorneys.co.tz CNAME .
 tapestryoftruth.com CNAME .
 tcgroup.com.au CNAME .
@@ -445,6 +447,7 @@ www.evoribusiness.com CNAME .
 www.first-security-verden.de CNAME .
 www.frontier.net.pk CNAME .
 www.hostingcloud.science CNAME .
+www.hseda.com CNAME .
 www.ingonherbal.com CNAME .
 www.institut-corps-a-ligne.fr CNAME .
 www.jnhelp.top CNAME .
