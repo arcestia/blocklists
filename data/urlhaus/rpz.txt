@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 1-engineer.ru CNAME .
+10086623.top CNAME .
 11.jujosuu4.ru CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
@@ -252,6 +253,7 @@ moonloaderupdate.ru CNAME .
 mundocarnes.cl CNAME .
 muriaspetin.es CNAME .
 namaacont.com CNAME .
+namthaibinh.net CNAME .
 ncxps.com CNAME .
 ndirection.kr CNAME .
 noithaticon.vn CNAME .
@@ -389,6 +391,7 @@ tests.yjzj.org CNAME .
 thtp2.volamngayxua.net CNAME .
 tirtasentosa.com CNAME .
 tmello.com CNAME .
+topmedsolution.com CNAME .
 tpp.tj CNAME .
 transmitcdnzion.com CNAME .
 transparenciacanaa.com.br CNAME .
