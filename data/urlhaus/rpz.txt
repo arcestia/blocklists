@@ -4,11 +4,9 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
-1-engineer.ru CNAME .
 10086623.top CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
-1717.1000uc.com CNAME .
 52mj.susuwei.cn CNAME .
 abissnet.net CNAME .
 acc.jiangsujiaxue.com CNAME .
@@ -24,6 +22,7 @@ adver.com.br CNAME .
 advustech.com CNAME .
 afrihealthexpo.org CNAME .
 agapi.cqjjb.cn CNAME .
+akgang.pro CNAME .
 alarmline.com.br CNAME .
 alien-training.com CNAME .
 allendostmen.com CNAME .
@@ -37,7 +36,6 @@ artscreenstudio.ru CNAME .
 asl-company.ru CNAME .
 assuredfix.com CNAME .
 astrodating.eu CNAME .
-augsburg-auto.com CNAME .
 aulist.com CNAME .
 autoiwc.ru CNAME .
 axhelp.top CNAME .
@@ -47,11 +45,13 @@ bankgarantia.ru CNAME .
 bestieslos.com CNAME .
 blackhatusa.com CNAME .
 blaiz.me CNAME .
+blessdayservices.org CNAME .
 blogs.sokun.jp CNAME .
 bmdcompany.com CNAME .
 book.organzoperate.com CNAME .
 book.rollingvideogames.com CNAME .
 boylegmfg.com CNAME .
+bracell.latitude.net.br CNAME .
 bradreddekopp.com CNAME .
 brightworks.cz CNAME .
 buscascolegios.diit.cl CNAME .
@@ -70,13 +70,13 @@ cf-2-up.com CNAME .
 cf-cap-load.cfd CNAME .
 chaparral.es CNAME .
 chaparstore.com CNAME .
+chat-server.maverickpreviews.com CNAME .
 checkinetverifk.com CNAME .
 chifacanton.phuyufact.com CNAME .
 chinaapper.com CNAME .
 chinesegarden.com.tr CNAME .
 chiptune.com CNAME .
 city.organzoperate.com CNAME .
-classroomseven.com CNAME .
 clgnymc.org CNAME .
 clks.sweatscissors.com CNAME .
 cnnetwork.uk CNAME .
@@ -97,6 +97,7 @@ ct3-24.ru CNAME .
 cv.bezyweo.ru CNAME .
 cv.bojyqiy.ru CNAME .
 cv.kogudoo.ru CNAME .
+cv.pysywao.ru CNAME .
 d.14yaa.com CNAME .
 dangtienluc.com CNAME .
 dansorium.gr CNAME .
@@ -104,8 +105,11 @@ darkteenporn.net CNAME .
 data.kaoyany.top CNAME .
 data.yhydl.com CNAME .
 daviddarle.fr CNAME .
+dcwblida.dz CNAME .
 delp-heizungsbau.de CNAME .
 device.redirec.com CNAME .
+dezcom.com CNAME .
+dezino.ir CNAME .
 dhbhs66960.xyz CNAME .
 dhnconstrucciones.com.ar CNAME .
 disk.accord1key.cn CNAME .
@@ -136,7 +140,6 @@ download01.anxiousai.com CNAME .
 dreamwatchevent.com CNAME .
 dro.pm CNAME .
 dweixin.cn CNAME .
-dynamicmemchannel.com CNAME .
 e4l4.com CNAME .
 easybrand.vn CNAME .
 electri.billregulator.com CNAME .
@@ -195,10 +198,8 @@ ircftp.net CNAME .
 isiore.com.co CNAME .
 it.fobiweu2.ru CNAME .
 itcomsrv.kz CNAME .
-itssprout.com CNAME .
 izocab.com CNAME .
 izogard.com CNAME .
-jakestrack.com CNAME .
 jayexecutive.co.ke CNAME .
 jeantetfamily.com CNAME .
 jkshaonv.com CNAME .
@@ -229,17 +230,20 @@ local-update.com CNAME .
 loe.jujosuu4.ru CNAME .
 lomejordesalamanca.es CNAME .
 louglas.com CNAME .
+lucknowacrepairservices.com CNAME .
 m-global.hksty.net CNAME .
 m.bal-stroi.ru CNAME .
 main.dsn.ovh CNAME .
 maingravel.com CNAME .
 malupieng.com.br CNAME .
+masgrave.com CNAME .
 maxximbrasil.com CNAME .
 me3.ne.jp CNAME .
 medcar.com.tn CNAME .
 merctransfers.gradycares.com CNAME .
 metrics.gocloudmaps.com CNAME .
 michellegraci.com CNAME .
+microsoft-telemetry.cc CNAME .
 mileshr.ae CNAME .
 mitreart.com CNAME .
 mogimall.com CNAME .
@@ -248,7 +252,6 @@ mundocarnes.cl CNAME .
 muzzumilruheel.com CNAME .
 mx1.sweatscissors.com CNAME .
 mx2.sweatscissors.com CNAME .
-namthaibinh.net CNAME .
 ndirection.kr CNAME .
 nicole-emer.de CNAME .
 noithaticon.vn CNAME .
@@ -264,7 +267,6 @@ onedomainpro.com CNAME .
 onfiltre.com.tr CNAME .
 onlinetanecni.cz CNAME .
 onyxaquarius.de CNAME .
-onyxarmorcrypt.de CNAME .
 onyxcryptorix.de CNAME .
 onyxcyberapex.de CNAME .
 onyxcyberedge.de CNAME .
@@ -294,14 +296,12 @@ p4man.com.br CNAME .
 p5.zbjimg.com CNAME .
 p6.zbjimg.com CNAME .
 palharesinformatica.com.br CNAME .
-passagem-aviao.com CNAME .
 pay.aqiu6.com CNAME .
 pcupd.com CNAME .
 petrotecmx.com CNAME .
 phpmyadmin.hebergement.ml-shop-fr.com CNAME .
 pid.fly160.com CNAME .
 planetariumobil.ro CNAME .
-pns.org.pk CNAME .
 pobedastaff.ru CNAME .
 progressdev.xyz CNAME .
 ptgut.co.id CNAME .
@@ -309,9 +309,7 @@ public.demo.securecloudsandbox.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
 quanlyphongnet.com CNAME .
-quickfixwebsite.com CNAME .
 ramactools.net CNAME .
-razorcrypter.com CNAME .
 rdm.91yunma.cn CNAME .
 records.dennisign.se CNAME .
 redlk.com CNAME .
@@ -332,6 +330,7 @@ schenckel.com.br CNAME .
 sconnect-01.connectprotocol.es CNAME .
 screen.connectprotocol.es CNAME .
 screensconnct.com CNAME .
+sdfgaasdzx.beer CNAME .
 sdvgpro.ru CNAME .
 seamlessvideowall.com CNAME .
 secure.third-domain.su CNAME .
@@ -343,6 +342,7 @@ sharegolem.com CNAME .
 shark-watewer.com CNAME .
 shipminttracking.net CNAME .
 shop.mediasova.ru CNAME .
+shqdown.ggzuhao.com CNAME .
 siegeville.xyz CNAME .
 sk-comtel.com CNAME .
 skynetx.com.br CNAME .
@@ -403,6 +403,7 @@ vd.kygupyy.ru CNAME .
 vegasnights.co.za CNAME .
 veryboys.com CNAME .
 vgd.vg CNAME .
+villanyzsolti.hu CNAME .
 vincentdemiero.com CNAME .
 vip.3a9.net CNAME .
 vipcncnetwork.com CNAME .
@@ -413,7 +414,6 @@ vpn.silk-gen.com CNAME .
 vsa.lalequo.ru CNAME .
 vulnfactory.org CNAME .
 website.mypetapp.co.za CNAME .
-windomstatetheater.com CNAME .
 wood-simple.com CNAME .
 woop-bicks.com CNAME .
 wp.grovespras.com CNAME .
@@ -466,6 +466,7 @@ www.saf-oil.ru CNAME .
 www.salonmarketing.ca CNAME .
 www.silver-hubdachwohnwagen.de CNAME .
 www.ss-01.com CNAME .
+www.starcountry.net CNAME .
 www.sunce-projekt.hr CNAME .
 www.support-data.com CNAME .
 www.surethinks.com CNAME .
@@ -494,7 +495,6 @@ xshop.com.tr CNAME .
 xuezha.net CNAME .
 yahyacarpet.com CNAME .
 yongtai.cn CNAME .
-yzkzixun.com CNAME .
 zakypky-ru-info.website CNAME .
 zapchast-gazkotel.ru CNAME .
 zenglobalenerji.com CNAME .
