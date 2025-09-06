@@ -16,7 +16,6 @@ acc.nmphelp.top CNAME .
 acc.wtshelp.top CNAME .
 accesspoint.cc CNAME .
 acms.saleseos.com CNAME .
-acrobat-updater.com CNAME .
 admin.byte.in.ua CNAME .
 admin.gestroom.it CNAME .
 advansys.com.ar CNAME .
@@ -24,6 +23,8 @@ adver.com.br CNAME .
 advustech.com CNAME .
 afrihealthexpo.org CNAME .
 agapi.cqjjb.cn CNAME .
+agriculture-lawyer.com CNAME .
+akgang.pro CNAME .
 alien-training.com CNAME .
 allendostmen.com CNAME .
 amuletweb.com CNAME .
@@ -60,7 +61,6 @@ brightworks.cz CNAME .
 buscascolegios.diit.cl CNAME .
 buzz.organzoperate.com CNAME .
 bwa.mize0ao1.ru CNAME .
-c2.sombras.space CNAME .
 camp.organzoperate.com CNAME .
 caravella.com.br CNAME .
 cat.xiaoshabi.nl CNAME .
@@ -71,17 +71,16 @@ cdektrak.icu CNAME .
 cegelecinfo.fr CNAME .
 cerni-mix-01174839212-snort-20.resourcemaster.net CNAME .
 cf-2-up.com CNAME .
-cf-cap-load.cfd CNAME .
 chaparral.es CNAME .
 chaparstore.com CNAME .
 checkinetverifk.com CNAME .
 chifacanton.phuyufact.com CNAME .
 chinaapper.com CNAME .
 chiptune.com CNAME .
+choutek.com CNAME .
 chuguadventures.co.tz CNAME .
 city.organzoperate.com CNAME .
 ck.mize0ao1.ru CNAME .
-clgnymc.org CNAME .
 clks.sweatscissors.com CNAME .
 cnnetwork.uk CNAME .
 coach.028csc.com CNAME .
@@ -97,8 +96,14 @@ crystalpvp.ru CNAME .
 cs.go.kg CNAME .
 csg-app.com CNAME .
 ct3-24.ru CNAME .
+ctktravel.com CNAME .
 cv.bezyweo.ru CNAME .
+cv.bizahao.ru CNAME .
+cv.bojyqiy.ru CNAME .
+cv.jikeqye.ru CNAME .
 cv.kogudoo.ru CNAME .
+cv.koxulaa.ru CNAME .
+cv.pysywao.ru CNAME .
 cv.radinau.ru CNAME .
 cv.wolyviy.ru CNAME .
 d.14yaa.com CNAME .
@@ -136,11 +141,9 @@ download.innovare.no CNAME .
 download.kaobeitu.com CNAME .
 download.pdf00.cn CNAME .
 download.pdf00.com CNAME .
-download.pdfatualizacao.online CNAME .
 download.suxiazai.com CNAME .
 dreamwatchevent.com CNAME .
 dro.pm CNAME .
-dw.c4kdeliver.top CNAME .
 dweixin.cn CNAME .
 e4l4.com CNAME .
 easybrand.vn CNAME .
@@ -152,7 +155,6 @@ employees.medicalcenterclinic.com CNAME .
 emprotel.net.bo CNAME .
 energy63.ru CNAME .
 eroes.nl CNAME .
-estartem.ro CNAME .
 evangroup.ru CNAME .
 evoribusiness.com CNAME .
 f-capture.com CNAME .
@@ -221,6 +223,7 @@ kriez.work CNAME .
 krishnaplastpack.com CNAME .
 kuzina-teatr.ru CNAME .
 lakhrl.sweatscissors.com CNAME .
+limitedexchange.cz CNAME .
 lindenappliances.co.za CNAME .
 lindnerelektroanlagen.de CNAME .
 linkssl.com CNAME .
@@ -228,14 +231,11 @@ linomu.com CNAME .
 livetrack.in CNAME .
 lj.gily1yo3.ru CNAME .
 local-update.com CNAME .
-loe.jujosuu4.ru CNAME .
 lomejordesalamanca.es CNAME .
-louglas.com CNAME .
 lucknowacrepairservices.com CNAME .
 m-global.hksty.net CNAME .
 m.bal-stroi.ru CNAME .
 main.dsn.ovh CNAME .
-maingravel.com CNAME .
 malupieng.com.br CNAME .
 maxximbrasil.com CNAME .
 me3.ne.jp CNAME .
@@ -244,7 +244,6 @@ merctransfers.gradycares.com CNAME .
 metrics.gocloudmaps.com CNAME .
 michellegraci.com CNAME .
 microsoft-telemetry.cc CNAME .
-mileshr.ae CNAME .
 mitreart.com CNAME .
 mogimall.com CNAME .
 moonloaderupdate.ru CNAME .
@@ -254,6 +253,7 @@ mx1.sweatscissors.com CNAME .
 mx2.sweatscissors.com CNAME .
 namthaibinh.net CNAME .
 ndirection.kr CNAME .
+ng.firu6ui8.ru CNAME .
 nicole-emer.de CNAME .
 noithaticon.vn CNAME .
 nusatoyota.co.id CNAME .
@@ -288,6 +288,8 @@ onyxsecuregate.de CNAME .
 onyxsentinelx.de CNAME .
 onyxshieldcore.de CNAME .
 onyxstealthnet.de CNAME .
+op.koxulaa.ru CNAME .
+op.pysywao.ru CNAME .
 op.radinau.ru CNAME .
 openaigrok.com CNAME .
 ortopie.phuyufact.com CNAME .
@@ -300,11 +302,9 @@ p6.zbjimg.com CNAME .
 palharesinformatica.com.br CNAME .
 pay.aqiu6.com CNAME .
 pcupd.com CNAME .
-petrotecmx.com CNAME .
 phpmyadmin.hebergement.ml-shop-fr.com CNAME .
 planetariumobil.ro CNAME .
 pobedastaff.ru CNAME .
-progressdev.xyz CNAME .
 ptgut.co.id CNAME .
 public.demo.securecloudsandbox.com CNAME .
 qiniuyunxz.yxflzs.com CNAME .
@@ -327,7 +327,6 @@ saewh.com CNAME .
 sanhack.com CNAME .
 scainseto.com.br CNAME .
 scan-echo.online CNAME .
-scan.sombras.space CNAME .
 scanwellhaulage.com CNAME .
 schenckel.com.br CNAME .
 sconnect-01.connectprotocol.es CNAME .
@@ -383,7 +382,6 @@ tengfeidn.cn CNAME .
 tengfeidn.com CNAME .
 test.peperoncinochepassione.it CNAME .
 tests.yjzj.org CNAME .
-thatdimensionalwebsite.com CNAME .
 thtp2.volamngayxua.net CNAME .
 tirtasentosa.com CNAME .
 topmedsolution.com CNAME .
@@ -400,10 +398,8 @@ update.volam2005pk.com CNAME .
 update.volamthientu.cc CNAME .
 upgradegc.com CNAME .
 uploadtree.com CNAME .
-upsinf.com CNAME .
 vagler.ru CNAME .
 vcpesaas.com CNAME .
-vcsinfo.com CNAME .
 vd.kygupyy.ru CNAME .
 vegasnights.co.za CNAME .
 veryboys.com CNAME .
@@ -424,7 +420,6 @@ woop-bicks.com CNAME .
 wp.grovespras.com CNAME .
 writerartist.com CNAME .
 wtg.xajaqoy.ru CNAME .
-wug.hekulei5.ru CNAME .
 wwmariners.com CNAME .
 www.aqianniao.com CNAME .
 www.ardguisser.com CNAME .
@@ -474,7 +469,6 @@ www.salonmarketing.ca CNAME .
 www.silver-hubdachwohnwagen.de CNAME .
 www.ss-01.com CNAME .
 www.starcountry.net CNAME .
-www.sunce-projekt.hr CNAME .
 www.support-data.com CNAME .
 www.surethinks.com CNAME .
 www.techgeeks.org CNAME .
