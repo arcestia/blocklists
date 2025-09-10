@@ -147,6 +147,7 @@
 631c453c-68ac-46ab-857f-801e975e733a.snippet.antillephone.com CNAME .
 684dd325.akstat.io CNAME .
 684dd32c.akstat.io CNAME .
+68s8.com CNAME .
 6sc.co CNAME .
 6v41p4bsq.com CNAME .
 77980.bodis.com CNAME .
@@ -369,6 +370,7 @@ acdcdn.com CNAME .
 acdn.adnxs-simple.com CNAME .
 acdn.adnxs.com CNAME .
 acdn.xapads.com CNAME .
+ace.naver.com CNAME .
 acento.com CNAME .
 acerolawaists.com CNAME .
 acertb.com CNAME .
@@ -564,7 +566,6 @@ ad.mox.tv CNAME .
 ad.musicmatch.com CNAME .
 ad.nachtagenten.de CNAME .
 ad.native-ad.net CNAME .
-ad.naver.com CNAME .
 ad.netmedia.hu CNAME .
 ad.nl.doubleclick.net CNAME .
 ad.nttnavi.co.jp CNAME .
@@ -889,7 +890,6 @@ adlog.adinsight.co.kr CNAME .
 adlog.cbsi.com CNAME .
 adlog.flurry.com CNAME .
 adlog.foxitcloud.com CNAME .
-adlog.shopping.naver.com CNAME .
 adlogists.com CNAME .
 adloox.com CNAME .
 adlooxtracking.com CNAME .
@@ -1413,6 +1413,7 @@ ads.mobilebet.com CNAME .
 ads.mopub.com CNAME .
 ads.mozilla.org CNAME .
 ads.mp.mydas.mobi CNAME .
+ads.msdigital.vn CNAME .
 ads.msn.com CNAME .
 ads.mxhnkn.pro CNAME .
 ads.mythad.com CNAME .
@@ -3140,11 +3141,15 @@ api16-access-gcp.pangle-b.io CNAME .
 api16-access-gcp.pangle.io CNAME .
 api16-access-sg.pangle-b.io CNAME .
 api16-access-sg.pangle.io CNAME .
+api16-access-ttp.tiktokpangle-b.us CNAME .
+api16-access-ttp.tiktokpangle.us CNAME .
 api16-access-va.pangle.io CNAME .
+api16-access-wf-sg.pangle.io CNAME .
 api16-endcard-pack-sg.pangle.io CNAME .
 api16-log-gcp.pangle.io CNAME .
 api16-log-sg.pangle-b.io CNAME .
 api16-log-sg.pangle.io CNAME .
+api16-log-sg2.pangle.io CNAME .
 api2.amplitude.com CNAME .
 api2.appsflyer.com CNAME .
 api2.batmobi.net CNAME .
@@ -7227,6 +7232,7 @@ et.w.inmobi.com CNAME .
 et2.w.inmobi.cn CNAME .
 etahub.com CNAME .
 etargetnet.com CNAME .
+ether-pack-sg.pangle.io CNAME .
 ethicalads.io CNAME .
 ethicel.com CNAME .
 etp-prod.com CNAME .
@@ -7300,6 +7306,7 @@ event.filum.ai CNAME .
 event.getblue.io CNAME .
 event.havasedge.com CNAME .
 event.headlines.pw CNAME .
+event.impression-neo.naver.com CNAME .
 event.inner-active.mobi CNAME .
 event.movad.net CNAME .
 event.spotxchange.com CNAME .
@@ -7860,6 +7867,7 @@ gammassp.com CNAME .
 gan.doubleclick.net CNAME .
 ganalytics.live CNAME .
 gandalf.younetmedia.com CNAME .
+gangwaynumberprivacy.com CNAME .
 gaseousgeneral.com CNAME .
 gaspra.iad-03.braze.com CNAME .
 gatekeeper.outbrain.com CNAME .
@@ -7951,7 +7959,6 @@ getstats.org CNAME .
 getsthis.com CNAME .
 getwisdom.io CNAME .
 gf.umenglog.com CNAME .
-gfp.veta.naver.com CNAME .
 gfugafoz.com CNAME .
 gfw-eu.tapdb.net CNAME .
 gfw-hk.tapdb.net CNAME .
@@ -9124,6 +9131,7 @@ insights.rtgio.co CNAME .
 insitez.blob.core.windows.net CNAME .
 inskinmedia.com CNAME .
 inspectlet.com CNAME .
+inspector-collector.m.naver.com CNAME .
 inspirationstarednope.com CNAME .
 instant.page CNAME .
 instantmadness.com CNAME .
@@ -9423,6 +9431,7 @@ jp1-bid-ga.adsrvr.org CNAME .
 jp1-bid.adsrvr.org CNAME .
 jpjmpqaupc.com CNAME .
 jpovulldaghw.com CNAME .
+jpphaqpmugm.com CNAME .
 jprtb.c.appier.net CNAME .
 jpush.cn CNAME .
 jpush.io CNAME .
@@ -9833,6 +9842,7 @@ leoyard.fs.ak-is2.net CNAME .
 lephaush.net CNAME .
 lessemujust.live CNAME .
 level3.applifier.com CNAME .
+lf-static.tiktokpangle-cdn-us.com CNAME .
 lfalfehuq.com CNAME .
 lfeeder.com CNAME .
 lfeorrzkua.com CNAME .
@@ -10181,6 +10191,7 @@ log4x.nixcdn.com CNAME .
 loga2.doubleverify.com CNAME .
 logall.doubleverify.com CNAME .
 logapi.misa.com.vn CNAME .
+logapi.tv.naver.com CNAME .
 logbak.hicloud.com CNAME .
 logen.vietnamplus.vn CNAME .
 loges.vietnamplus.vn CNAME .
@@ -10282,6 +10293,7 @@ lp3tdqle.com CNAME .
 lp4.io CNAME .
 lptag.liveperson.net CNAME .
 lpuodgmca.com CNAME .
+lqbkshojlhmyj.com CNAME .
 lr-in-prod.com CNAME .
 lr-in.com CNAME .
 lr.us-east-1.bid.bidr.io CNAME .
@@ -10681,6 +10693,7 @@ mediashakers.com CNAME .
 mediasmart.io CNAME .
 mediasprucetree.com CNAME .
 mediatext.com CNAME .
+mediation-sg.pangle.io CNAME .
 mediation-tracking.prd.mz.internal.unity3d.com CNAME .
 mediation.adflex.vn CNAME .
 mediation.adnxs.com CNAME .
@@ -11428,6 +11441,7 @@ nsfwadds.com CNAME .
 nspapi.aiservice.vn CNAME .
 nstat.headlines.pw CNAME .
 nt.alcmpn.com CNAME .
+ntracker-collector.naver.com CNAME .
 ntrb.qc.coccoc.com CNAME .
 ntvk1.ru CNAME .
 ntvp.wpu.sh CNAME .
@@ -11653,6 +11667,7 @@ onlyfanssubscriber.com CNAME .
 onmanectrictor.com CNAME .
 onmarketer.net CNAME .
 onmarshtompor.com CNAME .
+onmawmojth.com CNAME .
 onmobile.com CNAME .
 onrt-stsdk.vivoglobal.com CNAME .
 onrt.stsdk.vivoglobal.com CNAME .
@@ -13152,6 +13167,7 @@ qlpenuxctkhwv.com CNAME .
 qmixnhyxc.com CNAME .
 qnp16tstw.com CNAME .
 qnsr.com CNAME .
+qo.errorrespan.com CNAME .
 qojrlxsbxvfqqx.com CNAME .
 qp.ezfxpuo.cn CNAME .
 qps.cint.com CNAME .
@@ -16153,6 +16169,8 @@ tiiytaekjajw.com CNAME .
 tiki.ants.vn CNAME .
 tikivn.api.sociaplus.com CNAME .
 tiktok-ads.hara.vn CNAME .
+tiktokpangle-b.us CNAME .
+tiktokpangle.us CNAME .
 tilanalytics.timesinternet.in CNAME .
 tilqwekuszfa.com CNAME .
 timeinc.trc.taboola.com CNAME .
@@ -16227,6 +16245,7 @@ token.api.kochava.com CNAME .
 token.rubiconproject.com CNAME .
 tomorroweducated.com CNAME .
 tooglidanog.net CNAME .
+tookoupanoafig.com CNAME .
 tool.cleverads.vn CNAME .
 toolbar.freshmarketer.com CNAME .
 tools.adskeeper.co.uk CNAME .
@@ -17304,7 +17323,6 @@ vervewireless.com CNAME .
 vet-cn-north-1.smaato.net CNAME .
 vet-us-east-1.smaato.net CNAME .
 vet-us-east-1.track.smaato.net CNAME .
-veta.naver.com CNAME .
 vfuqivac.com CNAME .
 vfurwydryli.com CNAME .
 vh.adscale.de CNAME .
@@ -17592,6 +17610,7 @@ wauthaik.net CNAME .
 wawhoufteedaksu.com CNAME .
 waxa-direct.info CNAME .
 waymarkgentiin.com CNAME .
+wbehwesvucqmvx.com CNAME .
 wbidder.online CNAME .
 wbilvnmool.com CNAME .
 wbx.adblade.com CNAME .
