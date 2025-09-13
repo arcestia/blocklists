@@ -4,6 +4,7 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
+1.fe1it.ru CNAME .
 10086623.top CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
@@ -131,6 +132,7 @@ deep.lilek4au2.ru CNAME .
 delp-heizungsbau.de CNAME .
 device.redirec.com CNAME .
 dezcom.com CNAME .
+dezino.ir CNAME .
 dhnconstrucciones.com.ar CNAME .
 disk.accord1key.cn CNAME .
 divametalart.com CNAME .
@@ -314,7 +316,6 @@ neat.kuryc7yy1.ru CNAME .
 nl.qe3yn.ru CNAME .
 no.buno8.ru CNAME .
 noithaticon.vn CNAME .
-nusatoyota.co.id CNAME .
 nvtai.id.vn CNAME .
 ny.lshdw.cc CNAME .
 o24o.ru CNAME .
@@ -387,6 +388,7 @@ ransokk.de CNAME .
 razorcrypter.com CNAME .
 rdm.91yunma.cn CNAME .
 reauthenticator.com CNAME .
+records.dennisign.se CNAME .
 redlk.com CNAME .
 reifenquick.de CNAME .
 reusable-flex.com CNAME .
