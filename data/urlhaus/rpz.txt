@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 1.fe1it.ru CNAME .
+10086623.top CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
@@ -62,6 +63,7 @@ bestieslos.com CNAME .
 blackhatusa.com CNAME .
 blaiz.me CNAME .
 blessdayservices.org CNAME .
+blit.co.za CNAME .
 blockchainnportfolio.com CNAME .
 blogs.sokun.jp CNAME .
 bmdcompany.com CNAME .
@@ -109,7 +111,6 @@ couturellin.com CNAME .
 crew.organzoperate.com CNAME .
 crimefreesoftware.com CNAME .
 crtjpanel.top CNAME .
-cryoshield.co.za CNAME .
 crystalpvp.ru CNAME .
 cs.go.kg CNAME .
 csg-app.com CNAME .
@@ -184,6 +185,7 @@ futurenaturallistic.com CNAME .
 fvia.id.vn CNAME .
 fz.tiansys.cn CNAME .
 gabyagozetim.com CNAME .
+galerisenimutiara.com CNAME .
 glaustralia.com CNAME .
 go.boku-0.ru CNAME .
 go.fe1it.ru CNAME .
@@ -247,7 +249,6 @@ konsor.ru CNAME .
 kosmetolodzy.com CNAME .
 kramersmarionnettes.com CNAME .
 kri.xe3ax.ru CNAME .
-krishnaplastpack.com CNAME .
 kuzina-teatr.ru CNAME .
 l.bi3ux.ru CNAME .
 lakhrl.sweatscissors.com CNAME .
@@ -286,12 +287,12 @@ mox.we4ex.ru CNAME .
 mri.bi3ux.ru CNAME .
 mro.cubaqay.ru CNAME .
 mundocarnes.cl CNAME .
-muzzumilruheel.com CNAME .
 mv.mo5un.ru CNAME .
 mx1.sweatscissors.com CNAME .
 mx2.sweatscissors.com CNAME .
 mylove88.top CNAME .
 namthaibinh.net CNAME .
+ndirection.kr CNAME .
 nl.qe3yn.ru CNAME .
 no.buno8.ru CNAME .
 noithaticon.vn CNAME .
@@ -380,7 +381,6 @@ schenckel.com.br CNAME .
 screen.connectprotocol.es CNAME .
 sdvgpro.ru CNAME .
 seamlessvideowall.com CNAME .
-sec.xiaoshabi.nl CNAME .
 secure.third-domain.su CNAME .
 securedocusharex.com CNAME .
 serralux.pt CNAME .
@@ -390,7 +390,6 @@ shaderm.com CNAME .
 sharegolem.com CNAME .
 shark-watewer.com CNAME .
 shop.mediasova.ru CNAME .
-siedpco.org CNAME .
 sk-comtel.com CNAME .
 skynetx.com.br CNAME .
 smeetspost.nl CNAME .
@@ -401,7 +400,6 @@ softcatalog.ru CNAME .
 solutelco.com CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
 spider-wamp.com CNAME .
-spoar.org.in CNAME .
 spst.hqup.in CNAME .
 src1.minibai.com CNAME .
 static.ilclock.com CNAME .
@@ -472,9 +470,11 @@ www.ardguisser.com CNAME .
 www.astenterprises.com.pk CNAME .
 www.automobile-bk.de CNAME .
 www.axhelp.top CNAME .
+www.benshamcentre.co.uk CNAME .
 www.blackhattoolz.com CNAME .
 www.bratusferramentas.grupomoltz.com.br CNAME .
 www.caravella.com.br CNAME .
+www.carusoadvogados.com.br CNAME .
 www.chenwangqiao.com CNAME .
 www.cippe.com.cn CNAME .
 www.cnnetwork.uk CNAME .
