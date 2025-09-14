@@ -12751,6 +12751,7 @@ event-listener.air.tv CNAME .
 event-logger.tagboard.com CNAME .
 event-router.olympics.com CNAME .
 event-service.letslinc.com CNAME .
+event-store.sitebehaviour.com CNAME .
 event-stream.spot.im CNAME .
 event-tracker-library.mediaownerscloud.com CNAME .
 event-tracking.hellohealthgroup.com CNAME .
@@ -13029,6 +13030,7 @@ f-emc.ngsp.gov.vn CNAME .
 f-log-at.grammarly.io CNAME .
 f-log-test.grammarly.io CNAME .
 f.a23.in CNAME .
+f.pie.org CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 f0nn.oney.fr CNAME .
 f1.demo.np6.com CNAME .
@@ -34900,6 +34902,7 @@ t.pbr.com CNAME .
 t.pennathletics.com CNAME .
 t.perigold.com CNAME .
 t.perjeta.com CNAME .
+t.pie.org CNAME .
 t.pittsburghpanthers.com CNAME .
 t.playhousesquare.org CNAME .
 t.pmu.fr CNAME .
