@@ -5,7 +5,6 @@
         IN      NS      localhost.
 ; domain list below
 1.fe1it.ru CNAME .
-10086623.top CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
@@ -388,6 +387,7 @@ securedocusharex.com CNAME .
 serralux.pt CNAME .
 sfa.com.ar CNAME .
 sg123.net CNAME .
+shaderm.com CNAME .
 shadowsouls.site CNAME .
 sharegolem.com CNAME .
 shark-watewer.com CNAME .
@@ -420,7 +420,6 @@ ta.qe3yn.ru CNAME .
 tanscarattorneys.co.tz CNAME .
 tapestryoftruth.com CNAME .
 tcgroup.com.au CNAME .
-techbud.ro CNAME .
 tecunonline.com CNAME .
 tehrancraftst.ir CNAME .
 telegramcn.co CNAME .
