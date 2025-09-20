@@ -4663,6 +4663,7 @@ ads.dandelionchocolate.jp CNAME .
 ads.tikpage.com CNAME .
 adscore.com CNAME .
 adsdk.yandex.ru CNAME .
+adsmeasurement.com CNAME .
 adsnid.wagyushop.com CNAME .
 adspsp.com CNAME .
 adstats.tencentmusic.com CNAME .
@@ -9853,6 +9854,7 @@ d10lpsik1i8c69.cloudfront.net CNAME .
 d11bdev7tcn7wh.cloudfront.net CNAME .
 d169bbxks24g2u.cloudfront.net CNAME .
 d16fk4ms6rqz1v.cloudfront.net CNAME .
+d16hi2v1mh7lg7.cloudfront.net CNAME .
 d1733r3id7jrw5.cloudfront.net CNAME .
 d17m68fovwmgxj.cloudfront.net CNAME .
 d18p8z0ptb8qab.cloudfront.net CNAME .
@@ -26692,6 +26694,7 @@ s.allbootdisks.com CNAME .
 s.americanblinds.com CNAME .
 s.ameriprisestats.com CNAME .
 s.autopilotapp.com CNAME .
+s.axon.ai CNAME .
 s.beop.io CNAME .
 s.blinds.ca CNAME .
 s.blinds.com CNAME .
