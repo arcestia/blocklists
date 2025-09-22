@@ -6,6 +6,7 @@
 ; domain list below
 ad.citynews.it CNAME .
 adserver.ilgazzettinovesuviano.com CNAME .
+adsystem.pages.dev CNAME .
 adtech.vivimedia.it CNAME .
 adv-img.edilportale.com CNAME .
 advx.esprimo.com CNAME .
