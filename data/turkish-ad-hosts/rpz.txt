@@ -331,6 +331,7 @@ api.tw06.xlmc.sec.miui.com CNAME .
 api.useinsider.com CNAME .
 api16-access-gcp.pangle.io CNAME .
 api16-access-sg.pangle.io CNAME .
+api16-access-wf-sg.pangle.io CNAME .
 api2.amplitude.com CNAME .
 api2.branch.io CNAME .
 api3.siftscience.com CNAME .
@@ -1540,6 +1541,7 @@ odb.outbrain.com CNAME .
 odr.mookie1.com CNAME .
 offer.slgnt.eu CNAME .
 offerwall.yandex.net CNAME .
+ogads-pa.clients6.google.com CNAME .
 oglenreklamiiaa.net CNAME .
 oglenreklamiixs.net CNAME .
 oglenvaktireklamms.net CNAME .
@@ -1698,6 +1700,7 @@ rebrand.ly CNAME .
 recommendation-api.analytics.onedio.com CNAME .
 recommender.scarabresearch.com CNAME .
 recs.engageya.com CNAME .
+redirect.appmetrica.yandex.com CNAME .
 redirect.frontend.weborama.fr CNAME .
 redis-end.tfla.xyz CNAME .
 referrer.disqus.com CNAME .
