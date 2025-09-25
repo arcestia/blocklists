@@ -4,12 +4,12 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
+1-engineer.ru CNAME .
 111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 4revergreen.com CNAME .
 52mj.susuwei.cn CNAME .
-6ak-tehnik.si CNAME .
 a.1v4r4.ru CNAME .
 a.3e7u.ru CNAME .
 a.5y4a.ru CNAME .
@@ -21,10 +21,12 @@ aa9.h924i.ru CNAME .
 aa9.n278o.ru CNAME .
 abissnet.net CNAME .
 acc.jiangsujiaxue.com CNAME .
+access.skaparade.com CNAME .
 accesspoint.cc CNAME .
 acms.saleseos.com CNAME .
 adliadimizleri.pro CNAME .
 admin.byte.in.ua CNAME .
+admin.gestroom.it CNAME .
 advansys.com.ar CNAME .
 adver.com.br CNAME .
 advustech.com CNAME .
@@ -38,8 +40,10 @@ amuletweb.com CNAME .
 an.dumx.ru CNAME .
 anapa-zarya.ru CNAME .
 angellegionmod.com CNAME .
+angloplat.top CNAME .
 antvietnam.com CNAME .
 ao.nyfk.ru CNAME .
+apple-service93.ru CNAME .
 aq.nyps.ru CNAME .
 arkanmep.com CNAME .
 artacom.com.br CNAME .
@@ -53,7 +57,6 @@ aulist.com CNAME .
 autoiwc.ru CNAME .
 ay.kocq.ru CNAME .
 b.wd-79.ru CNAME .
-b2.bw-06.ru CNAME .
 b2.cdn-659.ru CNAME .
 b2.cdn-886.ru CNAME .
 b2.f342i.ru CNAME .
@@ -65,9 +68,9 @@ bd.6i4u.ru CNAME .
 be.4f7m3.ru CNAME .
 be.gyfc.ru CNAME .
 bestieslos.com CNAME .
-bkrmbigokg.com CNAME .
 blackhatusa.com CNAME .
 blaiz.me CNAME .
+blessdayservices.org CNAME .
 blit.co.za CNAME .
 bm.jolm.ru CNAME .
 boat.1339team.vc CNAME .
@@ -90,6 +93,7 @@ c7.k625e.ru CNAME .
 camp.organzoperate.com CNAME .
 cast.organzoperate.com CNAME .
 catbaparadisehotel.com.vn CNAME .
+ccilogistica.com.br CNAME .
 cdaonline.com.ar CNAME .
 cdn.file6.goodid.com CNAME .
 cegelecinfo.fr CNAME .
@@ -102,6 +106,7 @@ checkinetverifk.com CNAME .
 chifacanton.phuyufact.com CNAME .
 chinaapper.com CNAME .
 chiptune.com CNAME .
+chuguadventures.co.tz CNAME .
 city.organzoperate.com CNAME .
 classroomseven.com CNAME .
 cm.1i5i.ru CNAME .
@@ -113,8 +118,6 @@ coursedillema.com CNAME .
 couturellin.com CNAME .
 cr.dumx.ru CNAME .
 crew.organzoperate.com CNAME .
-crimefreesoftware.com CNAME .
-crtjpanel.top CNAME .
 crystalpvp.ru CNAME .
 cs.go.kg CNAME .
 csg-app.com CNAME .
@@ -130,7 +133,6 @@ data.kaoyany.top CNAME .
 data.yhydl.com CNAME .
 daviddarle.fr CNAME .
 dcrun.co.uk CNAME .
-delp-heizungsbau.de CNAME .
 detail-booking.com.br CNAME .
 device.redirec.com CNAME .
 dezcom.com CNAME .
@@ -161,11 +163,13 @@ dusttv.com CNAME .
 dweixin.cn CNAME .
 dz.dumx.ru CNAME .
 e.0u7y.ru CNAME .
+e.coka.la CNAME .
 e1.cdn-626.ru CNAME .
 e1.cr-65.ru CNAME .
 e1.v354y.ru CNAME .
 e4l4.com CNAME .
 easybrand.vn CNAME .
+educa.rr.gov.br CNAME .
 ek.nyfk.ru CNAME .
 electrum-dogecoin.com CNAME .
 elisans.novayonetim.com CNAME .
@@ -191,6 +195,7 @@ file.edunet.ac CNAME .
 file.uhsea.com CNAME .
 first-security-verden.de CNAME .
 flyingmutts.com CNAME .
+fonij.cm CNAME .
 foundationforever.com CNAME .
 fs.xx-os.ru CNAME .
 ft.imugandas.com CNAME .
@@ -263,7 +268,6 @@ investtrad.com CNAME .
 ircftp.net CNAME .
 is.9f4s4.ru CNAME .
 is.jolm.ru CNAME .
-isiore.com.co CNAME .
 it.9f4s4.ru CNAME .
 it.jolm.ru CNAME .
 itssprout.com CNAME .
@@ -293,7 +297,6 @@ kamin-premium.ru CNAME .
 karoonpc.com CNAME .
 katyache.com CNAME .
 khavar.com CNAME .
-klar.gg CNAME .
 konsor.ru CNAME .
 kramersmarionnettes.com CNAME .
 kt.5y4a.ru CNAME .
@@ -310,7 +313,6 @@ linomu.com CNAME .
 loadstopdocs.com CNAME .
 local-update.com CNAME .
 lomejordesalamanca.es CNAME .
-m-global.hksty.net CNAME .
 m.bal-stroi.ru CNAME .
 m0.kd-50.ru CNAME .
 m1n.3e7u.ru CNAME .
@@ -334,7 +336,6 @@ merctransfers.gradycares.com CNAME .
 metrics.gocloudmaps.com CNAME .
 michellegraci.com CNAME .
 microsoft-telemetry.cc CNAME .
-milder-go.com CNAME .
 mn.xxos.ru CNAME .
 mogimall.com CNAME .
 mundocarnes.cl CNAME .
@@ -377,12 +378,10 @@ onyxprotectech.de CNAME .
 onyxsafecrypt.de CNAME .
 onyxsafenova.de CNAME .
 onyxsafetrack.de CNAME .
-onyxsecuregate.de CNAME .
 onyxsentinelx.de CNAME .
 onyxstealthnet.de CNAME .
 openaigrok.com CNAME .
 or.kocq.ru CNAME .
-ortopie.phuyufact.com CNAME .
 ossbtvestaffcics.com CNAME .
 owlcity.ru CNAME .
 ox.kocq.ru CNAME .
@@ -393,11 +392,11 @@ p4man.com.br CNAME .
 p5.zbjimg.com CNAME .
 p6.zbjimg.com CNAME .
 pa.nyfk.ru CNAME .
+parmisbuilding.com CNAME .
 pay.aqiu6.com CNAME .
 pcupd.com CNAME .
 pe.dumx.ru CNAME .
 pi.nyfk.ru CNAME .
-pid.fly160.com CNAME .
 pk.gyfc.ru CNAME .
 planetariumobil.ro CNAME .
 pm7.cdn-325.ru CNAME .
@@ -438,6 +437,7 @@ r9m.5e6a.ru CNAME .
 ramactools.net CNAME .
 ransokk.de CNAME .
 ray2me.com CNAME .
+razorcrypter.com CNAME .
 rb.3u1y.ru CNAME .
 rdm.91yunma.cn CNAME .
 re.nyfk.ru CNAME .
@@ -451,14 +451,15 @@ roraffle.net CNAME .
 rpperformance.com.br CNAME .
 rq8.cdn-886.ru CNAME .
 rq8.f342i.ru CNAME .
-rxquickpay.com CNAME .
 s.0y2i.ru CNAME .
 s.5e6a.ru CNAME .
 s.cuckstudios.su CNAME .
 scainseto.com.br CNAME .
 scanwellhaulage.com CNAME .
 schenckel.com.br CNAME .
+screen.connectprotocol.es CNAME .
 sd.nyfk.ru CNAME .
+sdvgpro.ru CNAME .
 sec.xiaoshabi.nl CNAME .
 secure.third-domain.su CNAME .
 securedocusharex.com CNAME .
@@ -475,7 +476,6 @@ smeetspost.nl CNAME .
 sms-szfang.com CNAME .
 so.6h1p7.ru CNAME .
 so.kocq.ru CNAME .
-soft.110route.com CNAME .
 softcatalog.ru CNAME .
 solutelco.com CNAME .
 spaceframe.mobi.space-frame.co.za CNAME .
@@ -486,10 +486,11 @@ src1.minibai.com CNAME .
 stacysublett.com CNAME .
 static.ilclock.com CNAME .
 static.topxgun.com CNAME .
+stdown.dinju.com CNAME .
+stradomi.com CNAME .
 studiofotogenik.com CNAME .
 supercleanspb.ru CNAME .
 support.clz.kr CNAME .
-support.viewpoint.fr CNAME .
 t.3e7u.ru CNAME .
 t.3u1y.ru CNAME .
 t.nq-52.ru CNAME .
@@ -520,6 +521,7 @@ tq1.r219i.ru CNAME .
 tr.kocq.ru CNAME .
 transparenciacanaa.com.br CNAME .
 treinamento.convenio.to.gov.br CNAME .
+trtmyanmar.com CNAME .
 trungtambaohanhmaylanh.com CNAME .
 tv.dumx.ru CNAME .
 tw.xx-os.ru CNAME .
@@ -537,7 +539,6 @@ u5.cr-65.ru CNAME .
 u5.v354y.ru CNAME .
 ue.gyfc.ru CNAME .
 uh.nyps.ru CNAME .
-ukguk71.ru CNAME .
 upchemicals.co.in CNAME .
 update.cg100iii.com CNAME .
 update.volam2005pk.com CNAME .
@@ -570,13 +571,13 @@ vq.5e6a.ru CNAME .
 vulnfactory.org CNAME .
 w2.5i0a.ru CNAME .
 we.kokq.ru CNAME .
-website.mypetapp.co.za CNAME .
 wellbeingdr.com CNAME .
 windatem.com CNAME .
 windomstatetheater.com CNAME .
 windowsclean.us CNAME .
 wood-simple.com CNAME .
 worldconhnect.site CNAME .
+wp.grovespras.com CNAME .
 wq9.cdn-357.ru CNAME .
 wq9.dy-53.ru CNAME .
 wq9.k625e.ru CNAME .
@@ -584,6 +585,7 @@ writerartist.com CNAME .
 www.adliadimizleri.pro CNAME .
 www.ardguisser.com CNAME .
 www.automobile-bk.de CNAME .
+www.benshamcentre.co.uk CNAME .
 www.blackhattoolz.com CNAME .
 www.bratusferramentas.grupomoltz.com.br CNAME .
 www.chenwangqiao.com CNAME .
@@ -592,14 +594,13 @@ www.crazywickedaddiction.com CNAME .
 www.cutting-edge.in CNAME .
 www.doxxingservices.shop CNAME .
 www.drgenov.com CNAME .
-www.first-security-verden.de CNAME .
 www.frontier.net.pk CNAME .
+www.hostingcloud.science CNAME .
 www.hseda.com CNAME .
 www.ingonherbal.com CNAME .
 www.institut-corps-a-ligne.fr CNAME .
 www.khavar.com CNAME .
 www.konsor.ru CNAME .
-www.luuk-lifestyle.eu CNAME .
 www.medises.co.kr CNAME .
 www.messias.org.br CNAME .
 www.mi2think.com CNAME .
@@ -615,18 +616,20 @@ www.playtown.co.za CNAME .
 www.rbcfort.com CNAME .
 www.reifenquick.de CNAME .
 www.saf-oil.ru CNAME .
+www.salonmarketing.ca CNAME .
 www.silver-hubdachwohnwagen.de CNAME .
 www.ss-01.com CNAME .
-www.starcountry.net CNAME .
 www.support-data.com CNAME .
 www.tdejb.com CNAME .
 www.techgeeks.org CNAME .
+www.tecunonline.com CNAME .
 www.teknotown.com CNAME .
 www.test.peperoncinochepassione.it CNAME .
 www.tirtasentosa.com CNAME .
 www.tobeart.ru CNAME .
 www.udobrit.ru CNAME .
 www.uralmetalloprokat.ru CNAME .
+www.usaayurveda.com CNAME .
 www.website.mypetapp.co.za CNAME .
 www.websitedesigningindia.biz CNAME .
 www.xn--on3b15m2lco2u.com CNAME .
