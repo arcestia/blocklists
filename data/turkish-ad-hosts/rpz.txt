@@ -94,6 +94,7 @@ aax-eu.amazon.co.uk CNAME .
 aax-eu.amazon.com.tr CNAME .
 aax-eu.amazon.sa CNAME .
 aax-fe.amazon-adsystem.com CNAME .
+aax-us-east-retail-direct.amazon.com CNAME .
 aax-us.amazon-adsystem.com CNAME .
 aax.amazon-adsystem.com CNAME .
 abundantservantexact.com CNAME .
@@ -340,6 +341,7 @@ app-analytics-v2.snapchat.com CNAME .
 app-measurement.com CNAME .
 app-sj06.marketo.com CNAME .
 app.adjust.com CNAME .
+app.adjust.io CNAME .
 app.adjust.net.in CNAME .
 app.adjust.world CNAME .
 app.chat.xiaomi.net CNAME .
@@ -661,6 +663,7 @@ cm.everesttech.net CNAME .
 cm.g.doubleclick.net CNAME .
 cm.mgid.com CNAME .
 cm.tns-counter.ru CNAME .
+cmp.quantcast.com CNAME .
 cmp.uniconsent.com CNAME .
 cms.quantserve.com CNAME .
 cn.app.chat.xiaomi.net CNAME .
