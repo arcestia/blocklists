@@ -10483,6 +10483,7 @@ data.umfrage.blau.de CNAME .
 data.umfrage.nettokom.de CNAME .
 data.umfrage.whatsappsim.de CNAME .
 data.vdi-wissensforum.de CNAME .
+data.vevor.com CNAME .
 data.vinsolutions.com CNAME .
 data.volksfreund.de CNAME .
 data.voyager.dev.cjmadobe.com CNAME .
@@ -10531,7 +10532,6 @@ dba4.pandasuite.io CNAME .
 dbbest.actonservice.com CNAME .
 dbex-tracker-v2.driveback.ru CNAME .
 dbhbgz.suitableshop.nl CNAME .
-dbhsejcg-meetup-com.cdnjs.network CNAME .
 dbj.quebecregion.com CNAME .
 dbl.cadriamarketing.com CNAME .
 dbmbfe.pegipegi.com CNAME .
@@ -26648,6 +26648,7 @@ rum-ingress-coralogix.com CNAME .
 rum.api.intuit.com CNAME .
 rum.azion.com CNAME .
 rum.azioncdn.net CNAME .
+rum.cdnpure.com CNAME .
 rum.condenastdigital.com CNAME .
 rum.corewebvitals.io CNAME .
 rum.cronitor.io CNAME .
@@ -28177,6 +28178,7 @@ seenvault.com CNAME .
 seespice.com CNAME .
 sefkal.openapp.link CNAME .
 seg.sharethis.com CNAME .
+segapi.whop.com CNAME .
 segment-api.inrix.com CNAME .
 segment.lalr.co CNAME .
 segmentor.snowfox-ai.com CNAME .
@@ -38913,6 +38915,7 @@ u.getgoose.com CNAME .
 u.landing.ni.com CNAME .
 u.salony.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
+u1sdata.webullfintech.com CNAME .
 u299.libelle-lekker.be CNAME .
 u46.pnc.com CNAME .
 u652.myplainview.com CNAME .
