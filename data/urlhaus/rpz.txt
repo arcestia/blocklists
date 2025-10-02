@@ -5,6 +5,7 @@
         IN      NS      localhost.
 ; domain list below
 1-engineer.ru CNAME .
+111101111.ru CNAME .
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 3bnx23aq.cfd CNAME .
@@ -26,6 +27,7 @@ aa9.p-55u.ru CNAME .
 aa9.q8g1y.ru CNAME .
 aa9.r99ae.ru CNAME .
 aa9.x12uy.ru CNAME .
+aa9.y-45s.ru CNAME .
 abandonelp.store CNAME .
 abissnet.net CNAME .
 ac.pgka-9.ru CNAME .
@@ -75,7 +77,6 @@ backupso.com CNAME .
 bankgarantia.ru CNAME .
 bd.p2o7l.ru CNAME .
 bestieslos.com CNAME .
-bkrmbigokg.com CNAME .
 blackhatusa.com CNAME .
 blaiz.me CNAME .
 blessdayservices.org CNAME .
@@ -129,7 +130,6 @@ crew.organzoperate.com CNAME .
 crimefreesoftware.com CNAME .
 crtjpanel.top CNAME .
 crystalpvp.ru CNAME .
-cs.go.kg CNAME .
 csg-app.com CNAME .
 ct3-24.ru CNAME .
 d.14yaa.com CNAME .
@@ -137,7 +137,6 @@ d.d-54y.ru CNAME .
 d.d03ui.ru CNAME .
 d.fa-99.ru CNAME .
 d.k5d1y.ru CNAME .
-d.o-92h.ru CNAME .
 d4.m1y8v.ru CNAME .
 da.lkci1.ru CNAME .
 dangtienluc.com CNAME .
@@ -215,7 +214,6 @@ eyoiext.org CNAME .
 fakers.co.jp CNAME .
 farschid.de CNAME .
 file.blackint3.com CNAME .
-file.edunet.ac CNAME .
 file.uhsea.com CNAME .
 filecheck.online CNAME .
 filezup.pro CNAME .
@@ -243,7 +241,6 @@ gordon-and-son.com CNAME .
 gratisdescarga.xyz CNAME .
 greenmile.ng CNAME .
 grikom.info CNAME .
-h.l6r7e.ru CNAME .
 h.n-80o.ru CNAME .
 h.ri-04.ru CNAME .
 h.x38ii.ru CNAME .
@@ -307,6 +304,7 @@ k.n46uu.ru CNAME .
 k.nu-96.ru CNAME .
 k.q6t4u.ru CNAME .
 k1gkl25as.top CNAME .
+k4.k0m7y.ru CNAME .
 k4.l6r7e.ru CNAME .
 k4.n-80o.ru CNAME .
 k4.ri-04.ru CNAME .
@@ -438,15 +436,18 @@ paste.isomorphis.me CNAME .
 pasteide.com CNAME .
 pay.aqiu6.com CNAME .
 pcupd.com CNAME .
+peartec.co CNAME .
 pfatrivandrum.org CNAME .
 pi.vhhe9.ru CNAME .
 planetariumobil.ro CNAME .
 pm7.h-76a.ru CNAME .
+pm7.k0m7y.ru CNAME .
 pm7.t99oo.ru CNAME .
 pm7.zi-87.ru CNAME .
 pn.h8o4g.ru CNAME .
 pns.org.pk CNAME .
 pobedastaff.ru CNAME .
+pradeepagrofood.com CNAME .
 ptgut.co.id CNAME .
 public.demo.securecloudsandbox.com CNAME .
 pushbutton.sbs CNAME .
@@ -455,7 +456,6 @@ pz.n6e8h.ru CNAME .
 pz7.d03ui.ru CNAME .
 pz8.fa-99.ru CNAME .
 pz8.k5d1y.ru CNAME .
-pz8.o-92h.ru CNAME .
 q.m1y8v.ru CNAME .
 q.n0y8j.ru CNAME .
 q7.p2o7l.ru CNAME .
@@ -511,7 +511,6 @@ schenckel.com.br CNAME .
 screen.connectprotocol.es CNAME .
 sdvgpro.ru CNAME .
 sec.xiaoshabi.nl CNAME .
-secure.third-domain.su CNAME .
 securedocusharex.com CNAME .
 serralux.pt CNAME .
 sfa.com.ar CNAME .
@@ -540,6 +539,7 @@ stacysublett.com CNAME .
 static.ilclock.com CNAME .
 static.topxgun.com CNAME .
 stdown.dinju.com CNAME .
+stonecradle.com CNAME .
 supercleanspb.ru CNAME .
 support.clz.kr CNAME .
 support.viewpoint.fr CNAME .
@@ -580,7 +580,6 @@ trtmyanmar.com CNAME .
 trungtambaohanhmaylanh.com CNAME .
 u.n4i2m.ru CNAME .
 u.q4e3n.ru CNAME .
-u1.l6r7e.ru CNAME .
 u1.n-80o.ru CNAME .
 u1.ri-04.ru CNAME .
 u1.x38ii.ru CNAME .
@@ -657,6 +656,7 @@ www.astenterprises.com.pk CNAME .
 www.automobile-bk.de CNAME .
 www.benshamcentre.co.uk CNAME .
 www.blackhattoolz.com CNAME .
+www.bratusferramentas.grupomoltz.com.br CNAME .
 www.chenwangqiao.com CNAME .
 www.cloudsecurefilelink.icu CNAME .
 www.crazywickedaddiction.com CNAME .
@@ -729,7 +729,6 @@ x9.n6e8h.ru CNAME .
 xa.sxqy-9.ru CNAME .
 xai830k.com CNAME .
 xe.sxqy-9.ru CNAME .
-xemhang.vn CNAME .
 xi.txso-1.ru CNAME .
 xiangshunjy.com CNAME .
 ximonite.com CNAME .
@@ -740,6 +739,7 @@ xq0.mu-16.ru CNAME .
 xq0.p-55u.ru CNAME .
 xq0.q8g1y.ru CNAME .
 xq0.r99ae.ru CNAME .
+xq0.y-45s.ru CNAME .
 xq9.k6u7d.ru CNAME .
 xshop.com.tr CNAME .
 xt.n0y8j.ru CNAME .
@@ -747,6 +747,7 @@ xu.txso-1.ru CNAME .
 xuezha.net CNAME .
 xy.prli-1.ru CNAME .
 y.h-76a.ru CNAME .
+y.k0m7y.ru CNAME .
 y.zi-87.ru CNAME .
 y7.n4i2m.ru CNAME .
 y7.q4e3n.ru CNAME .
@@ -773,7 +774,6 @@ zd.z-11e.ru CNAME .
 ze.prli-1.ru CNAME .
 zenglobalenerji.com CNAME .
 zi.prli-1.ru CNAME .
-zistpolymer.com CNAME .
 zo.prli-1.ru CNAME .
 zt.k6u7d.ru CNAME .
 zu.pgka-9.ru CNAME .
