@@ -639,6 +639,7 @@ certify-amp.alexametrics.com CNAME .
 certify-js.alexametrics.com CNAME .
 champagne.futurecdn.net CNAME .
 childlikeform.com CNAME .
+chimpstatic.com CNAME .
 cimri.api.useinsider.com CNAME .
 ciqepxipgs.com CNAME .
 cis.schibsted.com CNAME .
@@ -665,6 +666,7 @@ cm.everesttech.net CNAME .
 cm.g.doubleclick.net CNAME .
 cm.mgid.com CNAME .
 cm.tns-counter.ru CNAME .
+cmp.inmobi.com CNAME .
 cmp.quantcast.com CNAME .
 cmp.uniconsent.com CNAME .
 cms.quantserve.com CNAME .
@@ -1456,6 +1458,7 @@ ml314.com CNAME .
 mobile-collector.newrelic.com CNAME .
 mobile-sdk-config.gservice.emarsys.net CNAME .
 mobile.eum-appdynamics.com CNAME .
+mobile.events.data.microsoft.com CNAME .
 mobile.pipe.aria.microsoft.com CNAME .
 mobile.useinsider.com CNAME .
 mobile.yandexadexchange.net CNAME .
@@ -1609,6 +1612,7 @@ piwik.opendesktop.org CNAME .
 piwik.pling.com CNAME .
 piwik.tapatalk.com CNAME .
 piwik.ubuntu-fr.org CNAME .
+pix-cdn77.trafficjunky.net CNAME .
 pix.eu.criteo.net CNAME .
 pix.spot.im CNAME .
 pixel-eu.rubiconproject.com CNAME .
