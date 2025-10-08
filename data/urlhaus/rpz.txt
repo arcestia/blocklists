@@ -4,6 +4,7 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
+04.nm0e2.ru CNAME .
 0zq.ryzuka.ru CNAME .
 0zq.w5j7z0.ru CNAME .
 1-engineer.ru CNAME .
@@ -11,6 +12,7 @@
 123.ywxww.net CNAME .
 1717.1000uc.com CNAME .
 1m.ryzuka.ru CNAME .
+26x.nm0e2.ru CNAME .
 52mj.susuwei.cn CNAME .
 a.kyhely.ru CNAME .
 a.w9k6m9.ru CNAME .
@@ -100,6 +102,7 @@ by.xzb6i.ru CNAME .
 c5.f-07y.ru CNAME .
 c5.j-9fuw.ru CNAME .
 c7.p-94u.ru CNAME .
+c7.w-33e.ru CNAME .
 c7.z-0xug.ru CNAME .
 c8.ryzuka.ru CNAME .
 calendly.boggi-hr.com CNAME .
@@ -153,6 +156,7 @@ devilnet.xyz CNAME .
 dezcom.com CNAME .
 dezino.ir CNAME .
 dhnconstrucciones.com.ar CNAME .
+dictamnwcp.usaga.store CNAME .
 disk.accord1key.cn CNAME .
 dive.organzoperate.com CNAME .
 divvanews.com CNAME .
@@ -476,6 +480,7 @@ r.h-23u.ru CNAME .
 r.n-4daw.ru CNAME .
 r.x-12o.ru CNAME .
 r2.p-94u.ru CNAME .
+r2.w-33e.ru CNAME .
 r2.z-0xug.ru CNAME .
 r3.n726z.ru CNAME .
 r3.q-5ket.ru CNAME .
@@ -606,11 +611,13 @@ vulnfactory.org CNAME .
 vv.henyta.ru CNAME .
 w1n.m4d8q9.ru CNAME .
 w4.n-4cas.ru CNAME .
+we.nm0e2.ru CNAME .
 website.mypetapp.co.za CNAME .
 wellbeingdr.com CNAME .
 windatem.com CNAME .
 windomstatetheater.com CNAME .
 wp.grovespras.com CNAME .
+wq9.w-33e.ru CNAME .
 wq9.z-0xug.ru CNAME .
 writerartist.com CNAME .
 wrxcnc.com CNAME .
