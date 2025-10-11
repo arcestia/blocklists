@@ -4,6 +4,7 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
+04j.zv-1-a-0.ru CNAME .
 07.cv3a9.ru CNAME .
 0f.sj5o5.ru CNAME .
 0zq.e41m.ru CNAME .
@@ -45,6 +46,7 @@
 4i4.gj-2-i-3.ru CNAME .
 4o2.sd4o7.ru CNAME .
 510.mw2o3.ru CNAME .
+51p.pf4i2.ru CNAME .
 52mj.susuwei.cn CNAME .
 57.jk-3-y-7.ru CNAME .
 5b2.fk9o0.ru CNAME .
@@ -334,6 +336,7 @@ gj-2-i-3.ru CNAME .
 gjh.hl5a6.ru CNAME .
 glaustralia.com CNAME .
 gm.sx-2-u-0.ru CNAME .
+gne.gr-3-e-4.ru CNAME .
 googletagamnager.com CNAME .
 gordon-and-son.com CNAME .
 gpjulioandrade.gob.ec CNAME .
@@ -415,6 +418,7 @@ jsc091.frauddefensecorp.com CNAME .
 juo.fk9o0.ru CNAME .
 jxhuyhoang.com CNAME .
 jyothishmathi.in CNAME .
+k.4u-rr.ru CNAME .
 k.fs-8-e-0.ru CNAME .
 k.llcvb.ru CNAME .
 k.ou-86.ru CNAME .
@@ -639,6 +643,7 @@ qbo.sd-4-o-7.ru CNAME .
 qeo.pf4i2.ru CNAME .
 qep.dr3a0.ru CNAME .
 qiniuyunxz.yxflzs.com CNAME .
+qj.zv-1-a-0.ru CNAME .
 qk2.ea-43.ru CNAME .
 qk2.rdlkc.ru CNAME .
 qlqd5zqefmkcr34a.onion.sh CNAME .
@@ -796,6 +801,7 @@ uploadtree.com CNAME .
 ut.nq8e9.ru CNAME .
 uz5.mt-3-o-4.ru CNAME .
 uzw.sx-2-u-0.ru CNAME .
+v2.4u-rr.ru CNAME .
 v2.fs-8-e-0.ru CNAME .
 v2.llcvb.ru CNAME .
 v2.oo-07.ru CNAME .
@@ -990,3 +996,4 @@ zoomesss.com CNAME .
 zs.gj2i3.ru CNAME .
 zt.ni0uz.ru CNAME .
 zt.y83v.ru CNAME .
+zu.zv-1-a-0.ru CNAME .
