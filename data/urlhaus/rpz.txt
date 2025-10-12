@@ -4,6 +4,7 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
+02a.mg-1-u-5.ru CNAME .
 04j.gc0o9.ru CNAME .
 04j.zv-1-a-0.ru CNAME .
 092.vj4e5.ru CNAME .
@@ -65,7 +66,6 @@
 6h.gr-3-e-4.ru CNAME .
 6ni.nq-8-e-9.ru CNAME .
 6r.xt7y8.ru CNAME .
-6z.rk-8-y-6.ru CNAME .
 7ff.mw-9-y-4.ru CNAME .
 88.xr6u9.ru CNAME .
 890.gc0o9.ru CNAME .
@@ -276,7 +276,6 @@ eah.dk9a6.ru CNAME .
 easybrand.vn CNAME .
 ec.xr6u9.ru CNAME .
 edit.mulberriespussies.com CNAME .
-ee.fp-0-y-9.ru CNAME .
 electri.billregulator.com CNAME .
 electrum-dogecoin.com CNAME .
 elisans.novayonetim.com CNAME .
@@ -324,7 +323,6 @@ gabyagozetim.com CNAME .
 galerisenimutiara.com CNAME .
 garogradba.mk CNAME .
 gc.ss-9-y-4.ru CNAME .
-gd.bh-3-i-6.ru CNAME .
 ge.lj3u5.ru CNAME .
 geekfiles.to CNAME .
 gh2.bg-4-o-2.ru CNAME .
@@ -376,7 +374,7 @@ hm.4u-rr.ru CNAME .
 hm.db3a4.ru CNAME .
 hm.fj4i6.ru CNAME .
 hm.fq1y8.ru CNAME .
-hm.rd1a2.ru CNAME .
+hm.zk5e7.ru CNAME .
 ho7.rd-1-a-2.ru CNAME .
 hobobot.net CNAME .
 home.organzoperate.com CNAME .
@@ -405,6 +403,7 @@ investtrad.com CNAME .
 ip.nebulabin.pl CNAME .
 ircftp.net CNAME .
 isiore.com.co CNAME .
+ita-airwaysva.com CNAME .
 itcomsrv.kz CNAME .
 itssprout.com CNAME .
 izocab.com CNAME .
@@ -425,17 +424,14 @@ jsc091.frauddefensecorp.com CNAME .
 jsd.pf-4-i-2.ru CNAME .
 juo.fk9o0.ru CNAME .
 jv0.mw-9-y-4.ru CNAME .
-jvu.bh-3-i-6.ru CNAME .
 jw.vj4e5.ru CNAME .
 jxhuyhoang.com CNAME .
 jyothishmathi.in CNAME .
 k.4u-rr.ru CNAME .
-k.db3a4.ru CNAME .
-k.fj4i6.ru CNAME .
 k.fq1y8.ru CNAME .
 k.llcvb.ru CNAME .
 k.ou-86.ru CNAME .
-k.rd1a2.ru CNAME .
+k.zk5e7.ru CNAME .
 k0.q7y4s.ru CNAME .
 k0.u49n.ru CNAME .
 k0n.g26ia.ru CNAME .
@@ -496,7 +492,6 @@ m2.vi8im.ru CNAME .
 m2.wi7id.ru CNAME .
 m3.i50m.ru CNAME .
 m3.m9i5l.ru CNAME .
-m3.rk-8-y-6.ru CNAME .
 m4.vw0e1.ru CNAME .
 m6.llcvb.ru CNAME .
 m6.ou-86.ru CNAME .
@@ -530,7 +525,6 @@ mitreart.com CNAME .
 ml.mw-9-y-4.ru CNAME .
 mobshah.com CNAME .
 mogimall.com CNAME .
-motorhomecinema.com CNAME .
 mq3.mw-9-y-4.ru CNAME .
 mq3.xt7y8.ru CNAME .
 mundocarnes.cl CNAME .
@@ -631,6 +625,7 @@ pc.u84t.ru CNAME .
 pc.v7e1v.ru CNAME .
 pcupd.com CNAME .
 pe.vw0e1.ru CNAME .
+pf.mg-1-u-5.ru CNAME .
 phd.fq-1-y-8.ru CNAME .
 phd.vj4e5.ru CNAME .
 pid.fly160.com CNAME .
@@ -639,6 +634,7 @@ planetariumobil.ro CNAME .
 pm7.hwgmm.ru CNAME .
 pm7.ua-20.ru CNAME .
 pn.vi8im.ru CNAME .
+pns.org.pk CNAME .
 pobedastaff.ru CNAME .
 pocopa.co.za CNAME .
 proximus-klant.com CNAME .
@@ -693,13 +689,13 @@ qz.i50m.ru CNAME .
 qz.m9i5l.ru CNAME .
 qz.pi9yj.ru CNAME .
 qz9.4u-rr.ru CNAME .
-qz9.bw6u0.ru CNAME .
 qz9.db3a4.ru CNAME .
 qz9.fj4i6.ru CNAME .
 qz9.fq1y8.ru CNAME .
 qz9.llcvb.ru CNAME .
 qz9.ou-86.ru CNAME .
 qz9.rd1a2.ru CNAME .
+qz9.zk5e7.ru CNAME .
 r.8e-hr.ru CNAME .
 r.bg-4-o-2.ru CNAME .
 r.rdlkc.ru CNAME .
@@ -791,15 +787,14 @@ svirtual.sanviatorperu.edu.pe CNAME .
 sz8.xb4e7.ru CNAME .
 t.da2yw.ru CNAME .
 t1.4u-rr.ru CNAME .
-t1.db3a4.ru CNAME .
 t1.fa6ic.ru CNAME .
 t1.fj4i6.ru CNAME .
-t1.fq1y8.ru CNAME .
 t1.h9u8w.ru CNAME .
 t1.llcvb.ru CNAME .
 t1.ou-86.ru CNAME .
 t1.rd1a2.ru CNAME .
 t1.u11q.ru CNAME .
+t1.zk5e7.ru CNAME .
 t1n.d44yy.ru CNAME .
 t1n.u84t.ru CNAME .
 t1n.v7e1v.ru CNAME .
@@ -871,11 +866,10 @@ v2.4u-rr.ru CNAME .
 v2.6i-xm.ru CNAME .
 v2.db3a4.ru CNAME .
 v2.fj4i6.ru CNAME .
-v2.fq1y8.ru CNAME .
 v2.llcvb.ru CNAME .
 v2.ou-86.ru CNAME .
-v2.rd1a2.ru CNAME .
 v2.tqxfs.ru CNAME .
+v2.zk5e7.ru CNAME .
 v2n.pi9yj.ru CNAME .
 v2n.s80ye.ru CNAME .
 v3.e41m.ru CNAME .
@@ -913,7 +907,6 @@ windowsedgeupdater.com CNAME .
 wjs.dk9a6.ru CNAME .
 wlj.bg4o2.ru CNAME .
 wp.grovespras.com CNAME .
-wpy.bh-3-i-6.ru CNAME .
 wq9.0o-js.ru CNAME .
 wq9.nbpvt.ru CNAME .
 wq9.oe-69.ru CNAME .
@@ -944,7 +937,6 @@ www.luuk-lifestyle.eu CNAME .
 www.medises.co.kr CNAME .
 www.messias.org.br CNAME .
 www.mixturro.com CNAME .
-www.modernitgen.com CNAME .
 www.myvcart.com CNAME .
 www.namuvpn.com CNAME .
 www.newkey.co.kr CNAME .
