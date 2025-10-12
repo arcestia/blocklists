@@ -4,7 +4,6 @@
                         2024062501 1h 15m 30d 2h )
         IN      NS      localhost.
 ; domain list below
-02a.mg-1-u-5.ru CNAME .
 04j.gc0o9.ru CNAME .
 04j.zv-1-a-0.ru CNAME .
 092.vj4e5.ru CNAME .
@@ -26,10 +25,8 @@
 2g.gj-2-i-3.ru CNAME .
 2in.nq8e9.ru CNAME .
 2k3.bg4o2.ru CNAME .
-2tx.kj-4-o-0.ru CNAME .
 3f.wz-3-a-7.ru CNAME .
 3it.fk9o0.ru CNAME .
-3l.kj-4-o-0.ru CNAME .
 3rv.gr-3-e-4.ru CNAME .
 3rv.lr2y6.ru CNAME .
 3s.gj-2-i-3.ru CNAME .
@@ -66,7 +63,6 @@
 890.gc0o9.ru CNAME .
 890.zv-1-a-0.ru CNAME .
 8n5.xb-4-e-7.ru CNAME .
-8s.kj-4-o-0.ru CNAME .
 8sl.pf-4-i-2.ru CNAME .
 90.gc0o9.ru CNAME .
 90t.rd-1-a-2.ru CNAME .
@@ -224,7 +220,6 @@ dcwblida.dz CNAME .
 ddo.fq-1-y-8.ru CNAME .
 ddo.vj4e5.ru CNAME .
 delp-heizungsbau.de CNAME .
-detierra.cl CNAME .
 device.redirec.com CNAME .
 devilnet.xyz CNAME .
 dezcom.com CNAME .
@@ -367,10 +362,10 @@ hitman-pro.ru CNAME .
 hitstation.nl CNAME .
 hkg.lj3u5.ru CNAME .
 hm.4u-rr.ru CNAME .
+hm.fp0y9.ru CNAME .
 hm.kj4o0.ru CNAME .
 hm.ll7y5.ru CNAME .
 hm.mw9y4.ru CNAME .
-hm.ss9y4.ru CNAME .
 hm.zk5e7.ru CNAME .
 ho7.rd-1-a-2.ru CNAME .
 hobobot.net CNAME .
@@ -399,7 +394,6 @@ investtrad.com CNAME .
 ip.nebulabin.pl CNAME .
 ircftp.net CNAME .
 isiore.com.co CNAME .
-ita-airwaysva.com CNAME .
 itcomsrv.kz CNAME .
 itssprout.com CNAME .
 izocab.com CNAME .
@@ -424,12 +418,11 @@ jw.vj4e5.ru CNAME .
 jxhuyhoang.com CNAME .
 jyothishmathi.in CNAME .
 k.4u-rr.ru CNAME .
-k.fj2e0.ru CNAME .
 k.fp0y9.ru CNAME .
-k.kj4o0.ru CNAME .
 k.llcvb.ru CNAME .
+k.ls2a9.ru CNAME .
+k.mg1u5.ru CNAME .
 k.ou-86.ru CNAME .
-k.ss9y4.ru CNAME .
 k0.q7y4s.ru CNAME .
 k0.u49n.ru CNAME .
 k0n.g26ia.ru CNAME .
@@ -469,7 +462,6 @@ lakhrl.sweatscissors.com CNAME .
 lindenappliances.co.za CNAME .
 lindnerelektroanlagen.de CNAME .
 lj3u5.ru CNAME .
-lk.bh-3-i-6.ru CNAME .
 lme.fk-9-o-0.ru CNAME .
 loadstopdocs.com CNAME .
 local-update.com CNAME .
@@ -507,7 +499,6 @@ ma.xt7y8.ru CNAME .
 machprint.ro CNAME .
 maidforyou1985.com CNAME .
 mail.autosecured.cc CNAME .
-mail.mestierecolombia.com CNAME .
 main.dsn.ovh CNAME .
 masgrave.com CNAME .
 md4.wz-3-a-7.ru CNAME .
@@ -518,6 +509,7 @@ mho.xb-4-e-7.ru CNAME .
 michellegraci.com CNAME .
 microsoft-telemetry.at CNAME .
 microsoft-telemetry.cc CNAME .
+milleniuninformatica.com.br CNAME .
 mitreart.com CNAME .
 ml.mw-9-y-4.ru CNAME .
 mobshah.com CNAME .
@@ -557,7 +549,6 @@ ndirection.kr CNAME .
 newshostingsupdate.com CNAME .
 nnnpanel.top CNAME .
 noithaticon.vn CNAME .
-northernvirginiaeyeassociates.com CNAME .
 nusatoyota.co.id CNAME .
 nv.nq8e9.ru CNAME .
 nvtai.id.vn CNAME .
@@ -649,7 +640,6 @@ q.sa8yn.ru CNAME .
 q.wi7id.ru CNAME .
 q.wz-3-a-7.ru CNAME .
 q1.xb4e7.ru CNAME .
-q2g.mg-1-u-5.ru CNAME .
 q3.dk9a6.ru CNAME .
 q3b.mg-1-u-5.ru CNAME .
 q4.z1u2z.ru CNAME .
@@ -687,13 +677,12 @@ qz.m9i5l.ru CNAME .
 qz.pi9yj.ru CNAME .
 qz9.4u-rr.ru CNAME .
 qz9.bh3i6.ru CNAME .
-qz9.fj2e0.ru CNAME .
 qz9.fp0y9.ru CNAME .
-qz9.kj4o0.ru CNAME .
 qz9.ll7y5.ru CNAME .
 qz9.llcvb.ru CNAME .
+qz9.ls2a9.ru CNAME .
+qz9.mg1u5.ru CNAME .
 qz9.ou-86.ru CNAME .
-qz9.ss9y4.ru CNAME .
 r.8e-hr.ru CNAME .
 r.bg-4-o-2.ru CNAME .
 r.rdlkc.ru CNAME .
@@ -716,6 +705,7 @@ razorcrypter.com CNAME .
 rc.kj-4-o-0.ru CNAME .
 rdm.91yunma.cn CNAME .
 reauthenticator.com CNAME .
+records.dennisign.se CNAME .
 redlk.com CNAME .
 reifenquick.de CNAME .
 reusable-flex.com CNAME .
@@ -729,10 +719,10 @@ s.p2a3p.ru CNAME .
 s.s91ii.ru CNAME .
 s.vi8im.ru CNAME .
 s4.4u-rr.ru CNAME .
+s4.bh3i6.ru CNAME .
 s4.fj2e0.ru CNAME .
-s4.mw9y4.ru CNAME .
-s4.ss9y4.ru CNAME .
-s4.zk5e7.ru CNAME .
+s4.fp0y9.ru CNAME .
+s4.ll7y5.ru CNAME .
 s9.jt4o0.ru CNAME .
 s9.zk-5-e-7.ru CNAME .
 sales4.xo.je CNAME .
@@ -782,17 +772,15 @@ svirtual.sanviatorperu.edu.pe CNAME .
 sz8.xb4e7.ru CNAME .
 t.da2yw.ru CNAME .
 t1.4u-rr.ru CNAME .
-t1.bh3i6.ru CNAME .
 t1.fa6ic.ru CNAME .
-t1.fj2e0.ru CNAME .
 t1.fp0y9.ru CNAME .
 t1.h9u8w.ru CNAME .
 t1.kj4o0.ru CNAME .
 t1.ll7y5.ru CNAME .
 t1.llcvb.ru CNAME .
-t1.mw9y4.ru CNAME .
+t1.ls2a9.ru CNAME .
+t1.mg1u5.ru CNAME .
 t1.ou-86.ru CNAME .
-t1.ss9y4.ru CNAME .
 t1.u11q.ru CNAME .
 t1n.d44yy.ru CNAME .
 t1n.u84t.ru CNAME .
@@ -814,6 +802,7 @@ tengfeidn.com CNAME .
 test.peperoncinochepassione.it CNAME .
 tests.yjzj.org CNAME .
 thtp2.volamngayxua.net CNAME .
+ticpc8a.com CNAME .
 tirtasentosa.com CNAME .
 tn.pi9yj.ru CNAME .
 tn.s80ye.ru CNAME .
@@ -859,17 +848,13 @@ uy1.lr2y6.ru CNAME .
 v0m.xr6u9.ru CNAME .
 v2.4u-rr.ru CNAME .
 v2.6i-xm.ru CNAME .
-v2.bh3i6.ru CNAME .
-v2.fj2e0.ru CNAME .
 v2.fp0y9.ru CNAME .
-v2.kj4o0.ru CNAME .
 v2.ll7y5.ru CNAME .
 v2.llcvb.ru CNAME .
-v2.mw9y4.ru CNAME .
+v2.ls2a9.ru CNAME .
+v2.mg1u5.ru CNAME .
 v2.ou-86.ru CNAME .
-v2.ss9y4.ru CNAME .
 v2.tqxfs.ru CNAME .
-v2.zk5e7.ru CNAME .
 v2n.pi9yj.ru CNAME .
 v2n.s80ye.ru CNAME .
 v3.e41m.ru CNAME .
