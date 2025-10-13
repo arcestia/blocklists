@@ -140,6 +140,7 @@ aljazeerahdrilling.com CNAME .
 allendostmen.com CNAME .
 alphac2.xyz CNAME .
 ameii-moncompte.ma-situations.info CNAME .
+ameli-actalisation.info CNAME .
 ameli-connect.cpam-comptes.help CNAME .
 ameli-cpam.support-moncompte.help CNAME .
 ameli-guadeloupe.info CNAME .
@@ -246,6 +247,7 @@ colis-suivi-lu.com CNAME .
 colis-suivis.help CNAME .
 colislivraison-suivi.com CNAME .
 colislivraisonsuivi.support CNAME .
+collect-myparcel.help CNAME .
 computersupportexperts.com CNAME .
 confirmation-appareil-confiance.com CNAME .
 connect-avantages.com CNAME .
@@ -395,6 +397,7 @@ gordon-and-son.com CNAME .
 gpjulioandrade.gob.ec CNAME .
 grikom.info CNAME .
 guichet-amende.com CNAME .
+guichet-client.help CNAME .
 gw.fj-4-i-6.ru CNAME .
 gz.pf4i2.ru CNAME .
 h.7a-xz.ru CNAME .
@@ -579,6 +582,7 @@ locker-redistribution.com CNAME .
 login-myoffices.help CNAME .
 lomejordesalamanca.es CNAME .
 lux-trust-aide-support.info CNAME .
+luxtrust-secure.info CNAME .
 lv.gdyl2.ru CNAME .
 lw.dk2o1.ru CNAME .
 lw.fj-4-i-6.ru CNAME .
@@ -635,8 +639,10 @@ mondial-services.informations-colis.help CNAME .
 mondialerelay-suivi-info.com CNAME .
 mondialrelais-creneaux.info CNAME .
 mondialrelais-livraison.info CNAME .
+mondialrelais-livraisons.info CNAME .
 mondialrelay-colis.support CNAME .
 mondialrelay-connect.com CNAME .
+mondialrelay-locker-fr.com CNAME .
 mondialrelay-reply.help CNAME .
 mondialrelayfr-suivi.help CNAME .
 mondials-suivis-relay.info CNAME .
@@ -713,6 +719,7 @@ nkv.gdyl2.ru CNAME .
 nnnpanel.top CNAME .
 no.ll-7-y-5.ru CNAME .
 noithaticon.vn CNAME .
+notificationcentral.com CNAME .
 nouvellelivraison-locker-fr.com CNAME .
 nouvelletechbandedefou.info CNAME .
 ntfiixsavclient.com CNAME .
@@ -820,6 +827,7 @@ q3.sheh0.ru CNAME .
 q3b.mg-1-u-5.ru CNAME .
 q4.p74yi.ru CNAME .
 q7.b10ou.ru CNAME .
+q7.kdit5.ru CNAME .
 q7.si3un.ru CNAME .
 qa.rk-8-y-6.ru CNAME .
 qa.v57eo.ru CNAME .
@@ -835,6 +843,7 @@ qns.db-3-a-4.ru CNAME .
 qoc.dk2o1.ru CNAME .
 qoc.fj-4-i-6.ru CNAME .
 qp.s80ye.ru CNAME .
+qq.kdit5.ru CNAME .
 qrk.kjyx7.ru CNAME .
 qs.gr-3-e-4.ru CNAME .
 qs.lr2y6.ru CNAME .
@@ -1010,6 +1019,7 @@ stdown.dinju.com CNAME .
 subscription-help.info CNAME .
 subscription-tv.info CNAME .
 suivi-colis.help CNAME .
+suivi-fr-livraison.com CNAME .
 suivi-fra-livraisons.info CNAME .
 suivi-livraison.support CNAME .
 suivi-pointrelais.info CNAME .
