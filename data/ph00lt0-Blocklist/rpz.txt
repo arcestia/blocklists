@@ -8673,7 +8673,6 @@ dynodns.org CNAME .
 dyspatch.io CNAME .
 dz3000cdn3.dzone.com CNAME .
 dzais.com CNAME .
-dzcdn.net CNAME .
 dzfq4ouujrxm8.cloudfront.net CNAME .
 dzisou.com CNAME .
 dzjzg.com CNAME .
@@ -12122,7 +12121,6 @@ jindu179.com CNAME .
 jing.58.com CNAME .
 jinghuazhijia.com CNAME .
 jingling.cn CNAME .
-jio.com CNAME .
 jioo.com CNAME .
 jisucn.com CNAME .
 jiu.njdkgm.com CNAME .
@@ -14642,7 +14640,11 @@ nikemaxe.shop CNAME .
 nikosales.de CNAME .
 nilly.io CNAME .
 nimg.jp CNAME .
+nimiq-network.com CNAME .
 nimiq.com CNAME .
+nimiq.watch CNAME .
+nimiqpool.com CNAME .
+nimpool.io CNAME .
 ninebox.cn CNAME .
 nineto5mac-d.openx.net CNAME .
 ninja.data.olxcdn.com CNAME .
@@ -15632,7 +15634,6 @@ phonedeviceverification-pa.googleapis.com CNAME .
 phonepe.com CNAME .
 phonesubmissions.apple.com CNAME .
 photographer.net CNAME .
-photosdata-pa.googleapis.com CNAME .
 php-infra.oe24.at CNAME .
 php78mp9v.opposedarrangement.net CNAME .
 phpad.cqnews.net CNAME .
@@ -17892,6 +17893,7 @@ short.io CNAME .
 shorten-url.com CNAME .
 shorten.is CNAME .
 shortest-route.com CNAME .
+shortnim.me CNAME .
 shortstack.com CNAME .
 shorturl.at CNAME .
 shotwithgeforce.com CNAME .
@@ -18959,6 +18961,7 @@ survio.com CNAME .
 survs.com CNAME .
 susapi.dev.surepush.cn CNAME .
 susapi.lenovomm.com CNAME .
+sushipool.com CNAME .
 sv.aq.qq.com CNAME .
 sv06p01ad-ext-cloud.iad.apple.com CNAME .
 svb.containers.piwik.pro CNAME .
