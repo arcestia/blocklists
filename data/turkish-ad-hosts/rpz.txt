@@ -131,11 +131,14 @@ adform.net CNAME .
 adfox.yandex.ru CNAME .
 adfp.fcloud.com.tr CNAME .
 adfstat.yandex.ru CNAME .
+adklik.com.tr CNAME .
 adl.mynetreklam.com CNAME .
 adm.hotjar.com CNAME .
+admax.com.tr CNAME .
 adobe.tt.omtrdc.net CNAME .
 adobedc.demdex.net CNAME .
 adoni-nea.com CNAME .
+adplay.com.tr CNAME .
 ads-a.juicyads.com CNAME .
 ads-api.twitter.com CNAME .
 ads-dev.pinterest.com CNAME .
@@ -149,6 +152,7 @@ ads.assemblyexchange.com CNAME .
 ads.avocet.io CNAME .
 ads.betweendigital.com CNAME .
 ads.bullionyield.com CNAME .
+ads.code.com.tr CNAME .
 ads.digitalcaramel.com CNAME .
 ads.dygdigital.com CNAME .
 ads.ekstat.com CNAME .
@@ -214,6 +218,7 @@ advertising-api-eu.amazon.com CNAME .
 advertising.a2z.com CNAME .
 advertising.twitter.com CNAME .
 advice-ads.s3.amazonaws.com CNAME .
+adworld.com.tr CNAME .
 adx.adform.net CNAME .
 adx.ads.oppomobile.com CNAME .
 ae.mmstat.com CNAME .
@@ -268,6 +273,7 @@ analytics.flipperdevices.com CNAME .
 analytics.google.com CNAME .
 analytics.halkbank.com.tr CNAME .
 analytics.mobile.yandex.net CNAME .
+analytics.olay.com.tr CNAME .
 analytics.onedio.com CNAME .
 analytics.pinterest.com CNAME .
 analytics.pointdrive.linkedin.com CNAME .
@@ -284,6 +290,7 @@ analytics.tiktok.com CNAME .
 analytics.ubports.com CNAME .
 analytics.webgains.io CNAME .
 analytics.yahoo.com CNAME .
+analytics.yeniakit.com.tr CNAME .
 analyticsb2c.com CNAME .
 analyticsengine.s3.amazonaws.com CNAME .
 anguishworst.com CNAME .
@@ -401,6 +408,7 @@ baltar.dimml.io CNAME .
 bam-cell.nr-data.net CNAME .
 bam.nr-data.net CNAME .
 bande2az.com CNAME .
+banner.tmgrup.com.tr CNAME .
 basher.ezodn.com CNAME .
 bat.bing.com CNAME .
 bats.video.yahoo.com CNAME .
@@ -454,6 +462,7 @@ btds.zog.link CNAME .
 btloader.com CNAME .
 btlr.sharethrough.com CNAME .
 bts.a11k.com CNAME .
+bumerangshowsites.hurriyet.com.tr CNAME .
 business-api.tiktok.com CNAME .
 business.samsungusa.com CNAME .
 busuanzi.ibruce.info CNAME .
@@ -645,6 +654,7 @@ champagne.futurecdn.net CNAME .
 childlikeform.com CNAME .
 chimpstatic.com CNAME .
 cimri.api.useinsider.com CNAME .
+cinerreklam.com.tr CNAME .
 ciqepxipgs.com CNAME .
 cis.schibsted.com CNAME .
 ck.ads.oppomobile.com CNAME .
@@ -854,7 +864,6 @@ dttrk.com CNAME .
 du0pud0sdlmzf.cloudfront.net CNAME .
 ductquest.com CNAME .
 dukingdraon.com CNAME .
-duyuru-geldi-reklam-basvuru-com.ml CNAME .
 dwin1.com CNAME .
 dx.mountain.com CNAME .
 dxp.baidu.com CNAME .
@@ -1282,6 +1291,7 @@ io.innertrends.com CNAME .
 iot-eu-logser.realme.com CNAME .
 iot-logser.realme.com CNAME .
 ipac.ctnsnet.com CNAME .
+ipcheck.tmgrup.com.tr CNAME .
 iplocation-api.wp.trt.com.tr CNAME .
 ipr.n11.com CNAME .
 ir-na.amazon-adsystem.com CNAME .
@@ -1324,9 +1334,7 @@ jsc.mgid.com CNAME .
 json.geoiplookup.io CNAME .
 jsonip.com CNAME .
 k.intellitxt.com CNAME .
-kaanatesoglu7.net CNAME .
 kaanbabaads.net CNAME .
-kampanya-reklam-is-bankasi-com.ml CNAME .
 kampanyadiyariherseyburda.xyz CNAME .
 kgfjrb711.com CNAME .
 kia.selphiu.com CNAME .
@@ -1353,6 +1361,7 @@ lh.limosiwooable.com CNAME .
 lib.wtg-ads.com CNAME .
 licensebuttons.net CNAME .
 lider90.com CNAME .
+lightning.cartoonnetwork.com.tr CNAME .
 limurol.com CNAME .
 linkconnector.com CNAME .
 links.services.disqus.com CNAME .
@@ -1402,7 +1411,6 @@ manager.smartlook.com CNAME .
 map.sddan.com CNAME .
 marazma.com CNAME .
 marfeel-d.openx.net CNAME .
-marketing.turkiyefinans.com.tr CNAME .
 markreptiloid.com CNAME .
 match.360yield.com CNAME .
 match.adsrvr.org CNAME .
@@ -2013,6 +2021,7 @@ stats.hprofits.com CNAME .
 stats.kde.org CNAME .
 stats.pornpics.com CNAME .
 stats.redditmedia.com CNAME .
+stats.tv8.com.tr CNAME .
 stats.vidyome.com CNAME .
 stats.vk-portal.net CNAME .
 stats.vlitag.com CNAME .
@@ -2043,6 +2052,9 @@ surveys.hotjar.com CNAME .
 svibeacon.onezapp.com CNAME .
 sw.wpu.sh CNAME .
 swimsolution.ap-reklama.cz CNAME .
+swwcyk.aspor.com.tr CNAME .
+swwcyk.atv.com.tr CNAME .
+swwcyk.takvim.com.tr CNAME .
 sync-tm.everesttech.net CNAME .
 sync.1dmp.io CNAME .
 sync.1rx.io CNAME .
@@ -2195,6 +2207,7 @@ u10506.19.spylog.com CNAME .
 u1102.com CNAME .
 u3401.26.spylog.com CNAME .
 ua.realtimely.io CNAME .
+uazmti.a101.com.tr CNAME .
 ubuyanalytics.ubuy.com CNAME .
 udcm.yahoo.com CNAME .
 udmserve.net CNAME .
@@ -2242,6 +2255,7 @@ vars.hotjar.com CNAME .
 vast.vstserv.com CNAME .
 vast.yomeno.xyz CNAME .
 vc.hotjar.io CNAME .
+vedznh.cumhuriyet.com.tr CNAME .
 venetrigni.com CNAME .
 vi.ml314.com CNAME .
 video.ktkjmp.com CNAME .
@@ -2371,6 +2385,7 @@ x.disq.us CNAME .
 x.everestop.io CNAME .
 x.thecatmachine.com CNAME .
 x01.aidata.io CNAME .
+xenaly.sozcu.com.tr CNAME .
 xfwblpomxc.com CNAME .
 xml.popmansion.com CNAME .
 xmtvreklam3d.com CNAME .
